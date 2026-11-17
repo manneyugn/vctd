@@ -2,10 +2,11 @@
 # Thử nhiều biến thể payload để tìm cái server chấp nhận.  Chạy: bash thu-api.sh
 set -u
 cd "$(dirname "$0")" || exit 1
+: "${LLM_BASE:?Thiếu LLM_BASE. Ví dụ: export LLM_BASE=https://may-chu-cua-ban}"
 [ -f .ca-bundle.pem ] && export SSL_CERT_FILE="$PWD/.ca-bundle.pem"
 python3 - <<'PY'
-import json, urllib.request, urllib.error
-BASE = "http://localhost:8000"
+import json, os, urllib.request, urllib.error
+BASE = os.environ.get("LLM_BASE", "").rstrip("/")
 MSG  = [{"role": "user", "content": "Trả lời đúng một từ: xin chào"}]
 
 def call(name, body, path="/v1/chat/completions"):
@@ -31,10 +32,12 @@ try:
         models = [m["id"] for m in json.loads(r.read())["data"]]
     print("  ", ", ".join(models))
 except Exception as e:
-    print("  ✗", e); models = ["qwen3.8-flash-next"]
+    print("  ✗", e); models = [m] if (m := os.environ.get("LLM_MODEL")) else []
 
-M = "qwen3.8-flash-next"
-print("\nBiến thể payload (model qwen3.8-flash-next):")
+M = os.environ.get("LLM_MODEL") or (models[0] if models else "")
+if not M:
+    raise SystemExit("Không có model nào. Đặt LLM_MODEL.")
+print(f"\nBiến thể payload (model {M}):")
 call("hiện tại: max_tokens+temp+stream", {"model": M, "messages": MSG, "temperature": 0.3,
                                           "max_tokens": 300, "stream": False})
 call("bỏ stream",                        {"model": M, "messages": MSG, "temperature": 0.3, "max_tokens": 300})

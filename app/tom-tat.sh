@@ -3,7 +3,7 @@
 set -u
 cd "$(dirname "$0")" || exit 1
 LUONG="${1:-4}"
-URL="http://localhost:8000/v1/models"
+URL="${LLM_BASE:?Thiếu LLM_BASE. Ví dụ: export LLM_BASE=https://may-chu-cua-ban}/v1/models"
 BUNDLE="$PWD/.ca-bundle.pem"
 
 thu_ket_noi() {   # $1 = file CA (rỗng = dùng mặc định của Python)

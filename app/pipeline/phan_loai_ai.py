@@ -144,14 +144,18 @@ def doc_tra_loi(txt, nhom):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--base-url", default=os.environ.get("LLM_BASE", "http://localhost:8000"))
-    ap.add_argument("--model", default=os.environ.get("LLM_MODEL", "qwen3.8"))
+    ap.add_argument("--base-url", default=os.environ.get("LLM_BASE", ""))
+    ap.add_argument("--model", default=os.environ.get("LLM_MODEL", ""))
     ap.add_argument("--api-key", default=os.environ.get("LLM_API_KEY", ""))
     ap.add_argument("--concurrency", type=int, default=4)
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--min-mentions", type=int, default=0)
     ap.add_argument("--apply", action="store_true")
     a = ap.parse_args()
+    if not a.base_url:
+        sys.exit("Thiếu địa chỉ máy chủ LLM.\n"
+                 "  export LLM_BASE=https://may-chu-cua-ban   (hoặc --base-url ...)\n"
+                 "  export LLM_MODEL=ten-model                   (hoặc --model ...)")
     headers = {"Authorization": f"Bearer {a.api_key}"} if a.api_key else {}
 
     with gzip.open(DATA / "index.json.gz", "rt", encoding="utf-8") as f:

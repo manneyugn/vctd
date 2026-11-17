@@ -19,12 +19,16 @@ code{font-family:ui-monospace,Menlo,monospace;font-size:.88em;background:var(--b
 /* ---------- header ---------- */
 .top{position:sticky;top:0;z-index:40;display:flex;align-items:center;gap:1rem;
   padding:.55rem max(1rem,env(safe-area-inset-left));background:color-mix(in srgb,var(--bg) 92%,transparent);
-  backdrop-filter:blur(10px);border-bottom:1px solid var(--line);flex-wrap:wrap}
+  backdrop-filter:blur(10px);border-bottom:1px solid var(--line);flex-wrap:wrap;
+  transition:transform .22s ease}
+.top.hide{transform:translateY(calc(-100% - 2px))}
 .brand{display:flex;align-items:center;gap:.5rem;font-weight:600;text-decoration:none;color:inherit;
   letter-spacing:-.01em;white-space:nowrap}
 .brand em{font-style:normal;font-weight:400;color:var(--muted)}
-.mark{display:grid;place-items:center;width:1.7rem;height:1.7rem;border-radius:6px;
-  background:var(--accent);color:#fff;font-family:var(--ff);font-size:1rem}
+.mark{width:1.8rem;height:1.8rem;flex:0 0 auto;filter:drop-shadow(0 1px 2px #0002)}
+.mark .seal{fill:var(--accent)}
+.mark .seal-in{stroke:var(--gold)}
+.mark .mark-ch{fill:#fff;font-family:var(--ff);font-size:19px;font-weight:600}
 .tabs{display:flex;gap:.15rem;flex:1;overflow-x:auto;scrollbar-width:none}
 .tabs::-webkit-scrollbar{display:none}
 .tabs button{background:none;border:0;padding:.4rem .7rem;border-radius:7px;cursor:pointer;
@@ -33,8 +37,9 @@ code{font-family:ui-monospace,Menlo,monospace;font-size:.88em;background:var(--b
 .tabs button[aria-current="true"]{background:var(--bg2);color:var(--fg);font-weight:500;
   box-shadow:inset 0 -2px 0 var(--accent)}
 .icon{background:none;border:1px solid var(--line);border-radius:7px;width:2rem;height:2rem;
-  cursor:pointer;display:grid;place-items:center}
-.icon:hover{border-color:var(--accent)}
+  cursor:pointer;display:grid;place-items:center;color:var(--muted)}
+.icon svg{display:block}
+.icon:hover{border-color:var(--accent);color:var(--accent)}
 
 /* ---------- layout ---------- */
 main{max-width:min(var(--w),calc(100vw - 2rem));margin:0 auto;padding:1.5rem 0 5rem}
@@ -62,9 +67,6 @@ body[data-font="sans"] .chapter{font-family:Inter,system-ui,sans-serif}
 .chapter .ch-no{font-family:Inter,sans-serif;font-size:.72em;letter-spacing:.09em;
   text-transform:uppercase;color:var(--accent);font-weight:600}
 .chapter p{margin:0 0 1em;text-align:justify;hyphens:auto}
-.chapter .nguon{margin-top:1.6rem;padding-top:1rem;border-top:1px solid var(--line);
-  font-size:.9rem;color:var(--muted)}
-.chapter .nguon a{color:var(--accent);font-weight:500}
 .chapter .summary{background:var(--bg2);border-left:3px solid var(--gold);border-radius:0 8px 8px 0;
   padding:.7rem .9rem;margin:.9rem 0 1.4rem;font-size:.92em;line-height:1.6;color:var(--muted)}
 .chapter .summary span{display:block;font:600 .68rem/1.4 Inter,sans-serif;letter-spacing:.09em;
@@ -154,6 +156,10 @@ body[data-font="sans"] .chapter{font-family:Inter,system-ui,sans-serif}
 /* ---------- sheet / dialog / loading ---------- */
 .sheet{position:fixed;right:1rem;top:3.6rem;z-index:50;background:var(--bg);border:1px solid var(--line);
   border-radius:14px;padding:.8rem;box-shadow:0 12px 36px #0002;width:min(20rem,calc(100vw - 2rem))}
+.sheet-head{display:flex;align-items:center;justify-content:space-between;padding:.1rem .1rem .5rem;
+  margin-bottom:.3rem;border-bottom:1px solid var(--line)}
+.sheet-head>span{font:600 .78rem/1 Inter,sans-serif;letter-spacing:.07em;text-transform:uppercase;color:var(--muted)}
+.sheet-head .icon{width:1.6rem;height:1.6rem}
 .sheet-row{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:.4rem 0}
 .sheet-row>div{display:flex;align-items:center;gap:.35rem}
 .sheet-row button{background:var(--bg2);border:1px solid var(--line);border-radius:7px;

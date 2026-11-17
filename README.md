@@ -9,7 +9,7 @@ gắn với tác phẩm nào: đưa vào thư mục chương dạng text là ch�
 ## Có gì
 
 | Tab | Làm gì |
-|---|---|
+| --- | --- |
 | Đọc truyện | Tóm tắt AI đầu mỗi chương, 3 nền, chỉnh cỡ chữ và độ rộng, nhớ vị trí đọc, **đọc offline** |
 | Mục lục | Lọc tức thì theo tên hoặc số chương |
 | Tra cứu | 5.420 thực thể: số lần nhắc, biểu đồ mật độ, dòng thời gian, thực thể đi cùng, trích dẫn |
@@ -68,15 +68,3 @@ lại đúng thất bại đó. `summarize.py` nới dần 8000 → 32000 qua c�
 
 **Hậu tố phủ quyết ngữ cảnh.** Khi phân loại, `Thiên Đình Giới` vẫn là địa danh dù
 câu văn nói về nó như một nhân vật — bằng chứng hình thái mạnh hơn mẫu ngữ cảnh.
-
-## Bản quyền
-
-Repo này **không chứa nguyên văn tác phẩm**. Vạn Cổ Thần Đế thuộc bản quyền China
-Literature; bản dịch tiếng Việt được cấp phép phát hành trên
-[webnovel.vn](https://webnovel.vn/van-co-than-de-truyen/451/).
-
-Chỉ có mã nguồn và dữ liệu phái sinh (chỉ mục thực thể, tóm tắt do AI viết) nằm ở
-đây. Muốn dùng thì tự cung cấp văn bản nguồn hợp pháp và chạy pipeline.
-
-`build_public.py` đóng gói bản tra cứu không kèm nguyên văn (~2,4 MB) để deploy
-tĩnh lên Vercel, Netlify hay Cloudflare Pages.

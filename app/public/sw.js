@@ -1,5 +1,5 @@
 /* Service Worker: lưu offline theo lô, tự động khi bạn đọc tới. */
-const PHIEN_BAN = 'vctd-tracuu-v1';
+const PHIEN_BAN = 'vctd-tracuu-v2';
 const VO = `${PHIEN_BAN}-vo`;      // khung app: html, css, js
 const DU_LIEU = `${PHIEN_BAN}-du-lieu`;  // data/*
 

@@ -5,9 +5,22 @@ Xuat ra web/data/:
   chapters.json        metadata moi chuong (num, title, shard, words)
   shard-XXX.json.gz    noi dung chuong theo lo
   clean-log.json       nhat ky hieu dinh (so loi da sua moi loai, moi chuong)
+  hieu-dinh-bao-cao.json  nhung gi hieu dinh tu quyet + nhung gi can nguoi duyet
+
+Hai tang lam sach:
+  1. clean()          tung chuong: khoang trang, dau cau, link rac
+  2. hieu_dinh.xu_ly  ca truyen: chu Han sot, ten sai chinh ta, viet hoa... (xem hieu_dinh.py)
+     Can entities.json.gz tu lan chay truoc de biet ten rieng nao can viet hoa;
+     lan dau chua co thi bo qua buoc viet hoa ten (chay lai sau extract_entities).
+
+  python3 pipeline/build_corpus.py              # day du
+  python3 pipeline/build_corpus.py --tho        # bo qua hieu dinh (de so sanh)
 """
-import gzip, io, json, os, re, sys, unicodedata
+import gzip, io, json, os, re, sys, time, unicodedata
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import hieu_dinh
 
 ROOT = Path(__file__).resolve().parents[2]
 SRC = ROOT / "output" / "van-co-than-de-xtruyen"
@@ -81,12 +94,10 @@ def main():
                 pass
 
     OUT.mkdir(parents=True, exist_ok=True)
-    for old in OUT.glob("shard-*.json.gz"):
-        old.unlink()
+    t0 = time.time()
 
-    chapters, log, shard, shard_id, missing = [], [], {}, 0, []
-    total_words = 0
-
+    # tang 1: lam sach tung chuong
+    entries, noi_dung, dem_1, missing = [], {}, {}, []
     for entry in sorted(manifest["chapters"], key=lambda c: c["num"]):
         num = entry["num"]
         path = files.get(num)
@@ -95,7 +106,39 @@ def main():
             continue
         raw = path.read_text(encoding="utf-8", errors="replace")
         text, counts = clean(raw)
-        paras = [p.strip() for p in text.split("\n\n") if p.strip()]
+        entries.append(entry)
+        noi_dung[num] = [p.strip() for p in text.split("\n\n") if p.strip()]
+        dem_1[num] = counts
+    print(f"lam sach    : {len(entries)} chuong  ({time.time() - t0:.0f}s)")
+
+    # tang 2: hieu dinh ca truyen
+    dem_2, bao_cao = {}, {}
+    if "--tho" not in sys.argv:
+        ent_path = OUT / "entities.json.gz"
+        entities = []
+        if ent_path.exists():
+            with gzip.open(ent_path, "rt", encoding="utf-8") as f:
+                entities = json.load(f)["entities"]
+        else:
+            print("  ! chua co entities.json.gz -> bo qua viet hoa ten rieng")
+        noi_dung, dem_2, bao_cao = hieu_dinh.xu_ly(noi_dung, entities)
+        tieu_de, k = hieu_dinh.sua_tieu_de({e["num"]: e.get("title", f"Chuong {e['num']}") for e in entries})
+        for e in entries:
+            e["title"] = tieu_de[e["num"]]
+        print(f"tieu de     : sua {k}")
+        print(f"hieu dinh   : xong  ({time.time() - t0:.0f}s)")
+
+    for old in OUT.glob("shard-*.json.gz"):
+        old.unlink()
+    chapters, log, shard, shard_id = [], [], {}, 0
+    total_words = 0
+
+    for entry in entries:
+        num = entry["num"]
+        paras = noi_dung[num]
+        counts = dict(dem_1[num])
+        for k, v in dem_2.get(num, {}).items():
+            counts[k] = counts.get(k, 0) + v
         words = sum(p.count(" ") + 1 for p in paras)
         total_words += words
 
@@ -133,6 +176,10 @@ def main():
             totals[k] = totals.get(k, 0) + v
     with gzip.open(OUT / "clean-log.json.gz", "wt", encoding="utf-8") as f:
         json.dump({"totals": totals, "chapters": log}, f, ensure_ascii=False, separators=(",", ":"))
+
+    if bao_cao:
+        (OUT / "hieu-dinh-bao-cao.json").write_text(
+            json.dumps(bao_cao, ensure_ascii=False, indent=1), encoding="utf-8")
 
     print(f"chuong      : {len(chapters)}  (thieu: {missing or 'khong'})")
     print(f"tong tu     : {total_words:,}")

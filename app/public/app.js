@@ -111,17 +111,14 @@ async function openChapter(n){
   const el = $('#chapter');
 
   if(S.meta.mode === 'tra-cuu'){
-    // Bản công khai không kèm nguyên văn: hiện tóm tắt và dẫn về nguồn chính chủ.
+    // Bản công khai không kèm nguyên văn: chỉ hiện tóm tắt.
     await needSummaries();
     const meta = S.byNum.get(n) || {};
     const sum = S.summaries?.[String(n)];
     el.innerHTML = `<span class="ch-no">Chương ${n} / ${S.meta.chapters.length}</span>`
       + `<h1>${esc(meta.t || '')}</h1>`
       + (sum ? `<div class="summary"><span>Tóm tắt</span>${esc(sum)}</div>`
-             : `<p class="muted">Chương này chưa có tóm tắt.</p>`)
-      + `<p class="nguon">Bản tra cứu này không đăng nguyên văn. `
-      + `<a href="${esc(S.meta.sourceUrl || '#')}" target="_blank" rel="noopener">`
-      + `Đọc chương đầy đủ tại ${esc(S.meta.sourceName || 'nguồn chính thức')} →</a></p>`;
+             : `<p class="muted">Chương này chưa có tóm tắt.</p>`);
     $('#jump-input').value = n;
     if(location.hash !== '#doc/'+n) history.replaceState(null,'','#doc/'+n);
     document.title = `C.${n} ${meta.t || ''} · VCTĐ`;
@@ -364,7 +361,10 @@ async function renderWiki(){
 /* ---------- hiệu đính ---------- */
 const CLEAN_LABEL = {
   quote_spacing:'Khoảng trắng quanh ngoặc kép', punct_spacing:'Dấu câu dính chữ',
-  ellipsis:'Dấu ba chấm kéo dài', junk_links:'Link rác / watermark', whitespace:'Khoảng trắng thừa'
+  ellipsis:'Dấu ba chấm kéo dài', junk_links:'Link rác / watermark', whitespace:'Khoảng trắng thừa',
+  dau_cau:'Dấu câu kiểu Trung (「」《》、。)', rac:'Lời tác giả / converter', chu_han:'Chữ Hán sót',
+  ten_rieng:'Tên riêng gõ sai', chinh_ta:'Lỗi chính tả', ngoac_kep:'Khoảng trắng trong ngoặc kép',
+  viet_hoa_ten:'Viết hoa tên riêng / thuật ngữ', viet_hoa_dau_cau:'Viết hoa đầu câu', noi_doan:'Nối đoạn bị cắt giữa câu'
 };
 async function renderClean(){
   await needClean();
@@ -389,9 +389,9 @@ const cfg = {
   get provider(){ return localStorage.getItem(LS+'provider') || 'gemini'; },
   get key(){ return localStorage.getItem(LS+(this.provider==='gemini'?'key':'key2')) || ''; },
   get model(){ return localStorage.getItem(LS+(this.provider==='gemini'?'model':'model2'))
-                 || (this.provider==='gemini' ? 'gemini-3.5-flash-lite' : 'qwen3.8'); },
+                 || (this.provider==='gemini' ? 'gemini-3.5-flash-lite' : ''); },
   get base(){ return localStorage.getItem(LS+'base') || ''; },
-  get sanSang(){ return this.provider==='openai' ? !!this.base : !!this.key; }
+  get sanSang(){ return this.provider==='openai' ? !!(this.base && this.model) : !!this.key; }
 };
 
 /* --- ① nhận diện thực thể --- */
@@ -528,7 +528,9 @@ async function sendChat(){
         + `<b>Thực thể</b><br>${ents.map(e=>`${esc(titleCase(e))} — c.${S.index[e].f}–${S.index[e].l}, ${fmt(S.index[e].n)} lần`).join('<br>')}`
         + (moc.length ? `<br><br><b>Dòng thời gian</b><ol class="moc">${moc.map(m=>`<li><a href="#doc/${m.n}">c.${m.n}</a><span>${esc(m.t)}</span></li>`).join('')}</ol>` : '')
         + `<br><b>Chương liên quan nhất</b><div class="cites ch-links">${chapters.map(c=>`<a href="#doc/${c}">c.${c}</a>`).join('')}</div>`
-        + `<p class="muted small">Thêm Gemini key hoặc máy chủ riêng trong ⚙ Cài đặt để bước ⑥ tổng hợp bằng AI.</p>`;
+        + `<p class="muted small">${cfg.provider==='openai'
+             ? 'Điền Base URL và tên model của máy chủ bạn trong ⚙ Cài đặt'
+             : 'Thêm Gemini API key trong ⚙ Cài đặt'} để bước ⑥ tổng hợp bằng AI.</p>`;
       S.chat.push({q, a:'(tra cứu thuần)'});
       return;
     }
@@ -549,7 +551,9 @@ const prefs = {
   lh: +localStorage.getItem(LS+'lh') || 1.8,
   w:  +localStorage.getItem(LS+'w')  || 42,
   font: localStorage.getItem(LS+'font') || 'serif',
-  theme: localStorage.getItem(LS+'theme') || 'sang'
+  // chưa từng chọn: theo hệ điều hành; đã chọn: nhớ lựa chọn
+  theme: localStorage.getItem(LS+'theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'toi' : 'sang'),
+  lastLight: null
 };
 function applyPrefs(){
   const r = document.documentElement.style;
@@ -564,6 +568,44 @@ function applyPrefs(){
   $$('[data-font]').forEach(b=>b.setAttribute('aria-pressed', String(b.dataset.font===prefs.font)));
   $$('.sheet [data-theme]').forEach(b=>b.setAttribute('aria-pressed', String(b.dataset.theme===prefs.theme)));
   for(const k of ['fs','lh','w','font','theme']) localStorage.setItem(LS+k, prefs[k]);
+  veThemeIcon();
+}
+
+/* ---------- nút chuyển sáng/tối trên header ---------- */
+const ICO_SUN  = '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M4.93 4.93l1.41 1.41m11.32 11.32 1.41 1.41M2 12h2m16 0h2M4.93 19.07l1.41-1.41m11.32-11.32 1.41-1.41"/></svg>';
+const ICO_MOON = '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
+function veThemeIcon(){
+  const b = $('#btn-theme');
+  if(!b) return;
+  const toi = prefs.theme === 'toi';
+  b.innerHTML = toi ? ICO_SUN : ICO_MOON;
+  b.title = toi ? 'Chuyển sang chế độ sáng' : 'Chuyển sang chế độ tối';
+  b.setAttribute('aria-pressed', String(toi));
+}
+// tối ⇄ nền sáng trước đó (sang hoặc giay), để không giẫm lên chủ đề giấy
+function dapTheme(){
+  if(prefs.theme === 'toi') prefs.theme = prefs.lastLight || 'sang';
+  else { prefs.lastLight = prefs.theme; prefs.theme = 'toi'; }
+  applyPrefs();
+}
+
+/* ---------- header tự ẩn khi cuộn xuống ---------- */
+function autoHideTop(){
+  const bar = $('.top');
+  if(!bar) return;
+  let lastY = scrollY, que = false;
+  addEventListener('scroll', () => {
+    if(que) return;   // gom vào rAF: nhiều sự kiện cuộn trong một khung hình
+    que = true;
+    requestAnimationFrame(() => {
+      que = false;
+      const y = scrollY, d = y - lastY;
+      if(Math.abs(d) < 8) return;   // ngưỡng nhỏ để khỏi giật
+      const xuong = d > 0;
+      lastY = y;
+      bar.classList.toggle('hide', y < 24 ? false : xuong);
+    });
+  }, {passive:true});
 }
 
 /* ---------- lưu offline theo lô ---------- */
@@ -608,12 +650,14 @@ async function demLoDaLuu(){
   $('#api-key').value    = localStorage.getItem(LS+'key')    || '';
   $('#api-model').value  = localStorage.getItem(LS+'model')  || 'gemini-3.5-flash-lite';
   $('#api-base').value   = cfg.base;
-  $('#api-model2').value = localStorage.getItem(LS+'model2') || 'qwen3.8';
+  $('#api-model2').value = localStorage.getItem(LS+'model2') || '';
   $('#api-key2').value   = localStorage.getItem(LS+'key2')   || '';
   $('#cfg-gemini').hidden = cfg.provider !== 'gemini';
   $('#cfg-openai').hidden = cfg.provider !== 'openai';
 
   addEventListener('hashchange', route);
+  autoHideTop();
+  $('#btn-theme').onclick = dapTheme;
   $('#tabs').onclick = e => { const b = e.target.closest('button'); if(b) location.hash = '#'+b.dataset.route; };
 
   $('#prev-ch').onclick = $('#prev-ch2').onclick = () => go(-1);
@@ -636,7 +680,13 @@ async function demLoDaLuu(){
     if(b){ showEntity(b.dataset.ent, true); }
   });
 
-  $('#btn-typo').onclick = () => { const s=$('#typo-sheet'); s.hidden = !s.hidden; };
+  const sheet = $('#typo-sheet');
+  $('#btn-typo').onclick = () => { sheet.hidden = !sheet.hidden; };
+  $('#typo-close').onclick = () => { sheet.hidden = true; };
+  // Màn chạm không có hover: chạm ra ngoài hộp cũng phải đóng được
+  addEventListener('pointerdown', e => {
+    if(!sheet.hidden && !sheet.contains(e.target) && !e.target.closest('#btn-typo')) sheet.hidden = true;
+  }, {passive:true});
   $('#typo-sheet').onclick = e => {
     const b = e.target.closest('button'); if(!b) return;
     const t = b.dataset.typo;
@@ -675,7 +725,7 @@ async function demLoDaLuu(){
     localStorage.setItem(LS+'key',    $('#api-key').value.trim());
     localStorage.setItem(LS+'model',  $('#api-model').value);
     localStorage.setItem(LS+'base',   $('#api-base').value.trim());
-    localStorage.setItem(LS+'model2', $('#api-model2').value.trim() || 'qwen3.8');
+    localStorage.setItem(LS+'model2', $('#api-model2').value.trim());
     localStorage.setItem(LS+'key2',   $('#api-key2').value.trim());
     $('#settings').close();
   };
@@ -687,6 +737,7 @@ async function demLoDaLuu(){
   $('#chat-input').oninput = e => { e.target.style.height='auto'; e.target.style.height=e.target.scrollHeight+'px'; };
 
   addEventListener('keydown', e => {
+    if(e.key==='Escape' && !sheet.hidden){ sheet.hidden = true; return; }
     if(/^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName) || e.metaKey || e.ctrlKey) return;
     if(S.route==='doc' && e.key==='ArrowLeft')  go(-1);
     if(S.route==='doc' && e.key==='ArrowRight') go(1);

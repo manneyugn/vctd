@@ -1,0 +1,44 @@
+{
+  "_doc": [
+    "Bang sua chinh ta cho nguyen van (hieu_dinh.py buoc 4-5).",
+    "ten_dich_nghia: chi sua khi dang viet hoa kieu ten (Kiếm Hai -> Kiếm Nhị), tranh 'rút kiếm hai lần'.",
+    "ten_dich_nghia_moi_kieu: sua bat ke viet hoa (dung cho ban convert tho viet thuong ten).",
+    "chinh_ta: loi chinh ta thong dung, giu kieu viet hoa chu dau.",
+    "KHONG them 'sát nhập': trong ban convert no nghia la 'giết vào' (杀入), khong phai 'sáp nhập'.",
+    "KHONG them 'sáng lạn': trong truyen chi gap 'ánh sáng lạnh'."
+  ],
+  "ten_dich_nghia": {
+    "hoàng suối đại đế": "hoàng tuyền đại đế",
+    "hoàng suối tinh hà": "hoàng tuyền tinh hà",
+    "hoàng suối ấn": "hoàng tuyền ấn",
+    "hoàng suối": "hoàng tuyền",
+    "xà hai": "xà nhị",
+    "kiếm hai": "kiếm nhị",
+    "trắng lê": "bạch lê",
+    "đen sát quỷ vương": "hắc sát quỷ vương",
+    "băng phách lạnh châu": "băng phách hàn châu",
+    "bốn dương thiên quân": "tứ dương thiên quân",
+    "ngô tám": "ngô bát",
+    "vô tận sâu uyên": "vô tận thâm uyên",
+    "mười thánh huyết khải": "thập thánh huyết khải",
+    "thất tay lão nhân": "thất thủ lão nhân",
+    "mưa thiên trầm": "vũ thiên trầm",
+    "hai quân thiên": "nhị quân thiên"
+  },
+  "ten_dich_nghia_moi_kieu": {
+    "rừng phi": "lâm phi"
+  },
+  "chinh_ta": {
+    "khoảng khắc": "khoảnh khắc",
+    "sơ xuất": "sơ suất",
+    "vô hình chung": "vô hình trung",
+    "chau chuốt": "trau chuốt",
+    "xuất xắc": "xuất sắc",
+    "chính chắn": "chín chắn",
+    "tranh dành": "tranh giành",
+    "dành giật": "giành giật"
+  },
+  "regex": {
+    "(?<=mươi) mươi(?= )": ""
+  }
+}

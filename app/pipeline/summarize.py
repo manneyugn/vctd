@@ -17,7 +17,6 @@ DATA = ROOT / "web" / "data"
 CKPT = DATA / "summaries.partial.jsonl"
 LOI  = DATA / "summaries-errors.jsonl"   # nhat ky loi de chan doan
 
-DEFAULT_BASE = "http://localhost:8000"
 PROMPT = """Tóm tắt chương truyện tiên hiệp dưới đây bằng 2-3 câu tiếng Việt.
 Nêu rõ: nhân vật xuất hiện, sự kiện chính, kết quả. Không bình luận, không mở đầu bằng "Chương này".
 Chỉ trả về phần tóm tắt, không thêm gì khác.
@@ -163,8 +162,8 @@ def don_checkpoint():
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--base-url", default=os.environ.get("LLM_BASE", DEFAULT_BASE))
-    ap.add_argument("--model", default=os.environ.get("LLM_MODEL", "qwen3.8"))
+    ap.add_argument("--base-url", default=os.environ.get("LLM_BASE", ""))
+    ap.add_argument("--model", default=os.environ.get("LLM_MODEL", ""))
     ap.add_argument("--api-key", default=os.environ.get("LLM_API_KEY", ""))
     ap.add_argument("--concurrency", type=int, default=4)
     ap.add_argument("--limit", type=int, default=0)
@@ -173,6 +172,10 @@ def main():
                     help="Xoá các bản tóm tắt hỏng khỏi checkpoint để chạy lại")
     a = ap.parse_args()
 
+    if not a.base_url:
+        sys.exit("Thiếu địa chỉ máy chủ LLM.\n"
+                 "  export LLM_BASE=https://may-chu-cua-ban   (hoặc --base-url ...)\n"
+                 "  export LLM_MODEL=ten-model                   (hoặc --model ...)")
     headers = {"Authorization": f"Bearer {a.api_key}"} if a.api_key else {}
 
     if a.probe:

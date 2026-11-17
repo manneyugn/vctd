@@ -120,9 +120,3 @@ Chọn nguồn AI trong ⚙ Cài đặt:
 
 Không cấu hình gì thì Chat vẫn trả về tra cứu thuần: thực thể, dòng thời gian,
 chương liên quan. Chạy hoàn toàn offline.
-
-## Lưu ý bản quyền
-
-Văn bản nguồn là bản convert của một tác phẩm có bản quyền (China Literature; bản
-dịch tiếng Việt có giấy phép đang phát hành trên webnovel.vn). Công cụ này đọc file
-có sẵn trên máy bạn. Việc đăng tải công khai toàn văn là chuyện khác và cần có phép.

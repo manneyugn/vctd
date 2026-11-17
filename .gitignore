@@ -1,11 +1,5 @@
-# ───────── Nguyên văn truyện: KHÔNG đưa lên repo công khai ─────────
-# Tác phẩm có bản quyền (China Literature; bản dịch tiếng Việt được cấp phép
-# trên webnovel.vn). Repo này chỉ chứa mã nguồn và dữ liệu phái sinh.
 output/
-app/web/data/shard-*.json.gz
-app/web/data/summaries.partial.jsonl*
 app/web/data/*.bak
-app/web/data/index.json.gz.*
 
 # Công cụ thu thập dữ liệu từ nguồn không chính thức
 crawler.py

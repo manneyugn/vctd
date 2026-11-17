@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
 # Chẩn đoán kết nối tới LLM self-hosted.  Chạy:  bash chan-doan.sh
 cd "$(dirname "$0")" || exit 1
+: "${LLM_BASE:?Thiếu LLM_BASE. Ví dụ: export LLM_BASE=https://may-chu-cua-ban}"
 python3 - <<'PY'
 import os, ssl, sys, socket, traceback, urllib.request, subprocess
-U = "http://localhost:8000/v1/models"
+U = os.environ.get("LLM_BASE", "").rstrip("/") + "/v1/models"
 print("Python :", sys.version.split()[0], "|", sys.executable)
 print("OpenSSL:", ssl.OPENSSL_VERSION)
 cafile = ssl.get_default_verify_paths().cafile
