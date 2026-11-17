@@ -1,0 +1,30 @@
+{
+  "_doc": [
+    "Các cặp sửa chính tả ĐÃ DUYỆT. Chỉ những cặp liệt kê ở đây mới được áp dụng.",
+    "Sửa chính tả mờ không thể tự động hoá an toàn: 'Thiên Đỉnh' (1 trong Cửu Đỉnh) chỉ",
+    "lệch 1 ký tự so với 'Thiên Đình' (địa danh) nhưng là hai thực thể khác hẳn.",
+    "Xem pipeline/name-proposals.json để duyệt thêm cặp mới. Cột số là số lần",
+    "xuất hiện trong nguyên văn truyện — biến thể càng hiếm thì càng chắc là lỗi gõ.",
+    "Sửa Hán-Việt bị dịch nghĩa (Rừng Phi -> Lâm Phi) KHÔNG cần duyệt: khớp chính xác nên an toàn."
+  ],
+  "duyet": {
+    "trương như trần":    "trương nhược trần",
+    "trương ngược trần":  "trương nhược trần",
+    "trương hược trần":   "trương nhược trần",
+    "trương lược trần":   "trương nhược trần",
+    "trương nhạc trần":   "trương nhược trần",
+    "trường nhược trần":  "trương nhược trần",
+    "trưởng nhược trần":  "trương nhược trần",
+    "hoàng yên trấn":     "hoàng yên trần",
+    "tiêu hắc":           "tiểu hắc",
+    "tôn đại đỉa":        "tôn đại địa",
+    "bần nhược":          "bàn nhược",
+    "bản nhược":          "bàn nhược",
+    "bạch khinh nhi":     "bạch khanh nhi"
+  },
+  "tu_choi": {
+    "thiên đỉnh":  "thiên đình — Thiên Đỉnh là 1 trong Cửu Đỉnh, 213 lần trong truyện",
+    "hoàng thiên": "hoang thiên — cả hai đều có thật, 258 vs 1517 lần",
+    "bàn nguyên":  "bản nguyên — cả hai đều có thật, 246 vs 1780 lần"
+  }
+}

@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VCTĐ Tra cứu</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="app.css">
+</head>
+<body data-theme="sang">
+
+<header class="top">
+  <a class="brand" href="#doc"><span class="mark">万</span> Vạn Cổ Thần Đế <em>· Tra cứu</em></a>
+  <nav class="tabs" id="tabs">
+    <button data-route="doc">Đọc truyện</button>
+    <button data-route="muc-luc">Mục lục</button>
+    <button data-route="tra-cuu">Tra cứu</button>
+    <button data-route="wiki">Wiki</button>
+    <button data-route="chat">Chat</button>
+    <button data-route="hieu-dinh">Hiệu đính</button>
+  </nav>
+  <button class="icon" id="btn-settings" title="Cài đặt">⚙</button>
+</header>
+
+<main id="main">
+
+  <!-- ĐỌC TRUYỆN -->
+  <section class="view" id="view-doc">
+    <div class="reader-bar">
+      <button id="prev-ch">← Chương trước</button>
+      <div class="jump">
+        <input id="jump-input" type="number" min="1" placeholder="số chương">
+        <button id="jump-go">Đi</button>
+      </div>
+      <button id="next-ch">Chương sau →</button>
+      <button class="icon" id="btn-typo" title="Tuỳ chỉnh hiển thị">Aa</button>
+    </div>
+    <article id="chapter" class="chapter"><p class="muted">Đang tải…</p></article>
+    <div class="reader-bar bottom">
+      <button id="prev-ch2">← Chương trước</button>
+      <button id="to-top">↑ Đầu chương</button>
+      <button id="next-ch2">Chương sau →</button>
+    </div>
+  </section>
+
+  <!-- MỤC LỤC -->
+  <section class="view" id="view-muc-luc">
+    <div class="panel-head">
+      <h2>Mục lục</h2>
+      <input id="toc-filter" type="search" placeholder="Lọc theo tên chương hoặc số chương…">
+    </div>
+    <div id="toc-count" class="muted small"></div>
+    <div id="toc-list" class="toc"></div>
+  </section>
+
+  <!-- TRA CỨU -->
+  <section class="view" id="view-tra-cuu">
+    <div class="panel-head">
+      <h2>Tra cứu</h2>
+      <input id="q-input" type="search" placeholder="Tên nhân vật, thế lực, địa danh, bảo vật…">
+    </div>
+    <div class="chips" id="q-samples"></div>
+    <div id="q-results" class="results"></div>
+    <div id="entity-detail"></div>
+  </section>
+
+  <!-- WIKI -->
+  <section class="view" id="view-wiki">
+    <div class="panel-head">
+      <h2>Wiki thực thể</h2>
+      <input id="wiki-filter" type="search" placeholder="Tìm trong wiki…">
+    </div>
+    <div class="chips" id="wiki-kinds"></div>
+    <div class="chips" id="wiki-nguong"></div>
+    <div id="wiki-count" class="muted small"></div>
+    <div id="wiki-list" class="results"></div>
+  </section>
+
+  <!-- CHAT -->
+  <section class="view" id="view-chat">
+    <div class="chat-wrap">
+      <div id="chat-log" class="chat-log"></div>
+      <div class="chat-box">
+        <textarea id="chat-input" rows="1" placeholder="Hỏi về nhân vật, sự kiện, mốc chương…"></textarea>
+        <button id="chat-send">↑</button>
+      </div>
+      <p class="muted small"><code>Enter</code> gửi · <code>Shift+Enter</code> xuống dòng · Cần Gemini API key (nút ⚙). Tab Tra cứu không cần key.</p>
+    </div>
+  </section>
+
+  <!-- HIỆU ĐÍNH -->
+  <section class="view" id="view-hieu-dinh">
+    <div class="panel-head"><h2>Nhật ký hiệu đính</h2></div>
+    <div id="clean-stats" class="stat-row"></div>
+    <p class="muted small">Bản convert gốc được chuẩn hoá tự động: khoảng trắng quanh dấu ngoặc kép, dấu câu dính chữ, dấu ba chấm kéo dài, link rác và khoảng trắng thừa. Danh sách dưới đây liệt kê số vị trí đã sửa ở từng chương.</p>
+    <input id="clean-filter" type="search" placeholder="Lọc theo số chương…">
+    <div id="clean-list" class="toc"></div>
+  </section>
+
+</main>
+
+<!-- bảng tuỳ chỉnh đọc -->
+<div class="sheet" id="typo-sheet" hidden>
+  <div class="sheet-row"><span>Cỡ chữ</span>
+    <div><button data-typo="fs-">A−</button><b id="fs-val">19</b><button data-typo="fs+">A+</button></div></div>
+  <div class="sheet-row"><span>Giãn dòng</span>
+    <div><button data-typo="lh-">−</button><b id="lh-val">1.8</b><button data-typo="lh+">+</button></div></div>
+  <div class="sheet-row"><span>Kiểu chữ</span>
+    <div><button data-font="serif">Có chân</button><button data-font="sans">Không chân</button></div></div>
+  <div class="sheet-row"><span>Nền</span>
+    <div><button data-theme="sang">Sáng</button><button data-theme="giay">Giấy</button><button data-theme="toi">Tối</button></div></div>
+  <div class="sheet-row"><span>Độ rộng</span>
+    <div><button data-typo="w-">−</button><b id="w-val">42</b><button data-typo="w+">+</button></div></div>
+</div>
+
+<!-- cài đặt -->
+<dialog id="settings">
+  <h3>Cài đặt</h3>
+  <label>Nguồn AI
+    <select id="api-provider">
+      <option value="gemini">Gemini (Google AI Studio)</option>
+      <option value="openai">Máy chủ riêng (OpenAI-compatible)</option>
+    </select>
+  </label>
+  <div id="cfg-gemini">
+    <label>Gemini API key
+      <input id="api-key" type="password" placeholder="AIza…" autocomplete="off">
+    </label>
+    <label>Model
+      <select id="api-model">
+        <option value="gemini-3.7-flash">gemini-3.7-flash (mạnh, hạn mức thấp)</option>
+        <option value="gemini-3.5-flash-lite" selected>gemini-3.5-flash-lite (nhẹ, hạn mức cao)</option>
+      </select>
+    </label>
+  </div>
+  <div id="cfg-openai" hidden>
+    <label>Base URL
+      <input id="api-base" type="text" placeholder="https://llm.example.com/v1" autocomplete="off">
+    </label>
+    <label>Model
+      <input id="api-model2" type="text" placeholder="qwen3.8" autocomplete="off">
+    </label>
+    <label>API key <span class="muted">(bỏ trống nếu máy chủ không yêu cầu)</span>
+      <input id="api-key2" type="password" autocomplete="off">
+    </label>
+    <p class="muted small">Máy chủ phải bật CORS cho origin của trang này, nếu không trình duyệt sẽ chặn. Với llama.cpp dùng <code>--cors</code>, với LiteLLM thì thêm origin vào <code>allowed_origins</code>.</p>
+  </div>
+  <p class="muted small">Thiết lập chỉ lưu trong <code>localStorage</code> của máy này và gửi thẳng tới nhà cung cấp bạn chọn. Đọc truyện, tra cứu và wiki chạy hoàn toàn offline, không cần gì.</p>
+  <hr style="border:0;border-top:1px solid var(--line);margin:1rem 0">
+  <label>Đọc offline</label>
+  <p class="muted small" id="offline-trangthai">…</p>
+  <p class="muted small">Mỗi lô 100 chương được lưu lại khi bạn đọc tới, và lô kế tiếp được tải ngầm sẵn. Mất mạng vẫn đọc, tra cứu và xem wiki được; chỉ tab Chat là cần mạng.</p>
+  <button id="offline-xoa" style="background:var(--bg2);border:1px solid var(--line);border-radius:9px;padding:.4rem .8rem;cursor:pointer">Xoá dữ liệu đã lưu</button>
+
+  <div class="row-end">
+    <button id="settings-close">Đóng</button>
+    <button id="settings-save" class="primary">Lưu</button>
+  </div>
+</dialog>
+
+<div id="loading" class="loading" hidden><div class="bar"><i id="loading-bar"></i></div><span id="loading-text"></span></div>
+
+<script src="app.js"></script>
+</body>
+</html>

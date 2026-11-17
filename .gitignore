@@ -1,0 +1,27 @@
+# ───────── Nguyên văn truyện: KHÔNG đưa lên repo công khai ─────────
+# Tác phẩm có bản quyền (China Literature; bản dịch tiếng Việt được cấp phép
+# trên webnovel.vn). Repo này chỉ chứa mã nguồn và dữ liệu phái sinh.
+output/
+app/web/data/shard-*.json.gz
+app/web/data/summaries.partial.jsonl*
+app/web/data/*.bak
+app/web/data/index.json.gz.*
+
+# Công cụ thu thập dữ liệu từ nguồn không chính thức
+crawler.py
+xtruyen_crawler.py
+xtruyen_extract.py
+xtruyen_js/
+crawl.log
+extract.log
+
+# Bí mật và file máy
+.ca-bundle.pem
+app/.ca-bundle.pem
+.opencode/
+.DS_Store
+__pycache__/
+*.pyc
+app/web/data/kind-ai.partial.jsonl
+app/web/data/kind-ai-errors.jsonl
+app/web/data/summaries-errors.jsonl
