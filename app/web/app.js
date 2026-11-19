@@ -104,7 +104,13 @@ async function route(){
 }
 
 /* ---------- đọc truyện ---------- */
+// Mọi cách đổi chương (nút trước/sau, phím ← →, ô nhảy chương) đều về đầu chương mới.
+// Cuộn SAU khi nội dung mới đã hiện, để không nháy lên đầu chương cũ lúc đang tải lô.
 async function openChapter(n){
+  await hienChuong(n);
+  window.scrollTo({top: 0, behavior: 'instant'});
+}
+async function hienChuong(n){
   n = Math.min(Math.max(1, n|0), S.meta.chapters.length);
   S.cur = n;
   localStorage.setItem(LS+'last', n);

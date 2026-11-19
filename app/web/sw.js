@@ -1,5 +1,5 @@
 /* Service Worker: lưu offline theo lô, tự động khi bạn đọc tới. */
-const PHIEN_BAN = 'vctd-v2';
+const PHIEN_BAN = 'vctd-v3';
 const VO = `${PHIEN_BAN}-vo`;      // khung app: html, css, js
 const DU_LIEU = `${PHIEN_BAN}-du-lieu`;  // data/*
 
@@ -39,11 +39,13 @@ self.addEventListener('message', e => {
   }
 });
 
+// cache:'no-cache' = luon hoi lai may chu (304 neu khong doi). Khong co no, fetch di qua
+// cache HTTP cua trinh duyet va co the tra shard cu ca ngay sau khi build lai.
 async function tuoi_truoc(req, ten){
   // Khung app: ưu tiên mạng để sửa code là thấy ngay, mất mạng thì dùng bản lưu.
   const cache = await caches.open(ten);
   try{
-    const res = await fetch(req);
+    const res = await fetch(req, {cache: 'no-cache'});
     if(res.ok) cache.put(req, res.clone());
     return res;
   }catch(err){
@@ -57,7 +59,7 @@ async function cache_truoc(req, ten){
   // Dữ liệu: trả từ cache ngay cho nhanh, rồi lặng lẽ làm mới ở nền.
   const cache = await caches.open(ten);
   const cu = await cache.match(req);
-  const mang = fetch(req).then(res => {
+  const mang = fetch(req, {cache: 'no-cache'}).then(res => {
     if(res.ok) cache.put(req, res.clone());
     return res;
   }).catch(() => null);
