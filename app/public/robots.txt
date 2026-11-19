@@ -1,2 +1,5 @@
+# Cho phép mọi bot, kể cả bot LLM (GPTBot, ClaudeBot, PerplexityBot, Google-Extended)
 User-agent: *
 Allow: /
+
+Sitemap: https://vctd.vercel.app/sitemap.xml

@@ -1,30 +1,42 @@
 [
  [
-  "chính tả: Trương Như Trần → Trương Nhược Trần",
-  134
+  "regex: (?<![A-Za-zÀ-ỹ])Lâm\\s+Phong(?!",
+  379
  ],
  [
-  "chính tả: Trương Ngược Trần → Trương Nhược Trần",
-  126
+  "duyệt: trương như trần → Trương Nhược Trần",
+  135
  ],
  [
-  "chính tả: Trương Hược Trần → Trương Nhược Trần",
-  41
+  "duyệt: trương ngược trần → Trương Nhược Trần",
+  128
  ],
  [
-  "chính tả: Trương Lược Trần → Trương Nhược Trần",
+  "regex: (?i)(?<![A-Za-zÀ-ỹ])([v])ân ([",
+  61
+ ],
+ [
+  "duyệt: trương hược trần → Trương Nhược Trần",
+  43
+ ],
+ [
+  "duyệt: nịnh san → Ninh San",
+  25
+ ],
+ [
+  "duyệt: trương lược trần → Trương Nhược Trần",
   17
  ],
  [
-  "chính tả: Trường Nhược Trần → Trương Nhược Trần",
+  "duyệt: trường nhược trần → Trương Nhược Trần",
   14
  ],
  [
-  "chính tả: Tiêu Hắc → Tiểu Hắc",
+  "duyệt: tiêu hắc → Tiểu Hắc",
   10
  ],
  [
-  "chính tả: Trương Nhạc Trần → Trương Nhược Trần",
+  "duyệt: trương nhạc trần → Trương Nhược Trần",
   5
  ],
  [
@@ -32,7 +44,11 @@
   5
  ],
  [
-  "chính tả: Hoàng Yên Trấn → Hoàng Yên Trần",
+  "duyệt: đan hương lăng → Đơn Hương Lăng",
+  3
+ ],
+ [
+  "duyệt: hoàng yên trấn → Hoàng Yên Trần",
   3
  ],
  [
@@ -40,8 +56,20 @@
   3
  ],
  [
-  "chính tả: Bạch Khinh Nhi → Bạch Khanh Nhi",
+  "duyệt: bạch khinh nhi → Bạch Khanh Nhi",
   3
+ ],
+ [
+  "duyệt: zohn → Toản Ân",
+  2
+ ],
+ [
+  "duyệt: tông hạo → Toản Ân",
+  2
+ ],
+ [
+  "duyệt: tông hãn → Toản Ân",
+  2
  ],
  [
   "dịch nghĩa: Kiếm Hai → Kiếm Nhị",
@@ -52,11 +80,11 @@
   2
  ],
  [
-  "chính tả: Tôn Đại Đỉa → Tôn Đại Địa",
+  "duyệt: tôn đại đỉa → Tôn Đại Địa",
   2
  ],
  [
-  "chính tả: Trưởng Nhược Trần → Trương Nhược Trần",
+  "duyệt: trưởng nhược trần → Trương Nhược Trần",
   2
  ],
  [
@@ -72,7 +100,11 @@
   2
  ],
  [
-  "chính tả: Bần Nhược → Bàn Nhược",
+  "duyệt: bần nhược → Bàn Nhược",
+  2
+ ],
+ [
+  "dịch nghĩa: Mưa Sư → Vũ Sư",
   2
  ],
  [
@@ -89,14 +121,6 @@
  ],
  [
   "dịch nghĩa: Hoàng Suối Ấn → Hoàng Tuyền Ấn",
-  2
- ],
- [
-  "lượt 2: Trương Ngược Trần → Trương Nhược Trần",
-  2
- ],
- [
-  "lượt 2: Trương Hược Trần → Trương Nhược Trần",
   2
  ],
  [
@@ -132,19 +156,15 @@
   1
  ],
  [
-  "chính tả: Bản Nhược → Bàn Nhược",
+  "duyệt: bản nhược → Bàn Nhược",
+  1
+ ],
+ [
+  "dịch nghĩa: Kiếm Hai Mươi Lăm → Kiếm Nhị Mươi Lăm",
   1
  ],
  [
   "dịch nghĩa: Hai Quân Thiên → Nhị Quân Thiên",
-  1
- ],
- [
-  "lượt 2: Trương Như Trần → Trương Nhược Trần",
-  1
- ],
- [
-  "lượt 2: Kiếm Hai → Kiếm Nhị",
   1
  ]
 ]

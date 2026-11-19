@@ -38,11 +38,27 @@ bash tom-tat.sh 4                      # tóm tắt từng chương bằng LLM
 python3 pipeline/chuan_hoa_ten.py      # chuẩn hoá tên riêng trong tóm tắt
 python3 pipeline/phan_loai.py          # phân loại bằng mẫu ngữ cảnh
 bash phan-loai.sh 4                    # phân loại phần còn lại bằng LLM
-python3 pipeline/build_public.py       # đóng gói bản tra cứu để deploy
+SEO_BASE_URL=... python3 pipeline/build_public.py  # đóng gói để deploy + trang SEO
 ```
 
 Máy chủ LLM cấu hình qua biến môi trường, xem `app/.env.example`. Bất kỳ endpoint
 nào theo chuẩn OpenAI `/v1/chat/completions` đều dùng được.
+
+## Deploy (Vercel)
+
+`build_public.py` sinh `app/public/` (không commit): SPA không shard + trang
+tinh cho máy tìm và AI engine — một HTML cho từng chương (4.211) và từng thực
+thể đủ lớn (1.390), `sitemap.xml` + `robots.txt`, và `llms.txt`/`llms-full.txt`.
+Trang SEO chỉ mang metadata và tóm tắt, không có text nguyên văn.
+
+```bash
+cd app/public
+vercel --prod          # hoặc nhập repo: Root Directory = app/public, Build Command trống
+```
+
+Không có build step — Vercel phát hiện site tĩnh; `vercel.json` bật `cleanUrls`
+và header `*.gz`. Đặt `SEO_BASE_URL` đúng domain cuối (canonical và sitemap đọc
+từ đó), build lại, deploy lại.
 
 ## Vài thứ học được khi làm
 

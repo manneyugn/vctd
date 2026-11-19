@@ -77,6 +77,10 @@ def main():
 
     (OUT / "robots.txt").write_text("User-agent: *\nAllow: /\n", encoding="utf-8")
 
+    # SEO/GEO: truyen/, chuong/, wiki/, sitemap, llms + meta vao index.html
+    import build_seo
+    build_seo.main(out=OUT)
+
     tong = sum(f.stat().st_size for f in OUT.rglob("*") if f.is_file())
     print(f"\n✓ public/  —  {tong/1048576:.2f} MB")
     for f in sorted(OUT.rglob("*")):

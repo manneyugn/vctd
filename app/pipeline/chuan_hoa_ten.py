@@ -68,6 +68,7 @@ CAM_SUA = [
     {"nhân", "nhan", "nhẫn"}, {"thần", "thanh", "thánh", "thần"}, {"hải", "hái", "hài"}, {"sứ", "sử", "sự", "sư"},
 ]
 DUYET, TU_CHOI, DE_XUAT = {}, {}, {}
+REGEX_RULES = []        # (regex, thay_bang, nhan) - tu hieu-dinh/chinh-ta.json
 
 def bi_cam(a, b):
     return any(a in nhom and b in nhom for nhom in CAM_SUA)
@@ -119,9 +120,23 @@ def dung_bang_sua(canon):
 
 HOA = "A-ZÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚÝĂĐĨŨƠƯẠẢẤẦẨẬẮẰẲẶẸẺẼẾỀỂỆỈỊỌỎỐỒỔỘỚỜỞỢỤỦỨỪỬỰỲỴỶỸ"
 THUONG = "a-zàáâãèéêìíòóôõùúýăđĩũơưạảấầẩậắằẳặẹẻẽếềểệỉịọỏốồổộớờởợụủứừửựỳỵỷỹ"
+CHU = HOA + THUONG
 CUM_HOA = re.compile(rf"\b([{HOA}][{THUONG}]+(?:\s+[{HOA}][{THUONG}]+){{1,4}})\b")
 
 def sua_mot(text, canon, bien_the, khung, dem, xac_nhan):
+    # Cặp đã duyệt áp dụng như với nguyên văn (hieu_dinh): bất kể viết hoa,
+    # kể cả tên 1 từ ("Zohn") mà CUM_HOA bên dưới không với tới.
+    for sai, dung in DUYET.items():
+        text, k = re.subn(rf"(?<![{CHU}]){re.escape(sai)}(?![{CHU}])",
+                          lambda _m, d=hoa_ten(dung): d, text, flags=re.I)
+        if k:
+            dem[f"duyệt: {sai} → {hoa_ten(dung)}"] += k
+    # Quy tắc regex đã duyệt (chinh-ta.json): vd 'vân vũ' -> 'vân võ' (云武,
+    # trừ 'vũ trụ' - danh từ thường), giữ nguyên viết hoa.
+    for rx, dung, nhan in REGEX_RULES:
+        text, k = rx.subn(dung, text)
+        if k:
+            dem[f"regex: {nhan}"] += k
     def thay(m):
         goc = m.group(1)
         thuong = goc.lower()
@@ -178,8 +193,14 @@ def main():
     ap.add_argument("--dry-run", action="store_true")
     a = ap.parse_args()
 
-    global DUYET, TU_CHOI
+    global DUYET, TU_CHOI, REGEX_RULES
     DUYET, TU_CHOI = nap_duyet()
+    try:
+        ct = json.loads((OVR.parent / "hieu-dinh" / "chinh-ta.json").read_text(encoding="utf-8"))
+        for pat, dung in ct.get("regex", {}).items():
+            REGEX_RULES.append((re.compile(pat), dung, pat[:30]))
+    except Exception as e:
+        print(f"  (bo qua regex chinh-ta: {e})")
     canon = nap_thuc_the()
     bien_the, khung = dung_bang_sua(canon)
     print(f"cặp sửa chính tả đã duyệt : {len(DUYET)}  (từ chối: {len(TU_CHOI)})")

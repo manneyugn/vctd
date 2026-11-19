@@ -120,3 +120,33 @@ Chọn nguồn AI trong ⚙ Cài đặt:
 
 Không cấu hình gì thì Chat vẫn trả về tra cứu thuần: thực thể, dòng thời gian,
 chương liên quan. Chạy hoàn toàn offline.
+
+## Đóng gói và deploy
+
+```bash
+SEO_BASE_URL=https://<domain> python3 pipeline/build_public.py
+```
+
+Đưa `web/` ra `public/`: bỏ các shard chương (bản tra cứu không cần — đã có
+tóm tắt), viết lại `chapters.json` sang mode tra cứu (nguồn webnovel.vn), và
+sinh phần SEO/GEO:
+
+| URL | Nội dung |
+|---|---|
+| `/` | SPA như `web/`; `index.html` được thêm meta + canonical + JSON-LD |
+| `/truyen/` | Trang tổng quan: 4.211 chương, 11,8 triệu từ |
+| `/chuong/N/` | Tiêu đề, tổng từ, top thực thể, tóm tắt AI, nút mở trong app |
+| `/wiki/<slug>/` | Định nghĩa một câu: loại, số lần nhắc, mốc chương, trích dẫn, đi liền với (1.390 thực thể qua ngưỡng) |
+| `/sitemap.xml` | Index 3 sitemap con, `robots.txt` kèm dòng `Sitemap:` |
+| `/llms.txt`, `/llms-full.txt` | Bảng chỉ mục và toàn bộ ngữ liệu (tóm tắt + định nghĩa) cho AI engine |
+
+Deploy Vercel — không build step, trỏ thẳng vào `public/`:
+
+```bash
+cd public
+vercel --prod        # hoặc repo GitHub: Root Directory = app/public, Build Command trống
+```
+
+`vercel.json` bật `cleanUrls` và header octet-stream cho `*.gz`; `llms-full.txt`
+~2.5 MB tự được Vercel nén khi serve. Không có text nguyên văn trong bản
+deploy, mọi trang ghi nguồn và tác giả.

@@ -5,7 +5,9 @@
     "ten_dich_nghia_moi_kieu: sua bat ke viet hoa (dung cho ban convert tho viet thuong ten).",
     "chinh_ta: loi chinh ta thong dung, giu kieu viet hoa chu dau.",
     "KHONG them 'sát nhập': trong ban convert no nghia la 'giết vào' (杀入), khong phai 'sáp nhập'.",
-    "KHONG them 'sáng lạn': trong truyen chi gap 'ánh sáng lạnh'."
+    "KHONG them 'sáng lạn': trong truyen chi gap 'ánh sáng lạnh'.",
+    "'vân vũ' = 'vân võ' (云武, nguyên văn); regex giu viet hoa, bo qua 'vũ trụ' (danh tu thuong).",
+    "'Lâm Phong' (hoa ca) = 'Trương Nhược Trần' (张若尘): ~260 file chuong xtruyen lan '林枫' (ten chinh cua mot truyen khac); case-sensitive de giu thanh ngu thuong 'ngọc thụ lâm phong'."
   ],
   "ten_dich_nghia": {
     "hoàng suối đại đế": "hoàng tuyền đại đế",
@@ -26,7 +28,8 @@
     "hai quân thiên": "nhị quân thiên"
   },
   "ten_dich_nghia_moi_kieu": {
-    "rừng phi": "lâm phi"
+    "rừng phi": "lâm phi",
+    "đỏ vân": "xích vân"
   },
   "chinh_ta": {
     "khoảng khắc": "khoảnh khắc",
@@ -39,6 +42,8 @@
     "dành giật": "giành giật"
   },
   "regex": {
-    "(?<=mươi) mươi(?= )": ""
+    "(?i)(?<![A-Za-zÀ-ỹ])([v])ân ([v])ũ(?![A-Za-zÀ-ỹ])(?!\\s*trụ)": "\\1ân \\2õ",
+    "(?<=mươi) mươi(?= )": "",
+    "(?<![A-Za-zÀ-ỹ])Lâm\\s+Phong(?![A-Za-zÀ-ỹ])": "Trương Nhược Trần"
   }
 }

@@ -3578,19 +3578,19 @@
  ],
  "hau_to": {
   "giới": {
-   "thuong": 7412,
-   "hoa": 13735
+   "thuong": 7374,
+   "hoa": 13769
   },
   "tộc": {
-   "hoa": 5448,
-   "thuong": 5652
+   "hoa": 5443,
+   "thuong": 5653
   },
   "thành": {
    "hoa": 4532,
    "thuong": 689
   },
   "kiếm": {
-   "hoa": 3365,
+   "hoa": 3396,
    "thuong": 138
   },
   "sơn": {
@@ -3598,52 +3598,52 @@
    "thuong": 136
   },
   "hải": {
-   "hoa": 3211,
+   "hoa": 3226,
    "thuong": 18
   },
   "quốc": {
-   "hoa": 3074,
-   "thuong": 91
+   "hoa": 2721,
+   "thuong": 42
   },
   "gia": {
    "thuong": 1547,
    "hoa": 197
   },
   "viện": {
-   "hoa": 1027,
+   "hoa": 1038,
    "thuong": 336
+  },
+  "ấn": {
+   "hoa": 1036,
+   "thuong": 162
   },
   "châu": {
    "hoa": 1073,
    "thuong": 119
-  },
-  "ấn": {
-   "hoa": 1032,
-   "thuong": 154
   },
   "hội": {
    "hoa": 1016,
    "thuong": 74
   },
   "môn": {
-   "hoa": 584,
-   "thuong": 366
+   "hoa": 559,
+   "thuong": 352
   },
   "điện": {
    "hoa": 759,
    "thuong": 96
   },
-  "tông": {
-   "hoa": 716,
-   "thuong": 25
-  },
   "động": {
    "hoa": 720,
    "thuong": 10
   },
+  "tông": {
+   "hoa": 704,
+   "thuong": 16
+  },
   "các": {
-   "hoa": 519,
-   "thuong": 75
+   "hoa": 532,
+   "thuong": 93
   },
   "chưởng": {
    "hoa": 479,
@@ -3654,12 +3654,12 @@
    "thuong": 3
   },
   "phái": {
-   "thuong": 420,
+   "thuong": 423,
    "hoa": 14
   },
   "quyền": {
    "hoa": 192,
-   "thuong": 145
+   "thuong": 137
   },
   "cốc": {
    "hoa": 279,
@@ -3691,8 +3691,8 @@
    "sua_ca_chu_thuong": false,
    "loai": "khac",
    "truoc": {
-    "Đại Thánh": 6074,
-    "đại thánh": 1846,
+    "Đại Thánh": 6078,
+    "đại thánh": 1852,
     "Đại thánh": 197,
     "đại Thánh": 77
    }
@@ -3711,9 +3711,9 @@
    "sua_ca_chu_thuong": false,
    "loai": "khac",
    "truoc": {
-    "Thủy tổ": 2333,
-    "thủy tổ": 1619,
-    "Thủy Tổ": 1530,
+    "Thủy tổ": 2262,
+    "thủy tổ": 1516,
+    "Thủy Tổ": 1492,
     "thủy Tổ": 2
    }
   },
@@ -3722,9 +3722,9 @@
    "sua_ca_chu_thuong": true,
    "loai": "dia_danh",
    "truoc": {
-    "Địa Ngục giới": 2521,
-    "Địa Ngục Giới": 1651,
-    "địa ngục giới": 408,
+    "Địa Ngục giới": 2511,
+    "Địa Ngục Giới": 1647,
+    "địa ngục giới": 397,
     "Địa ngục giới": 282
    }
   },
@@ -3766,19 +3766,9 @@
    "sua_ca_chu_thuong": false,
    "loai": "khac",
    "truoc": {
-    "Thiên Đình": 3802,
-    "thiên đình": 82,
-    "Thiên đình": 14
-   }
-  },
-  "lâm phong": {
-   "chuan": "Lâm Phong",
-   "sua_ca_chu_thuong": false,
-   "loai": "khac",
-   "truoc": {
-    "Lâm Phong": 2895,
-    "lâm phong": 19,
-    "Lâm phong": 2
+    "Thiên Đình": 3794,
+    "thiên đình": 79,
+    "Thiên đình": 13
    }
   },
   "thiên tôn": {
@@ -3797,8 +3787,8 @@
    "sua_ca_chu_thuong": true,
    "loai": "dia_danh",
    "truoc": {
-    "Thiên Đường Giới": 1193,
-    "Thiên Đường giới": 707,
+    "Thiên Đường Giới": 1192,
+    "Thiên Đường giới": 686,
     "Thiên đường giới": 3,
     "thiên đường giới": 2
    }
@@ -3833,16 +3823,6 @@
     "Bản nguyên": 72
    }
   },
-  "điện chủ": {
-   "chuan": "Điện Chủ",
-   "sua_ca_chu_thuong": false,
-   "loai": "nhan_vat",
-   "truoc": {
-    "điện chủ": 794,
-    "Điện Chủ": 441,
-    "Điện chủ": 378
-   }
-  },
   "bán tổ": {
    "chuan": "Bán Tổ",
    "sua_ca_chu_thuong": false,
@@ -3852,6 +3832,16 @@
     "bán tổ": 482,
     "Bán tổ": 191,
     "bán Tổ": 1
+   }
+  },
+  "điện chủ": {
+   "chuan": "Điện Chủ",
+   "sua_ca_chu_thuong": false,
+   "loai": "nhan_vat",
+   "truoc": {
+    "điện chủ": 771,
+    "Điện Chủ": 440,
+    "Điện chủ": 370
    }
   },
   "bạch khanh nhi": {
@@ -3967,25 +3957,14 @@
     "Bất động": 10
    }
   },
-  "giáo chủ": {
-   "chuan": "Giáo Chủ",
-   "sua_ca_chu_thuong": false,
-   "loai": "nhan_vat",
-   "truoc": {
-    "giáo chủ": 623,
-    "Giáo chủ": 280,
-    "Giáo Chủ": 101,
-    "giáo Chủ": 1
-   }
-  },
   "thiên đình giới": {
    "chuan": "Thiên Đình Giới",
    "sua_ca_chu_thuong": true,
    "loai": "dia_danh",
    "truoc": {
-    "Thiên Đình Giới": 499,
-    "Thiên Đình giới": 471,
-    "thiên đình giới": 18
+    "Thiên Đình Giới": 498,
+    "Thiên Đình giới": 464,
+    "thiên đình giới": 16
    }
   },
   "tinh hoàn thiên": {
@@ -4013,10 +3992,31 @@
    "sua_ca_chu_thuong": false,
    "loai": "dia_danh",
    "truoc": {
-    "thánh nguyên": 458,
-    "Thánh Nguyên": 252,
+    "thánh nguyên": 456,
+    "Thánh Nguyên": 251,
     "Thánh nguyên": 114,
     "thánh Nguyên": 1
+   }
+  },
+  "giáo chủ": {
+   "chuan": "Giáo Chủ",
+   "sua_ca_chu_thuong": false,
+   "loai": "nhan_vat",
+   "truoc": {
+    "giáo chủ": 563,
+    "Giáo chủ": 148,
+    "Giáo Chủ": 101,
+    "giáo Chủ": 1
+   }
+  },
+  "vân võ quận quốc": {
+   "chuan": "Vân Võ Quận Quốc",
+   "sua_ca_chu_thuong": true,
+   "loai": "dia_danh",
+   "truoc": {
+    "Vân Võ Quận Quốc": 521,
+    "Vân Võ quận quốc": 279,
+    "vân võ quận quốc": 10
    }
   },
   "ngũ hành": {
@@ -4039,16 +4039,6 @@
     "Bất diệt vô lượng": 5,
     "Bất diệt Vô lượng": 4,
     "Bất Diệt vô lượng": 3
-   }
-  },
-  "thái thượng": {
-   "chuan": "Thái Thượng",
-   "sua_ca_chu_thuong": false,
-   "loai": "khac",
-   "truoc": {
-    "Thái Thượng": 625,
-    "Thái thượng": 140,
-    "thái thượng": 43
    }
   },
   "quảng hàn giới": {
@@ -4099,6 +4089,16 @@
     "Thiên kiêu": 6
    }
   },
+  "thái thượng": {
+   "chuan": "Thái Thượng",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "Thái Thượng": 614,
+    "Thái thượng": 95,
+    "thái thượng": 42
+   }
+  },
   "bách tộc vương thành": {
    "chuan": "Bách Tộc Vương Thành",
    "sua_ca_chu_thuong": true,
@@ -4142,15 +4142,6 @@
     "Thú vương": 58
    }
   },
-  "vân vũ quận quốc": {
-   "chuan": "Vân Vũ Quận Quốc",
-   "sua_ca_chu_thuong": true,
-   "loai": "dia_danh",
-   "truoc": {
-    "Vân Vũ Quận Quốc": 457,
-    "Vân Vũ quận quốc": 230
-   }
-  },
   "đông vực": {
    "chuan": "Đông Vực",
    "sua_ca_chu_thuong": true,
@@ -4186,9 +4177,9 @@
    "sua_ca_chu_thuong": false,
    "loai": "khac",
    "truoc": {
-    "Trung cổ": 221,
-    "Trung Cổ": 207,
-    "trung cổ": 179
+    "Trung cổ": 220,
+    "Trung Cổ": 203,
+    "trung cổ": 173
    }
   },
   "phong đô quỷ thành": {
@@ -4259,16 +4250,6 @@
     "Thiên hà": 1
    }
   },
-  "ly hận thiên": {
-   "chuan": "Ly Hận Thiên",
-   "sua_ca_chu_thuong": false,
-   "loai": "khac",
-   "truoc": {
-    "Ly Hận Thiên": 536,
-    "ly hận thiên": 6,
-    "Ly Hận thiên": 4
-   }
-  },
   "hiên viên liên": {
    "chuan": "Hiên Viên Liên",
    "sua_ca_chu_thuong": false,
@@ -4298,6 +4279,16 @@
     "Nhật Quỹ": 430,
     "nhật quỹ": 107,
     "Nhật quỹ": 1
+   }
+  },
+  "ly hận thiên": {
+   "chuan": "Ly Hận Thiên",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "Ly Hận Thiên": 528,
+    "ly hận thiên": 6,
+    "Ly Hận thiên": 4
    }
   },
   "thánh sơn": {
@@ -4340,18 +4331,6 @@
     "hàn thu": 1
    }
   },
-  "giới thánh vương": {
-   "chuan": "Giới Thánh Vương",
-   "sua_ca_chu_thuong": false,
-   "loai": "nhan_vat",
-   "truoc": {
-    "giới Thánh Vương": 439,
-    "giới Thánh vương": 36,
-    "giới thánh vương": 21,
-    "Giới Thánh Vương": 6,
-    "Giới Thánh vương": 4
-   }
-  },
   "a phù nhã": {
    "chuan": "A Phù Nhã",
    "sua_ca_chu_thuong": false,
@@ -4359,6 +4338,18 @@
    "truoc": {
     "A Phù Nhã": 469,
     "A Phù nhã": 33
+   }
+  },
+  "giới thánh vương": {
+   "chuan": "Giới Thánh Vương",
+   "sua_ca_chu_thuong": false,
+   "loai": "nhan_vat",
+   "truoc": {
+    "giới Thánh Vương": 430,
+    "giới Thánh vương": 36,
+    "giới thánh vương": 21,
+    "Giới Thánh Vương": 6,
+    "Giới Thánh vương": 4
    }
   },
   "càn khôn giới": {
@@ -4551,18 +4542,6 @@
     "vô thượng cảnh": 45
    }
   },
-  "kiếp tôn giả": {
-   "chuan": "Kiếp Tôn Giả",
-   "sua_ca_chu_thuong": false,
-   "loai": "khac",
-   "truoc": {
-    "Kiếp Tôn Giả": 261,
-    "Kiếp Tôn giả": 120,
-    "kiếp Tôn giả": 8,
-    "Kiếp tôn giả": 1,
-    "kiếp tôn giả": 1
-   }
-  },
   "trấn ngục cổ tộc": {
    "chuan": "Trấn Ngục Cổ tộc",
    "sua_ca_chu_thuong": true,
@@ -4572,6 +4551,18 @@
     "Trấn Ngục cổ tộc": 166,
     "Trấn Ngục Cổ tộc": 27,
     "trấn ngục cổ tộc": 10
+   }
+  },
+  "kiếp tôn giả": {
+   "chuan": "Kiếp Tôn Giả",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "Kiếp Tôn Giả": 261,
+    "Kiếp Tôn giả": 116,
+    "kiếp Tôn giả": 8,
+    "Kiếp tôn giả": 1,
+    "kiếp tôn giả": 1
    }
   },
   "tây viện": {
@@ -4682,6 +4673,16 @@
     "Đệ tứ Nho Tổ": 4
    }
   },
+  "đế hoàng": {
+   "chuan": "Đế Hoàng",
+   "sua_ca_chu_thuong": false,
+   "loai": "nhan_vat",
+   "truoc": {
+    "Đế Hoàng": 278,
+    "đế hoàng": 75,
+    "Đế hoàng": 10
+   }
+  },
   "diêm hoàng đồ": {
    "chuan": "Diêm Hoàng Đồ",
    "sua_ca_chu_thuong": false,
@@ -4690,16 +4691,6 @@
     "Diêm Hoàng Đồ": 355,
     "diêm hoàng đồ": 7,
     "Diêm Hoàng đồ": 1
-   }
-  },
-  "đế hoàng": {
-   "chuan": "Đế Hoàng",
-   "sua_ca_chu_thuong": false,
-   "loai": "nhan_vat",
-   "truoc": {
-    "Đế Hoàng": 277,
-    "đế hoàng": 75,
-    "Đế hoàng": 10
    }
   },
   "khôi lượng hoàng": {
@@ -4739,7 +4730,7 @@
    "truoc": {
     "Phong Hậu": 347,
     "phong hậu": 4,
-    "Phong hậu": 2
+    "Phong hậu": 1
    }
   },
   "lôi tộc": {
@@ -4770,6 +4761,16 @@
     "Danh Kiếm": 336,
     "danh kiếm": 6,
     "danh Kiếm": 1
+   }
+  },
+  "thạch nhân": {
+   "chuan": "Thạch Nhân",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "thạch nhân": 247,
+    "Thạch Nhân": 90,
+    "Thạch nhân": 5
    }
   },
   "tinh hồn": {
@@ -4945,6 +4946,17 @@
     "Hoang cổ phế thành": 4
    }
   },
+  "vân võ quận vương": {
+   "chuan": "Vân Võ Quận Vương",
+   "sua_ca_chu_thuong": true,
+   "loai": "nhan_vat",
+   "truoc": {
+    "Vân Võ quận vương": 157,
+    "Vân Võ Quận Vương": 119,
+    "Vân Võ Quận vương": 14,
+    "vân võ quận vương": 3
+   }
+  },
   "địa sư": {
    "chuan": "Địa Sư",
    "sua_ca_chu_thuong": false,
@@ -5053,16 +5065,6 @@
     "Lâm phi": 32
    }
   },
-  "thượng cổ": {
-   "chuan": "Thượng Cổ",
-   "sua_ca_chu_thuong": false,
-   "loai": "khac",
-   "truoc": {
-    "thượng cổ": 179,
-    "Thượng cổ": 45,
-    "Thượng Cổ": 34
-   }
-  },
   "cổ tùng tử": {
    "chuan": "Cổ Tùng Tử",
    "sua_ca_chu_thuong": true,
@@ -5149,6 +5151,16 @@
     "Thao Thiên Kiếm": 227,
     "Thao Thiên kiếm": 13,
     "thao thiên kiếm": 1
+   }
+  },
+  "thượng cổ": {
+   "chuan": "Thượng Cổ",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "thượng cổ": 174,
+    "Thượng Cổ": 34,
+    "Thượng cổ": 31
    }
   },
   "thập tộc": {
@@ -5248,16 +5260,6 @@
     "Huyền thai": 1
    }
   },
-  "kiếm nhị": {
-   "chuan": "Kiếm Nhị",
-   "sua_ca_chu_thuong": false,
-   "loai": "khac",
-   "truoc": {
-    "Kiếm Nhị": 218,
-    "Kiếm nhị": 1,
-    "kiếm nhị": 1
-   }
-  },
   "giới tử ấn": {
    "chuan": "Giới Tử Ấn",
    "sua_ca_chu_thuong": true,
@@ -5295,16 +5297,6 @@
    "truoc": {
     "Tửu Phong Tử": 211,
     "tửu phong tử": 1
-   }
-  },
-  "thái hư cảnh": {
-   "chuan": "Thái Hư Cảnh",
-   "sua_ca_chu_thuong": false,
-   "loai": "canh_gioi",
-   "truoc": {
-    "Thái Hư cảnh": 134,
-    "Thái Hư Cảnh": 77,
-    "Thái hư cảnh": 1
    }
   },
   "tổ linh giới": {
@@ -5557,6 +5549,16 @@
     "Tử Thiền lão tổ": 46
    }
   },
+  "kiếm nhị": {
+   "chuan": "Kiếm Nhị",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "Kiếm Nhị": 178,
+    "Kiếm nhị": 1,
+    "kiếm nhị": 1
+   }
+  },
   "man kiếm đại thánh": {
    "chuan": "Man Kiếm Đại Thánh",
    "sua_ca_chu_thuong": false,
@@ -5591,6 +5593,16 @@
    "truoc": {
     "Thái gia": 155,
     "thái gia": 20
+   }
+  },
+  "thái hư cảnh": {
+   "chuan": "Thái Hư Cảnh",
+   "sua_ca_chu_thuong": false,
+   "loai": "canh_gioi",
+   "truoc": {
+    "Thái Hư cảnh": 103,
+    "Thái Hư Cảnh": 71,
+    "Thái hư cảnh": 1
    }
   },
   "bán bộ thánh vương": {
@@ -5634,15 +5646,6 @@
     "Tích Huyết Kiếm": 143,
     "Tích Huyết kiếm": 22,
     "tích huyết kiếm": 5
-   }
-  },
-  "tư hải": {
-   "chuan": "Tư Hải",
-   "sua_ca_chu_thuong": true,
-   "loai": "dia_danh",
-   "truoc": {
-    "Tư Hải": 143,
-    "tư hải": 26
    }
   },
   "yên hồng đại thánh": {
@@ -6175,16 +6178,6 @@
     "thập Tứ": 2
    }
   },
-  "vân võ quận quốc": {
-   "chuan": "Vân Võ Quận Quốc",
-   "sua_ca_chu_thuong": true,
-   "loai": "dia_danh",
-   "truoc": {
-    "Vân Võ Quận Quốc": 64,
-    "Vân Võ quận quốc": 49,
-    "vân võ quận quốc": 10
-   }
-  },
   "thánh nguyên linh tuyền": {
    "chuan": "Thánh Nguyên Linh Tuyền",
    "sua_ca_chu_thuong": false,
@@ -6262,6 +6255,15 @@
    "truoc": {
     "Thanh Bình Tử": 119,
     "Thanh Bình tử": 1
+   }
+  },
+  "sa đà thất giới": {
+   "chuan": "Sa Đà Thất Giới",
+   "sua_ca_chu_thuong": true,
+   "loai": "dia_danh",
+   "truoc": {
+    "Sa Đà thất giới": 81,
+    "Sa Đà Thất Giới": 38
    }
   },
   "bất hủ cảnh": {
@@ -6397,6 +6399,16 @@
     "Thanh u": 3
    }
   },
+  "khách sạn": {
+   "chuan": "Khách Sạn",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "khách sạn": 79,
+    "Khách Sạn": 27,
+    "Khách sạn": 5
+   }
+  },
   "thiên ngoại": {
    "chuan": "Thiên Ngoại",
    "sua_ca_chu_thuong": false,
@@ -6405,16 +6417,6 @@
     "thiên ngoại": 100,
     "Thiên Ngoại": 8,
     "Thiên ngoại": 2
-   }
-  },
-  "địa hoang": {
-   "chuan": "Địa Hoang",
-   "sua_ca_chu_thuong": false,
-   "loai": "khac",
-   "truoc": {
-    "Địa Hoang": 85,
-    "địa hoang": 22,
-    "Địa hoang": 3
    }
   },
   "đông lưu kiếm tôn": {
@@ -6574,6 +6576,16 @@
     "trung ương": 52,
     "Trung Ương": 37,
     "Trung ương": 12
+   }
+  },
+  "địa hoang": {
+   "chuan": "Địa Hoang",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "Địa Hoang": 82,
+    "địa hoang": 16,
+    "Địa hoang": 3
    }
   },
   "thái thanh tổ sư": {
@@ -7205,16 +7217,6 @@
     "phi mã Vương": 1
    }
   },
-  "phong cầm": {
-   "chuan": "Phong Cầm",
-   "sua_ca_chu_thuong": false,
-   "loai": "khac",
-   "truoc": {
-    "Phong Cầm": 64,
-    "phong cầm": 9,
-    "Phong cầm": 5
-   }
-  },
   "man hoang bí cảnh": {
    "chuan": "Man Hoang Bí Cảnh",
    "sua_ca_chu_thuong": false,
@@ -7272,6 +7274,16 @@
    "truoc": {
     "Thanh Huyền Các": 62,
     "Thanh Huyền các": 14
+   }
+  },
+  "phong cầm": {
+   "chuan": "Phong Cầm",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "Phong Cầm": 64,
+    "phong cầm": 9,
+    "Phong cầm": 3
    }
   },
   "khô mộc đan": {
@@ -7345,6 +7357,15 @@
     "Võ Giới Đế Tử": 45,
     "Võ Giới Đế tử": 22,
     "Võ Giới đế tử": 6
+   }
+  },
+  "vũ sư": {
+   "chuan": "Vũ Sư",
+   "sua_ca_chu_thuong": true,
+   "loai": "nhan_vat",
+   "truoc": {
+    "Vũ Sư": 67,
+    "Vũ sư": 4
    }
   },
   "tàng hải": {
@@ -8076,16 +8097,6 @@
     "Ái Liên quân": 6
    }
   },
-  "thất thái": {
-   "chuan": "Thất Thái",
-   "sua_ca_chu_thuong": false,
-   "loai": "khac",
-   "truoc": {
-    "thất thái": 42,
-    "Thất Thái": 8,
-    "Thất thái": 2
-   }
-  },
   "sát tận vương": {
    "chuan": "Sát Tận Vương",
    "sua_ca_chu_thuong": true,
@@ -8256,6 +8267,15 @@
     "Huyền Vũ Thánh Nguyên": 42,
     "Huyền Vũ thánh nguyên": 5,
     "Huyền Vũ Thánh nguyên": 1
+   }
+  },
+  "thiên hồ bà bà": {
+   "chuan": "Thiên Hồ Bà Bà",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "Thiên Hồ Bà Bà": 38,
+    "Thiên Hồ bà bà": 10
    }
   },
   "vũ thị tiền trang": {
@@ -8638,16 +8658,6 @@
     "hồng trần đại hội": 1
    }
   },
-  "hoàng tuyền hoa": {
-   "chuan": "Hoàng Tuyền Hoa",
-   "sua_ca_chu_thuong": false,
-   "loai": "khac",
-   "truoc": {
-    "Hoàng Tuyền hoa": 21,
-    "Hoàng Tuyền Hoa": 18,
-    "hoàng tuyền hoa": 4
-   }
-  },
   "cửu thủ cốt xà": {
    "chuan": "Cửu Thủ Cốt Xà",
    "sua_ca_chu_thuong": false,
@@ -8730,17 +8740,6 @@
     "Phạn hỏa": 18,
     "Phạn Hỏa": 13,
     "phạn hỏa": 11
-   }
-  },
-  "vân võ quận vương": {
-   "chuan": "Vân Võ Quận Vương",
-   "sua_ca_chu_thuong": true,
-   "loai": "nhan_vat",
-   "truoc": {
-    "Vân Võ Quận Vương": 30,
-    "Vân Võ quận vương": 5,
-    "vân võ quận vương": 3,
-    "Vân Võ Quận vương": 3
    }
   },
   "độc chu thiếu chủ": {
@@ -8989,6 +8988,28 @@
     "Thuần Dương Thiên Tôn": 34,
     "thuần dương Thiên Tôn": 2,
     "Thuần Dương thiên tôn": 1
+   }
+  },
+  "hoàng tuyền hoa": {
+   "chuan": "Hoàng Tuyền Hoa",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "Hoàng Tuyền hoa": 18,
+    "Hoàng Tuyền Hoa": 17,
+    "hoàng tuyền hoa": 2
+   }
+  },
+  "vô lượng bắc chinh": {
+   "chuan": "Vô Lượng Bắc Chinh",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "Vô Lượng bắc chinh": 19,
+    "Vô Lượng Bắc Chinh": 11,
+    "Vô Lượng Bắc chinh": 3,
+    "Vô lượng Bắc chinh": 2,
+    "vô lượng bắc chinh": 2
    }
   },
   "cửu châu": {
@@ -9453,16 +9474,6 @@
     "bích hải": 4
    }
   },
-  "sư đà thú": {
-   "chuan": "Sư Đà Thú",
-   "sua_ca_chu_thuong": false,
-   "loai": "khac",
-   "truoc": {
-    "Sư Đà thú": 17,
-    "Sư Đà Thú": 8,
-    "sư đà thú": 5
-   }
-  },
   "tinh huyên thiên": {
    "chuan": "Tinh Huyên Thiên",
    "sua_ca_chu_thuong": false,
@@ -9548,16 +9559,6 @@
     "Tả Tướng": 12,
     "Tả tướng": 9,
     "tả tướng": 7
-   }
-  },
-  "thất sát quyền": {
-   "chuan": "Thất Sát Quyền",
-   "sua_ca_chu_thuong": true,
-   "loai": "cong_phap",
-   "truoc": {
-    "Thất Sát Quyền": 14,
-    "Thất Sát quyền": 13,
-    "thất sát quyền": 1
    }
   },
   "yến húc thánh tướng": {
@@ -9960,15 +9961,6 @@
     "Kim Vân bán thánh": 1
    }
   },
-  "phong cẩn": {
-   "chuan": "Phong Cẩn",
-   "sua_ca_chu_thuong": false,
-   "loai": "khac",
-   "truoc": {
-    "Phong Cẩn": 17,
-    "Phong cẩn": 7
-   }
-  },
   "sát na kiếm": {
    "chuan": "Sát Na Kiếm",
    "sua_ca_chu_thuong": true,
@@ -10042,16 +10034,6 @@
    "truoc": {
     "Thời Khung Nhân Tổ": 22,
     "Thời Khung Nhân tổ": 2
-   }
-  },
-  "bộ thánh môn": {
-   "chuan": "Bộ Thánh Môn",
-   "sua_ca_chu_thuong": true,
-   "loai": "the_luc",
-   "truoc": {
-    "Bộ Thánh Môn": 12,
-    "Bộ Thánh môn": 8,
-    "Bộ thánh môn": 3
    }
   },
   "xích giao": {
@@ -10133,16 +10115,6 @@
    "truoc": {
     "Hoàng Ngự Đảo": 21,
     "Hoàng Ngự đảo": 1
-   }
-  },
-  "huyết v": {
-   "chuan": "Huyết V",
-   "sua_ca_chu_thuong": false,
-   "loai": "khac",
-   "truoc": {
-    "Huyết V": 14,
-    "huyết v": 6,
-    "Huyết v": 2
    }
   },
   "thất sinh thất tử": {
@@ -10317,6 +10289,16 @@
     "Thẩm Gia": 9
    }
   },
+  "bộ thánh môn phiệt": {
+   "chuan": "Bộ Thánh Môn Phiệt",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "Bộ Thánh Môn Phiệt": 11,
+    "Bộ Thánh môn phiệt": 6,
+    "Bộ thánh môn phiệt": 3
+   }
+  },
   "thanh vân quận thành": {
    "chuan": "Thanh Vân Quận Thành",
    "sua_ca_chu_thuong": true,
@@ -10326,14 +10308,14 @@
     "Thanh Vân Quận Thành": 9
    }
   },
-  "thiên chu": {
-   "chuan": "Thiên Chu",
-   "sua_ca_chu_thuong": false,
-   "loai": "khac",
+  "thất sát quyền": {
+   "chuan": "Thất Sát Quyền",
+   "sua_ca_chu_thuong": true,
+   "loai": "cong_phap",
    "truoc": {
-    "Thiên Chu": 18,
-    "Thiên chu": 1,
-    "thiên chu": 1
+    "Thất Sát Quyền": 14,
+    "Thất Sát quyền": 5,
+    "thất sát quyền": 1
    }
   },
   "khổng lạc sơn": {
@@ -10361,6 +10343,16 @@
    "truoc": {
     "Hư Nguyệt Đao": 16,
     "Hư Nguyệt đao": 4
+   }
+  },
+  "vân võ vương thành": {
+   "chuan": "Vân Võ Vương Thành",
+   "sua_ca_chu_thuong": true,
+   "loai": "dia_danh",
+   "truoc": {
+    "Vân Võ Vương Thành": 14,
+    "Vân Võ vương thành": 5,
+    "Vân Võ Vương thành": 1
    }
   },
   "nguyên khư cổ phật": {
@@ -10447,6 +10439,15 @@
     "Đoạt Mệnh Kiếm Khách": 10,
     "đoạt mệnh kiếm khách": 7,
     "Đoạt Mệnh kiếm khách": 2
+   }
+  },
+  "phong cẩn": {
+   "chuan": "Phong Cẩn",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "Phong Cẩn": 17,
+    "Phong cẩn": 2
    }
   },
   "tà đế thành": {
@@ -10581,6 +10582,16 @@
     "thái tử phi": 3
    }
   },
+  "man hoang cổ kình": {
+   "chuan": "Man Hoang Cổ Kình",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "man hoang cổ kình": 9,
+    "Man Hoang Cổ Kình": 5,
+    "Man Hoang cổ kình": 4
+   }
+  },
   "tử quân điện": {
    "chuan": "Tử Quân Điện",
    "sua_ca_chu_thuong": true,
@@ -10673,6 +10684,15 @@
     "Tình Sơn Khách Sạn": 13,
     "Tình Sơn khách sạn": 4,
     "tình sơn khách sạn": 1
+   }
+  },
+  "xích vân tông": {
+   "chuan": "Xích Vân Tông",
+   "sua_ca_chu_thuong": true,
+   "loai": "the_luc",
+   "truoc": {
+    "Xích Vân Tông": 13,
+    "Xích Vân tông": 4
    }
   },
   "yên trần quận chủ": {
@@ -10867,16 +10887,6 @@
     "Thập nhị gia": 1
    }
   },
-  "phù phù": {
-   "chuan": "Phù Phù",
-   "sua_ca_chu_thuong": false,
-   "loai": "bao_vat",
-   "truoc": {
-    "phù phù": 13,
-    "Phù phù": 2,
-    "Phù Phù": 1
-   }
-  },
   "mục thiên tiên sinh": {
    "chuan": "Mục Thiên Tiên Sinh",
    "sua_ca_chu_thuong": false,
@@ -10987,6 +10997,16 @@
     "Huyết Hồn chiến xa": 7
    }
   },
+  "sư đà thú": {
+   "chuan": "Sư Đà Thú",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "Sư Đà thú": 8,
+    "Sư Đà Thú": 6,
+    "sư đà thú": 1
+   }
+  },
   "thái tế vương sư": {
    "chuan": "Thái Tế Vương Sư",
    "sua_ca_chu_thuong": true,
@@ -11031,15 +11051,6 @@
    "truoc": {
     "Thái Cổ Bình Nguyên": 12,
     "Thái Cổ bình nguyên": 3
-   }
-  },
-  "hồ thương lão": {
-   "chuan": "Hồ Thương Lão",
-   "sua_ca_chu_thuong": true,
-   "loai": "nhan_vat",
-   "truoc": {
-    "Hồ Thương Lão": 10,
-    "Hồ Thương lão": 5
    }
   },
   "nhân tổ kỳ": {
@@ -11153,15 +11164,6 @@
     "Ngô Hàn Vương": 6
    }
   },
-  "vân vũ vương thành": {
-   "chuan": "Vân Vũ Vương Thành",
-   "sua_ca_chu_thuong": true,
-   "loai": "dia_danh",
-   "truoc": {
-    "Vân Vũ Vương Thành": 9,
-    "Vân Vũ vương thành": 5
-   }
-  },
   "thập tộc địa ngục": {
    "chuan": "Thập Tộc Địa Ngục",
    "sua_ca_chu_thuong": false,
@@ -11238,6 +11240,16 @@
     "trường khanh quả": 2
    }
   },
+  "hồ thương lão ẩu": {
+   "chuan": "Hồ Thương Lão Ẩu",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "Hồ Thương Lão Ẩu": 9,
+    "Hồ Thương lão ẩu": 4,
+    "Hồ Thương Lão ẩu": 1
+   }
+  },
   "hoàng thiên đại đế": {
    "chuan": "Hoàng Thiên Đại Đế",
    "sua_ca_chu_thuong": true,
@@ -11255,15 +11267,6 @@
    "truoc": {
     "Chiến Phủ Tọa": 13,
     "Chiến phủ tọa": 1
-   }
-  },
-  "tả thánh môn": {
-   "chuan": "Tả Thánh Môn",
-   "sua_ca_chu_thuong": true,
-   "loai": "the_luc",
-   "truoc": {
-    "Tả Thánh Môn": 7,
-    "Tả Thánh môn": 6
    }
   },
   "vô vọng khách sạn": {
@@ -12008,6 +12011,15 @@
     "Mệnh tổ cát môn": 2
    }
   },
+  "tả thánh môn phiệt": {
+   "chuan": "Tả Thánh Môn Phiệt",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "Tả Thánh môn phiệt": 6,
+    "Tả Thánh Môn Phiệt": 3
+   }
+  },
   "bích thủy thánh giáp": {
    "chuan": "Bích Thủy Thánh Giáp",
    "sua_ca_chu_thuong": true,
@@ -12188,6 +12200,16 @@
     "Âm Dương kỳ bàn": 2
    }
   },
+  "bạch lê miêu tộc": {
+   "chuan": "Bạch Lê Miêu tộc",
+   "sua_ca_chu_thuong": true,
+   "loai": "the_luc",
+   "truoc": {
+    "Bạch Lê miêu tộc": 4,
+    "Bạch Lê Miêu tộc": 3,
+    "Bạch Lê Miêu Tộc": 1
+   }
+  },
   "thiên tử thánh phủ": {
    "chuan": "Thiên Tử Thánh Phủ",
    "sua_ca_chu_thuong": false,
@@ -12243,6 +12265,16 @@
    "truoc": {
     "Hãn Hải": 7,
     "hãn hải": 1
+   }
+  },
+  "hoa ảnh thái thượng": {
+   "chuan": "Hoa Ảnh Thái Thượng",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "Hoa Ảnh Thái Thượng": 4,
+    "hoa ảnh thái thượng": 3,
+    "Hoa Ảnh thái thượng": 1
    }
   },
   "ngũ hành ngũ tộc": {
@@ -12438,15 +12470,6 @@
     "Thương Lãnh võ thánh": 1
    }
   },
-  "vân võ vương thành": {
-   "chuan": "Vân Võ Vương Thành",
-   "sua_ca_chu_thuong": true,
-   "loai": "dia_danh",
-   "truoc": {
-    "Vân Võ Vương Thành": 5,
-    "Vân Võ Vương thành": 1
-   }
-  },
   "đại thánh tượng hồn": {
    "chuan": "Đại Thánh Tượng Hồn",
    "sua_ca_chu_thuong": false,
@@ -12503,6 +12526,15 @@
     "Định Luận Phật Chủ": 2,
     "định luận Phật chủ": 1,
     "Định Luận Phật chủ": 1
+   }
+  },
+  "vân võ quận": {
+   "chuan": "Vân Võ Quận",
+   "sua_ca_chu_thuong": false,
+   "loai": "khac",
+   "truoc": {
+    "Vân Võ Quận": 2,
+    "Vân Võ quận": 1
    }
   },
   "thánh ngọc tinh": {
