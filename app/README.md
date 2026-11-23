@@ -33,7 +33,7 @@ Chạy lại theo thứ tự khi có dữ liệu nguồn mới:
 ```bash
 python3 pipeline/build_corpus.py      # chương thô  → shard gzip + nhật ký hiệu đính
 python3 pipeline/extract_entities.py  # tìm ứng viên tên riêng          (~30 giây)
-python3 pipeline/refine_entities.py   # nuốt mảnh vụn, gộp bí danh
+python3 pipeline/refine_entities.py   # nuốt mảnh vụn, gộp bí 
 python3 pipeline/build_index.py       # postings, đồng xuất hiện, trích dẫn (~15 giây)
 
 bash tom-tat.sh 4                     # tóm tắt từng chương bằng LLM     (~12 giờ)

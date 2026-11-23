@@ -372,7 +372,7 @@ const CLEAN_LABEL = {
   ten_rieng:'Tên riêng gõ sai', chinh_ta:'Lỗi chính tả', ngoac_kep:'Khoảng trắng trong ngoặc kép',
   viet_hoa_ten:'Viết hoa tên riêng / thuật ngữ', viet_hoa_dau_cau:'Viết hoa đầu câu', noi_doan:'Nối đoạn bị cắt giữa câu',
   llm_doan:'Ghi chú của LLM dịch (cả đoạn)', llm_ngoac:'Ghi chú LLM trong ngoặc', llm_nham:'LLM tự sửa tên giữa câu (à nhầm…)',
-  llm_mui_ten:'Ghi chú LLM dạng A -> B', llm_sua_tay:'Sửa tay ghi chú LLM', chu_la:'Chữ Thái/Hàn/Nhật/Nga/Ả Rập lẫn vào'
+  llm_mui_ten:'Ghi chú LLM dạng A -> B', llm_sua_tay:'Sửa tay ghi chú LLM', chu_la:'Chữ Thái/Hàn/Nhật/Nga/Ả Rập lẫn vào', thay_nguon:'Đoạn thay từ nguồn khác (bản cũ hỏng)'
 };
 async function renderClean(){
   await needClean();
