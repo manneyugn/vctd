@@ -9,7 +9,8 @@
     "duyet_viet_hoa: 144 cap tu doi chieu bien the ten (2026-11-23). Chi khop khi VIET HOA kieu ten (tranh 'duy trì giao dịch' -> 'Trì Dao'). Chi khac 1 am tiet, bien the < 3% so lan ten chuan.",
     "2026-11-23: chủ truyện xác nhận Trì Dao, Thần Đồ (Quỷ Đế), Nguyên Sênh là tên đúng.",
     "theo_chuong: bien the ten chi sua trong cac chuong liet ke (LLM dich phien am sai ca chuong; cung chu o chuong khac co the la nghia khac, vd 'Đại Đế Thần Cảnh').",
-    "2026-11-23: Bát Nhược/Bát Nhã -> Bàn Nhược (般若, = Hoàng Yên Trần chuyển thế); Thương Tử Hú -> Thương Tử Hằng (không bao giờ cùng chương, cùng vai); Thiên Nô -> Thiên Mụ từ c2600 (天姥)."
+    "2026-11-23: Bát Nhược/Bát Nhã -> Bàn Nhược (般若, = Hoàng Yên Trần chuyển thế); Thương Tử Hú -> Thương Tử Hằng (không bao giờ cùng chương, cùng vai); Thiên Nô -> Thiên Mụ từ c2600 (天姥).",
+    "2026-11-23 (wiki Baidu Baike): 天姥 đọc 'mụ' -> Thiên Mụ; 商子烆 một nhân vật -> Thương Tử Hằng; Mộc Linh Hy/Lung -> Mộc Linh Hi; Đại Hắc -> Tiểu Hắc (3 chương)."
   ],
   "duyet": {
     "trương như trần": "trương nhược trần",
@@ -209,7 +210,9 @@
     "thương tử hú": "thương tử hằng",
     "bát nhược": "bàn nhược",
     "bát nhã": "bàn nhược",
-    "thương tử húc": "thương tử hằng"
+    "thương tử húc": "thương tử hằng",
+    "mộc linh hy": "mộc linh hi",
+    "mộc linh hyếc": "mộc linh hi"
   },
   "theo_chuong": [
     {
@@ -812,6 +815,24 @@
         4211
       ],
       "ghi_chu": "天姥: 姥 doc 'mụ'; truoc c2600 'Thiên Nô' la khai niem (no le troi o Săn Thiên Chiến Trường), giu nguyen"
+    },
+    {
+      "sai": "Mộc Linh Lung",
+      "dung": "Mộc Linh Hi",
+      "chuong": [
+        754
+      ],
+      "ghi_chu": "木灵希, cùng cảnh với A Lạc ở c752-753"
+    },
+    {
+      "sai": "Đại Hắc",
+      "dung": "Tiểu Hắc",
+      "chuong": [
+        648,
+        2012,
+        2067
+      ],
+      "ghi_chu": "小黑 (Bất Tử Điểu); không đụng 'Đại Hắc Ám Tinh Vực'"
     }
   ]
 }
