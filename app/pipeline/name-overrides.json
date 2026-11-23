@@ -6,7 +6,8 @@
     "Xem pipeline/name-proposals.json để duyệt thêm cặp mới. Cột số là số lần",
     "xuất hiện trong nguyên văn truyện — biến thể càng hiếm thì càng chắc là lỗi gõ.",
     "Sửa Hán-Việt bị dịch nghĩa (Rừng Phi -> Lâm Phi) KHÔNG cần duyệt: khớp chính xác nên an toàn.",
-    "duyet_viet_hoa: 144 cap tu doi chieu bien the ten (2026-11-23). Chi khop khi VIET HOA kieu ten (tranh 'duy trì giao dịch' -> 'Trì Dao'). Chi khac 1 am tiet, bien the < 3% so lan ten chuan."
+    "duyet_viet_hoa: 144 cap tu doi chieu bien the ten (2026-11-23). Chi khop khi VIET HOA kieu ten (tranh 'duy trì giao dịch' -> 'Trì Dao'). Chi khac 1 am tiet, bien the < 3% so lan ten chuan.",
+    "2026-11-23: chủ truyện xác nhận Trì Dao, Thần Đồ (Quỷ Đế), Nguyên Sênh là tên đúng."
   ],
   "duyet": {
     "trương như trần": "trương nhược trần",
@@ -180,6 +181,13 @@
     "diêm hục": "diêm dục",
     "huỳnh hoắc": "huỳnh hoặc",
     "vô luyệt": "vô nguyệt",
-    "thanh mạc": "thanh mặc"
+    "thanh mạc": "thanh mặc",
+    "trì yêu": "trì dao",
+    "trì yôn": "trì dao",
+    "thần trà": "thần đồ",
+    "nguyên sinh": "nguyên sênh",
+    "nguyên sanh": "nguyên sênh",
+    "nguyên san": "nguyên sênh",
+    "nguyên sân": "nguyên sênh"
   }
 }
