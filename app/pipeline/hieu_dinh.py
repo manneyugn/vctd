@@ -345,6 +345,28 @@ def nap_bang_sua():
     return rules
 
 
+def nap_theo_chuong():
+    """name-overrides.json 'theo_chuong': {chuong: [(regex, ten_dung)]}. LLM dich phien am sai ten
+    ca chuong ("Đế Lục" o c607, chuong 606/608 deu la "Đế Nhất"); cung chu o chuong khac co
+    the la nghia khac ("Đại Đế Thần Cảnh"), nen chi sua trong chuong da kiem tra."""
+    ovr = json.loads((HERE / "name-overrides.json").read_text(encoding="utf-8"))
+    out = defaultdict(list)
+    for r in ovr.get("theo_chuong", []):
+        sau = r"(?! xuất hiện trước đây)" if r["sai"] == "Đế Tôn" else ""
+        rx = re.compile(rf"(?<![{CHU}])(?<!Đại )(?<!Quỷ ){re.escape(r['sai'])}(?![{CHU}]){sau}")
+        for c in r["chuong"]:
+            out[int(c)].append((rx, r["dung"]))
+    return out
+
+
+def ap_theo_chuong(p, n, tc, dem):
+    for rx, dung in tc.get(int(n), ()):
+        p, k = rx.subn(dung, p)
+        if k:
+            dem["ten_rieng"] += k
+    return p
+
+
 def ap_bang_sua(p, rules, dem):
     for rx, dung, ten, giu in rules:
         if giu is None:
@@ -580,7 +602,7 @@ def sua_tieu_de(titles):
     moi, k = {}, 0
     for n, t in titles.items():
         d = Counter()
-        x = ap_bang_sua(dau_cau(t, d), rules, d)
+        x = ap_theo_chuong(ap_bang_sua(dau_cau(t, d), rules, d), n, nap_theo_chuong(), d)
         moi[n] = x
         k += x != t
     return moi, k
@@ -632,8 +654,9 @@ def xu_ly(chuong, entities, log=print):
 
     log("  hieu dinh 4-6: ten rieng, chinh ta, ngoac kep")
     rules = nap_bang_sua()
+    tc = nap_theo_chuong()
     for n in chuong:
-        chuong[n] = [ngoac_kep(ap_bang_sua(p, rules, dem[n]), dem[n]) for p in chuong[n]]
+        chuong[n] = [ngoac_kep(ap_theo_chuong(ap_bang_sua(p, rules, dem[n]), n, tc, dem[n]), dem[n]) for p in chuong[n]]
 
     log("  hieu dinh 7: viet hoa")
     vh = VietHoa(entities, uni, bi)

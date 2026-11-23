@@ -7,7 +7,8 @@
     "xuất hiện trong nguyên văn truyện — biến thể càng hiếm thì càng chắc là lỗi gõ.",
     "Sửa Hán-Việt bị dịch nghĩa (Rừng Phi -> Lâm Phi) KHÔNG cần duyệt: khớp chính xác nên an toàn.",
     "duyet_viet_hoa: 144 cap tu doi chieu bien the ten (2026-11-23). Chi khop khi VIET HOA kieu ten (tranh 'duy trì giao dịch' -> 'Trì Dao'). Chi khac 1 am tiet, bien the < 3% so lan ten chuan.",
-    "2026-11-23: chủ truyện xác nhận Trì Dao, Thần Đồ (Quỷ Đế), Nguyên Sênh là tên đúng."
+    "2026-11-23: chủ truyện xác nhận Trì Dao, Thần Đồ (Quỷ Đế), Nguyên Sênh là tên đúng.",
+    "theo_chuong: bien the ten chi sua trong cac chuong liet ke (LLM dich phien am sai ca chuong; cung chu o chuong khac co the la nghia khac, vd 'Đại Đế Thần Cảnh')."
   ],
   "duyet": {
     "trương như trần": "trương nhược trần",
@@ -188,6 +189,400 @@
     "nguyên sinh": "nguyên sênh",
     "nguyên sanh": "nguyên sênh",
     "nguyên san": "nguyên sênh",
-    "nguyên sân": "nguyên sênh"
-  }
+    "nguyên sân": "nguyên sênh",
+    "diêm hoàng tự": "diêm hoàng đồ",
+    "diêm hoàng tồ": "diêm hoàng đồ",
+    "diêm hoàng tư": "diêm hoàng đồ",
+    "thạch ki nương nương": "thạch cơ nương nương",
+    "thạch kỷ nương nương": "thạch cơ nương nương",
+    "thạch kích nương nương": "thạch cơ nương nương",
+    "thương tử hưng": "thương tử hằng",
+    "thương tử hưởng": "thương tử hằng",
+    "thương tử hoằng": "thương tử hằng",
+    "trì hình thiên": "si hình thiên",
+    "xích hình thiên": "si hình thiên",
+    "quôi lượng hoàng": "khôi lượng hoàng",
+    "diêm lại tiên": "diêm chiết tiên",
+    "diêm lộn tiên": "diêm chiết tiên",
+    "ăn thánh hoa": "thực thánh hoa"
+  },
+  "theo_chuong": [
+    {
+      "sai": "Đế Thần",
+      "dung": "Đế Nhất",
+      "chuong": [
+        340
+      ]
+    },
+    {
+      "sai": "Đế Một",
+      "dung": "Đế Nhất",
+      "chuong": [
+        338,
+        632
+      ]
+    },
+    {
+      "sai": "Đế Lục",
+      "dung": "Đế Nhất",
+      "chuong": [
+        607
+      ]
+    },
+    {
+      "sai": "Đế Hôn",
+      "dung": "Đế Nhất",
+      "chuong": [
+        624
+      ]
+    },
+    {
+      "sai": "Đế Hồi",
+      "dung": "Đế Nhất",
+      "chuong": [
+        634
+      ]
+    },
+    {
+      "sai": "Đế Thần",
+      "dung": "Đế Trần",
+      "chuong": [
+        3797,
+        4114,
+        4189
+      ]
+    },
+    {
+      "sai": "Đế Tần",
+      "dung": "Đế Trần",
+      "chuong": [
+        3799,
+        3908,
+        3958,
+        4024,
+        4079,
+        4115
+      ]
+    },
+    {
+      "sai": "Đế Trấn",
+      "dung": "Đế Trần",
+      "chuong": [
+        3842,
+        3871,
+        4041,
+        4104,
+        4197
+      ]
+    },
+    {
+      "sai": "Đế Chân",
+      "dung": "Đế Trần",
+      "chuong": [
+        3730,
+        3787,
+        3808,
+        4021,
+        4084,
+        4105,
+        4137,
+        4140,
+        4141,
+        4155,
+        4157,
+        4159,
+        4170,
+        4194
+      ]
+    },
+    {
+      "sai": "Đế Tôn",
+      "dung": "Đế Trần",
+      "chuong": [
+        3729,
+        3759,
+        3801,
+        3809,
+        3845,
+        3848,
+        3869,
+        3880,
+        3885,
+        3895,
+        3896,
+        3943,
+        3962,
+        3972,
+        3991,
+        3998,
+        3999,
+        4002,
+        4009,
+        4025,
+        4059,
+        4076,
+        4134,
+        4145,
+        4146,
+        4162,
+        4180,
+        4205
+      ],
+      "ghi_chu": "giu 'Đế Tôn xuất hiện trước đây' (c4134) va c4209 (danh hieu chung)"
+    },
+    {
+      "sai": "Trương Hạo Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        817,
+        858,
+        1908,
+        2250,
+        2474,
+        2665,
+        3182,
+        3372,
+        3770,
+        3843,
+        3876
+      ]
+    },
+    {
+      "sai": "Trương Lạc Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        369,
+        577,
+        653,
+        1256,
+        1582,
+        2070,
+        2752
+      ]
+    },
+    {
+      "sai": "Trương Vực Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        2193,
+        2968,
+        3128,
+        3582
+      ]
+    },
+    {
+      "sai": "Trương Thác Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        4019,
+        4027,
+        4144
+      ]
+    },
+    {
+      "sai": "Trầm Nhược Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        22,
+        978,
+        1109,
+        3392,
+        3627,
+        3729
+      ]
+    },
+    {
+      "sai": "Lãnh Nhược Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        4023
+      ]
+    },
+    {
+      "sai": "Trương Lục Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        928
+      ]
+    },
+    {
+      "sai": "Trương Nhược Cơn",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        4163
+      ]
+    },
+    {
+      "sai": "Trương Tắc Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1200
+      ]
+    },
+    {
+      "sai": "Trương Hốc Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        3306
+      ]
+    },
+    {
+      "sai": "Trương Tháp Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        3826
+      ]
+    },
+    {
+      "sai": "Trương Tần Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1369
+      ]
+    },
+    {
+      "sai": "Trương Hạc Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1628
+      ]
+    },
+    {
+      "sai": "Trương Huyết Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        2053
+      ]
+    },
+    {
+      "sai": "Trương Vấn Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1894,
+        2692,
+        3305
+      ]
+    },
+    {
+      "sai": "Trương Vô Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        3492,
+        3679
+      ]
+    },
+    {
+      "sai": "Trương Nhược Chân",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        631,
+        3942
+      ]
+    },
+    {
+      "sai": "Trương Nhược Hạo",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        2550
+      ]
+    },
+    {
+      "sai": "Hàn Khâu",
+      "dung": "Hàn Thu",
+      "chuong": [
+        255,
+        291,
+        1519,
+        1526,
+        4188
+      ]
+    },
+    {
+      "sai": "Hàn Tựu",
+      "dung": "Hàn Thu",
+      "chuong": [
+        257,
+        3411
+      ]
+    },
+    {
+      "sai": "Vô Khương",
+      "dung": "Vô Cương",
+      "chuong": [
+        2253,
+        2357,
+        2368,
+        2768
+      ]
+    },
+    {
+      "sai": "Không Cương",
+      "dung": "Vô Cương",
+      "chuong": [
+        2371,
+        2425,
+        2436,
+        2475,
+        2823,
+        2826,
+        2838
+      ]
+    },
+    {
+      "sai": "Bất Cương",
+      "dung": "Vô Cương",
+      "chuong": [
+        2305,
+        2337,
+        2362,
+        2374,
+        2405,
+        2796
+      ]
+    },
+    {
+      "sai": "Không Nguyệt",
+      "dung": "Vô Nguyệt",
+      "chuong": [
+        3057,
+        3074,
+        3100,
+        3140,
+        3146,
+        3155,
+        3169,
+        3174,
+        3176,
+        3250,
+        3333,
+        3364,
+        3734,
+        3776,
+        4158,
+        4204
+      ]
+    },
+    {
+      "sai": "Phượng Tuyền",
+      "dung": "Phượng Thiên",
+      "chuong": [
+        2956,
+        3267,
+        3546,
+        3580,
+        3660,
+        3813,
+        3817,
+        3963
+      ]
+    },
+    {
+      "sai": "Phượng Tuyên",
+      "dung": "Phượng Thiên",
+      "chuong": [
+        3448,
+        3456
+      ]
+    }
+  ]
 }
