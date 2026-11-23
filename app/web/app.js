@@ -370,7 +370,9 @@ const CLEAN_LABEL = {
   ellipsis:'Dấu ba chấm kéo dài', junk_links:'Link rác / watermark', whitespace:'Khoảng trắng thừa',
   dau_cau:'Dấu câu kiểu Trung (「」《》、。)', rac:'Lời tác giả / converter', chu_han:'Chữ Hán sót',
   ten_rieng:'Tên riêng gõ sai', chinh_ta:'Lỗi chính tả', ngoac_kep:'Khoảng trắng trong ngoặc kép',
-  viet_hoa_ten:'Viết hoa tên riêng / thuật ngữ', viet_hoa_dau_cau:'Viết hoa đầu câu', noi_doan:'Nối đoạn bị cắt giữa câu'
+  viet_hoa_ten:'Viết hoa tên riêng / thuật ngữ', viet_hoa_dau_cau:'Viết hoa đầu câu', noi_doan:'Nối đoạn bị cắt giữa câu',
+  llm_doan:'Ghi chú của LLM dịch (cả đoạn)', llm_ngoac:'Ghi chú LLM trong ngoặc', llm_nham:'LLM tự sửa tên giữa câu (à nhầm…)',
+  llm_mui_ten:'Ghi chú LLM dạng A -> B', llm_sua_tay:'Sửa tay ghi chú LLM', chu_la:'Chữ Thái/Hàn/Nhật/Nga/Ả Rập lẫn vào'
 };
 async function renderClean(){
   await needClean();

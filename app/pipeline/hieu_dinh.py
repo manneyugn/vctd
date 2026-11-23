@@ -7,8 +7,10 @@ viet hoa, hau to "giới/tộc" nen viet hoa hay khong.
 
 Thu tu:
   1. dau_cau     「」《》“” -> "  ,  、。，！？ -> dau Viet,  …… -> ...
+     + ghi_chu_llm: ghi chu cua LLM dich con sot (ghi_chu_llm.py + hieu-dinh/sua-tay.json)
   2. rac         loi tac gia cuoi chuong (cau phieu...), dong 第123章
   3. chu_han     chu Han sot -> am Han-Viet, chon theo ngu canh (bigram ca truyen)
+     + chu_la    chu Thai/Han/Nhat/Kirin/A Rap lot vao giua chu Viet -> tu hop ngu canh
   4. ten_rieng   cap sua da duyet trong name-overrides.json + Han-Viet bi dich nghia
   5. chinh_ta    bang loi chinh ta thong dung (hieu-dinh/chinh-ta.json)
   6. ngoac_kep   ghep cap " de sua khoang trang:  giường" kẽo kẹt" -> giường "kẽo kẹt"
@@ -16,11 +18,13 @@ Thu tu:
 Moi quy tac dem rieng tung chuong -> clean-log (tab Hieu dinh).
 Nhung gi khong chac thi ghi vao web/data/hieu-dinh-bao-cao.json de nguoi duyet.
 """
-import gzip, itertools, json, re
+import gzip, itertools, json, re, sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE))
+import ghi_chu_llm
 CFG = HERE / "hieu-dinh"
 
 HOA = "A-ZÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚÝĂĐĨŨƠƯẠẢẤẦẨẬẮẰẲẶẸẺẼẾỀỂỆỈỊỌỎỐỒỔỘỚỜỞỢỤỦỨỪỬỰỲỴỶỸ"
@@ -29,6 +33,8 @@ CHU = HOA + THUONG
 TU = re.compile(rf"[{CHU}]+")
 NGUYEN_AM = re.compile(r"[aăâeêioôơuưyàáảãạằắẳẵặầấẩẫậèéẻẽẹềếểễệìíỉĩịòóỏõọồốổỗộờớởỡợùúủũụừứửữựỳýỷỹỵ]")
 HAN = re.compile(r"[㐀-䶿一-鿿豈-﫿]+")
+# chu cua bang ma khac lot vao giua chu Viet: Thai, Han Quoc, kana Nhat, Kirin, A Rap
+CHU_LA = re.compile(r"[\u0E00-\u0E7F\uAC00-\uD7AF\u1100-\u11FF\u3040-\u30FF\u0400-\u04FF\u0600-\u06FF]+")
 
 
 def hoa_dau(s):
@@ -86,6 +92,10 @@ def dau_cau(p, dem):
 RAC = re.compile(r"(?i)(cầu phiếu|phiếu đề cử|nguyệt phiếu|phiếu tháng|vé tháng|"
                  r"hoạt động ngoại truyện|gửi ngoại truyện|hòm thư|hộp thư|"
                  r"cập nhật rất chậm|bảo vệ cơ bản|bảo đảm\.\)|cầu đặt mua)")
+# loi tac gia (Phi Thien Ngu / "Tieu Ngu") cuoi chuong: lich cap nhat, WeChat, xin loi viet nham...
+LOI_TAC_GIA = re.compile(r"(?i)(cập nhật|tiểu ngư|phi thiên ngư|đặt đọc|chương nữa|hai chương|ba chương|"
+                         r"bốn ngàn chữ|ngàn chữ|đồng hồ sinh học|lỗi bug|\bbug\b|công chúng hiệu|wechat|"
+                         r"microblogging|vi tín|feitianyu|bạn đọc|độc giả|đạo hữu nào|hồng bao|bao lì xì)")
 TIEU_DE_HAN = re.compile(r"^\s*(第\s*\d+\s*(章|chương)?|Chương\s*\d+\s*:\s*,?)\s*\S{0,80}$")
 
 
@@ -95,6 +105,8 @@ def loc_rac(paras, dem, bao_cao, n):
         cuoi = i >= len(paras) - 4
         bo = False
         if RAC.search(p) and (cuoi or (p.startswith("(") and p.rstrip(".").endswith(")"))):
+            bo = True
+        elif cuoi and LOI_TAC_GIA.search(p) and '"' not in p:
             bo = True
         elif "第" in p and TIEU_DE_HAN.match(p) and len(p) < 90:
             bo = True
@@ -192,6 +204,53 @@ class ChuHan:
         s += 0.001 * min(self.uni.get(x, 0) for x in w)
         return s
 
+    def sua_chu_la(self, p, dem, n, bao_cao):
+        """'chớp lóع' -> 'chớp lóe', 'truyền t송 trận' -> 'truyền tống trận', 'bọnพวก' -> 'bọn họ'."""
+        for _ in range(30):
+            m = CHU_LA.search(p)
+            if not m:
+                return p
+            s, e = m.span()
+            mt = re.search(rf"[{CHU}]*$", p[:s]); mp = re.match(rf"[{CHU}]*", p[e:])
+            dau, cuoi = mt.group(), mp.group()
+            a, b = s - len(dau), e + len(cuoi)
+            truoc = TU.findall(p[:a].lower()[-40:]); sau = TU.findall(p[b:].lower()[:40])
+            t1 = truoc[-1] if truoc else ""; s1 = sau[0] if sau else ""
+            d0, c0 = dau.lower(), cuoi.lower()
+            best, diem = None, -1.0
+            if d0 or c0:
+                for w, c in self.uni.items():
+                    if c < 20 or not w.startswith(d0) or not w.endswith(c0) or len(w) > len(d0) + len(c0) + 4:
+                        continue
+                    sc = 3 * self.bi.get((t1, w), 0) + 3 * self.bi.get((w, s1), 0) + 0.001 * c
+                    if sc > diem:
+                        best, diem = w, sc
+                # hai tu: "tuوي" -> "tu vi", "tinhこう" -> "tinh không"
+                if d0 and not c0 and self.am_tiet_hop_le(d0) and len(d0) >= 2 and self.uni.get(d0, 0) >= 300:
+                    theo = sorted(((self.bi[(x, y)], y) for (x, y) in self._sau(d0)), reverse=True)[:30]
+                    for c, y in theo:
+                        if c < 30:
+                            continue
+                        sc = 3 * self.bi.get((t1, d0), 0) + 2 * c + 3 * self.bi.get((y, s1), 0)
+                        if sc > diem * 1.5:
+                            best, diem = d0 + " " + y, sc
+            moi = best or (dau + cuoi)
+            if dau[:1].isupper():
+                moi = hoa_ten(moi) if len(moi.split()) > 1 and cuoi[:1].isupper() else hoa_dau(moi)
+            p = p[:a] + moi + p[b:]
+            p = re.sub(r" {2,}", " ", p)
+            dem["chu_la"] += 1
+            if len(bao_cao["chu_la"]) < 300:
+                bao_cao["chu_la"].append(f"c{n}: {dau}{m.group()}{cuoi} -> {moi!r}")
+        return p
+
+    def _sau(self, x):
+        if not hasattr(self, "_idx_sau"):
+            self._idx_sau = {}
+            for (a, b) in self.bi:
+                self._idx_sau.setdefault(a, []).append((a, b))
+        return self._idx_sau.get(x, [])
+
     def sua(self, p, dem, n, bao_cao):
         vong = 0
         while True:
@@ -270,6 +329,9 @@ def nap_bang_sua():
     ovr = json.loads((HERE / "name-overrides.json").read_text(encoding="utf-8"))
     for sai, dung in ovr.get("duyet", {}).items():
         rules.append((re.compile(rf"(?<![{CHU}]){re.escape(sai)}(?![{CHU}])", re.I), hoa_ten(dung), "ten_rieng", False))
+    # chi khop khi viet hoa kieu ten: "Trì Giao" -> "Trì Dao", nhung "duy trì giao dịch" giu nguyen
+    for sai, dung in ovr.get("duyet_viet_hoa", {}).items():
+        rules.append((re.compile(rf"(?<![{CHU}]){re.escape(hoa_ten(sai))}(?![{CHU}])"), hoa_ten(dung), "ten_rieng", False))
     ct = json.loads((CFG / "chinh-ta.json").read_text(encoding="utf-8"))
     for sai, dung in ct.get("ten_dich_nghia", {}).items():
         # chi sua khi dang viet hoa nhu ten (tranh 'rút kiếm hai lần')
@@ -543,10 +605,17 @@ def xu_ly(chuong, entities, log=print):
     dem = {n: Counter() for n in chuong}
     bao_cao = defaultdict(list)
 
-    log("  hieu dinh 1-2: dau cau, rac")
+    log("  hieu dinh 1-2: dau cau, ghi chu LLM, rac")
     for n in chuong:
-        ps = [dau_cau(p, dem[n]) for p in chuong[n]]
+        chuong[n] = [dau_cau(p, dem[n]) for p in chuong[n]]
+    toan_van = "\n".join(p for ps in chuong.values() for p in ps).lower()
+    ghi_chu_llm.KIEM_TRA = lambda cum: toan_van.count(cum.lower()) >= 3
+    sua_tay = ghi_chu_llm.nap_sua_tay()
+    for n in chuong:
+        ps = ghi_chu_llm.don(chuong[n], n, dem[n], bao_cao, sua_tay)
         chuong[n] = [p for p in loc_rac(ps, dem[n], bao_cao, n) if p]
+    ghi_chu_llm.KIEM_TRA = None
+    del toan_van
 
     log("  hieu dinh 3: thong ke bigram + chu Han")
     uni, bi, hoa = dem_ngram(chuong)
@@ -557,6 +626,7 @@ def xu_ly(chuong, entities, log=print):
                 ch.hoc_chu_thich(p)
     for n in chuong:
         chuong[n] = [ch.sua(p, dem[n], n, bao_cao) if HAN.search(p) else p for p in chuong[n]]
+        chuong[n] = [ch.sua_chu_la(p, dem[n], n, bao_cao) if CHU_LA.search(p) else p for p in chuong[n]]
     bao_cao["chu_han_hoc_tu_chu_thich"] = {k: v.most_common(3) for k, v in ch.hoc.items()}
     bao_cao["chu_han_khong_tra_duoc"] = ch.chua_ro.most_common()
 

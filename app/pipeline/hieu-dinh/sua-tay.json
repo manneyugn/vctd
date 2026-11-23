@@ -1,0 +1,254 @@
+{
+ "_doc": [
+  "Sua tay ghi chu LLM ma quy tac tu dong khong go duoc (ghi_chu_llm.py doc file nay).",
+  "Moi chuong: thay=[[chuoi goc, chuoi moi]], xoa_doan=[tien to doan], xoa_dau_chuong_den=chuoi bat dau doan truyen that,",
+  "xoa_n_doan_dau=so doan ban nhap o dau chuong. Chuoi goc lay nguyen van tu ban truoc khi don."
+ ],
+ "chuong": {
+  "308": {
+   "thay": [
+    [
+     "Trương Mần... à nhầm, Trương Hư... Trương Ngư... Trương Chần... Trương Nhuận... (chờ đã: Trương Vân? Không, Trương Hằng? Không, Trương Trần? Đúng rồi, trương nhược trần là Trương Nhược Trần) Trương Nhược Trần lại trốn thoát",
+     "Trương Nhược Trần lại trốn thoát"
+    ]
+   ]
+  },
+  "406": {
+   "thay": [
+    [
+     "Lịch sử sở dĩ Trương Lại... à nhầm, Trương Tuyền... à nhầm, Trương Nhược Trần sở dĩ",
+     "Trương Nhược Trần sở dĩ"
+    ]
+   ]
+  },
+  "955": {
+   "thay": [
+    [
+     "Thương Khúc - ý lộn - Trương Nhược Trần... à nhôm, Trương Nhược Trần không cho",
+     "Trương Nhược Trần không cho"
+    ]
+   ]
+  },
+  "1042": {
+   "thay": [
+    [
+     "tiếng tăm của Thượng Quan thế gia... à nhầm, Huyết Thần Giáo Thần tử",
+     "tiếng tăm của Huyết Thần Giáo Thần tử"
+    ]
+   ]
+  },
+  "1271": {
+   "thay": [
+    [
+     "?Chỉ thấy Ngao Tâm Nhan",
+     "Chỉ thấy Ngao Tâm Nhan"
+    ],
+    [
+     "lại không thấy Hoàng Yên Trần, Trương Thượng Cực, à nhầm, Trương Lăng Phong... ơ không, Trương Nhược Trần là Trương Nhược Trần. Trương Nhược Trần vô cùng",
+     "lại không thấy Hoàng Yên Trần. Trương Nhược Trần vô cùng"
+    ],
+    [
+     "\"Yên Trấn... nhầm, Yên Trần,",
+     "\"Yên Trần,"
+    ]
+   ]
+  },
+  "1303": {
+   "thay": [
+    [
+     "Trương Ruốt Đẩn (Trương Nhược Trần - nhầm, Trương Nhược Trần)",
+     "Trương Nhược Trần"
+    ]
+   ]
+  },
+  "1449": {
+   "thay": [
+    [
+     "do Xนาน (Đoạn này RAW là Linh Long Hoả - Hoạn Linh Long Hỏa) Linh Long Hỏa",
+     "do Linh Long Hỏa"
+    ]
+   ]
+  },
+  "2112": {
+   "thay": [
+    [
+     "hướng về phía Trương Tường Phong – nhầm, Trương Lập Phong – à không, Trương Nguyệt Phong – à nhầm, Trương Tường Phong... trào dâng.",
+     "hướng về phía Trương Nhược Trần trào dâng."
+    ]
+   ]
+  },
+  "2125": {
+   "thay": [
+    [
+     "trong lòng Trương Vô Cực à nhầm, Trương Nhược Trần — à, Trương Lăng Phong... À không, Trương Nhược Trần cảm thấy",
+     "trong lòng Trương Nhược Trần cảm thấy"
+    ]
+   ]
+  },
+  "2201": {
+   "thay": [
+    [
+     "Tu Sĩ Thiên Thần (sửa thành Tu Thần Thiên Thần / Tu Thần Thiên Thần -> Tu Thần Thiên Thần, ở đây dùng Tu Thần Thiên Thần)",
+     "Tu Thần Thiên Thần"
+    ]
+   ]
+  },
+  "2357": {
+   "thay": [
+    [
+     "hiểu biết của Trang Trấn (nhầm Trương Nhược Trần) - à không, Trương Nhược Trần - quá ít",
+     "hiểu biết của Trương Nhược Trần quá ít"
+    ]
+   ]
+  },
+  "2544": {
+   "thay": [
+    [
+     "Tứ ca của Nguyên Tịch Phẫn chính là Nguyên Mạch Mạch, à nhầm, Nguyên Mạch Mạch... Nguyên Mạch Mạch -> Nguyên Mạch... Nguyên Mạch Mách -> Nguyên Mạch Lạc? Không, Nguyên Mạch Mạch... à là Nguyên Mạch Mạch. Xin lỗi, tên là Nguyên Mạch. À nhầm, Nguyên Mạch Phố? Không, là Nguyên Mạch. Xin tra cứu: Nguyên Thiên Mạch -> Nguyên Thiên Mạch? Không, Nguyên Thiên Mạch? Chữ thiên là thiên? Không, thiên là thiên. Nguyên Thiên Mạch -> Nguyên Thiên Mạch. Đợi đã, nguyên văn là Nguyên Thiên Mạch -> Nguyên Thiên Mạch (hoặc Nguyên Thiên Mạch). Thôi dịch theo Hán Việt chuẩn: Nguyên Thiên Mạch.",
+     "Tứ ca của Nguyên Tịch Phẫn chính là Nguyên Thiên Mạch."
+    ],
+    [
+     "chỗ dựa của Trương Ân, à nhầm, Trương Rô-sê, à không, Trương Tần, à nhầm, Trương Nhược Trần,",
+     "chỗ dựa của Trương Nhược Trần,"
+    ]
+   ]
+  },
+  "2557": {
+   "thay": [
+    [
+     "chính là Trương Hắc Cầm, à không, Trương Rần Trầm... trân trọng sửa lại: Trương Tần Trần... không, Trương Nhược Trần với",
+     "chính là Trương Nhược Trần với"
+    ]
+   ]
+  },
+  "2878": {
+   "thay": [
+    [
+     "há chẳng phải táng gia bại sản... à nhầm, đền cả tính mạng",
+     "há chẳng phải đền cả tính mạng"
+    ]
+   ]
+  },
+  "3217": {
+   "thay": [
+    [
+     "Trương Vô Trần nói. (Sửa thành: Trương Tịch/Trương Nhược Trần -> Trương Nhược Trần)",
+     "Trương Nhược Trần nói."
+    ],
+    [
+     "Địa Lược (sửa: Địa ngục)",
+     "Địa Ngục"
+    ]
+   ]
+  },
+  "3248": {
+   "thay": [
+    [
+     "Tấm lót chân... à nhầm, Trương Nhược Trần... Không phải, đây là Vạn Cổ Thần Đế. Ta đọc nhầm nhân vật. ",
+     ""
+    ],
+    [
+     "cái lão phu thê này... à nhầm, lão phu thố... lão phu tử này",
+     "cái lão phu tử này"
+    ]
+   ]
+  },
+  "3366": {
+   "thay": [
+    [
+     "Mụ Thô (chỉnh lại: Montau)",
+     "Mụ Thô"
+    ]
+   ]
+  },
+  "3416": {
+   "thay": [
+    [
+     "Trương Hั่น (nhầm, Trương Nhược Trần)",
+     "Trương Nhược Trần"
+    ]
+   ]
+  },
+  "3505": {
+   "thay": [
+    [
+     "Thách thức Tài Giấu Tôn Giả? (Sửa: Tài Giấu Tôn Giả -> Tài Địch Tôn Giả / Tài Quyết Tôn Giả... à \"cái gì\" Tôn Giả? Raw: Tài Quyết Tôn Giả -> Tài Quyết Tôn Giả).",
+     "Thách thức Tài Quyết Tôn Giả?"
+    ]
+   ]
+  },
+  "3633": {
+   "thay": [
+    [
+     "Trương Vấn Cổ... nhầm, Trương Tấn Cổ... không, Trương Nhược Trần liền",
+     "Trương Nhược Trần liền"
+    ]
+   ]
+  },
+  "3926": {
+   "thay": [
+    [
+     "Trương Ngọc... à nhầm, Trương Vô Cực... (không, Trương Nhược Trần) - Trương Nhược Trần vội vã",
+     "Trương Nhược Trần vội vã"
+    ],
+    [
+     "di dời đại đại... đại lượng đệ tử Trương gia đến Giới Giới... à nhầm, Giới Giới... (Giới Giới -> Giới Hải -> Giới) đến Kiếm Giới",
+     "di dời đại lượng đệ tử Trương gia đến Kiếm Giới"
+    ]
+   ]
+  },
+  "4014": {
+   "thay": [
+    [
+     " (Note: \"Đế Cửu\" raw là Đế Trần - Đế Trần, chuẩn hóa Hán Việt).",
+     ""
+    ],
+    [
+     "\"Đế Cửu có thể tha cho Tiên Nhạc Sư lần này không?\"",
+     "\"Đế Trần có thể tha cho Tiên Nhạc Sư lần này không?\""
+    ]
+   ],
+   "xoa_doan": [
+    "*Sửa lại Đế Trần:",
+    "\"Đế Cửu có thể tha cho Tiên Nhạc Sư lần này không?\" ->"
+   ]
+  },
+  "4021": {
+   "thay": [
+    [
+     "Trương Học Hải—à nhầm, Trương Tôn Giả—Trương Hết—Trương Ngũ—Trương Tịch—Trương Vô—Trương Tam—Trương Cửu—tóm lại là Trương Nhược Trần lên tiếng",
+     "Trương Nhược Trần lên tiếng"
+    ]
+   ]
+  },
+  "4161": {
+   "thay": [
+    [
+     "Về mặt tình cảm, Trương Văn Sâm - à nhầm, Trương Lăng? Không, Trương Nhược Trần là Trương Nhược Trần. Về mặt tình cảm, ",
+     "Về mặt tình cảm, "
+    ]
+   ]
+  },
+  "4206": {
+   "thay": [
+    [
+     "Trương Huyết Cần... à nhầm, Trương Nhược Trần... Trương Huyết Cần là ai, Trương Nhược Trần... Trương Nhược Trần rất rõ ràng",
+     "Trương Nhược Trần rất rõ ràng"
+    ],
+    [
+     "La Sát... à nhầm, La Sát... la sát... La Sát... La Sát là La Già? Không, là La Đồ? À, Raw là La Sát -> La Sát? Không, la sát là La Sát? Không, Raw là La Sát -> La Sát? Không, La Sát là la sát. La sát là La Sát? Không, tra lại: la sát là La Sát? Đúng rồi, La Sát. Thôi cứ dịch là La Sát. À nhầm, La Sát là La Sát, hoặc La Sát là La Sát. Để chắc ăn: ",
+     ""
+    ]
+   ]
+  },
+  "2770": {
+   "xoa_dau_chuong_den": "Văn Chử là tu sĩ duy nhất"
+  },
+  "2394": {
+   "xoa_dau_chuong_den": "Dù là tu sĩ của Bất Tử Huyết tộc"
+  },
+  "3541": {
+   "xoa_n_doan_dau": 4
+  }
+ }
+}
