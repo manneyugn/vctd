@@ -9,7 +9,8 @@
     "'vân vũ' = 'vân võ' (云武, nguyên văn); regex giu viet hoa, bo qua 'vũ trụ' (danh tu thuong).",
     "'Lâm Phong' (hoa ca) = 'Trương Nhược Trần' (张若尘): ~260 file chuong xtruyen lan '林枫' (ten chinh cua mot truyen khac); case-sensitive de giu thanh ngu thuong 'ngọc thụ lâm phong'.",
     "'Cố Lâm Phong' (顾临风) là tên giả của Trương Nhược Trần ở Huyết Thần Giáo (c930-1220), giữ nguyên; 'Cố Lăng Phong' -> 'Cố Lâm Phong'.",
-    "'Thương Tuyệt' (苍绝, chương 3296 '苍绝出手'): lão quỷ theo Trương Nhược Trần; gộp Thương Giữ/Giệt/Gi tuyệt."
+    "'Thương Tuyệt' (苍绝, chương 3296 '苍绝出手'): lão quỷ theo Trương Nhược Trần; gộp Thương Giữ/Giệt/Gi tuyệt.",
+    "'Cái Thiên Kiêu' (盖天骄): gộp Cái Thiên Kiều/Cải Thiên Kiêu/Xích Thiên Kiều; 'Thiên Kiêu Tọa' (天骄座)."
   ],
   "ten_dich_nghia": {
     "hoàng suối đại đế": "hoàng tuyền đại đế",
@@ -51,6 +52,8 @@
     "Tu Chân thần thần": "Tu Thần Thiên Thần",
     "(?<![A-Za-zÀ-ỹ])Baal(?![A-Za-zÀ-ỹ])": "Ba Nhĩ",
     "(?<![A-Za-zÀ-ỹ])(?<!Phủ, )Thiên Mẫu(?![A-Za-zÀ-ỹ])(?!\\s+[Gg]iới)": "Thiên Mụ",
-    "(?<![A-Za-zÀ-ỹ])Thương (?:Gi tuyệt|C tuyệt|Giữ|Giệt|Gi)(?![A-Za-zÀ-ỹ])": "Thương Tuyệt"
+    "(?<![A-Za-zÀ-ỹ])Thương (?:Gi tuyệt|C tuyệt|Giữ|Giệt|Gi)(?![A-Za-zÀ-ỹ])": "Thương Tuyệt",
+    "(?<![A-Za-zÀ-ỹ])(?:Cái|Cải|Xích) Thiên Ki(?:ều|êu)(?![A-Za-zÀ-ỹ])": "Cái Thiên Kiêu",
+    "Thiên Kiều Tọa": "Thiên Kiêu Tọa"
   }
 }
