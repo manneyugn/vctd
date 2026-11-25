@@ -12,7 +12,8 @@
     "'Thương Tuyệt' (苍绝, chương 3296 '苍绝出手'): lão quỷ theo Trương Nhược Trần; gộp Thương Giữ/Giệt/Gi tuyệt.",
     "'Cái Thiên Kiêu' (盖天骄): gộp Cái Thiên Kiều/Cải Thiên Kiêu/Xích Thiên Kiều; 'Thiên Kiêu Tọa' (天骄座).",
     "'Thiên Cốt Nữ Đế' (千骨女帝, Hoa Ảnh Khinh Thiền 花影轻蝉): gộp Thiên Cổ Nữ Đế / Thiên Cốt Nữ Hoàng / Thiên Cốt nữ đế.",
-    "Thiên Cốt Thể Chất (千骨体质), Thần Vẫn Kinh (神陨经), Vẫn Thần Đảo (陨神岛), Hoa Ảnh Khinh Thiền (花影轻蝉) — theo Baidu Baike mục 寒雪."
+    "Thiên Cốt Thể Chất (千骨体质), Thần Vẫn Kinh (神陨经), Vẫn Thần Đảo (陨神岛), Hoa Ảnh Khinh Thiền (花影轻蝉) — theo Baidu Baike mục 寒雪.",
+    "Hoa Ảnh Thương Hiệt (花影仓颉, Thái Thượng của Vẫn Thần Đảo); Thần Vẫn Tộc (神陨族, tộc sống trên đảo)."
   ],
   "ten_dich_nghia": {
     "hoàng suối đại đế": "hoàng tuyền đại đế",
@@ -62,6 +63,8 @@
     "Thiên Cốt thể chất": "Thiên Cốt Thể Chất",
     "(?<![A-Za-zÀ-ỹ])(?:Thần Vẫn|Vẫn Thần) [Đđ]ảo(?![A-Za-zÀ-ỹ])": "Vẫn Thần Đảo",
     "Vẫn Thần Kinh": "Thần Vẫn Kinh",
-    "Hoa Ảnh Khinh (?:Thiềm|Thuyền)": "Hoa Ảnh Khinh Thiền"
+    "Hoa Ảnh Khinh (?:Thiềm|Thuyền)": "Hoa Ảnh Khinh Thiền",
+    "Hoa Ảnh Thương (?:Cật|Cuyết|Hiệt|Kiệt|Hiết)": "Hoa Ảnh Thương Hiệt",
+    "(?<![A-Za-zÀ-ỹ])(?:Thần Vẫn|Vẫn Thần) [Tt]ộc(?![A-Za-zÀ-ỹ])": "Thần Vẫn Tộc"
   }
 }
