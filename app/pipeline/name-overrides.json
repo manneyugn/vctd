@@ -14,7 +14,8 @@
     "2026-11-25: dò tên lẫn giữa chương lân cận (pipeline/ten_theo_chuong.py, ten_lac_thoi.py), duyệt tay; 商子烆 mọi biến thể -> Thương Tử Hằng; 狩天 -> Săn Thiên Đại Yến / Săn Thiên Chiến Tràng.",
     "2026-11-25: đối chiếu ứng viên tên lẫn với danh mục wiki (hieu-dinh/wiki-ten.txt, pipeline/doi_chieu_wiki.py); 橙月星使 mọi biến thể -> Cam Nguyệt Tinh Sứ.",
     "2026-11-25: tên lạ theo index chương lân cận (pipeline/ten_la.py); tên riêng theo đúng âm Hán-Việt: 橙月星使 -> Tranh Nguyệt Tinh Sứ, 狩天 -> Thú Thiên, 罗恸罗 -> La Thống La, 天枢针 -> Thiên Xu Châm.",
-    "2026-11-25 (wiki): 孟凰娥 = Mạnh Hoàng Nga, 孟凰妳 = Mạnh Hoàng Nhĩ (song sinh, 2 người); 婪婴 = Lam Anh; 克律萨 = Khắc Luật Tát; 天圆无缺 = Thiên Viên Vô Khuyết (cảnh giới, giữ nguyên); 阿岚 = A Lam Bán Thánh."
+    "2026-11-25 (wiki): 孟凰娥 = Mạnh Hoàng Nga, 孟凰妳 = Mạnh Hoàng Nhĩ (song sinh, 2 người); 婪婴 = Lam Anh; 克律萨 = Khắc Luật Tát; 天圆无缺 = Thiên Viên Vô Khuyết (cảnh giới, giữ nguyên); 阿岚 = A Lam Bán Thánh.",
+    "2026-11-25: 韩湫 bị dịch nghĩa chữ 湫 thành 'Thấp Trũng Hồ Nước' -> Hàn Thu."
   ],
   "duyet": {
     "trương như trần": "trương nhược trần",
@@ -600,7 +601,9 @@
     "mệnh phượng nữ": "mạnh hoàng nhĩ",
     "mệnh nhị thập bát": "mạnh nhị thập bát",
     "a lãm bán thánh": "a lam bán thánh",
-    "thiên tròn bất khuyết": "thiên viên vô khuyết"
+    "thiên tròn bất khuyết": "thiên viên vô khuyết",
+    "hàn thấp trũng hồ nước": "hàn thu",
+    "hàn thấp trủng hồ nước": "hàn thu"
   },
   "theo_chuong": [
     {
@@ -4337,6 +4340,22 @@
         4040
       ],
       "ghi_chu": "wiki 孟凰娥/孟凰妳 2026-11-25"
+    },
+    {
+      "sai": "Hàn Thấp Trũng hồ nước",
+      "dung": "Hàn Thu",
+      "chuong": [
+        657
+      ],
+      "ghi_chu": "韩湫: 湫 bị dịch nghĩa"
+    },
+    {
+      "sai": "đầm lầy Hàn Thấp",
+      "dung": "Hàn Thu",
+      "chuong": [
+        1183
+      ],
+      "ghi_chu": "韩湫: 湫 bị dịch nghĩa"
     }
   ]
 }
