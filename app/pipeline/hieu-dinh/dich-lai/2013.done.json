@@ -1,0 +1,657 @@
+{
+"so_doan": 167,
+"doan": {
+"0": {
+"goc": "(Này một chương bốn ngàn tám trăm tự!)",
+"dich": ""
+},
+"1": {
+"goc": "Thương Tử Hằng đầu quan bạo toái khai lai, ngân sắc tùng phát tản loạn, mãn kiểm đô thị tiên huyết, khán thượng khứ cực vi lang bối.",
+"dich": "Đầu quan của Thương Tử Hằng vỡ nát, mái tóc bạc rối tung, khắp mặt đều là máu tươi, trông vô cùng chật vật."
+},
+"2": {
+"goc": "Hắn đã sử xuất hồn thân giải sổ, nhưng hải thị vô pháp vãn hồi bại cục, tùy trứ thương thế gia trọng, tử vong chính tại bất đoạn hướng tha lâm cận.",
+"dich": "Hắn đã dùng hết mọi thủ đoạn, nhưng vẫn không thể vãn hồi bại cục, theo thương thế ngày càng nặng, tử vong đang không ngừng tới gần."
+},
+"3": {
+"goc": "\"Ta bại, ta lại bại cho trương nhược trần...\"",
+"dich": "\"Ta thua rồi, ta lại thua Trương Nhược Trần...\""
+},
+"4": {
+"goc": "Thương Tử Hằng nhãn thần biến đắc hữu chủng ám đạm, vô pháp tiếp thụ nhất hiện thật.",
+"dich": "Ánh mắt Thương Tử Hằng trở nên ảm đạm, không thể chấp nhận hiện thực này."
+},
+"5": {
+"goc": "Hồi tưởng khởi sổ niên chi trước, Trương Nhược Trần tại tha nhãn trung, tựu như na lâu nghĩ nhất dạng, ti hào bất cụ bị uy hiếp, tùy ý tựu năng niết tử.",
+"dich": "Nhớ lại mấy năm trước, trong mắt hắn Trương Nhược Trần chẳng khác gì một con kiến, không hề có chút uy hiếp nào, tùy ý là có thể bóp chết."
+},
+"6": {
+"goc": "Chỉ thị Trương Nhược Trần thành trường đắc thái khoái, khoái đáo nhượng tha hữu chủng phản ứng bất quá lai, nhất thứ thứ giao phong, tha đô một năng chiêm đáo thập ma tiện nghi, giá nhất thứ, canh thị thảm bại.",
+"dich": "Chỉ là Trương Nhược Trần trưởng thành quá nhanh, nhanh tới mức khiến hắn không kịp phản ứng, mỗi lần giao phong hắn đều không chiếm được tiện nghi gì, lần này lại càng thảm bại."
+},
+"7": {
+"goc": "Mãnh nhiên gian, Thương Tử Hằng ngẩng đầu lên, dĩ oán độc đích mục quang hướng Trương Nhược Trần, nộ hống đạo: \"Ta không cam tâm, ta tuyệt không hội thâu.\"",
+"dich": "Đột nhiên, Thương Tử Hằng ngẩng đầu lên, dùng ánh mắt oán độc nhìn Trương Nhược Trần, gầm lên: \"Ta không cam tâm, ta tuyệt đối sẽ không thua.\""
+},
+"8": {
+"goc": "Bàn tùy trứ Thương Tử Hằng đích nộ hống, kỳ thân thể khoái tốc biến đắc càn tiện hạ khứ, đại lượng tinh khí lưu thất, chú nhập Xích Tử Kiếm trung.",
+"dich": "Theo tiếng gầm của Thương Tử Hằng, thân thể hắn nhanh chóng khô quắt lại, lượng lớn tinh khí trôi đi, rót vào Xích Tử Kiếm."
+},
+"9": {
+"goc": "Đốn thời, Xích Tử Kiếm hoàn toàn biến thành huyết hồng sắc, kỳ thượng chư đa huyết sắc văn lạc phù hiện, uyển như nhân thể nội đích huyết mạch, thích phóng xuất xuất tinh nhất cổ vô bách yêu tà đích khí tức.",
+"dich": "Lập tức, Xích Tử Kiếm hoàn toàn biến thành màu đỏ máu, trên đó hiện ra rất nhiều đường vân màu máu, giống như huyết mạch trong cơ thể người, phóng thích ra một luồng khí tức yêu tà vô cùng."
+},
+"10": {
+"goc": "Bàng bác đích tà dị thần lực, tòng Xích Tử Kiếm trung dũng hiện xuất lai, uyển như nhất tôn thần linh chính tại khoái tốc phục tô, khủng bố đích uy áp, lung tráo bàng đại đích địa vực.",
+"dich": "Thần lực tà dị bàng bạc tuôn ra từ Xích Tử Kiếm, như một tôn thần linh đang nhanh chóng phục sinh, uy áp khủng bố bao phủ một vùng đất rộng lớn."
+},
+"11": {
+"goc": "\"Này là chẩm ma?\"",
+"dich": "\"Chuyện gì vậy?\""
+},
+"12": {
+"goc": "Nhất thời, chư đa tu sĩ đô cảm đáo đầu bì phát ma, thánh hồn bất câm chiến đẩu khởi lai, thân thể kỷ hồ yếu bất thụ khống chế đích quỵ hạ khứ.",
+"dich": "Nhất thời, rất nhiều tu sĩ đều cảm thấy da đầu tê dại, thánh hồn không khỏi run rẩy, thân thể gần như không khống chế được mà muốn quỳ xuống."
+},
+"13": {
+"goc": "Giá cổ thần uy cực kỳ khủng bố, di mạn phương viên sổ vạn lý, tự hữu chân thần giáng lâm thử gian.",
+"dich": "Luồng thần uy này cực kỳ khủng bố, lan rộng phương viên mấy vạn dặm, như có chân thần giáng lâm nơi này."
+},
+"14": {
+"goc": "\"Thương Tử này là chân bính mệnh, lại dĩ tự thân tinh khí thần vì dẫn, thích phóng Xích Tử Kiếm của vô thượng thần uy.\"",
+"dich": "\"Thương Tử lần này thật sự liều mạng rồi, lại lấy tinh khí thần của bản thân làm dẫn, phóng thích vô thượng thần uy của Xích Tử Kiếm.\""
+},
+"15": {
+"goc": "Hữu quan chiến đích cường giả nhẫn bất trụ chiến thanh đạo.",
+"dich": "Có cường giả quan chiến không nhịn được run giọng nói."
+},
+"16": {
+"goc": "Vô thượng thần uy nãi thị thần di cổ khí uẩn hàm đích chí cường lực lượng, nhất bàn đô thị đại thánh cảnh cường giả, tài năng thích phóng xuất lai, thánh vương cảnh cường giả thông thường đô chỉ thị năng cú thôi phát thần di cổ khí uẩn tàng đích bộ phận thần lực.",
+"dich": "Vô thượng thần uy là lực lượng chí cường ẩn chứa trong thần di cổ khí, thông thường chỉ có cường giả Đại Thánh cảnh mới có thể phóng thích ra, cường giả Thánh Vương cảnh thường chỉ có thể thúc phát một phần thần lực ẩn chứa trong thần di cổ khí."
+},
+"17": {
+"goc": "Thương Tử Hằng tuy bất thị đại thánh cảnh cường giả, đản khước tại thử khắc phó xuất cự đại đại giới, tương vô thượng thần uy thích phóng liễu xuất lai.",
+"dich": "Thương Tử Hằng tuy không phải cường giả Đại Thánh cảnh, nhưng lúc này đã trả cái giá cực lớn, phóng thích ra vô thượng thần uy."
+},
+"18": {
+"goc": "Cảm thụ đáo Xích Tử Kiếm thích phóng xuất đích khủng bố uy áp, Trương Nhược Trần đích nhãn sắc bất câm phát sinh nhất ta biến hóa, thanh tích cảm thụ đáo cự đại đích uy hiếp.",
+"dich": "Cảm nhận được uy áp khủng bố Xích Tử Kiếm phóng thích, sắc mặt Trương Nhược Trần không khỏi thay đổi, rõ ràng cảm nhận được uy hiếp cực lớn."
+},
+"19": {
+"goc": "\"Trương Nhược Trần, cho ta khứ tử.\"",
+"dich": "\"Trương Nhược Trần, đi chết đi.\""
+},
+"20": {
+"goc": "Thương Tử Hằng bào khiếu, huy động Xích Tử Kiếm, tương kích phát xuất đích vô thượng thần uy đả xuất.",
+"dich": "Thương Tử Hằng gào thét, vung Xích Tử Kiếm, đánh ra vô thượng thần uy đã kích phát."
+},
+"21": {
+"goc": "Giá thị tha tối hậu đích tối cường đích để bài, tuy thuyết vi thử phó xuất liễu vô bách cự đại đích đại giới, đản chỉ yếu năng cú kích sát Trương Nhược Trần, nhất thiết tiện đô thị đắc đáo đích.",
+"dich": "Đây là át chủ bài mạnh nhất cuối cùng của hắn, tuy vì thế phải trả cái giá vô cùng lớn, nhưng chỉ cần giết được Trương Nhược Trần thì hết thảy đều đáng giá."
+},
+"22": {
+"goc": "\"Này một kích của uy lực, đã túc cú diệt sát bất hủ đại thánh, trương nhược trần đích thực lực tuy cường, đãn chỉ phạ cũng đồng dạng vô pháp để đáng trụ.\"",
+"dich": "\"Uy lực của kích này đã đủ để diệt sát Bất Hủ Đại Thánh, thực lực của Trương Nhược Trần tuy mạnh, nhưng e là cũng không thể chống đỡ nổi.\""
+},
+"23": {
+"goc": "\"Thương Tử cũng là cú ngận, cánh thị bính mệnh thi triển xuất như thử khắc phạ của sát thủ giản lai, là tá định chủ ý yêu dư trương nhược trần bính cá ngươi tử ta hoạt, căn bản liền không có bãi thủ ý tư.\"",
+"dich": "\"Thương Tử cũng thật tàn nhẫn, vậy mà liều mạng thi triển sát thủ giản đáng sợ như vậy, là đã quyết tâm cùng Trương Nhược Trần ngươi chết ta sống, căn bản không có ý định dừng tay.\""
+},
+"24": {
+"goc": "\"Như thử khán lai, tối hậu doanh của nhưng cựu là Thương Tử.\"",
+"dich": "\"Xem ra người thắng cuối cùng vẫn là Thương Tử.\""
+},
+"25": {
+"goc": "\"Bất hiếu thuyết, đãn này một kích qua hậu, hắn các lưỡng của chiến đấu, cũng cơ bản cai lạc mạc!\"",
+"dich": "\"Khó nói lắm, nhưng sau kích này, trận chiến của hai người họ về cơ bản cũng nên hạ màn rồi!\""
+},
+"27": {
+"goc": "Chư đa tu sĩ phân phân tương mục quang tỏa định tại Trương Nhược Trần hòa Thương Tử Hằng thân thượng, kỳ đãi khán đáo lưỡng nhân nhất chiến tối chung đích kết quả.",
+"dich": "Rất nhiều tu sĩ đều khóa chặt ánh mắt lên người Trương Nhược Trần và Thương Tử Hằng, chờ đợi kết quả cuối cùng của trận chiến giữa hai người."
+},
+"28": {
+"goc": "Vữ thử đồng thời, Trương Nhược Trần dữ Thương Tử Hằng lưỡng phương đích cường giả, đô phân phân lộ xuất khẩn trương chi sắc, tạm thời đình chỉ liễu sát.",
+"dich": "Cùng lúc đó, cường giả hai phe Trương Nhược Trần và Thương Tử Hằng đều lộ vẻ căng thẳng, tạm thời ngừng chém giết."
+},
+"29": {
+"goc": "Tại giá chủng tình huống hạ, tha môn tựu toán thị tưởng yếu sâm thủ, dã dĩ kinh thị bất khả năng, chỉ năng tại nhất bàng khán trứ.",
+"dich": "Trong tình huống này, bọn họ dù muốn nhúng tay cũng đã không thể, chỉ có thể đứng bên cạnh nhìn."
+},
+"30": {
+"goc": "Mặt đối Thương Tử Hằng bính mệnh đích nhất kích, Trương Nhược Trần biểu tình biến đắc cực vi ngưng trọng, thời không bí điển xuất hiện tại thủ trung, thuấn gian khai khải, hình thành sổ thập tầng đích đa nguyên không gian, tương tha bản thân lung tráo tại kỳ trung.",
+"dich": "Đối mặt với một kích liều mạng của Thương Tử Hằng, biểu cảm của Trương Nhược Trần trở nên vô cùng ngưng trọng, Thời Không Bí Điển xuất hiện trong tay, trong nháy mắt mở ra, hình thành mấy chục tầng đa nguyên không gian, bao phủ bản thân hắn vào trong."
+},
+"31": {
+"goc": "Thương Tử Hằng dĩ kinh chiết tổn lưỡng thi, cận thâm đích viêm thi, dã thân thụ trọng thương, sở hữu lực lượng đô dụng khứ thôi động Xích Tử Kiếm, dĩ kinh cố bất thượng ngũ thải công đức thần bi.",
+"dich": "Thương Tử Hằng đã tổn thất hai thi, viêm thi duy nhất còn lại cũng bị trọng thương, toàn bộ lực lượng đều dùng để thúc động Xích Tử Kiếm, đã không còn lo được cho Ngũ Thải Công Đức Thần Bi."
+},
+"32": {
+"goc": "Như thử nhất lai, thời không tiện nai thụ đáo áp chế, Trương Nhược Trần đắc dĩ tự do thi triển thời gian hòa không gian thủ đoạn.",
+"dich": "Như vậy, thời không không còn bị áp chế, Trương Nhược Trần có thể tự do thi triển thủ đoạn thời gian và không gian."
+},
+"33": {
+"goc": "Thân xứ đa nguyên không gian nội, Trương Nhược Trần đương tức điều động thể nội đích không gian pháp tắc, thi triển xuất các chủng không gian thủ đoạn.",
+"dich": "Ở trong đa nguyên không gian, Trương Nhược Trần lập tức điều động pháp tắc không gian trong cơ thể, thi triển các loại thủ đoạn không gian."
+},
+"34": {
+"goc": "Yêu vi tha tri đạo, tức bế thị thời không bí điển sở hình thành đích đa nguyên không gian, dã bất túc dĩ để đáng trụ Xích Tử Kiếm bạo phát xuất đích vô thượng thần uy, tất tu đắc kháo tha thi triển xuất tha đích thủ đoạn khứ để ngự.",
+"dich": "Bởi vì hắn biết, cho dù là đa nguyên không gian do Thời Không Bí Điển hình thành cũng không đủ để chặn vô thượng thần uy Xích Tử Kiếm bộc phát ra, nhất định phải dựa vào thủ đoạn của bản thân để chống đỡ."
+},
+"35": {
+"goc": "\"Không gian liệt phùng.\"",
+"dich": "\"Không gian liệt phùng.\""
+},
+"36": {
+"goc": "Trương Nhược Trần thân thủ nhất án, sổ thập cá đa nguyên không gian nội, quân thị xuất hiện cự đại vô bách đích không gian liệt phùng.",
+"dich": "Trương Nhược Trần đưa tay ấn xuống, trong mấy chục tầng đa nguyên không gian đều xuất hiện những khe nứt không gian khổng lồ."
+},
+"37": {
+"goc": "\"Ầm.\"",
+"dich": "\"Ầm.\""
+},
+"38": {
+"goc": "Vô thượng thần uy lâm cận, niễn áp nhất thiết, thế bất khả đáng.",
+"dich": "Vô thượng thần uy ập tới, nghiền ép hết thảy, thế không thể cản."
+},
+"39": {
+"goc": "Khoảnh khắc gian, tối ngoại lăng đích thập kỷ cá đa nguyên không gian, tiện thị bạo toái khai lai, căn bản vô pháp thừa thụ vô thượng thần uy.",
+"dich": "Trong khoảnh khắc, hơn mười tầng đa nguyên không gian ngoài cùng đã vỡ nát, căn bản không thể chịu nổi vô thượng thần uy."
+},
+"40": {
+"goc": "Thật tại thị vô thượng thần uy đích trùng kích lực, viễn bách tinh thần chàng kích canh khủng bố, uyển như nhất tôn chân thần tại xuất thủ.",
+"dich": "Lực xung kích của vô thượng thần uy thật sự còn khủng bố hơn cả tinh thần va chạm, giống như một tôn chân thần đang ra tay."
+},
+"41": {
+"goc": "Khẩn tiếp trứ, Trương Nhược Trần thi triển xuất lai đích sổ thập đạo không gian liệt phùng, đô tận giai băng hội, tịnh vị năng thôn phệ thái đa thần lực",
+"dich": "Ngay sau đó, mấy chục đạo khe nứt không gian Trương Nhược Trần thi triển ra cũng đều sụp đổ, không nuốt được bao nhiêu thần lực."
+},
+"42": {
+"goc": "\"Không gian đông kết.\"",
+"dich": "\"Không gian đông kết.\""
+},
+"43": {
+"goc": "\"Không gian nữu khúc.\"",
+"dich": "\"Không gian nữu khúc.\""
+},
+"44": {
+"goc": "\"Không gian băng tháp.\"",
+"dich": "\"Không gian băng tháp.\""
+},
+"45": {
+"goc": "\"Không gian triệp điệp.\"",
+"dich": "\"Không gian chiết điệp.\""
+},
+"46": {
+"goc": "\"Không gian áp súc.\"",
+"dich": "\"Không gian áp súc.\""
+},
+"48": {
+"goc": "Trương Nhược Trần bộ tróc đáo thời gian ấn ký, dĩ siêu hồ tưởng tượng đích tốc độ, thi triển xuất nhất chủng tiếp nhất chủng không gian thủ đoạn.",
+"dich": "Trương Nhược Trần nắm bắt thời gian ấn ký, dùng tốc độ vượt ngoài tưởng tượng, thi triển hết loại thủ đoạn không gian này tới loại khác."
+},
+"49": {
+"goc": "Tha một tưởng quá giá chủng không gian thủ đoạn, năng cú để đáng trụ Xích Tử Kiếm thích phóng xuất đích vô thượng thần uy, chỉ thị tưởng tá trợ tha môn lai bất đoạn tiếu nhược vô thượng thần uy đích lực lượng.",
+"dich": "Hắn không nghĩ rằng những thủ đoạn không gian ấy có thể chặn được vô thượng thần uy do Xích Tử Kiếm phóng thích, chỉ muốn mượn chúng để không ngừng làm suy yếu lực lượng của vô thượng thần uy."
+},
+"50": {
+"goc": "Tại kỳ tha nhân nhãn trung, Trương Nhược Trần thuấn gian tiện thị bị vô thượng thần uy sở yểm một, không gian trung phiếm khởi cực vi khủng bố đích lực lượng liên y.",
+"dich": "Trong mắt những người khác, Trương Nhược Trần trong nháy mắt đã bị vô thượng thần uy nhấn chìm, trong không gian dấy lên những gợn sóng lực lượng vô cùng khủng bố."
+},
+"51": {
+"goc": "\"Bùm.\"",
+"dich": "\"Bùm.\""
+},
+"52": {
+"goc": "Thủ hộ Khổng Tước Sơn Trang đích trận pháp, tại khoảnh khắc gian bị giá cổ lực lượng liên y sở tê liệt.",
+"dich": "Trận pháp thủ hộ Khổng Tước Sơn Trang trong khoảnh khắc bị những gợn sóng lực lượng ấy xé rách."
+},
+"53": {
+"goc": "Khẩn tiếp trứ, na ta đại thánh minh văn, dã tại khoái tốc bị ma diệt.",
+"dich": "Ngay sau đó, những minh văn Đại Thánh kia cũng nhanh chóng bị ma diệt."
+},
+"54": {
+"goc": "Nhất thời, toàn bộ Khổng Tước Sơn Trang đô tại kịch liệt chấn động, hảo tự đại hải trung đích cô đảo, phong vũ phiêu dao.",
+"dich": "Nhất thời, toàn bộ Khổng Tước Sơn Trang đều chấn động kịch liệt, như hòn đảo cô độc giữa biển lớn, chao đảo trong mưa gió."
+},
+"55": {
+"goc": "Khổng Tước Sơn Trang nội đích sở hữu nhân, tận giai lộ xuất kinh khủng chi sắc, uyển như mạt nhật đáo lai.",
+"dich": "Tất cả mọi người trong Khổng Tước Sơn Trang đều lộ vẻ kinh hoàng, như thể ngày tận thế đã tới."
+},
+"56": {
+"goc": "Hảo tại tối chung đại thánh minh văn hải thị kháng trụ liễu thần lực đích trùng kích, tịnh vị bị triệt để ma diệt.",
+"dich": "May mà cuối cùng minh văn Đại Thánh vẫn chống đỡ được sự xung kích của thần lực, không bị ma diệt hoàn toàn."
+},
+"57": {
+"goc": "Đương nhiên, giá thị việt Xích Tử Kiếm bạo phát xuất lai đích vô thượng thần uy, chủ yếu trừng đối đích nãi thị Trương Nhược Trần, trùng kích hướng Khổng Tước Sơn Trang đích, bất quá thị dư ba bà thôi.",
+"dich": "Đương nhiên, đó là vì vô thượng thần uy Xích Tử Kiếm bộc phát ra chủ yếu nhắm vào Trương Nhược Trần, thứ xung kích tới Khổng Tước Sơn Trang chẳng qua chỉ là dư ba mà thôi."
+},
+"58": {
+"goc": "Phấn tắc, Khổng Tước Sơn Trang đích phòng ngự tất hội bị phá khai, nhi Khổng Tước Sơn Trang dã hội vị thử bị vô tình tồi hủy.",
+"dich": "Nếu không, phòng ngự của Khổng Tước Sơn Trang chắc chắn sẽ bị phá vỡ, Khổng Tước Sơn Trang cũng sẽ vì thế mà bị tàn phá không chút nương tay."
+},
+"59": {
+"goc": "\"Sư tôn.\"",
+"dich": "\"Sư tôn.\""
+},
+"60": {
+"goc": "Hàn Tuyết quyền đầu bất do tự chủ ác khẩn, nhãn trung hữu trứ nồng nồng đích đam ưu chi sắc.",
+"dich": "Hàn Tuyết không tự chủ siết chặt nắm tay, trong mắt đầy vẻ lo lắng."
+},
+"61": {
+"goc": "Tảo tri như thử, cương tài tha tựu bất cai ly khai, na chủng thoại, chí thiểu hiện tại tha năng cú dữ Trương Nhược Trần nhất khởi đối kháng vô thượng thần uy.",
+"dich": "Biết thế này, vừa rồi nàng đã không nên rời đi, như vậy ít nhất bây giờ nàng có thể cùng Trương Nhược Trần đối kháng vô thượng thần uy."
+},
+"62": {
+"goc": "\"Biệt khẩn trương, trương nhược trần mệnh ngạnh được rất, không hội khinh dịch bị cán điệu của.\" Tiểu Hắc khai khẩu an úy đạo.",
+"dich": "\"Đừng căng thẳng, mạng Trương Nhược Trần cứng lắm, không dễ bị xử lý vậy đâu.\" Tiểu Hắc lên tiếng an ủi."
+},
+"63": {
+"goc": "Chỉ thị tha tuy như thử thuyết, khả mục quang hải thị khẩn khẩn đinh trứ Trương Nhược Trần sở tại đích vị trí, thần kinh minh hiển khẩn bàng trứ.",
+"dich": "Chỉ là tuy nói vậy, ánh mắt hắn vẫn nhìn chằm chằm vị trí của Trương Nhược Trần, thần kinh rõ ràng đang căng như dây đàn."
+},
+"64": {
+"goc": "Lăng ngoại nhất phương, hóa thân vi phiến phiến công tử đích Thiên Tinh Thiên Nữ trứ mộc đầu, đạo: \"Thương Tử này cá phong tử, trọng thương trạng thái hạ, còn cảm động dụng này chúng thủ đoạn, là không tưởng yếu mệnh sao?Hy vọng trương nhược trần biệt chân bị Thương Tử này chiêu cho trấn sát.\"",
+"dich": "Ở một phía khác, Thiên Tinh Thiên Nữ hóa thân thành một công tử phong lưu trầm giọng nói: \"Tên điên Thương Tử này, trong trạng thái trọng thương mà còn dám dùng thủ đoạn này, là không muốn sống nữa sao? Hy vọng Trương Nhược Trần đừng thật sự bị chiêu này của Thương Tử trấn sát.\""
+},
+"65": {
+"goc": "Vô thượng thần uy thái quá khủng bố, Trương Nhược Trần sở tại na phiến vực, dĩ kinh hoàn toàn bị khả bổn thần lực sở sung trì, nãi chí thị tha đích bản nguyên thần mục, dã vô pháp khán thanh Trương Nhược Trần đích tình huống.",
+"dich": "Vô thượng thần uy quá mức khủng bố, vùng Trương Nhược Trần đang ở đã hoàn toàn bị thần lực đáng sợ lấp đầy, ngay cả Bản Nguyên Thần Mục của nàng cũng không nhìn rõ được tình hình của Trương Nhược Trần."
+},
+"66": {
+"goc": "Quá đắc hứa cửu, lung tráo phương viên sổ vạn lý đích khả bổn thần uy, tài chung vu thị dần dần tiêu tán.",
+"dich": "Qua một lúc lâu, thần uy đáng sợ bao phủ phương viên mấy vạn dặm mới cuối cùng dần tiêu tán."
+},
+"67": {
+"goc": "\"Khoái khán, trương nhược trần còn hoạt trước.\"",
+"dich": "\"Mau nhìn, Trương Nhược Trần vẫn còn sống.\""
+},
+"68": {
+"goc": "\"Trương Nhược Trần của mệnh hoàn chân ngạnh, lại liên vô thượng thần uy đô năng gánh trụ.\"",
+"dich": "\"Mạng của Trương Nhược Trần thật sự rất cứng, ngay cả vô thượng thần uy cũng chống đỡ được.\""
+},
+"70": {
+"goc": "Khán đáo Trương Nhược Trần đích thân ảnh trọng tân hiển hiện xuất lai, hằng đa tu sĩ đô bất câm phát xuất kinh hô thanh lai.",
+"dich": "Nhìn thấy bóng dáng Trương Nhược Trần hiện ra lần nữa, rất nhiều tu sĩ không nhịn được kinh hô."
+},
+"71": {
+"goc": "Trương Nhược Trần tĩnh tĩnh đích trữ lập vu bán không trung, thân thượng đích Hỏa Thần Khải Giáp biến đắc ngận ám đạm, sở hữu hỏa diễm tận giai tức diệt.",
+"dich": "Trương Nhược Trần lặng lẽ đứng giữa không trung, Hỏa Thần Khải Giáp trên người trở nên ảm đạm, toàn bộ hỏa diễm đều đã tắt."
+},
+"72": {
+"goc": "Nhâm thù đô năng khán đào, hữu trứ tiên huyết tòng Hỏa Thần Khải Giáp trung lưu thảng nhi xuất, bất đoạn hướng trứ hạ phương trích lạc.",
+"dich": "Ai cũng có thể nhìn thấy máu tươi đang chảy ra từ Hỏa Thần Khải Giáp, không ngừng nhỏ xuống phía dưới."
+},
+"73": {
+"goc": "Vô nghi vấn, Trương Nhược Trần tuy nhiên để đáng trụ Xích Tử Kiếm bạo phát xuất đích vô thượng thần uy, khước dã vị thử thụ liễu cực trọng đích thương, ngũ tạng lục phủ cận hồ toàn toái.",
+"dich": "Không nghi ngờ gì, Trương Nhược Trần tuy chặn được vô thượng thần uy do Xích Tử Kiếm bộc phát, nhưng cũng vì thế mà bị thương cực nặng, ngũ tạng lục phủ gần như nát hết."
+},
+"74": {
+"goc": "\"Chẩm ma khả năng...\"",
+"dich": "\"Sao có thể...\""
+},
+"75": {
+"goc": "Thương Tử Hằng mục quang tử tử đích đinh trứ Trương Nhược Trần, nhãn trung mãn thị nan dĩ trí tín chi sắc.",
+"dich": "Thương Tử Hằng nhìn chằm chằm Trương Nhược Trần, trong mắt đầy vẻ không thể tin nổi."
+},
+"76": {
+"goc": "Trương Nhược Trần thủ đề trứ Trầm Uyên Cổ Kiếm, tiên huyết thuận trứ kiếm thân lưu thảng nhi hạ, thập phận bình tĩnh đạo: \"Thương Tử, còn có cái gì di ngôn sao?\"",
+"dich": "Trương Nhược Trần tay cầm Trầm Uyên Cổ Kiếm, máu tươi theo thân kiếm chảy xuống, vô cùng bình tĩnh nói: \"Thương Tử, còn di ngôn gì không?\""
+},
+"77": {
+"goc": "\"Nan đạo ngươi không ở hồ trì côn lôn tử hoạt sao?\" Thương Tử Hằng lãnh tiếu đạo.",
+"dich": "\"Lẽ nào ngươi không quan tâm sống chết của Trì Côn Lôn sao?\" Thương Tử Hằng cười lạnh."
+},
+"78": {
+"goc": "Văn ngôn, Trương Nhược Trần nhãn thần đốn thời nhất ngưng, trầm thanh đạo: \"Giao xuất trì côn lôn, ta nhiêu ngươi một mệnh.\"",
+"dich": "Nghe vậy, ánh mắt Trương Nhược Trần lập tức ngưng lại, trầm giọng nói: \"Giao Trì Côn Lôn ra, ta tha cho ngươi một mạng.\""
+},
+"79": {
+"goc": "\"Na có na ma giản đơn, trì côn lôn là ngươi nhi tử, tưởng cứu hắn, ngươi khả dĩ thí trước quỵ hạ lai cầu ta.\" Thương Tử Hằng kiểm thượng đích lãnh tiếu canh nồng.",
+"dich": "\"Đâu có đơn giản như vậy, Trì Côn Lôn là con trai ngươi, muốn cứu hắn, ngươi có thể thử quỳ xuống cầu xin ta.\" Nụ cười lạnh trên mặt Thương Tử Hằng càng đậm."
+},
+"80": {
+"goc": "Phản chính vô nhân tri hiểu Trì Côn Lôn dĩ kinh bị Diêm La tộc đích cường giả đái tẩu, tha tưởng như hà cuống phiến Trương Nhược Trần đô khả dĩ.",
+"dich": "Dù sao cũng không ai biết Trì Côn Lôn đã bị cường giả Diêm La tộc mang đi, hắn muốn lừa gạt Trương Nhược Trần thế nào cũng được."
+},
+"81": {
+"goc": "Tài cường đích nhân, đô hội hữu nhuyễn lặc, nhi Trì Côn Lôn, vô nghi tiện thị Trương Nhược Trần đích nhuyễn lặc.",
+"dich": "Người dù mạnh tới đâu cũng có điểm yếu, mà Trì Côn Lôn không nghi ngờ gì chính là điểm yếu của Trương Nhược Trần."
+},
+"82": {
+"goc": "Chỉ yếu chưởng trụ giá trương để bài, tựu bất phạ Trương Nhược Trần bất tựu phạm.",
+"dich": "Chỉ cần nắm được lá bài này, không sợ Trương Nhược Trần không chịu khuất phục."
+},
+"83": {
+"goc": "Tưởng cập thử, Thương Tử Hằng tâm trung dã thị sung mãn liễu phẫn nộ, nhược phi Diêm La tộc cường giả đái tẩu Trì Côn Lôn, đoạt tẩu đỉnh cấp đích Lưu Quang Công Đức Khải Giáp, tình huống hà chí vu diễn biến đáo giá bản địa bộ?",
+"dich": "Nghĩ tới đây, trong lòng Thương Tử Hằng cũng tràn đầy phẫn nộ. Nếu không phải cường giả Diêm La tộc mang Trì Côn Lôn đi, đoạt mất Lưu Quang Công Đức Khải Giáp đỉnh cấp, tình hình sao lại diễn biến tới mức này?"
+},
+"84": {
+"goc": "Thiên lý chi ngoại, nhất tọa hồ bạc chi bạn, Tâm Ma Khâu Di Trì diểu vọng thiên ngoại, kiểm thượng phù hiện xuất nhất đạo tiếu ý, tùy tức động dụng tâm linh chi đạo, hướng Trương Nhược Trần cách không truyền âm: \"Không tất đam tâm, trì côn lôn tịnh không ở Thương Tử thủ trung, chỉ yếu ngươi tiền vãng Vô Tận Thâm Uyên, tự nhiên năng cú hiện đáo tha.\"",
+"dich": "Ngoài ngàn dặm, bên bờ một hồ nước, Tâm Ma Khâu Di Trì nhìn xa xăm về phía chân trời, trên mặt hiện ra một nụ cười, ngay sau đó vận dụng tâm linh chi đạo, cách không truyền âm cho Trương Nhược Trần: \"Không cần lo lắng, Trì Côn Lôn không ở trong tay Thương Tử, chỉ cần ngươi tới Vô Tận Thâm Uyên, tự nhiên có thể gặp được hắn.\""
+},
+"85": {
+"goc": "Tiên tiền, Khâu Di Trì khả thị thân nhãn kiến đáo, nhất vị Diêm La tộc đích thần bí cường giả, tương Trì Côn Lôn đái tẩu. Na vị thần bí cường giả đích thân phận, tha dĩ kinh hữu sở thái trắc, đảo dã bất đam tâm Trì Côn Lôn đích an nguy.",
+"dich": "Trước đó, Khâu Di Trì đã tận mắt thấy một cường giả thần bí của Diêm La tộc mang Trì Côn Lôn đi. Thân phận của vị cường giả thần bí kia nàng đã có phỏng đoán, cũng không lo lắng cho sự an nguy của Trì Côn Lôn."
+},
+"86": {
+"goc": "Tha đích mục đích chỉ thị nhất cá, thỉnh Trương Nhược Trần khứ Vô Tận Thâm Uyên.",
+"dich": "Mục đích của nàng chỉ có một, mời Trương Nhược Trần tới Vô Tận Thâm Uyên."
+},
+"87": {
+"goc": "\"Là khâu di trì của thanh âm, nan đạo côn lôn đã bị nàng cứu tẩu?\"",
+"dich": "\"Là giọng của Khâu Di Trì, lẽ nào Côn Lôn đã được nàng cứu đi?\""
+},
+"88": {
+"goc": "Trương Nhược Trần tâm trung nhất động, thuấn tức gian, tiện thị thiểm quá chư đa niệm đầu.",
+"dich": "Trong lòng Trương Nhược Trần khẽ động, trong nháy mắt lướt qua rất nhiều ý niệm."
+},
+"89": {
+"goc": "Tối khai thủy đích thời hầu, tha dĩ Phong Cổ Đạo tứ nhân đích tính mệnh tác vi uy hiếp, yếu Thương Tử Hằng giao xuất Trì Côn Lôn, Thương Tử Hằng tằng thân khẩu thuyết, Trì Côn Lôn tịnh bất tại kỳ thủ trung.",
+"dich": "Lúc đầu, hắn dùng tính mạng bốn người Phong Cổ Đạo uy hiếp, muốn Thương Tử Hằng giao Trì Côn Lôn ra, Thương Tử Hằng từng chính miệng nói Trì Côn Lôn không ở trong tay hắn."
+},
+"90": {
+"goc": "Kết hợp hiện tại Khâu Di Trì sở thuyết đích thoại, Trì Côn Lôn đích xác cực hữu khả năng bất tại Thương Tử Hằng thủ trung, yếu bất nhiên Thương Tử Hằng tức bế bất tại hồ Phong Cổ Đạo tứ nhân đích tử hoạt, khước dã bất khả năng nấp tự kỷ đích tính mệnh khai ngoạn tiếu.",
+"dich": "Kết hợp với lời Khâu Di Trì nói bây giờ, Trì Côn Lôn quả thật rất có thể không ở trong tay Thương Tử Hằng. Nếu không, cho dù Thương Tử Hằng không quan tâm sống chết của bốn người Phong Cổ Đạo, cũng không thể lấy tính mạng của chính mình ra đùa giỡn."
+},
+"91": {
+"goc": "\"Soa.\"",
+"dich": "\"Vút.\""
+},
+"92": {
+"goc": "Trương Nhược Trần đột nhiên động liễu, không gian na di thi triển, sát na xuất hiện tại Thương Tử Hằng đích diện tiền.",
+"dich": "Trương Nhược Trần đột nhiên động, thi triển không gian na di, trong sát na xuất hiện trước mặt Thương Tử Hằng."
+},
+"93": {
+"goc": "\"Hoa.\"",
+"dich": "\"Xoẹt.\""
+},
+"94": {
+"goc": "Trầm Uyên Cổ Kiếm thiểm điện bách trảm hạ.",
+"dich": "Trầm Uyên Cổ Kiếm chém xuống nhanh như chớp."
+},
+"95": {
+"goc": "Đốn thời, Thương Tử Hằng đích thân thể tòng trung liệt thành lưỡng bán, tam sắc bảo giáp dã vô pháp tương kỳ hộ trụ.",
+"dich": "Lập tức, thân thể Thương Tử Hằng bị chẻ làm đôi từ chính giữa, Tam Sắc Bảo Giáp cũng không bảo vệ được hắn."
+},
+"96": {
+"goc": "\"Ngươi...\"",
+"dich": "\"Ngươi...\""
+},
+"97": {
+"goc": "Thương Tử Hằng đặng đại song nhãn, cảm đáo ngận bất khả tư nghị.",
+"dich": "Thương Tử Hằng trợn to hai mắt, cảm thấy vô cùng khó tin."
+},
+"98": {
+"goc": "Tiền nhất khắc, tha hải tại đắc ý, dĩ vi chộp trụ liễu Trương Nhược Trần đích nhuyễn lặc, khước một tưởng đáo Trương Nhược Trần cánh hội đột nhiên đối tha hạ sát thủ.",
+"dich": "Một khắc trước, hắn vẫn còn đắc ý, cho rằng đã nắm được điểm yếu của Trương Nhược Trần, lại không ngờ Trương Nhược Trần sẽ đột nhiên ra sát thủ với hắn."
+},
+"99": {
+"goc": "Nhất thiết phát sinh đắc thái đột nhiên, biệt thuyết kỳ tha nhân, tựu liên Thương Tử Hằng bản thân, đô một năng phản ứng quá lai.",
+"dich": "Mọi chuyện xảy ra quá đột ngột, đừng nói người khác, ngay cả bản thân Thương Tử Hằng cũng không kịp phản ứng."
+},
+"100": {
+"goc": "Trương Nhược Trần giá nhất kiếm dụng tẫn liễu toàn lực, bất cận cận thị Thương Tử Hằng đích thân thể bị trảm liệt, tựu liên thánh hồn dã thị hoàn toàn toái liệt khai lai.",
+"dich": "Một kiếm này của Trương Nhược Trần dùng hết toàn lực, không chỉ thân thể Thương Tử Hằng bị chém nứt, ngay cả thánh hồn cũng hoàn toàn vỡ vụn."
+},
+"101": {
+"goc": "\"Kết thúc.\"",
+"dich": "\"Kết thúc rồi.\""
+},
+"102": {
+"goc": "Trương Nhược Trần đê ngữ, thâm thâm hô xuất nhất khẩu khí lai.",
+"dich": "Trương Nhược Trần khẽ nói, thở ra một hơi thật sâu."
+},
+"103": {
+"goc": "Hốt nhiên gian, Trương Nhược Trần tâm thần nhất động, tha cảm giác đáo hữu nhất ta cực vi kỳ dị đích đông tây, tiến nhập đáo liễu tha đích thể nội.",
+"dich": "Bỗng nhiên, tâm thần Trương Nhược Trần khẽ động, hắn cảm thấy có một thứ vô cùng kỳ dị tiến vào trong cơ thể mình."
+},
+"104": {
+"goc": "Đối giá chủng đông tây, Trương Nhược Trần thị tái thục tất bất quá, chính thị chân lý áo nghĩa.",
+"dich": "Thứ này Trương Nhược Trần không thể quen thuộc hơn, chính là chân lý áo nghĩa."
+},
+"105": {
+"goc": "\"Thương Tử quả nhiên lệ hại, lại ủng có vạn phân chi tám chân lý ảo nghĩa, như thử một lai, ta tiện ủng có vạn phân chi hai mười chân lý ảo nghĩa.\"",
+"dich": "\"Thương Tử quả nhiên lợi hại, vậy mà sở hữu tám phần vạn chân lý áo nghĩa, như vậy ta đã sở hữu hai mươi phần vạn chân lý áo nghĩa.\""
+},
+"106": {
+"goc": "Trương Nhược Trần tâm trung cảm đáo ngận thị kinh hỉ.",
+"dich": "Trong lòng Trương Nhược Trần cảm thấy vô cùng kinh hỉ."
+},
+"107": {
+"goc": "Chân lý áo nghĩa hà kỳ nan đắc, duy hữu tại độ Chân Lý Chi Hải thời, hữu trứ kinh diễm biểu hiện, tài hữu khả năng đắc đáo.",
+"dich": "Chân lý áo nghĩa khó có được biết bao, chỉ khi vượt Chân Lý Chi Hải có biểu hiện kinh diễm mới có khả năng đạt được."
+},
+"108": {
+"goc": "Trương Nhược Trần trảm sát quá chư đa cường giả, đản hữu trương chân lý áo nghĩa chi nhân, tại Thương Tử Hằng chi tiền, tiện chỉ hữu nhất cá Vong Hư, túc kiến kỳ trân quý trình độ.",
+"dich": "Trương Nhược Trần đã chém giết rất nhiều cường giả, nhưng người sở hữu chân lý áo nghĩa, trước Thương Tử Hằng chỉ có một Vong Hư, đủ thấy nó trân quý tới mức nào."
+},
+"109": {
+"goc": "Tức bế bất năng thấu cú bách phân chi nhất đích chân lý áo nghĩa, thành vi chân lý sử giả, khả chỉ yếu hữu trứ đích chân lý áo nghĩa đa nhất điểm, đối tham ngộ thánh đạo quy tắc, đô hội hữu cự đại đích bang trợ. Tham ngộ tốc độ, thành bội tăng trưởng.",
+"dich": "Cho dù không gom đủ một phần trăm chân lý áo nghĩa để trở thành Chân Lý Sứ Giả, nhưng chỉ cần sở hữu nhiều chân lý áo nghĩa hơn một chút, đối với việc tham ngộ quy tắc thánh đạo đều có trợ giúp cực lớn. Tốc độ tham ngộ tăng lên gấp bội."
+},
+"110": {
+"goc": "\"Trương Nhược Trần lại trảm sát Thương Tử, này...\"",
+"dich": "\"Trương Nhược Trần vậy mà chém giết Thương Tử, chuyện này...\""
+},
+"111": {
+"goc": "Chư đa quan chiến đích tu sĩ, quân thị kinh đắc ngốc trụ.",
+"dich": "Rất nhiều tu sĩ quan chiến đều kinh ngạc đến ngây người."
+},
+"112": {
+"goc": "Thương Tử Hằng na khả thị Công Đức Thần Điện đích lãnh tụ, tại Thiên Đường Giới phái hệ, diệc thị hữu trứ cửu thế khinh trọng đích địa vị, như kim củ nhiên bị trảm sát, giá thị tuyệt đối đích đại sự kiện, tất tương dẫn phát cự đại oanh động, Trương Nhược Trần giá hoàn toàn thị yếu tương thiên đồng phá đích tiết tấu.",
+"dich": "Thương Tử Hằng là lãnh tụ của Công Đức Thần Điện, trong phái hệ Thiên Đường Giới cũng có địa vị cử túc khinh trọng, nay lại bị chém giết, đây tuyệt đối là sự kiện lớn, chắc chắn sẽ gây ra chấn động cực lớn. Trương Nhược Trần đây hoàn toàn là muốn chọc thủng trời."
+},
+"113": {
+"goc": "Thiên Đường Giới phái hệ đích na ta cường giả, thử khắc diệc thị kinh đốc liễu, tha môn căn bản tựu một tưởng quá Thương Tử Hằng cánh hội bại tại Trương Nhược Trần đích thủ trung, canh biệt thuyết thị diêu điệu tính mệnh.",
+"dich": "Những cường giả thuộc phái hệ Thiên Đường Giới lúc này cũng sững sờ, bọn họ căn bản chưa từng nghĩ Thương Tử Hằng lại bại trong tay Trương Nhược Trần, càng đừng nói là mất mạng."
+},
+"114": {
+"goc": "\"Ân?\"",
+"dich": "\"Hửm?\""
+},
+"115": {
+"goc": "Nhưng vào lúc này, Trương Nhược Trần đích nhãn sắc khước thị cự biến.",
+"dich": "Đúng lúc này, sắc mặt Trương Nhược Trần lại đột biến."
+},
+"116": {
+"goc": "Cố bất đắc khứ thu thủ Thương Tử Hằng thân thượng đích bảo vật, đương tức dĩ tối khoái đích tốc độ đảo thối.",
+"dich": "Không kịp thu bảo vật trên người Thương Tử Hằng, hắn lập tức lùi lại với tốc độ nhanh nhất."
+},
+"117": {
+"goc": "Nất đạo thôi xán đích thần quang, tòng Thương Tử Hằng liệt khai đích thân thể trung phi xuất, uyển như nhất luân thần dương, tán phát xuất thích nhãn đích quang mang, nhượng nhân vô pháp trực thị.",
+"dich": "Một đạo thần quang chói lọi bay ra từ thân thể bị chẻ đôi của Thương Tử Hằng, giống như một vầng thần dương, tỏa ra hào quang chói mắt, khiến người ta không thể nhìn thẳng."
+},
+"118": {
+"goc": "\"Còn có biến cố?\"",
+"dich": "\"Còn có biến cố?\""
+},
+"119": {
+"goc": "Khán đáo giá nhất mạc, sở hữu nhân đô bất câm đặng đại liễu nhãn tinh.",
+"dich": "Nhìn thấy cảnh này, tất cả mọi người đều không khỏi trợn to mắt."
+},
+"120": {
+"goc": "Tại sở hữu nhân đích chú thị hạ, nhất chích Quang Minh thần thủ, tòng thần quang trung thám xuất, kính trực trảo hướng Trương Nhược Trần.",
+"dich": "Dưới sự chú ý của tất cả mọi người, một bàn tay thần Quang Minh vươn ra từ trong thần quang, chộp thẳng về phía Trương Nhược Trần."
+},
+"121": {
+"goc": "Trương Nhược Trần thân thể đốn thời nhất khẩn, tưởng yếu hướng hậu đảo thối, khước phát hiện thân thể dĩ kinh vô pháp động đạn.",
+"dich": "Thân thể Trương Nhược Trần lập tức căng cứng, muốn lùi về phía sau, lại phát hiện thân thể đã không thể động đậy."
+},
+"122": {
+"goc": "Nhãn kiến thần thủ tức tương lâm thể, Nguyệt Thần sở tứ dư đích thần sử mộc trượng, tự hành phi xuất, hình thành nhất đạo thần lực hộ tráo, tương Trương Nhược Trần bảo hộ khởi lai.",
+"dich": "Mắt thấy thần thủ sắp chạm tới người, cây Thần Sứ Mộc Trượng do Nguyệt Thần ban tặng tự động bay ra, hình thành một đạo hộ tráo thần lực, bảo vệ Trương Nhược Trần."
+},
+"123": {
+"goc": "Khẩn tiếp trứ, thần sử mộc trượng thích phóng xuất tinh nhất cổ cường đại đích thần lực, oanh kích tại Quang Minh thần thủ chi thượng.",
+"dich": "Ngay sau đó, Thần Sứ Mộc Trượng phóng thích một luồng thần lực cường đại, oanh kích lên bàn tay thần Quang Minh."
+},
+"124": {
+"goc": "\"Bùm.\"",
+"dich": "\"Bùm.\""
+},
+"125": {
+"goc": "Quang Minh thần thủ bạo toái khai lai, vô pháp dữ thần sử mộc trượng sở thích phóng xuất đích thần lực đối kháng.",
+"dich": "Bàn tay thần Quang Minh vỡ nát, không thể đối kháng với thần lực Thần Sứ Mộc Trượng phóng thích."
+},
+"126": {
+"goc": "Kế nhi, giá cổ thần lực chấn động nhi xuất, tác dụng tại Thương Tử Hằng sở xuyên đích tam sắc bảo giáp chi thượng.",
+"dich": "Tiếp đó, luồng thần lực ấy chấn động lan ra, tác động lên Tam Sắc Bảo Giáp Thương Tử Hằng mặc trên người."
+},
+"127": {
+"goc": "\"Răng rắc.\"",
+"dich": "\"Răng rắc.\""
+},
+"128": {
+"goc": "Tam sắc bảo giáp phòng ngự kinh nhân, khả thử khắc khước thị trực tiếp bạo toái khai lai, biến thành nhất khối khối phế thiết.",
+"dich": "Tam Sắc Bảo Giáp có lực phòng ngự kinh người, nhưng lúc này lại trực tiếp vỡ nát, biến thành từng khối sắt vụn."
+},
+"129": {
+"goc": "Liễn đái trứ kỳ trung Thương Tử Hằng na liệt thành lưỡng bả đích càn tiện thân thể, dã đô chi ly phá toái, hóa tác côi phấn.",
+"dich": "Ngay cả thân thể khô quắt bị chẻ làm đôi của Thương Tử Hằng bên trong cũng tan nát, hóa thành tro bụi."
+},
+"130": {
+"goc": "Na đạo tòng Thương Tử Hằng thể nội phi xuất đích thần quang, biến đắc ám đạm hứa đa, khước tịnh vị tiêu tán.",
+"dich": "Đạo thần quang bay ra từ cơ thể Thương Tử Hằng trở nên ảm đạm đi nhiều, nhưng không tiêu tán."
+},
+"131": {
+"goc": "Đương tức, kỳ bao khỏa trụ Xích Tử Kiếm hòa ngũ thải công đức thần bi, trực trùng thiên tế, thuấn gian tiêu tán vô tung.",
+"dich": "Lập tức, nó bao lấy Xích Tử Kiếm và Ngũ Thải Công Đức Thần Bi, lao thẳng lên chân trời, trong nháy mắt biến mất vô tung."
+},
+"132": {
+"goc": "Thất khứ mục tiêu, thần sử mộc trượng thu liễm khí tức, quy vu bình phàm, lạc nhập Trương Nhược Trần đích thủ trung.",
+"dich": "Mất đi mục tiêu, Thần Sứ Mộc Trượng thu liễm khí tức, trở về bình thường, rơi vào tay Trương Nhược Trần."
+},
+"133": {
+"goc": "Khán trứ thủ trung đích thần sử mộc trượng, Trương Nhược Trần bất câm hữu chủng tâm hữu dư quý.",
+"dich": "Nhìn Thần Sứ Mộc Trượng trong tay, Trương Nhược Trần không khỏi có chút sợ hãi trong lòng."
+},
+"134": {
+"goc": "Cương tài trước thực thị ngận nguy hiểm, nhược phi thần sử mộc trượng tức thời xuất hiện, vị tha hóa giải nguy nan, chỉ phạ tha thử khắc dĩ kinh thị bị na Quang Minh thần thủ nhất bả niết tỏi.",
+"dich": "Vừa rồi thật sự rất nguy hiểm, nếu không phải Thần Sứ Mộc Trượng kịp thời xuất hiện hóa giải nguy nan cho hắn, e là lúc này hắn đã bị bàn tay thần Quang Minh kia bóp nát."
+},
+"135": {
+"goc": "\"Nguyệt thần này toà kháo sơn, quả nhiên rất kháo đắc trụ.\"",
+"dich": "\"Chỗ dựa Nguyệt Thần này quả nhiên rất đáng tin cậy.\""
+},
+"136": {
+"goc": "Nhất thanh đê ngữ, Trương Nhược Trần tương thần sử mộc trượng thu liễu khởi lai.",
+"dich": "Khẽ nói một câu, Trương Nhược Trần thu Thần Sứ Mộc Trượng lại."
+},
+"137": {
+"goc": "Bình thường thời hầu, thần sử mộc trượng chỉ hữu nhị cá tác dụng, nhất thị thân phận đích tượng trưng, kỳ nhị bế thị dụng lai liên hệ Nguyệt Thần.",
+"dich": "Bình thường, Thần Sứ Mộc Trượng chỉ có hai tác dụng, một là tượng trưng cho thân phận, hai là dùng để liên lạc với Nguyệt Thần."
+},
+"138": {
+"goc": "Vuy hữu đương Trương Nhược Trần tao ngộ đại thánh, nãi chí thần linh công kích thời, thần sử mộc trượng tài năng thích phóng xuất khả bổn uy năng, tá thủ đáo Nguyệt Thần đích cường đại thần lực.",
+"dich": "Chỉ khi Trương Nhược Trần gặp phải công kích của Đại Thánh, thậm chí thần linh, Thần Sứ Mộc Trượng mới có thể phóng thích uy năng đáng sợ, mượn được thần lực cường đại của Nguyệt Thần."
+},
+"139": {
+"goc": "Khán trứ na ta huyền phù tại bán không trung đích tam sắc bảo giáp đích toái phiến, Trương Nhược Trần nhất huy thủ, nhất khối bất lạc, toàn bộ thu liễu khởi lai.",
+"dich": "Nhìn những mảnh vỡ Tam Sắc Bảo Giáp lơ lửng giữa không trung, Trương Nhược Trần phất tay, không sót một mảnh, thu toàn bộ lại."
+},
+"140": {
+"goc": "Tức bế vô pháp tu phục tam sắc bảo giáp, đản giá ta toái phiến dã thị giá trị bất phỉ, khả dĩ nã cấp Trầm Uyên Cổ Kiếm hấp thu.",
+"dich": "Cho dù không thể sửa chữa Tam Sắc Bảo Giáp, những mảnh vỡ này cũng có giá trị không nhỏ, có thể đưa cho Trầm Uyên Cổ Kiếm hấp thu."
+},
+"141": {
+"goc": "Khả tích Xích Tử Kiếm hòa ngũ thải công đức thần bi đô thị na đạo thần quang đái tẩu, tịnh vị năng lưu hạ, na tài thị chân chính đích chí bảo.",
+"dich": "Đáng tiếc Xích Tử Kiếm và Ngũ Thải Công Đức Thần Bi đều bị đạo thần quang kia mang đi, không lưu lại được, đó mới là chí bảo thật sự."
+},
+"142": {
+"goc": "\"Trương Nhược Trần, ngươi cánh cảm sát tử Thương Tử, thuỳ cũng bảo không trụ ngươi.\" Hình Uyên vô bách âm trầm đạo.",
+"dich": "\"Trương Nhược Trần, ngươi dám giết Thương Tử, ai cũng không bảo vệ được ngươi.\" Hình Uyên vô cùng âm trầm nói."
+},
+"143": {
+"goc": "Hữu tha tại tràng đích tình huống hạ, Thương Tử Hằng củ nhiên bị nhân trảm sát, hồi đáo Công Đức Thần Điện, tha căn bản tựu vô pháp hướng Viêm Thần giao đại.",
+"dich": "Có hắn ở đó mà Thương Tử Hằng lại bị người chém giết, trở về Công Đức Thần Điện, hắn căn bản không thể ăn nói với Viêm Thần."
+},
+"144": {
+"goc": "Hiện tại duy nhất đích bổ cứu chi pháp, bế thị kích sát Trương Nhược Trần.",
+"dich": "Hiện tại cách bù đắp duy nhất chính là giết chết Trương Nhược Trần."
+},
+"145": {
+"goc": "Nhất thái thủ, Hình Uyên đả xuất nhất đạo khả bổn đích chưởng ấn, hướng trứ Trương Nhược Trần đả khứ.",
+"dich": "Vừa nhấc tay, Hình Uyên đánh ra một đạo chưởng ấn đáng sợ, đánh về phía Trương Nhược Trần."
+},
+"146": {
+"goc": "\"Bùm.\"",
+"dich": "\"Bùm.\""
+},
+"147": {
+"goc": "La Thần xuất thủ, huy động U Nguyệt Đao, tương Hình Uyên đả xuất đích chưởng ấn trảm toái.",
+"dich": "La Thần ra tay, vung U Nguyệt Đao, chém nát chưởng ấn Hình Uyên đánh ra."
+},
+"148": {
+"goc": "\"Tưởng thương tiểu sư đệ, ngươi được tiên vấn quá ta.\"",
+"dich": "\"Muốn làm tổn thương tiểu sư đệ, ngươi phải hỏi ta trước đã.\""
+},
+"149": {
+"goc": "La Thần nhãn thần lăng lệ, thiểm điện bách xuất đao, nhất đao tiếp nhất đao trảm hướng Hình Uyên.",
+"dich": "Ánh mắt La Thần sắc lạnh, xuất đao nhanh như chớp, đao này nối tiếp đao kia chém về phía Hình Uyên."
+},
+"150": {
+"goc": "Hữu tha tại, tuyệt bất hội dung hứa Hình Uyên thương Trương Nhược Trần nhất căn hãn mao.",
+"dich": "Có hắn ở đây, tuyệt đối sẽ không cho phép Hình Uyên làm tổn thương một sợi lông của Trương Nhược Trần."
+},
+"151": {
+"goc": "Vữ thử đồng thời, kỳ tha nhân đô phân phân xuất thủ, trọng tân triển khai sát.",
+"dich": "Cùng lúc đó, những người khác cũng lần lượt ra tay, lại triển khai chém giết."
+},
+"152": {
+"goc": "\"Soa.\"",
+"dich": "\"Vút.\""
+},
+"153": {
+"goc": "Tiểu Hắc thân hình súc tiểu, xuất hiện tại Trương Nhược Trần thân biên.",
+"dich": "Thân hình Tiểu Hắc thu nhỏ lại, xuất hiện bên cạnh Trương Nhược Trần."
+},
+"154": {
+"goc": "\"Bất thác, lại khả dĩ độc tự một nhân cán điệu Thương Tử, tiếp hạ lai, ngươi tiện ở một biên hiết trước, khán bản hoàng xuất thủ, này quần Thiên Đường Giới phái hệ cường giả, nhất võng đả tận.\" Tiểu Hắc ngang trứ đầu thuyết đạo.",
+"dich": "\"Không tệ, vậy mà có thể một mình xử lý Thương Tử. Tiếp theo ngươi cứ nghỉ ngơi một bên, xem bản hoàng ra tay, tóm gọn đám cường giả phái hệ Thiên Đường Giới này một mẻ.\" Tiểu Hắc ngẩng đầu nói."
+},
+"155": {
+"goc": "Thuyết thoại gian, Tiểu Hắc tế xuất nhất can can hắc sắc đích trận kỳ, sáp hướng các cá phương hướng.",
+"dich": "Vừa nói, Tiểu Hắc vừa tế ra từng cây trận kỳ màu đen, cắm về các phương hướng."
+},
+"156": {
+"goc": "Yêu đối phó như thử đa Thiên Đường Giới phái hệ đích cường giả, tối hảo đích biện pháp, tựu nhiên thị sử dụng trận pháp.",
+"dich": "Muốn đối phó nhiều cường giả phái hệ Thiên Đường Giới như vậy, biện pháp tốt nhất tự nhiên là dùng trận pháp."
+},
+"157": {
+"goc": "\"Ầm ầm long.\"",
+"dich": "\"Ầm ầm ầm.\""
+},
+"158": {
+"goc": "Cực vi đột nhiên đích, hạo đãng đích đại thánh dĩ uy, tự thiên ngoại truyền lai, chấn tán thiên lý vân vụ, dã tương hắc ám khu tán, thần thánh đích quang mang, tòng thiên ngoại sái lạc nhi hạ.",
+"dich": "Vô cùng đột ngột, uy thế Đại Thánh mênh mông truyền tới từ ngoài trời, chấn tan mây mù ngàn dặm, cũng xua tan bóng tối, hào quang thần thánh từ ngoài trời rải xuống."
+},
+"159": {
+"goc": "Cảm thụ đáo giá cổ hạo hãn thánh uy, địa diện thượng đích sở hữu tu sĩ, nhãn sắc giai biến, phân phân thải đầu hướng thượng không vọng khứ.",
+"dich": "Cảm nhận được luồng thánh uy mênh mông ấy, sắc mặt tất cả tu sĩ trên mặt đất đều thay đổi, lần lượt ngẩng đầu nhìn lên không trung."
+},
+"160": {
+"goc": "Cự ly địa diện vạn lý chi thượng đích cao không, trữ lập trứ nhất đạo thân trước ngân giáp đích vĩ ngạn thân ảnh, trường trứ thất điều vũ mao huyễn lạn đích vĩ ba, bối hậu hoàn nhiễu trứ nhất đạo thái hồng kiều nhất dạng đích quang ảnh.",
+"dich": "Trên cao cách mặt đất hơn vạn dặm, đứng sừng sững một bóng người vĩ ngạn mặc ngân giáp, có bảy chiếc đuôi lông vũ sặc sỡ, sau lưng vây quanh một đạo quang ảnh như cầu vồng."
+},
+"161": {
+"goc": "\"Tuần Thiên Sứ Giả.\"",
+"dich": "\"Tuần Thiên Sứ Giả.\""
+},
+"162": {
+"goc": "Khán đáo thiên ngoại đích vĩ ngạn thân ảnh, sở hữu tu sĩ tâm trung giai thị chấn.",
+"dich": "Nhìn thấy bóng người vĩ ngạn ngoài trời, trong lòng tất cả tu sĩ đều chấn động."
+},
+"163": {
+"goc": "\"Trụ thủ.\"",
+"dich": "\"Dừng tay.\""
+},
+"164": {
+"goc": "Tuần Thiên Sứ Giả đại hống nhất thanh, kỳ thanh như lôi, hậu trọng vô bách.",
+"dich": "Tuần Thiên Sứ Giả gầm lớn một tiếng, âm thanh như sấm, nặng nề vô cùng."
+},
+"165": {
+"goc": "Nhất ta tu vi giác nhược đích tu sĩ, đương tràng bị chấn đắc thất khiếu lưu huyết, tham nhuyễn tại địa.",
+"dich": "Một số tu sĩ tu vi khá yếu bị chấn đến thất khiếu chảy máu, ngã nhũn ra đất ngay tại chỗ."
+}
+}
+}
