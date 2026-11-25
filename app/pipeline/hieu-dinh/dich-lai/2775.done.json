@@ -1,0 +1,437 @@
+{
+"so_doan": 108,
+"doan": {
+"0": {
+"goc": "Kim Hải áp hạ, Huyết Đồ cùng Diêm Đình chịu thần lực trùng kích, chỉ có thể liều mạng chống đỡ, mảy may không có lực phản kích.",
+"dich": "Biển vàng đè xuống, Huyết Đồ và Diêm Đình chịu xung kích của thần lực, chỉ có thể liều mạng chống đỡ, không có chút sức phản kích nào."
+},
+"1": {
+"goc": "Tức tiện là lúc hiểm quan đầu, Trương Nhược Trần y cựu còn có nhàn tình, hướng xa xử âm thuyền liếc mắt một cái. Nơi đó thần lực ba động, viễn thắng nơi này, đối thượng đại thần cấp tồn tại, Bàn Nhược cùng Văn Chử bọn họ chống đỡ không được bao lâu.",
+"dich": "Dù đang ở thời khắc hiểm nguy, Trương Nhược Trần vẫn còn nhàn tâm liếc nhìn âm thuyền ở đằng xa. Dao động thần lực ở đó mạnh hơn xa nơi này, đối đầu tồn tại cấp đại thần, Bàn Nhược và Văn Chử bọn họ không chống đỡ được bao lâu."
+},
+"2": {
+"goc": "Vị đại thần này, là vì hắn Trương Nhược Trần mà đến, hắn tự nhiên là muốn tự thân hóa giải tràng nguy cơ này.",
+"dich": "Vị đại thần này tới vì Trương Nhược Trần hắn, hắn tự nhiên phải tự mình hóa giải cơn nguy cơ này."
+},
+"3": {
+"goc": "Không thể liên lụy tha nhân.",
+"dich": "Không thể liên lụy người khác."
+},
+"4": {
+"goc": "\"Tốc chiến tốc quyết.\"",
+"dich": "\"Tốc chiến tốc thắng.\""
+},
+"5": {
+"goc": "Trương Nhược Trần dẫn động bản nguyên áo nghĩa, thiên địa gian bản nguyên quy tắc nguyên nguyên bất đoạn hội tụ tới, trên thân bạo phát xuất xúy lạn bản nguyên chi quang, cùng từ thiên nhi giáng Kim Hải chàng kích tại một khởi.",
+"dich": "Trương Nhược Trần dẫn động áo nghĩa bản nguyên, quy tắc bản nguyên giữa thiên địa liên tục hội tụ tới, trên người bộc phát ánh sáng bản nguyên rực rỡ, va chạm với biển vàng từ trên trời giáng xuống."
+},
+"6": {
+"goc": "\"Oanh long!\"",
+"dich": "\"Oanh long!\""
+},
+"7": {
+"goc": "Vô biên Kim Hải, bị Trương Nhược Trần ti liệt khai một đạo cự đại quật lung.",
+"dich": "Biển vàng vô biên bị Trương Nhược Trần xé ra một lỗ thủng lớn."
+},
+"8": {
+"goc": "\"Các ngươi tiên tẩu, nơi này giao cho ta.\"",
+"dich": "\"Các ngươi đi trước, ở đây giao cho ta.\""
+},
+"9": {
+"goc": "Trương Nhược Trần hướng Huyết Đồ hòa Diêm Đình đại hán một thanh.",
+"dich": "Trương Nhược Trần hét lớn một tiếng với Huyết Đồ và Diêm Đình."
+},
+"10": {
+"goc": "Diêm Đình trong mắt lộ ra kinh ngạc chi sắc, nhìn chằm chằm huyền phù tại thủy diện, đối kháng kim sắc phật hải Trương Nhược Trần. Thức khắc Trương Nhược Trần, cùng tiên tiền tại âm thuyền thượng hắn, giản trực phán nhược lưỡng nhân.",
+"dich": "Trong mắt Diêm Đình lộ vẻ kinh ngạc, nhìn chằm chằm Trương Nhược Trần đang lơ lửng trên mặt nước đối kháng biển Phật vàng. Trương Nhược Trần lúc này và hắn trên âm thuyền trước đó quả thật như hai người khác nhau."
+},
+"11": {
+"goc": "\"Đi thôi, sư huynh ta quả thực rất soái, đán thiên vạn biệt mê luyến.\"",
+"dich": "\"Đi thôi, sư huynh ta quả thật rất đẹp trai, nhưng ngàn vạn lần đừng mê luyến.\""
+},
+"12": {
+"goc": "Huyết Đồ phóng thích xuất cự thạch tế đài, trùng phá ngũ tôn ngụy thần thần khí khí tỏa, mang theo Diêm Đình trốn lệ xuất khứ, tật tốc viễn độn.",
+"dich": "Huyết Đồ phóng thích tế đài cự thạch, phá vỡ sự khóa chặt thần khí của năm tôn ngụy thần, mang Diêm Đình lao ra ngoài, nhanh chóng độn đi xa."
+},
+"13": {
+"goc": "Kim nhật minh điện ý tại trảm tận sát tuyệt, bất lưu hậu hoạn, tự nhiên bất hội phóng bọn họ đào tẩu.",
+"dich": "Hôm nay Minh Điện có ý chém tận giết tuyệt, không để lại hậu hoạn, tự nhiên sẽ không để bọn họ chạy thoát."
+},
+"14": {
+"goc": "Kỳ trung một vị đầu sinh độc giác ngụy thần, trì xích lôi điện chủy, truy kích thượng khứ.",
+"dich": "Một vị ngụy thần mọc một sừng trên đầu cầm chùy lôi điện màu đỏ đuổi theo."
+},
+"15": {
+"goc": "\"Hoa lạp!\"",
+"dich": "\"Xoạt!\""
+},
+"16": {
+"goc": "Điện chủy huy xuất, mãn thiên hồng sắc lôi điện.",
+"dich": "Điện chùy vung ra, lôi điện đỏ rực khắp trời."
+},
+"17": {
+"goc": "Huyết Đồ khước dã bất thị dịch vu chi bối, đào mệnh tốc độ kỳ khoái, cự thạch tế đài phòng ngự lực tức tiện thị thần điện dã nan dĩ kích xuyên. Đán, ngụy thần trung cứu cánh thị ngụy thần, việt truy việt cận.",
+"dich": "Huyết Đồ cũng không phải hạng dễ đối phó, tốc độ chạy trốn cực nhanh, lực phòng ngự của tế đài cự thạch thì ngay cả thần điện cũng khó đánh xuyên. Nhưng ngụy thần rốt cuộc vẫn là ngụy thần, càng đuổi càng gần."
+},
+"18": {
+"goc": "\"Cố bản thần phá khai.\"",
+"dich": "\"Phá cho bản thần.\""
+},
+"19": {
+"goc": "Đầu sinh độc giác ngụy thần, phi chí cự thạch tế đài thượng không, thần khu so với tế đài hoàn đại, như một phiến thần vân già thiên.",
+"dich": "Ngụy thần một sừng bay tới trên không tế đài cự thạch, thần khu còn lớn hơn tế đài, như một đám mây thần che trời."
+},
+"20": {
+"goc": "Huyết Đồ hòa Diêm Đình thải đầu, nhị nhân bị thần khu âm ảnh thôn một.",
+"dich": "Huyết Đồ và Diêm Đình ngẩng đầu, hai người bị bóng của thần khu nuốt chửng."
+},
+"21": {
+"goc": "Huyết Đồ ngẩng đầu nhìn khứ, tâm tạng cuồng khiêu, đạo: \"Hoàn liễu!\"",
+"dich": "Huyết Đồ ngẩng đầu nhìn, tim đập loạn, nói: \"Xong rồi!\""
+},
+"22": {
+"goc": "\"Phốc xuy!\"",
+"dich": "\"Phập!\""
+},
+"23": {
+"goc": "Một đạo huyễn lạn kiếm quang, tùng thiên ngoại trảm lai, tương thượng không na tôn ngụy thần thần khu nhất phân vi nhị.",
+"dich": "Một đạo kiếm quang rực rỡ chém tới từ ngoài trời, chém thần khu của tôn ngụy thần trên không làm đôi."
+},
+"24": {
+"goc": "Lưỡng bán thần thi hóa vi lưỡng phiến vạn mễ trường huyết vân, tùng thiên không trụy lạc hạ lai, thần huyết như vũ tích nhất dạng sái lạc, nhiễm hồng đại nhất phiến thủy vực.",
+"dich": "Hai nửa thần thi hóa thành hai mảng mây máu dài vạn mét, rơi từ trên trời xuống, thần huyết rải xuống như mưa, nhuộm đỏ một vùng nước lớn."
+},
+"25": {
+"goc": "Trảm xuất giá nhất kiếm biệt thị biệt nhân, nãi thị chính tại dữ Không Trí đấu pháp Trương Nhược Trần.",
+"dich": "Người chém ra nhát kiếm này không ai khác, chính là Trương Nhược Trần đang đấu pháp với Không Trí."
+},
+"26": {
+"goc": "Nhất kiếm khoa việt thiên lý, trảm ngụy thần.",
+"dich": "Một kiếm vượt ngàn dặm, chém ngụy thần."
+},
+"27": {
+"goc": "Huyết Đồ tri đạo, ngụy thần sinh mệnh lực cường đại, tuyệt bất khả năng đãng bị trảm sát, vu thị, huy thủ đả xuất nhất kiện võng trạng quân vương thánh khí, tương kỳ trung bán cụ thần thi trang tiến võng trung, tha duệ hồi lai, dĩ cự thạch tế đài tương kỳ trấn áp.",
+"dich": "Huyết Đồ biết ngụy thần có sinh mệnh lực cường đại, tuyệt đối không thể dễ dàng bị chém chết như vậy, vì vậy vung tay đánh ra một món thánh khí quân vương hình lưới, nhét một nửa thần thi vào lưới, kéo về, dùng tế đài cự thạch trấn áp."
+},
+"28": {
+"goc": "\"Tương bản thần thần khu hoàn lai.\"",
+"dich": "\"Trả thần khu cho bản thần.\""
+},
+"29": {
+"goc": "Hậu phương, ủng hữu thần nguyên bán cụ thần thi, khôi phục thần trí, trọng ngưng thần hồn, truy hướng tiền phương cự thạch tế đài.",
+"dich": "Phía sau, nửa thần thi có thần nguyên khôi phục thần trí, ngưng tụ lại thần hồn, đuổi theo tế đài cự thạch phía trước."
+},
+"30": {
+"goc": "\"Ngươi bán tôn ngụy thần nhi dĩ, ngã đại đồ chiến thần hoàng hà cụ chi hữu?\"",
+"dich": "\"Ngươi chỉ là nửa tôn ngụy thần, Đại Đồ Chiến Thần ta có gì phải sợ?\""
+},
+"31": {
+"goc": "Huyết Đồ tương thủ trung võng trạng quân vương thánh khí nhưng cấp Diêm Đình, mi tâm chiến thần ấn ký phù hiện xuất lai, đầu đỉnh thượng không ngưng tụ xuất hùng hùng thần hỏa, hóa vi nhất phiến ôn độ siêu quá bách vạn cấp hỏa hải, hướng truy thượng lai bán cụ thần thi chàng kích quá khứ.",
+"dich": "Huyết Đồ ném thánh khí quân vương hình lưới trong tay cho Diêm Đình, ấn ký chiến thần giữa mi tâm hiện ra, trên đỉnh đầu ngưng tụ thần hỏa hừng hực, hóa thành một biển lửa nhiệt độ vượt quá trăm vạn độ, va về phía nửa thần thi đang đuổi tới."
+},
+"32": {
+"goc": "Diêm Đình trạm tại cự thạch tế đài thượng, điều động toàn thân lực lượng, tài năng trấn áp trụ võng trung bán cụ thần thi, tâm trung chấn hám vô tỷ. Đại thần tập sát, thánh kinh phạt thần, kim dạ kinh lịch, túc dĩ tha ký nhất bối tử.",
+"dich": "Diêm Đình đứng trên tế đài cự thạch, điều động toàn bộ lực lượng mới trấn áp được nửa thần thi trong lưới, trong lòng chấn động vô cùng. Đại thần tập sát, Thánh cảnh phạt thần, những gì trải qua đêm nay đủ để nàng nhớ cả đời."
+},
+"33": {
+"goc": "Bàn Nhược, Trương Nhược Trần, Huyết Đồ giá ta tu sĩ, vô luận tu vi cường nhược, thân thượng khước đô hữu nhất cổ khí.",
+"dich": "Bàn Nhược, Trương Nhược Trần, Huyết Đồ, những tu sĩ này bất luận tu vi mạnh yếu, trên người đều có một luồng khí."
+},
+"34": {
+"goc": "Vô cụ thần linh, vô cụ thiên uy.",
+"dich": "Không sợ thần linh, không sợ thiên uy."
+},
+"35": {
+"goc": "Túng nhiên địch nhân viễn thắng tha môn, tha môn dã cảm nghênh thượng khứ chiến.",
+"dich": "Dù địch nhân mạnh hơn bọn họ rất nhiều, bọn họ vẫn dám nghênh chiến."
+},
+"36": {
+"goc": "Tùy trứ điều động lai bản nguyên quy tắc việt lai việt đa, Trương Nhược Trần chiến lực việt lai việt cường, chân chính hóa thân bản nguyên sử giả, thân hạ thủy vực biến thành bạch sắc quang hải, dữ Không Trí ngưng xuất Kim Hải đối bỗng, khước bất lạc hạ phong.",
+"dich": "Theo quy tắc bản nguyên được điều động càng lúc càng nhiều, chiến lực của Trương Nhược Trần càng lúc càng mạnh, thật sự hóa thân thành sứ giả bản nguyên, vùng nước dưới thân biến thành biển ánh sáng trắng, đối chọi với biển vàng do Không Trí ngưng tụ mà không rơi vào thế hạ phong."
+},
+"37": {
+"goc": "Chi vu lăng ngoại tam tôn ngụy thần, dĩ thị bị Trương Nhược Trần trấn áp tại liễu tam kiện chí tôn thánh khí hạ phương, động đạn bất đắc.",
+"dich": "Còn ba tôn ngụy thần khác đã bị Trương Nhược Trần trấn áp dưới ba món chí tôn thánh khí, không thể nhúc nhích."
+},
+"38": {
+"goc": "\"Bạch Hổ, trợ ngã nhất tí chi lực, ngã tất tu tẫn khoái kết thúc chiến đấu.\"",
+"dich": "\"Bạch Hổ, giúp ta một tay, ta phải nhanh chóng kết thúc trận chiến.\""
+},
+"39": {
+"goc": "Trương Nhược Trần dữ táng kim bạch hổ câu thông.",
+"dich": "Trương Nhược Trần giao tiếp với Táng Kim Bạch Hổ."
+},
+"40": {
+"goc": "Đán, táng kim bạch hổ một hữu hồi ứng, tượng thị căn bản bất tại tha thân biên.",
+"dich": "Nhưng Táng Kim Bạch Hổ không đáp lại, như căn bản không ở bên cạnh hắn."
+},
+"41": {
+"goc": "Táng Kim Bạch Hổ tằng thuyết quá, nhược phi sinh tử quan đầu, tuyệt bất xuất thủ.",
+"dich": "Táng Kim Bạch Hổ từng nói, nếu không phải thời khắc sinh tử, tuyệt đối không ra tay."
+},
+"42": {
+"goc": "Trương Nhược Trần một tưởng đáo tha cánh hận đáo giá cái địa bộ, kim dạ như thử hung hiểm, vi hà bất năng phá lệ?",
+"dich": "Trương Nhược Trần không ngờ nó lại cứng nhắc tới mức này, đêm nay hung hiểm như vậy, tại sao không thể phá lệ?"
+},
+"43": {
+"goc": "\"A-Mi-Đà-Phật!\"",
+"dich": "\"A Di Đà Phật!\""
+},
+"44": {
+"goc": "Không Trí cước thải liên hoa, khoa việt không gian, nhất bộ đạp đáo Trương Nhược Trần thân tiền, hữu thủ phách xuất, chưởng tâm hữu một chủng minh lượng Phạm văn, uẩn hàm cổ lão nhi thần bí lực lượng.",
+"dich": "Không Trí chân đạp hoa sen, vượt qua không gian, một bước tới trước mặt Trương Nhược Trần, tay phải đánh ra, trong lòng bàn tay có một phạn văn sáng rực, ẩn chứa lực lượng cổ xưa mà thần bí."
+},
+"45": {
+"goc": "Trương Nhược Trần thân chu không gian, do như thổ thạch đôi tụ nhi thành, bị tha nhất chưởng đả đắc băng đạp, thân thể hướng hư vô trung trụy lạc.",
+"dich": "Không gian quanh Trương Nhược Trần như được chất từ đất đá, bị hắn một chưởng đánh sụp, thân thể rơi xuống hư vô."
+},
+"46": {
+"goc": "\"Ngã đường đường thời không chưởng khống giả, khởi hội bị nhĩ đả lạc tại không gian trung?\"",
+"dich": "\"Ta là người chưởng khống thời không đường đường, sao có thể bị ngươi đánh rơi vào không gian?\""
+},
+"47": {
+"goc": "Trương Nhược Trần song tí triển khai, phá toái không gian khoái tốc ngưng hợp.",
+"dich": "Trương Nhược Trần dang hai tay, không gian vỡ nát nhanh chóng khép lại."
+},
+"48": {
+"goc": "Đán, thượng phương Không Trí tái thứ công lai, thủ chỉ điểm xuất, chủy lý niệm đạo: \"Vô lượng không minh chỉ!\"",
+"dich": "Nhưng Không Trí phía trên lại công tới, ngón tay điểm ra, miệng niệm: \"Vô Lượng Không Minh Chỉ!\""
+},
+"49": {
+"goc": "Giá đạo chỉ kính, như nhất bính lợi kiếm, trực thứ nhi lai.",
+"dich": "Đạo chỉ kình này như một thanh lợi kiếm đâm thẳng tới."
+},
+"50": {
+"goc": "\"Bành!\"",
+"dich": "\"Bùm!\""
+},
+"51": {
+"goc": "Trương Nhược Trần song thủ họa viên, dẫn động vô cực thánh ý, họa xuất thái cực ấn ký, do hạ nhi thượng nghênh liễu thượng khược.",
+"dich": "Trương Nhược Trần hai tay vẽ vòng tròn, dẫn động thánh ý Vô Cực, vẽ ra ấn ký thái cực, từ dưới lên nghênh đón."
+},
+"52": {
+"goc": "Không Trí chỉ tiêm, kích tại thái cực ấn ký trung tâm, đốn thời cảm giác không gian hãm hạ khứ, thân chu thời gian khoái tốc lưu thệ, nhan sắc tái dã bất năng bảo trì bình tĩnh.",
+"dich": "Đầu ngón tay Không Trí đánh vào trung tâm ấn ký thái cực, lập tức cảm thấy không gian lún xuống, thời gian quanh thân nhanh chóng trôi đi, sắc mặt không còn giữ được bình tĩnh."
+},
+"53": {
+"goc": "Trương Nhược Trần giá chiêu thủ đoạn, tự hồ bỉ thần thông đô yếu cấp mộng huyền diệu.",
+"dich": "Chiêu thủ đoạn này của Trương Nhược Trần dường như còn huyền diệu hơn cả thần thông."
+},
+"54": {
+"goc": "Tha dục tránh thoát xuất khứ, khước bị tử tử lạp xả.",
+"dich": "Hắn muốn giãy ra, nhưng bị kéo chặt."
+},
+"55": {
+"goc": "Trương Nhược Trần tương Không Trí triền quả tiến thái cực ấn ký, như đồng trang tiến thời không bao phục, hướng hư vô không gian trung nhưng liễu xuất khứ. Sát na gian, tiêm thị nhưng xuất vạn lý chi ngoại.",
+"dich": "Trương Nhược Trần cuốn Không Trí vào ấn ký thái cực, như nhét vào một bọc thời không, ném vào không gian hư vô. Trong sát na đã ném ra ngoài vạn dặm."
+},
+"56": {
+"goc": "Tam tôn bị trấn áp tại chí tôn thánh khí hạ phương ngụy thần, nhất cá cá nhan sắc kinh biến.",
+"dich": "Ba tôn ngụy thần bị trấn áp dưới chí tôn thánh khí ai nấy biến sắc."
+},
+"57": {
+"goc": "Hà lý tưởng đáo Trương Nhược Trần cánh hữu như thử năng nại?",
+"dich": "Đâu ngờ Trương Nhược Trần lại có năng lực như vậy?"
+},
+"58": {
+"goc": "Không Trí đô bất thị tha đối thủ.",
+"dich": "Ngay cả Không Trí cũng không phải đối thủ của hắn."
+},
+"59": {
+"goc": "Trương Nhược Trần tái thứ vọng hướng âm thuyền phương hướng, tri hiểu thời gian khẩn bách, vu thị, tùng đồng quan trung, tương phệ thần trùng phóng xuất, hóa vi tam cổ trùng quần, trùng hướng tam tôn ngụy thần.",
+"dich": "Trương Nhược Trần lại nhìn về phía âm thuyền, biết thời gian gấp gáp, vì vậy thả phệ thần trùng ra từ quan tài đồng, hóa thành ba đàn trùng lao về phía ba tôn ngụy thần."
+},
+"60": {
+"goc": "Tùy hậu, sử dụng bản nguyên thần mục thám tra không gian mạch lạc.",
+"dich": "Sau đó dùng bản nguyên thần mục dò xét mạch lạc không gian."
+},
+"61": {
+"goc": "Tam Đồ Hà thượng không gian mạch lạc phi thường phức tạp, yếu thi triển thần linh bộ, thị nhất kiện phi thường kiên nan sự.",
+"dich": "Mạch lạc không gian trên Tam Đồ Hà vô cùng phức tạp, muốn thi triển bước thần linh là chuyện rất gian nan."
+},
+"62": {
+"goc": "Khả thị chỉ hữu sử dụng thần linh bộ, tài năng khoái tốc thoát ly Văn Thông đại thần thần niệm thám tra phạm vi.",
+"dich": "Nhưng chỉ có dùng bước thần linh mới có thể nhanh chóng thoát khỏi phạm vi dò xét thần niệm của Văn Thông đại thần."
+},
+"63": {
+"goc": "Dĩ Văn Thông đại thần tu vi, túng nhiên tứ tôn chân thần nhất khởi xuất thủ, đô bất cú tha nhất chỉ thủ phách sát. Táng Kim Bạch Hổ xuất thủ, dã nan đào nhất tử, tối đa năng cú dữ Văn Thông đại thần đồng quy vu tận.",
+"dich": "Với tu vi của Văn Thông đại thần, dù bốn tôn chân thần cùng ra tay cũng không đủ để hắn một ngón tay bóp chết. Táng Kim Bạch Hổ ra tay cũng khó thoát một chết, nhiều nhất chỉ có thể đồng quy vu tận với Văn Thông đại thần."
+},
+"64": {
+"goc": "Trương Nhược Trần năng tưởng đáo duy nhất hoạt lộ, tiêm thị tẫn khoái đào đáo Văn Thông đại thần thần niệm thám tra phạm vi chi ngoại, tùy hậu, sử dụng \"Lục Tổ Thích Thiền Đồ\" quy lai, tương Văn Thông đại thần hách thối.",
+"dich": "Con đường sống duy nhất Trương Nhược Trần nghĩ ra là nhanh chóng chạy ra ngoài phạm vi dò xét thần niệm của Văn Thông đại thần, sau đó dùng \"Lục Tổ Thích Thiền Đồ\" quay lại, dọa lui Văn Thông đại thần."
+},
+"65": {
+"goc": "Lục Tổ khả dĩ tương Quỷ Chủ hách đắc khấu bái, bất cảm phóng tứ.",
+"dich": "Lục Tổ có thể dọa Quỷ Chủ phải khấu đầu, không dám càn rỡ."
+},
+"66": {
+"goc": "Văn Thông đại thần tái cường, dã bất khả năng bỉ Quỷ Chủ canh cường, chỉ yếu lục Tổ hiện thân, bảo chứng khả dĩ hóa giải nguy cơ.",
+"dich": "Văn Thông đại thần có mạnh tới đâu cũng không thể mạnh hơn Quỷ Chủ, chỉ cần Lục Tổ hiện thân, chắc chắn có thể hóa giải nguy cơ."
+},
+"67": {
+"goc": "Phệ thần trùng ba mãn tam tôn ngụy thần toàn thân, tha môn chủy lý phát xuất cổ quái thanh âm, thích phóng xuất tinh thần lực kiên nhiễu, khả dĩ phòng chỉ ngụy thần tự bạo thần nguyên. Giá thị đệ tam đại phệ thần trùng, tài bỉ hữu năng lực.",
+"dich": "Phệ thần trùng bò kín toàn thân ba tôn ngụy thần, trong miệng chúng phát ra âm thanh cổ quái, phóng thích tinh thần lực quấy nhiễu, có thể ngăn ngụy thần tự bạo thần nguyên. Đây là phệ thần trùng đời thứ ba mới có năng lực này."
+},
+"68": {
+"goc": "Chỉ bất quá, phệ thần trùng hoàn không có hoàn toàn tiến hóa đáo đệ tam đại, thích phóng xuất tinh thần lực, chỉ năng đối mạt lưu ngụy thần tạo thành ảnh hưởng.",
+"dich": "Chỉ có điều phệ thần trùng còn chưa tiến hóa hoàn toàn tới đời thứ ba, tinh thần lực phóng thích ra chỉ có thể gây ảnh hưởng tới ngụy thần hạng chót."
+},
+"69": {
+"goc": "Nhược thị thánh kinh tu sĩ tại thử, sát na gian tiêm hội tinh thần thác loạn, biến đắc phong phong điên điên.",
+"dich": "Nếu là tu sĩ Thánh cảnh ở đây, trong sát na sẽ tinh thần thác loạn, trở nên điên điên dại dại."
+},
+"70": {
+"goc": "Tam tôn ngụy thần tư thanh thảm khiếu, thanh âm truyền đáo Văn Thông đại thần nhĩ trung.",
+"dich": "Ba tôn ngụy thần kêu thảm khản cổ, âm thanh truyền tới tai Văn Thông đại thần."
+},
+"71": {
+"goc": "Văn Thông đại thần nộ hống nhất thanh, tùng nhân đầu hình trạng lôi điện sơn thể thượng phi liễu khởi lai, huy thủ cách không phách xuất, hóa vi nhất chỉ thần quang vạn trượng đại thủ ấn, lạc tại thần vương phù thượng.",
+"dich": "Văn Thông đại thần gầm lên giận dữ, bay lên khỏi ngọn núi lôi điện hình đầu người, vung tay cách không vỗ ra, hóa thành một đại thủ ấn thần quang vạn trượng, rơi lên thần vương phù."
+},
+"72": {
+"goc": "\"Phách phách!\"",
+"dich": "\"Rắc rắc!\""
+},
+"73": {
+"goc": "Sát na gian, thần vương phù liệt văn vô số, biến đắc phá phá lạn lạn.",
+"dich": "Trong sát na, thần vương phù nứt ra vô số vết, trở nên rách nát."
+},
+"74": {
+"goc": "Đồng thời tha thể nội, nhất đạo phân thân phi xuất khứ, trùng hướng Trương Nhược Trần sở tại phương vị.",
+"dich": "Đồng thời, trong cơ thể hắn bay ra một đạo phân thân, lao về phương vị của Trương Nhược Trần."
+},
+"75": {
+"goc": "Cô Xạ Hoan Hoan tùng âm thuyền trung trùng xuất, lạm tiệt Văn Thông đại thần phân thân.",
+"dich": "Cô Xạ Hoan Hoan xông ra khỏi âm thuyền, chặn phân thân của Văn Thông đại thần."
+},
+"76": {
+"goc": "\"La Tổ vân sơn giới dữ Trương Nhược Trần tẩu đắc thái cận liễu, mạc phi nhĩ môn dĩ vi, tha hữu cơ hội đả phá trớ chú, tương lai thành vi thần tôn cấp nhân vật?\"",
+"dich": "\"La Tổ Vân Sơn Giới đi quá gần với Trương Nhược Trần rồi, lẽ nào các ngươi cho rằng hắn có cơ hội phá vỡ nguyền rủa, tương lai trở thành nhân vật cấp thần tôn?\""
+},
+"77": {
+"goc": "Văn Thông đại thần phân thân, dữ chân thân một hữu cừ biệt, thần uy hạo đãng, khí thế hung dũng bàng bạc.",
+"dich": "Phân thân của Văn Thông đại thần không khác gì chân thân, thần uy mênh mông, khí thế hung hãn bàng bạc."
+},
+"78": {
+"goc": "\"Đại thần tảo dĩ tố xuất quyết định, yếu sát ngộ môn sở hữu nhân, hựu hà tất hoàn yếu thuyết năng ma phế thoại?\"",
+"dich": "\"Đại thần đã sớm quyết định giết tất cả chúng ta, cần gì phải nói nhiều lời thừa như vậy?\""
+},
+"79": {
+"goc": "Cô Xạ Hoan Hoan cước hạ dũng xuất phi hồng tử linh ma khí, khoảnh khắc gian, mạn diên thiên lý, số chi bất tẫn quy tắc thần văn, tại tuyết bạch cơ phu thượng lưu động.",
+"dich": "Dưới chân Cô Xạ Hoan Hoan tuôn ra tử linh ma khí màu đỏ thẫm, trong khoảnh khắc lan ra ngàn dặm, vô số thần văn quy tắc lưu động trên làn da trắng như tuyết."
+},
+"80": {
+"goc": "Văn Thông đại thần phân thân nhan sắc khinh miệt, nhất quyền trực kích xuất khứ.",
+"dich": "Sắc mặt phân thân Văn Thông đại thần khinh miệt, đánh thẳng ra một quyền."
+},
+"81": {
+"goc": "\"Oanh long!\"",
+"dich": "\"Oanh long!\""
+},
+"82": {
+"goc": "Tử linh ma khí bị quyền kính đả đắc tán liệt khai, quyền đầu biến đắc tinh thần năng mộc cự đại, chàng kích tại Cô Xạ Hoan Hoan kiêu khu thượng, đốn thời, quy tắc thần văn phân phân đoạn liệt, tuyết bạch cơ phu do như hóa vi phá toái đào tư, xuất hiện mật mật ma ma huyết văn.",
+"dich": "Tử linh ma khí bị quyền kình đánh tan, nắm đấm trở nên to như tinh thần, đập lên thân thể yêu kiều của Cô Xạ Hoan Hoan, lập tức thần văn quy tắc lần lượt đứt gãy, làn da trắng như tuyết như đồ sứ vỡ, xuất hiện vết máu dày đặc."
+},
+"83": {
+"goc": "La Tổ vân sơn giới chủ tu ma thể, nhục thân cường đại, đán dĩ Cô Xạ Hoan Hoan chân thần tu vi, khước soa nhất điểm bị Văn Thông đại thần phân thân nhất quyền đả đắc thần khu bạo liệt.",
+"dich": "La Tổ Vân Sơn Giới chủ tu ma thể, nhục thân cường đại, nhưng với tu vi Chân Thần của Cô Xạ Hoan Hoan, suýt nữa bị phân thân Văn Thông đại thần một quyền đánh nổ thần khu."
+},
+"84": {
+"goc": "\"Khu khu nhất cá liên thần cảnh thế giới đô một tu luyện xuất lai chân thần, dã cảm dữ bản tọa khiếu bản?\"",
+"dich": "\"Chỉ là một Chân Thần ngay cả thần cảnh thế giới còn chưa tu luyện ra mà cũng dám đối đầu với bản tọa?\""
+},
+"85": {
+"goc": "Lăng nhất đầu, Văn Thông đại thần chân thân xuất thủ, nhất chỉ đản liễu xuất khứ.",
+"dich": "Ở phía bên kia, chân thân Văn Thông đại thần ra tay, búng ra một ngón tay."
+},
+"86": {
+"goc": "\"Bành!\"",
+"dich": "\"Bùm!\""
+},
+"87": {
+"goc": "Chỉ tiêm hữu nhất đạo đạo thần kính dũng xuất, hóa vi ba văn, trùng kích tại Bàn Nhược thượng. Đốn thời, chính tại thu thủ thạch kiếm Bàn Nhược, thần khu bạo toái nhi khai, hóa vi nhất đoàn huyết vụ.",
+"dich": "Từ đầu ngón tay tuôn ra từng đạo thần kình, hóa thành gợn sóng, xung kích lên Bàn Nhược. Lập tức, thần khu của Bàn Nhược đang thu lấy thạch kiếm nổ tung, hóa thành một đoàn huyết vụ."
+},
+"88": {
+"goc": "Văn Thông đại thần phi lạc đáo thần vương phù thượng không, nhất cước thải liễu hạ khứ.",
+"dich": "Văn Thông đại thần bay tới trên không thần vương phù, giẫm xuống một chân."
+},
+"89": {
+"goc": "\"Oanh long!\"",
+"dich": "\"Oanh long!\""
+},
+"90": {
+"goc": "Thần túc uyển nhược nhất phiến thế giới triển khai, tử vong chi lực mạn diên thiên bách vạn lý, tương viễn xử Trương Nhược Trần, Huyết Đồ, Diêm Đình toàn bộ đô chấn đắc phao phi, thụ liễu bất đồng trình độ thương thế.",
+"dich": "Bàn chân thần như một thế giới mở ra, lực lượng tử vong lan ra ngàn trăm vạn dặm, chấn bay toàn bộ Trương Nhược Trần, Huyết Đồ, Diêm Đình ở đằng xa, bị thương ở các mức độ khác nhau."
+},
+"91": {
+"goc": "Thần vương phù chung vu bạo toái, hóa vi nhất lạp lạp quang điểm, sái lạc tại thủy diện.",
+"dich": "Thần vương phù cuối cùng cũng nổ tung, hóa thành từng hạt điểm sáng rơi xuống mặt nước."
+},
+"92": {
+"goc": "Hạ phương âm thuyền, khước thị bị thần kính trùng kích liệt khai, hóa vi toái phiến, hướng thủy để trầm khứ.",
+"dich": "Âm thuyền bên dưới bị thần kình xung kích nứt ra, hóa thành mảnh vụn, chìm xuống đáy nước."
+},
+"93": {
+"goc": "Văn Chử hòa tiểu hắc phòng ngự, sát na gian bị kích xuyên, bì phu hòa huyết nhục bạo khai, hóa vi lưỡng đoàn huyết vụ. Huyết vụ trung, chỉ thặng cốt giá hoàn toán hoàn hảo.",
+"dich": "Phòng ngự của Văn Chử và Tiểu Hắc trong sát na bị đánh xuyên, da thịt nổ tung, hóa thành hai đoàn huyết vụ. Trong huyết vụ chỉ còn lại bộ xương là tương đối nguyên vẹn."
+},
+"94": {
+"goc": "Sinh cơ cũng bất tẫn diệt.",
+"dich": "Sinh cơ cũng chưa diệt hết."
+},
+"95": {
+"goc": "Bán không trung, Bàn Nhược thần khu tại huyết vụ trung, trọng tân ngưng tụ xuất lai, tiếu nhan cực kỳ thương bạch, khí thế hư nhược đáo liễu cực điểm, đán nhan sắc khước y cựu lăng lịch.",
+"dich": "Giữa không trung, thần khu của Bàn Nhược ngưng tụ lại trong huyết vụ, khuôn mặt xinh đẹp cực kỳ tái nhợt, khí thế suy yếu tới cực điểm, nhưng sắc mặt vẫn lạnh lùng sắc bén."
+},
+"96": {
+"goc": "Văn Thông đại thần tương nhất bách linh bát bát thạch kiếm tận sổ thu hồi, đầu mục đinh liễu quá khứ, khí thế thông thiên, vấn đạo: \"Nhĩ luyện hóa liễu Si Hình Thiên thần chi tinh hồn?\"",
+"dich": "Văn Thông đại thần thu hồi toàn bộ một trăm lẻ tám thanh thạch kiếm, ánh mắt nhìn chằm chằm sang, khí thế ngút trời, hỏi: \"Ngươi đã luyện hóa tinh hồn thần của Si Hình Thiên?\""
+},
+"97": {
+"goc": "Bàn Nhược giảo trứ nhất khẩu tinh oánh bối xỉ, lãnh lãnh nhất tiếu.",
+"dich": "Bàn Nhược cắn chặt hàm răng trắng óng, cười lạnh."
+},
+"98": {
+"goc": "\"Bất thuyết dã vô phòng, chỉ tu trừu thủ nhĩ thần hồn, tử tế nghiên cứu nhất phiên, tự nhiên khả dĩ hoa đáo đáp án.\"",
+"dich": "\"Không nói cũng không sao, chỉ cần rút thần hồn của ngươi ra nghiên cứu kỹ một phen, tự nhiên sẽ tìm được đáp án.\""
+},
+"99": {
+"goc": "Văn Thông đại thần thám xuất thủ chưởng, cách không hướng Bàn Nhược trảo liễu quá khứ.",
+"dich": "Văn Thông đại thần vươn bàn tay, cách không chộp về phía Bàn Nhược."
+},
+"100": {
+"goc": "Bàn Nhược nhất lũ lũ thần hồn, tùng thể nội phi xuất, hướng tha chưởng tâm phi khứ.",
+"dich": "Từng sợi thần hồn của Bàn Nhược bay ra khỏi cơ thể, bay về phía lòng bàn tay hắn."
+},
+"101": {
+"goc": "Mạc địa, dị biến phát sinh.",
+"dich": "Đột nhiên, dị biến xảy ra."
+},
+"102": {
+"goc": "Bản thị vi nhiễu Văn Thông đại thần phi hành nhất bách linh bát bát thạch kiếm, hốt nhiên kiếm thể chiến động, kiếm minh thứ nhĩ, kiếm tiêm chỉ hướng trung tâm tha.",
+"dich": "Một trăm lẻ tám thanh thạch kiếm vốn đang bay quanh Văn Thông đại thần đột nhiên rung lên, tiếng kiếm minh chói tai, mũi kiếm chỉ vào hắn ở trung tâm."
+},
+"103": {
+"goc": "Văn Thông đại thần nhan sắc nhất biến, liên mang đình chỉ nhiếp thủ Bàn Nhược thần hồn, chống khởi thần quang khí tráo, địch kháng công kích nhi lai nhất bách linh bát bát thạch kiếm, tương sở hữu thạch kiếm, toàn bộ chấn phi xuất khứ.",
+"dich": "Sắc mặt Văn Thông đại thần biến đổi, vội vàng ngừng nhiếp thủ thần hồn Bàn Nhược, dựng lên khí tráo thần quang, chống lại một trăm lẻ tám thanh thạch kiếm đang công kích tới, chấn bay toàn bộ thạch kiếm ra ngoài."
+},
+"104": {
+"goc": "\"Hống!\"",
+"dich": "\"Gào!\""
+},
+"105": {
+"goc": "Viễn xử, nhân đầu hình trạng lôi điện sơn nhạc, phát xuất nhất đạo kinh thiên nộ tiếu.",
+"dich": "Ở đằng xa, ngọn núi lôi điện hình đầu người phát ra một tiếng gầm giận kinh thiên."
+},
+"106": {
+"goc": "Thủy diện, hiêm khởi bách trượng cự lãng.",
+"dich": "Mặt nước dâng lên sóng lớn trăm trượng."
+},
+"107": {
+"goc": "\"Hình Thiên đại thần chung vu tô tỉnh liễu!\" Bàn Nhược tùng bán không lạc hạ, trạm tại nhất khối âm thuyền tỏa phiến thượng, vọng hướng lôi điện sơn nhạc phương vị.",
+"dich": "\"Hình Thiên đại thần cuối cùng cũng tỉnh rồi!\" Bàn Nhược từ giữa không trung rơi xuống, đứng trên một mảnh vỡ của âm thuyền, nhìn về phương vị ngọn núi lôi điện."
+}
+}
+}
