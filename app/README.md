@@ -126,7 +126,7 @@ newton.com.tw, maigoo…, chuyển sang Hán-Việt bằng `han-viet.json`) và 
 chương lân cận**. Nguyên tắc:
 
 - Tên nhân vật/công pháp/bảo vật theo **đúng âm Hán-Việt** của chữ gốc, không theo nghĩa
-  và không theo cách viết đông nhất nếu cách đó là dịch nghĩa (橙月星使 → Tranh Nguyệt
+  và không theo cách viết phổ biến nhất nếu cách đó là dịch nghĩa (橙月星使 → Tranh Nguyệt
   Tinh Sứ, 狩天大宴 → Thú Thiên Đại Yến, 天姥 → Thiên Mụ, 孟凰娥 / 孟凰妳 → Mạnh Hoàng Nga /
   Mạnh Hoàng Nhĩ — hai chị em song sinh mà bản dịch trộn làm một).
 - Không có trên wiki và không có trong ngữ cảnh lân cận thì coi là lỗi dịch/hallu của tên
