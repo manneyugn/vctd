@@ -19,7 +19,8 @@
     "2026-11-25: tên bị dịch nghĩa / cụm lạ (pipeline/ten_dich_nghia.py): Huyết Vết/Vệt Chiến Thần -> Huyết Tuyệt, Thần Sườn Núi -> Thần Nhai, 天始己终/无终 -> Thiên Thủy Kỷ Chung / Vô Chung, 星海垂钓者 -> Tinh Hải Thùy Điếu Giả, 百枷境 -> Bách Gia Cảnh, 千蕊界 -> Thiên Nhụy Giới.",
     "2026-11-25: dò cụm lạ theo từ chung (pipeline/ten_khop_tu.py): La Bàn (罗='lưới'), Thấp Bà (湿='ướt'), Danh Kiếm Thần, Bản Nguyên Thần Điện, Mạc Ưu Cốc (莫憂谷, sửa lại từ Mộ Ưu Cốc)...",
     "2026-11-25: tên bị đổi 1 âm tiết bất kỳ (kể cả đổi họ: Hách Hạo -> Cái Hạo) - pipeline/ten_doi_ho.py, duyệt 1.465 ứng viên, áp theo chương.",
-    "2026-11-25: mọi biến thể của 韩湫 -> Hàn Thu (Thuế, Thuê, Cưu, Thiếu Trủng, Thiếu Hâm, Thấp Trũng Hồ Nước)."
+    "2026-11-25: mọi biến thể của 韩湫 -> Hàn Thu (Thuế, Thuê, Cưu, Thiếu Trủng, Thiếu Hâm, Thấp Trũng Hồ Nước).",
+    "2026-11-25 rà soát đợt ten doi ho: bỏ 'Vô Tự Kiếm Sơn' c774 (tên gọi khác của Vô Tự Kiếm Phổ, có trong văn bản), bỏ 'Nhưng Tu La' c3757 (liên từ 'Nhưng' + Tu La tộc), c2429 Hạ Vô Thần là Hạ Du (nữ, Hạ tộc) không phải Diêm Vô Thần."
   ],
   "duyet": {
     "trương như trần": "trương nhược trần",
@@ -5259,11 +5260,11 @@
     },
     {
       "sai": "Hạ Vô Thần",
-      "dung": "Diêm Vô Thần",
+      "dung": "Hạ Du",
       "chuong": [
         2429
       ],
-      "ghi_chu": "ten doi ho 2026-11-25"
+      "ghi_chu": "ten doi ho 2026-11-25; ra soat: nu, Hạ tộc (c2428/2430)"
     },
     {
       "sai": "Diêm Hướng Thần",
@@ -5286,14 +5287,6 @@
       "dung": "Yến Vân Huyễn",
       "chuong": [
         294
-      ],
-      "ghi_chu": "ten doi ho 2026-11-25"
-    },
-    {
-      "sai": "Vô Tự Kiếm Sơn",
-      "dung": "Vô Tự Kiếm Phổ",
-      "chuong": [
-        774
       ],
       "ghi_chu": "ten doi ho 2026-11-25"
     },
@@ -8222,14 +8215,6 @@
       "ghi_chu": "ten doi ho 2026-11-25"
     },
     {
-      "sai": "Nhưng Tu La",
-      "dung": "A Tu La",
-      "chuong": [
-        3757
-      ],
-      "ghi_chu": "ten doi ho 2026-11-25"
-    },
-    {
       "sai": "Hiên Viên Đệ Dân",
       "dung": "Hiên Viên Đệ Nhị",
       "chuong": [
@@ -8324,6 +8309,48 @@
         4209
       ],
       "ghi_chu": "ten doi ho 2026-11-25"
+    },
+    {
+      "sai": "Vệ Tôn Giả",
+      "dung": "Kiếp Tôn Giả",
+      "chuong": [
+        3796
+      ],
+      "ghi_chu": "ra soat ten doi ho 2026-11-25"
+    },
+    {
+      "sai": "Trương Lô",
+      "dung": "Diêm La",
+      "chuong": [
+        2830
+      ],
+      "ghi_chu": "ra soat ten doi ho 2026-11-25"
+    },
+    {
+      "sai": "Trì Thăng",
+      "dung": "Xi Thăng",
+      "chuong": [
+        1989,
+        1994
+      ],
+      "ghi_chu": "ra soat ten doi ho 2026-11-25"
+    },
+    {
+      "sai": "Văn Trữ",
+      "dung": "Văn Chử",
+      "chuong": [
+        2811
+      ],
+      "ghi_chu": "ra soat ten doi ho 2026-11-25"
+    },
+    {
+      "sai": "Lưu Lợi Bảo",
+      "dung": "Lưu Ly Bảo",
+      "chuong": [
+        618,
+        742
+      ],
+      "ghi_chu": "ra soat ten doi ho 2026-11-25"
     }
   ]
 }
