@@ -581,7 +581,8 @@
     "thiên trục châm": "thiên xu châm",
     "thiên sử châm": "thiên xu châm",
     "thiên thúc châm": "thiên xu châm",
-    "thiên trù châm": "thiên xu châm"
+    "thiên trù châm": "thiên xu châm",
+    "mệnh phượng nga": "mạnh phượng nga"
   },
   "theo_chuong": [
     {
@@ -3676,6 +3677,624 @@
         4034
       ],
       "ghi_chu": "ten la 2026-11-25"
+    },
+    {
+      "sai": "Màn Tượng Trì Địa",
+      "dung": "Man Tượng Trì Địa",
+      "chuong": [
+        16
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Truy Thôn Thập Tam Kiếm",
+      "dung": "Truy Hồn Thập Tam Kiếm",
+      "chuong": [
+        394
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Tử Phong Tỉnh Sứ",
+      "dung": "Tử Phong Tinh Sứ",
+      "chuong": [
+        449
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Trưởng Nhược Tấn",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        453
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Thiên Tiêm Thần Mộc",
+      "dung": "Tiếp Thiên Thần Mộc",
+      "chuong": [
+        532
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Càn Khôn Thân Mộc Đồ",
+      "dung": "Càn Khôn Thần Mộc Đồ",
+      "chuong": [
+        553
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Bát Trái Tông",
+      "dung": "Bát Quái Tông",
+      "chuong": [
+        685
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Âm Dương Hoàn",
+      "dung": "Âu Dương Hoàn",
+      "chuong": [
+        754
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Tuấn Hoa Liễu",
+      "dung": "Tuân Hoa Liễu",
+      "chuong": [
+        778
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Cái Thiên Kiếm",
+      "dung": "Cái Thiên Kiều",
+      "chuong": [
+        778
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Âm Già",
+      "dung": "Âm Gian",
+      "chuong": [
+        830
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Hàn Thuận",
+      "dung": "Hàn Thu",
+      "chuong": [
+        852
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Vương Hoàn Chân",
+      "dung": "Vương Hoàn Trân",
+      "chuong": [
+        1145
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Liệu Đằng",
+      "dung": "Liêu Đằng",
+      "chuong": [
+        1175
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Thương Lan Vụ Thánh",
+      "dung": "Thương Lan Võ Thánh",
+      "chuong": [
+        1300
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Kim Phức Cự Mãng",
+      "dung": "Kim Bức Cự Mãng",
+      "chuong": [
+        1332
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Phạn Thiên Kiếm",
+      "dung": "Phần Thiên Kiếm",
+      "chuong": [
+        1341
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Cùng Lân",
+      "dung": "Khung Lân",
+      "chuong": [
+        1588
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Thời Khô Bí Điển",
+      "dung": "Thời Không Bí Điển",
+      "chuong": [
+        1702
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Lịch Hi",
+      "dung": "Liễm Hi",
+      "chuong": [
+        1733
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Kỷ Phạn Nam",
+      "dung": "Kỷ Phạn Tâm",
+      "chuong": [
+        1735
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Thánh Vương Thiên Súc",
+      "dung": "Thánh Vương Thiên Sứ",
+      "chuong": [
+        1742
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Nho Tổ Thánh Thuật",
+      "dung": "Nho Tổ Thánh Thư",
+      "chuong": [
+        1752
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Thôn Tượng Thú",
+      "dung": "Thôn Tượng Thỏ",
+      "chuong": [
+        1802
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Hoa Tẩy Ảnh",
+      "dung": "Hoa Tạng Ảnh",
+      "chuong": [
+        1822
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Vô Gian Luyện Ngục Trảo",
+      "dung": "Vô Gian Luyện Ngục Tháp",
+      "chuong": [
+        1909
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Ôn Thư Thạnh",
+      "dung": "Ôn Thư Thịnh",
+      "chuong": [
+        1982
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Si Thăng",
+      "dung": "Xi Thăng",
+      "chuong": [
+        2002
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Huyết Mạ",
+      "dung": "Huyết Ma",
+      "chuong": [
+        2068
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Địa Húc Giới",
+      "dung": "Địa Ngục Giới",
+      "chuong": [
+        2081,
+        3945
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Thích Linh Đế",
+      "dung": "Thí Linh Đế",
+      "chuong": [
+        2081
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Triều Thánh Thiên Tiếp",
+      "dung": "Triều Thánh Thiên Thê",
+      "chuong": [
+        2145
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Huyết Tuất",
+      "dung": "Huyết Tuyệt",
+      "chuong": [
+        2239
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Thiên Tiếp Thần Mộc",
+      "dung": "Tiếp Thiên Thần Mộc",
+      "chuong": [
+        2266
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Lũ Đế",
+      "dung": "Ly Đế",
+      "chuong": [
+        2387
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Trả Đế",
+      "dung": "Trì Đế",
+      "chuong": [
+        2410
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Diêm Lão Tộc",
+      "dung": "Diêm La Tộc",
+      "chuong": [
+        2415
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Ngô Nguyệt Mệnh Hoàng",
+      "dung": "Ngô Duyệt Mệnh Hoàng",
+      "chuong": [
+        2452
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Phòng Nham",
+      "dung": "Phong Nham",
+      "chuong": [
+        2669
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Thiên Nam Sanh Tử Hư",
+      "dung": "Thiên Nam Sinh Tử Khư",
+      "chuong": [
+        2799
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Vật Thần Đảo Chủ",
+      "dung": "Vẫn Thần Đảo Chủ",
+      "chuong": [
+        2934
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Huyết Tuyệt Chiến Tần",
+      "dung": "Huyết Tuyệt Chiến Thần",
+      "chuong": [
+        2973
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Trương Thái A",
+      "dung": "Trang Thái A",
+      "chuong": [
+        3025
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Mạc Bả Sa",
+      "dung": "Mạc Bác Sa",
+      "chuong": [
+        3042
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Phong Huyên",
+      "dung": "Phong Huyền",
+      "chuong": [
+        3051
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Ngục Hoàng Đỉnh",
+      "dung": "Ngọc Hoàng Đỉnh",
+      "chuong": [
+        3307
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Thiên Đạo Kỳ Đài",
+      "dung": "Thiên Địa Kỳ Đài",
+      "chuong": [
+        3414
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Hoang Tuyền",
+      "dung": "Hoàng Tuyền",
+      "chuong": [
+        3456
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Phỉ Ma Vương",
+      "dung": "Phi Mã Vương",
+      "chuong": [
+        3538,
+        3697
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Phì Ma Vương",
+      "dung": "Phi Mã Vương",
+      "chuong": [
+        3581
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Thời Hồng Hỗn Độn Liên",
+      "dung": "Thời Không Hỗn Độn Liên",
+      "chuong": [
+        3560
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Thời Khổng Hỗn Độn Liên",
+      "dung": "Thời Không Hỗn Độn Liên",
+      "chuong": [
+        3890
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Thời Khang Hỗn Độn Liên",
+      "dung": "Thời Không Hỗn Độn Liên",
+      "chuong": [
+        3894
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Trịch Dao",
+      "dung": "Trì Dao",
+      "chuong": [
+        3561
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Tuy Diệu Thiền Nữ",
+      "dung": "Tuyệt Diệu Thiền Nữ",
+      "chuong": [
+        3590
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Phùng Thiên",
+      "dung": "Phượng Thiên",
+      "chuong": [
+        3592
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Hoăng Thiên Tiễn",
+      "dung": "Hống Thiên Tiễn",
+      "chuong": [
+        3606
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Tân Dương Tử",
+      "dung": "Tuân Dương Tử",
+      "chuong": [
+        3626
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Diêm Vịnh Nhi",
+      "dung": "Diêm Ảnh Nhi",
+      "chuong": [
+        3738
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Thời Hàng Nhân Tổ",
+      "dung": "Thời Không Nhân Tổ",
+      "chuong": [
+        3758
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Thỉ Nữ Vương",
+      "dung": "Thủy Nữ Vương",
+      "chuong": [
+        3793
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Huyết Sồ",
+      "dung": "Huyết Đồ",
+      "chuong": [
+        3820
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Bạt Nhĩ",
+      "dung": "Ba Nhĩ",
+      "chuong": [
+        3836
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Thiền Cốt Nữ Đế",
+      "dung": "Thiên Cốt Nữ Đế",
+      "chuong": [
+        3876
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Đế Tri",
+      "dung": "Đế Trần",
+      "chuong": [
+        3906
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Đế Tổ Thần Thần",
+      "dung": "Đế Tổ Thần Quân",
+      "chuong": [
+        3966
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Để Thần",
+      "dung": "Đế Trần",
+      "chuong": [
+        3998
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Nguyên Tấu Ân",
+      "dung": "Nguyên Túc Ân",
+      "chuong": [
+        4016
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Vĩnh Hằng Thân Tể",
+      "dung": "Vĩnh Hằng Trân Tể",
+      "chuong": [
+        4103
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Thi Bàng",
+      "dung": "Thiền Băng",
+      "chuong": [
+        4130
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Cơ Ẩn Võ",
+      "dung": "Cơ Vấn Võ",
+      "chuong": [
+        2477
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Thanh Thiên Phù Đồ Thấp",
+      "dung": "Thanh Thiên Phù Đồ Tháp",
+      "chuong": [
+        1390
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Huyết Tuyết",
+      "dung": "Huyết Tuyệt",
+      "chuong": [
+        2724
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "La Yển",
+      "dung": "La Diễn",
+      "chuong": [
+        3474
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Chí Thượng Trục",
+      "dung": "Chí Thượng Trụ",
+      "chuong": [
+        3807
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Ngọc Trảm",
+      "dung": "Ngọc Trản",
+      "chuong": [
+        3863
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "La Tụng La",
+      "dung": "La Thống La",
+      "chuong": [
+        3872
+      ],
+      "ghi_chu": "ten la 1 lan 2026-11-25"
     }
   ]
 }

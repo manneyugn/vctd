@@ -101,3 +101,80 @@
 4102|Mạt Hạt Tế Sư|Mạt Nhật Tế Sư
 2750|Tuyên Cơ Kiếm Thánh|Tuyền Cơ Kiếm Thánh
 4034|Mệnh Nhị Thập Bát|Mạnh Nhị Thập Bát
+16|Màn Tượng Trì Địa|Man Tượng Trì Địa
+394|Truy Thôn Thập Tam Kiếm|Truy Hồn Thập Tam Kiếm
+449|Tử Phong Tỉnh Sứ|Tử Phong Tinh Sứ
+453|Trưởng Nhược Tấn|Trương Nhược Trần
+532|Thiên Tiêm Thần Mộc|Tiếp Thiên Thần Mộc
+553|Càn Khôn Thân Mộc Đồ|Càn Khôn Thần Mộc Đồ
+685|Bát Trái Tông|Bát Quái Tông
+754|Âm Dương Hoàn|Âu Dương Hoàn
+778|Tuấn Hoa Liễu|Tuân Hoa Liễu
+778|Cái Thiên Kiếm|Cái Thiên Kiều
+830|Âm Già|Âm Gian
+852|Hàn Thuận|Hàn Thu
+1145|Vương Hoàn Chân|Vương Hoàn Trân
+1175|Liệu Đằng|Liêu Đằng
+1300|Thương Lan Vụ Thánh|Thương Lan Võ Thánh
+1332|Kim Phức Cự Mãng|Kim Bức Cự Mãng
+1341|Phạn Thiên Kiếm|Phần Thiên Kiếm
+1588|Cùng Lân|Khung Lân
+1702|Thời Khô Bí Điển|Thời Không Bí Điển
+1733|Lịch Hi|Liễm Hi
+1735|Kỷ Phạn Nam|Kỷ Phạn Tâm
+1742|Thánh Vương Thiên Súc|Thánh Vương Thiên Sứ
+1752|Nho Tổ Thánh Thuật|Nho Tổ Thánh Thư
+1802|Thôn Tượng Thú|Thôn Tượng Thỏ
+1822|Hoa Tẩy Ảnh|Hoa Tạng Ảnh
+1909|Vô Gian Luyện Ngục Trảo|Vô Gian Luyện Ngục Tháp
+1982|Ôn Thư Thạnh|Ôn Thư Thịnh
+2002|Si Thăng|Xi Thăng
+2068|Huyết Mạ|Huyết Ma
+2081,3945|Địa Húc Giới|Địa Ngục Giới
+2081|Thích Linh Đế|Thí Linh Đế
+2145|Triều Thánh Thiên Tiếp|Triều Thánh Thiên Thê
+2239|Huyết Tuất|Huyết Tuyệt
+2266|Thiên Tiếp Thần Mộc|Tiếp Thiên Thần Mộc
+2387|Lũ Đế|Ly Đế
+2410|Trả Đế|Trì Đế
+2415|Diêm Lão Tộc|Diêm La Tộc
+2452|Ngô Nguyệt Mệnh Hoàng|Ngô Duyệt Mệnh Hoàng
+2669|Phòng Nham|Phong Nham
+2799|Thiên Nam Sanh Tử Hư|Thiên Nam Sinh Tử Khư
+2934|Vật Thần Đảo Chủ|Vẫn Thần Đảo Chủ
+2973|Huyết Tuyệt Chiến Tần|Huyết Tuyệt Chiến Thần
+3025|Trương Thái A|Trang Thái A
+3042|Mạc Bả Sa|Mạc Bác Sa
+3051|Phong Huyên|Phong Huyền
+3307|Ngục Hoàng Đỉnh|Ngọc Hoàng Đỉnh
+3414|Thiên Đạo Kỳ Đài|Thiên Địa Kỳ Đài
+3456|Hoang Tuyền|Hoàng Tuyền
+3538,3697|Phỉ Ma Vương|Phi Mã Vương
+3581|Phì Ma Vương|Phi Mã Vương
+3560|Thời Hồng Hỗn Độn Liên|Thời Không Hỗn Độn Liên
+3890|Thời Khổng Hỗn Độn Liên|Thời Không Hỗn Độn Liên
+3894|Thời Khang Hỗn Độn Liên|Thời Không Hỗn Độn Liên
+3561|Trịch Dao|Trì Dao
+3590|Tuy Diệu Thiền Nữ|Tuyệt Diệu Thiền Nữ
+3592|Phùng Thiên|Phượng Thiên
+3606|Hoăng Thiên Tiễn|Hống Thiên Tiễn
+3626|Tân Dương Tử|Tuân Dương Tử
+3738|Diêm Vịnh Nhi|Diêm Ảnh Nhi
+3758|Thời Hàng Nhân Tổ|Thời Không Nhân Tổ
+3793|Thỉ Nữ Vương|Thủy Nữ Vương
+3820|Huyết Sồ|Huyết Đồ
+3836|Bạt Nhĩ|Ba Nhĩ
+3876|Thiền Cốt Nữ Đế|Thiên Cốt Nữ Đế
+3906|Đế Tri|Đế Trần
+3966|Đế Tổ Thần Thần|Đế Tổ Thần Quân
+3998|Để Thần|Đế Trần
+4016|Nguyên Tấu Ân|Nguyên Túc Ân
+4103|Vĩnh Hằng Thân Tể|Vĩnh Hằng Trân Tể
+4130|Thi Bàng|Thiền Băng
+2477|Cơ Ẩn Võ|Cơ Vấn Võ
+1390|Thanh Thiên Phù Đồ Thấp|Thanh Thiên Phù Đồ Tháp
+2724|Huyết Tuyết|Huyết Tuyệt
+3474|La Yển|La Diễn
+3807|Chí Thượng Trục|Chí Thượng Trụ
+3863|Ngọc Trảm|Ngọc Trản
+3872|La Tụng La|La Thống La
