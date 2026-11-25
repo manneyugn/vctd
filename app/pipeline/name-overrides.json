@@ -13,7 +13,8 @@
     "2026-11-23 (wiki Baidu Baike): 天姥 đọc 'mụ' -> Thiên Mụ; 商子烆 một nhân vật -> Thương Tử Hằng; Mộc Linh Hy/Lung -> Mộc Linh Hi; Đại Hắc -> Tiểu Hắc (3 chương).",
     "2026-11-25: dò tên lẫn giữa chương lân cận (pipeline/ten_theo_chuong.py, ten_lac_thoi.py), duyệt tay; 商子烆 mọi biến thể -> Thương Tử Hằng; 狩天 -> Săn Thiên Đại Yến / Săn Thiên Chiến Tràng.",
     "2026-11-25: đối chiếu ứng viên tên lẫn với danh mục wiki (hieu-dinh/wiki-ten.txt, pipeline/doi_chieu_wiki.py); 橙月星使 mọi biến thể -> Cam Nguyệt Tinh Sứ.",
-    "2026-11-25: tên lạ theo index chương lân cận (pipeline/ten_la.py); tên riêng theo đúng âm Hán-Việt: 橙月星使 -> Tranh Nguyệt Tinh Sứ, 狩天 -> Thú Thiên, 罗恸罗 -> La Thống La, 天枢针 -> Thiên Xu Châm."
+    "2026-11-25: tên lạ theo index chương lân cận (pipeline/ten_la.py); tên riêng theo đúng âm Hán-Việt: 橙月星使 -> Tranh Nguyệt Tinh Sứ, 狩天 -> Thú Thiên, 罗恸罗 -> La Thống La, 天枢针 -> Thiên Xu Châm.",
+    "2026-11-25 (wiki): 孟凰娥 = Mạnh Hoàng Nga, 孟凰妳 = Mạnh Hoàng Nhĩ (song sinh, 2 người); 婪婴 = Lam Anh; 克律萨 = Khắc Luật Tát; 天圆无缺 = Thiên Viên Vô Khuyết (cảnh giới, giữ nguyên); 阿岚 = A Lam Bán Thánh."
   ],
   "duyet": {
     "trương như trần": "trương nhược trần",
@@ -582,7 +583,24 @@
     "thiên sử châm": "thiên xu châm",
     "thiên thúc châm": "thiên xu châm",
     "thiên trù châm": "thiên xu châm",
-    "mệnh phượng nga": "mạnh phượng nga"
+    "mệnh phượng nga": "mạnh hoàng nga",
+    "mạnh phượng nga": "mạnh hoàng nga",
+    "mệnh hoàng nga": "mạnh hoàng nga",
+    "mạnh phượng nữ": "mạnh hoàng nhĩ",
+    "mạnh hoàng hy": "mạnh hoàng nhĩ",
+    "mệnh hoàng nhi": "mạnh hoàng nhĩ",
+    "mạnh hoàng nãy": "mạnh hoàng nhĩ",
+    "mệnh phượng nhĩ": "mạnh hoàng nhĩ",
+    "mạnh phượng nhĩ": "mạnh hoàng nhĩ",
+    "mệnh phượng ni": "mạnh hoàng nhĩ",
+    "mạnh phượng ni": "mạnh hoàng nhĩ",
+    "mạnh hoàng nữ": "mạnh hoàng nhĩ",
+    "mạnh phượng nghi": "mạnh hoàng nhĩ",
+    "mệnh hoàng nhĩ": "mạnh hoàng nhĩ",
+    "mệnh phượng nữ": "mạnh hoàng nhĩ",
+    "mệnh nhị thập bát": "mạnh nhị thập bát",
+    "a lãm bán thánh": "a lam bán thánh",
+    "thiên tròn bất khuyết": "thiên viên vô khuyết"
   },
   "theo_chuong": [
     {
@@ -3006,7 +3024,7 @@
     },
     {
       "sai": "Mệnh Phượng Nữ",
-      "dung": "Mạnh Phượng Nữ",
+      "dung": "Mạnh Hoàng Nhĩ",
       "chuong": [
         4034
       ],
@@ -3014,7 +3032,7 @@
     },
     {
       "sai": "Mạnh Phượng Ni",
-      "dung": "Mạnh Phượng Nữ",
+      "dung": "Mạnh Hoàng Nhĩ",
       "chuong": [
         4058
       ],
@@ -4295,6 +4313,30 @@
         3872
       ],
       "ghi_chu": "ten la 1 lan 2026-11-25"
+    },
+    {
+      "sai": "Phượng Nhĩ thần tôn",
+      "dung": "Hoàng Nhĩ thần tôn",
+      "chuong": [
+        4043
+      ],
+      "ghi_chu": "wiki 孟凰娥/孟凰妳 2026-11-25"
+    },
+    {
+      "sai": "mạnh hoàng ngươi",
+      "dung": "Mạnh Hoàng Nhĩ",
+      "chuong": [
+        4040
+      ],
+      "ghi_chu": "wiki 孟凰娥/孟凰妳 2026-11-25"
+    },
+    {
+      "sai": "Mạnh hoàng ngươi",
+      "dung": "Mạnh Hoàng Nhĩ",
+      "chuong": [
+        4040
+      ],
+      "ghi_chu": "wiki 孟凰娥/孟凰妳 2026-11-25"
     }
   ]
 }
