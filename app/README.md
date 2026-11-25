@@ -19,10 +19,10 @@ sẽ bị trình duyệt chặn vì chính sách CORS.
 |---|---|
 | Đọc truyện | 4.211 chương, **tóm tắt AI đầu mỗi chương**, chuyển chương liền mạch, cỡ chữ / giãn dòng / độ rộng / 3 nền, nhớ vị trí đọc, URL riêng cho từng chương (`#doc/1234`) |
 | Mục lục | Lọc tức thì theo tên hoặc số chương |
-| Tra cứu | Tìm trong 5.878 thực thể: số lần nhắc, chương đầu/cuối, biểu đồ mật độ, chương tập trung nhất, **dòng thời gian**, thực thể đi cùng, trích dẫn |
+| Tra cứu | Tìm trong 5.162 thực thể: số lần nhắc, chương đầu/cuối, biểu đồ mật độ, chương tập trung nhất, **dòng thời gian**, thực thể đi cùng, trích dẫn |
 | Wiki | Duyệt toàn bộ thực thể, lọc theo loại |
 | Chat | Hỏi đáp 6 bước có dẫn nguồn chương (Gemini hoặc máy chủ LLM riêng) |
-| Hiệu đính | Nhật ký 15.346 vị trí đã chuẩn hoá từ bản convert |
+| Hiệu đính | Nhật ký 153.835 chỗ sửa ở 4.198 chương: dấu câu, chữ Hán sót, ghi chú LLM lẫn vào truyện, chính tả, viết hoa, 27.120 chỗ sửa tên riêng |
 
 Phím tắt khi đọc: `←` `→` chuyển chương · `M` mục lục · `A` tuỳ chỉnh hiển thị.
 
@@ -31,10 +31,11 @@ Phím tắt khi đọc: `←` `→` chuyển chương · `M` mục lục · `A` 
 Chạy lại theo thứ tự khi có dữ liệu nguồn mới:
 
 ```bash
-python3 pipeline/build_corpus.py      # chương thô  → shard gzip + nhật ký hiệu đính
+python3 pipeline/build_corpus.py      # chương thô → hiệu đính → shard gzip + nhật ký hiệu đính
 python3 pipeline/extract_entities.py  # tìm ứng viên tên riêng          (~30 giây)
-python3 pipeline/refine_entities.py   # nuốt mảnh vụn, gộp bí 
+python3 pipeline/refine_entities.py   # nuốt mảnh vụn, gộp bí danh
 python3 pipeline/build_index.py       # postings, đồng xuất hiện, trích dẫn (~15 giây)
+python3 pipeline/giu_phan_loai.py <index cũ>   # giữ loại thực thể + bộ lọc đã duyệt từ index cũ
 
 bash tom-tat.sh 4                     # tóm tắt từng chương bằng LLM     (~12 giờ)
 python3 pipeline/chuan_hoa_ten.py     # chuẩn hoá tên riêng trong tóm tắt
@@ -86,6 +87,64 @@ bằng nghĩa thuần Việt rồi khớp chính xác. An toàn theo thiết k�
 tách được chúng, khoảng cách ký tự cũng không. Cặp chưa duyệt được ghi vào
 `name-proposals.json` chứ không tự sửa.
 
+### Hiệu đính bản dịch
+
+Bản dịch máy có nhiều lỗi ngoài tên riêng. `build_corpus.py` cho mọi chương đi qua
+`pipeline/hieu_dinh.py` trước khi đóng shard, theo thứ tự:
+
+1. **Dấu câu kiểu Trung** (`，。「」…`) → dấu Việt; khoảng trắng quanh dấu và ngoặc kép.
+2. **Ghi chú LLM lẫn vào truyện** (`ghi_chu_llm.py`): "(sửa thành: X)", "à nhầm",
+   mũi tên "A -> B", glossary, lộ prompt, quảng cáo nguồn. Chỉ giữ vế đúng khi chắc chắn;
+   chỗ không tự xử lý được nằm trong `hieu-dinh/sua-tay.json`.
+3. **Chữ Hán sót** → âm Hán-Việt (`hieu-dinh/han-viet.json`, `tu-han.json`), chọn âm
+   bằng bigram toàn truyện; chữ Thái/Hàn/Nhật/Nga/Ả Rập lạc vào → loại hoặc thay.
+4. **Tên riêng và chính tả** theo `pipeline/name-overrides.json` + `hieu-dinh/chinh-ta.json`.
+5. **Viết hoa** tên riêng và đầu câu, nối đoạn bị ngắt, sửa tiêu đề chương.
+
+Mỗi chỗ sửa được ghi vào `clean-log.json.gz` (tab Hiệu đính trong app).
+
+### Kiểm tra tên riêng giữa các chương
+
+Bản dịch do LLM làm từng đoạn nên cùng một nhân vật bị viết nhiều kiểu, và LLM hay
+**dịch nghĩa** chữ Hán thay vì đọc âm (韩湫 → "Hàn Thấp Trũng Hồ Nước", 罗盘 → "Lưới Bàn",
+鬼头鞭 → "Quỷ Đầu Roi") hoặc **thay nhầm sang nhân vật khác** (c645 "Trì Côn Lôn" thực ra
+là Hàn Thu). Các bộ dò, chạy sau khi có shard:
+
+```bash
+python3 pipeline/ten_theo_chuong.py index   # index tên từng chương → hieu-dinh/ten-theo-chuong.json.gz
+python3 pipeline/ten_theo_chuong.py do      # biến thể khác 1 âm tiết so với tên ở chương ±12
+python3 pipeline/ten_lac_thoi.py            # tên xuất hiện trước khi nhân vật ra mắt
+python3 pipeline/ten_la.py                  # tên lẻ loi (kể cả chỉ 1 lần) gần giống nhân vật lân cận
+python3 pipeline/ten_dich_nghia.py          # nhân vật vắng chương n + cụm cùng họ chứa từ thuần Việt
+python3 pipeline/ten_khop_tu.py             # cụm lạ chia 1–2 từ với tên ở chương ±5, độ dài tùy ý
+python3 pipeline/doi_chieu_wiki.py          # đối chiếu với danh mục tên lấy từ wiki
+```
+
+Các bộ dò chỉ đưa ra ứng viên (`hieu-dinh/ten-*.json`); quyết định sửa luôn qua người
+duyệt, dựa trên **wiki** (`hieu-dinh/wiki-ten.txt`: ~740 tên tiếng Trung lấy từ Baidu Baike,
+newton.com.tw, maigoo…, chuyển sang Hán-Việt bằng `han-viet.json`) và **ngữ cảnh các
+chương lân cận**. Nguyên tắc:
+
+- Tên nhân vật/công pháp/bảo vật theo **đúng âm Hán-Việt** của chữ gốc, không theo nghĩa
+  và không theo cách viết đông nhất nếu cách đó là dịch nghĩa (橙月星使 → Tranh Nguyệt
+  Tinh Sứ, 狩天大宴 → Thú Thiên Đại Yến, 天姥 → Thiên Mụ, 孟凰娥 / 孟凰妳 → Mạnh Hoàng Nga /
+  Mạnh Hoàng Nhĩ — hai chị em song sinh mà bản dịch trộn làm một).
+- Không có trên wiki và không có trong ngữ cảnh lân cận thì coi là lỗi dịch/hallu của tên
+  nhân vật gần đó; không tìm ra gốc thì để nguyên.
+- Cụm có nghĩa thật (Thiên Viên Vô Khuyết = cảnh giới 天圆无缺, Thiên Đỉnh ∈ Cửu Đỉnh) giữ nguyên.
+
+`name-overrides.json` có ba loại quy tắc:
+
+| Khoá | Khớp | Dùng khi |
+|---|---|---|
+| `duyet` | không phân biệt hoa thường | biến thể không bao giờ là từ thường |
+| `duyet_viet_hoa` | chỉ dạng Viết Hoa Từng Chữ | biến thể trùng từ thường ("Trì Yêu" vs "duy trì") |
+| `theo_chuong` | chỉ trong các chương liệt kê | tên đúng ở chỗ này nhưng sai ở chỗ khác (Thiên Nô 天奴 trước c2600 / Thiên Mụ 天姥 sau đó) |
+
+Khi đổi tên chuẩn, cập nhật cả các quy tắc cũ đang trỏ về tên cũ, nếu không chạy lại
+`build_corpus.py` sẽ đảo ngược. Danh sách đã áp theo từng đợt nằm trong
+`hieu-dinh/*-da-ap*.txt` và `ten-da-duyet.json`.
+
 ### Phân loại thực thể
 
 `phan_loai.py` phân loại lại bằng tóm tắt thay vì bản convert, vì tóm tắt đúng ngữ
@@ -95,8 +154,10 @@ về nó như một nhân vật. Ngữ cảnh chỉ được quyết với các 
 
 ### Sửa tay kết quả
 
-Sửa `pipeline/name-overrides.json` cho tên riêng, hoặc `web/data/entities.json.gz`
-rồi chạy lại `build_index.py` cho phân loại.
+Sửa `pipeline/name-overrides.json` cho tên riêng (xem bảng ở trên), `hieu-dinh/sua-tay.json`
+cho đoạn văn cụ thể, hoặc `web/data/entities.json.gz` rồi chạy lại `build_index.py` +
+`giu_phan_loai.py` cho phân loại. Sửa xong chạy lại `build_corpus.py` và copy
+`web/data/*` (trừ shard) sang `public/data/`.
 
 ## Chat (tuỳ chọn)
 
