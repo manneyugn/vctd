@@ -1,0 +1,3497 @@
+[
+{
+"n": 16,
+"ten": "Màn Tượng Trì Địa",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Man Tượng Trì Địa",
+1.0,
+4
+]
+]
+},
+{
+"n": 70,
+"ten": "Trần Lê Bính",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Trần Lê Binh",
+1.0,
+25
+]
+]
+},
+{
+"n": 96,
+"ten": "Nhiếp Uyên",
+"sl": 4,
+"so_ch": 1,
+"goi_y": [
+[
+"Nhiếp Huyền",
+0.83,
+76
+]
+]
+},
+{
+"n": 129,
+"ten": "Kim Nguyệt Minh",
+"sl": 3,
+"so_ch": 1,
+"goi_y": [
+[
+"Kim Nguyệt Mệnh",
+0.89,
+14
+]
+]
+},
+{
+"n": 276,
+"ten": "Lôi Các",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Lôi Cảnh",
+0.67,
+73
+]
+]
+},
+{
+"n": 291,
+"ten": "Mân Sơ Quận Quốc",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Vân Võ Quận Quốc",
+0.83,
+10
+]
+]
+},
+{
+"n": 293,
+"ten": "Bạch Hư Ảnh",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Bạch Hư Linh",
+0.78,
+22
+]
+]
+},
+{
+"n": 387,
+"ten": "A Lam Bán Thánh",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"A Lãm Bán Thánh",
+1.0,
+8
+]
+]
+},
+{
+"n": 391,
+"ten": "Bá Thánh",
+"sl": 4,
+"so_ch": 1,
+"goi_y": [
+[
+"Bán Thánh",
+0.83,
+90
+]
+]
+},
+{
+"n": 394,
+"ten": "Truy Thôn Thập Tam Kiếm",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Truy Hồn Thập Tam Kiếm",
+0.93,
+15
+]
+]
+},
+{
+"n": 396,
+"ten": "Linh Nguyên Bán Thánh",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Lăng Nguyên Bán Thánh",
+0.83,
+8
+]
+]
+},
+{
+"n": 449,
+"ten": "Tử Phong Tỉnh Sứ",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Tử Phong Tinh Sứ",
+1.0,
+41
+]
+]
+},
+{
+"n": 453,
+"ten": "Trưởng Nhược Tấn",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Trương Nhược Trần",
+0.89,
+379
+]
+]
+},
+{
+"n": 473,
+"ten": "Trương Tác",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Trương Tần",
+0.83,
+25
+]
+]
+},
+{
+"n": 506,
+"ten": "Tuân Thánh",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Bán Thánh",
+0.67,
+9
+]
+]
+},
+{
+"n": 519,
+"ten": "Hắc Thiết",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Hắc Thị",
+0.67,
+3
+]
+]
+},
+{
+"n": 526,
+"ten": "Vấn Thánh",
+"sl": 4,
+"so_ch": 1,
+"goi_y": [
+[
+"Bán Thánh",
+0.83,
+6
+]
+]
+},
+{
+"n": 532,
+"ten": "Thiên Tiêm Thần Mộc",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Tiếp Thiên Thần Mộc",
+0.67,
+4
+]
+]
+},
+{
+"n": 553,
+"ten": "Càn Khôn Thân Mộc Đồ",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Càn Khôn Thần Mộc Đồ",
+1.0,
+18
+]
+]
+},
+{
+"n": 571,
+"ten": "Phàm Nhân",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Phàm Trần",
+0.67,
+25
+]
+]
+},
+{
+"n": 624,
+"ten": "Trưởng Tôn Lam",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Trường Tôn Lãnh",
+0.78,
+21
+]
+]
+},
+{
+"n": 624,
+"ten": "Trưởng Tôn Lan",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Trường Tôn Lãnh",
+0.89,
+21
+]
+]
+},
+{
+"n": 636,
+"ten": "Minh Đô",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Minh Đế",
+0.83,
+4
+]
+]
+},
+{
+"n": 685,
+"ten": "Bát Trái Tông",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Bát Quái Tông",
+0.78,
+6
+]
+]
+},
+{
+"n": 687,
+"ten": "Kiếm Thị",
+"sl": 3,
+"so_ch": 1,
+"goi_y": [
+[
+"Kiếm Nhị",
+0.83,
+28
+]
+]
+},
+{
+"n": 704,
+"ten": "Kiếm Môn",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Kiếm Hồn",
+0.83,
+4
+]
+]
+},
+{
+"n": 715,
+"ten": "Bẩm Thánh",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Bán Thánh",
+0.83,
+43
+]
+]
+},
+{
+"n": 720,
+"ten": "Tư Vận Lệnh",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Tư Vân Lệnh",
+1.0,
+40
+]
+]
+},
+{
+"n": 725,
+"ten": "Thú Thủ",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thử Thử",
+1.0,
+10
+]
+]
+},
+{
+"n": 754,
+"ten": "Âm Dương Hoàn",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Âu Dương Hoàn",
+0.89,
+23
+]
+]
+},
+{
+"n": 773,
+"ten": "Kiếm Đồ",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Kiếm Đế",
+0.83,
+4
+]
+]
+},
+{
+"n": 776,
+"ten": "Lâm Nhược",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Lâm Nhạc",
+0.67,
+60
+]
+]
+},
+{
+"n": 778,
+"ten": "Tuấn Hoa Liễu",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Tuân Hoa Liễu",
+1.0,
+7
+]
+]
+},
+{
+"n": 778,
+"ten": "Cái Thiên Kiếm",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Cái Thiên Kiều",
+0.89,
+49
+]
+]
+},
+{
+"n": 787,
+"ten": "Hạo Thiên Kiếm",
+"sl": 6,
+"so_ch": 1,
+"goi_y": [
+[
+"Thao Thiên Kiếm",
+0.89,
+21
+]
+]
+},
+{
+"n": 830,
+"ten": "Âm Già",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Âm Gian",
+0.83,
+3
+]
+]
+},
+{
+"n": 852,
+"ten": "Hàn Thuận",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Hàn Thu",
+0.67,
+60
+]
+]
+},
+{
+"n": 867,
+"ten": "Lê Minh",
+"sl": 11,
+"so_ch": 1,
+"goi_y": [
+[
+"Lê Mẫn",
+0.67,
+124
+]
+]
+},
+{
+"n": 867,
+"ten": "Xương Vương",
+"sl": 7,
+"so_ch": 1,
+"goi_y": [
+[
+"Tượng Vương",
+0.83,
+100
+]
+]
+},
+{
+"n": 893,
+"ten": "Trảm Thiên Kiếm",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Thao Thiên Kiếm",
+0.78,
+43
+]
+]
+},
+{
+"n": 902,
+"ten": "Trảm Thiên Kiếm",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Thao Thiên Kiếm",
+0.78,
+12
+]
+]
+},
+{
+"n": 945,
+"ten": "Bẩm Thánh",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Bán Thánh",
+0.83,
+69
+]
+]
+},
+{
+"n": 991,
+"ten": "Bản Thần",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Bán Thánh",
+0.83,
+69
+]
+]
+},
+{
+"n": 1000,
+"ten": "Cốt Vương",
+"sl": 6,
+"so_ch": 3,
+"goi_y": [
+[
+"Cáp Vương",
+0.67,
+27
+]
+]
+},
+{
+"n": 1003,
+"ten": "Trận Thánh",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Bán Thánh",
+0.67,
+21
+]
+]
+},
+{
+"n": 1041,
+"ten": "Thái Văn Cơ",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thái Vân Cơ",
+1.0,
+4
+]
+]
+},
+{
+"n": 1050,
+"ten": "Tiểu Vương",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thú Vương",
+0.67,
+27
+]
+]
+},
+{
+"n": 1091,
+"ten": "Khấu Lộc Thú Vương",
+"sl": 3,
+"so_ch": 1,
+"goi_y": [
+[
+"Khư Lộc Thú Vương",
+0.92,
+18
+]
+]
+},
+{
+"n": 1093,
+"ten": "Hàng Lộc Thú Vương",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Khổng Lộc Thú Vương",
+0.83,
+15
+]
+]
+},
+{
+"n": 1098,
+"ten": "Bản Thái",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Bán Thánh",
+0.67,
+70
+]
+]
+},
+{
+"n": 1141,
+"ten": "Màn Thú",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Hàn Thu",
+0.83,
+20
+]
+]
+},
+{
+"n": 1145,
+"ten": "Vương Hoàn Chân",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Vương Hoàn Trân",
+0.78,
+30
+]
+]
+},
+{
+"n": 1175,
+"ten": "Liệu Đằng",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Liêu Đằng",
+1.0,
+116
+]
+]
+},
+{
+"n": 1179,
+"ten": "Băng Thành",
+"sl": 3,
+"so_ch": 1,
+"goi_y": [
+[
+"Bán Thánh",
+0.83,
+11
+]
+]
+},
+{
+"n": 1218,
+"ten": "Thanh Diệp Thánh Giả",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thanh Dịch Thánh Giả",
+0.83,
+22
+]
+]
+},
+{
+"n": 1300,
+"ten": "Thương Lan Vụ Thánh",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thương Lan Võ Thánh",
+0.92,
+82
+]
+]
+},
+{
+"n": 1300,
+"ten": "Diệt Phượng Huyết Thánh",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Diệt Phong Huyết Thánh",
+0.92,
+20
+]
+]
+},
+{
+"n": 1332,
+"ten": "Kim Phức Cự Mãng",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Kim Bức Cự Mãng",
+0.83,
+5
+]
+]
+},
+{
+"n": 1341,
+"ten": "Phạn Thiên Kiếm",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Phần Thiên Kiếm",
+1.0,
+11
+]
+]
+},
+{
+"n": 1390,
+"ten": "Thanh Thiên Phù Đồ Thấp",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Thanh Thiên Phù Đồ Tháp",
+1.0,
+14
+]
+]
+},
+{
+"n": 1392,
+"ten": "Bản Thái",
+"sl": 2,
+"so_ch": 2,
+"goi_y": [
+[
+"Bán Thánh",
+0.67,
+6
+]
+]
+},
+{
+"n": 1398,
+"ten": "Lâm Gian",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Âm Gian",
+0.83,
+3
+]
+]
+},
+{
+"n": 1439,
+"ten": "Nghiêm Cửu Chí Thánh",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Nghiêm Cử Chí Thánh",
+0.92,
+8
+]
+]
+},
+{
+"n": 1439,
+"ten": "Tổ Long Giới",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Tổ Linh Giới",
+0.78,
+18
+]
+]
+},
+{
+"n": 1480,
+"ten": "Thiên Hầu",
+"sl": 6,
+"so_ch": 1,
+"goi_y": [
+[
+"Thiên Mẫu",
+0.83,
+6
+]
+]
+},
+{
+"n": 1508,
+"ten": "Hồng Hoa Đằng",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Hồng Hóa Đằng",
+1.0,
+18
+]
+]
+},
+{
+"n": 1584,
+"ten": "Phượng Phượng",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Thường Phượng",
+0.83,
+105
+]
+]
+},
+{
+"n": 1588,
+"ten": "Cùng Lân",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Khung Lân",
+0.67,
+3
+]
+]
+},
+{
+"n": 1598,
+"ten": "Địa Linh Vương",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Đan Linh Vương",
+0.78,
+14
+]
+]
+},
+{
+"n": 1637,
+"ten": "Thanh Nha Nhi",
+"sl": 5,
+"so_ch": 1,
+"goi_y": [
+[
+"Thanh Nha Nha",
+0.89,
+17
+]
+]
+},
+{
+"n": 1664,
+"ten": "Thánh Vương Thiên Sứ",
+"sl": 3,
+"so_ch": 3,
+"goi_y": [
+[
+"Tinh Hồng Thiên Sứ",
+0.67,
+14
+]
+]
+},
+{
+"n": 1668,
+"ten": "Tinh Hồng Thiên Sứ",
+"sl": 14,
+"so_ch": 1,
+"goi_y": [
+[
+"Thánh Vương Thiên Sứ",
+0.67,
+3
+]
+]
+},
+{
+"n": 1695,
+"ten": "Thiên Đầu Tiên Tử",
+"sl": 19,
+"so_ch": 1,
+"goi_y": [
+[
+"Thiên Mẫu Tiên Tử",
+0.92,
+23
+]
+]
+},
+{
+"n": 1697,
+"ten": "Thiên Sơ Thiên Nữ",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Thiên Sơ Tiên Tử",
+0.83,
+110
+]
+]
+},
+{
+"n": 1702,
+"ten": "Thời Khô Bí Điển",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thời Không Bí Điển",
+0.83,
+5
+]
+]
+},
+{
+"n": 1715,
+"ten": "Phong Văn",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Phong Thần",
+0.67,
+4
+]
+]
+},
+{
+"n": 1733,
+"ten": "Lịch Hi",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Liễm Hi",
+0.67,
+5
+]
+]
+},
+{
+"n": 1735,
+"ten": "Kỷ Phạn Nam",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Kỷ Phạn Tâm",
+0.89,
+26
+]
+]
+},
+{
+"n": 1742,
+"ten": "Thánh Vương Thiên Súc",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thánh Vương Thiên Sứ",
+0.92,
+6
+]
+]
+},
+{
+"n": 1752,
+"ten": "Nho Tổ Thánh Thuật",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Nho Tổ Thánh Thư",
+0.83,
+6
+]
+]
+},
+{
+"n": 1761,
+"ten": "Hàn Thi",
+"sl": 5,
+"so_ch": 3,
+"goi_y": [
+[
+"Hàn Thu",
+0.83,
+6
+]
+]
+},
+{
+"n": 1771,
+"ten": "U Tháp",
+"sl": 7,
+"so_ch": 1,
+"goi_y": [
+[
+"U Thần",
+0.83,
+37
+]
+]
+},
+{
+"n": 1782,
+"ten": "Lâm Phủ",
+"sl": 5,
+"so_ch": 1,
+"goi_y": [
+[
+"Lâm Phi",
+0.83,
+5
+]
+]
+},
+{
+"n": 1802,
+"ten": "Thôn Tượng Thú",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thôn Tượng Thỏ",
+0.89,
+9
+]
+]
+},
+{
+"n": 1822,
+"ten": "Hoa Tẩy Ảnh",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Hoa Tạng Ảnh",
+0.78,
+41
+],
+[
+"Hoa Tàng Ảnh",
+0.78,
+11
+]
+]
+},
+{
+"n": 1833,
+"ten": "Tuyệt Nham Hổ",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Tuyệt Nham Hồ",
+1.0,
+29
+]
+]
+},
+{
+"n": 1883,
+"ten": "Mộ Dung Huyết",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Mộ Dung Nguyệt",
+0.78,
+13
+]
+]
+},
+{
+"n": 1909,
+"ten": "Vô Gian Luyện Ngục Trảo",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Vô Gian Luyện Ngục Tháp",
+0.87,
+47
+]
+]
+},
+{
+"n": 1923,
+"ten": "Tử Thiên Điện",
+"sl": 2,
+"so_ch": 3,
+"goi_y": [
+[
+"Tử Thần Điện",
+0.78,
+5
+]
+]
+},
+{
+"n": 1955,
+"ten": "Tứ Tộc",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Tử Tộc",
+1.0,
+27
+]
+]
+},
+{
+"n": 1982,
+"ten": "Ôn Thư Thạnh",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Ôn Thư Thịnh",
+0.89,
+3
+]
+]
+},
+{
+"n": 2002,
+"ten": "Si Thăng",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Xi Thăng",
+0.83,
+11
+]
+]
+},
+{
+"n": 2015,
+"ten": "Tiểu Hữu",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Tiểu Hắc",
+0.67,
+50
+]
+]
+},
+{
+"n": 2035,
+"ten": "Hỗn Đôn",
+"sl": 2,
+"so_ch": 3,
+"goi_y": [
+[
+"Hồn Đài",
+0.67,
+3
+]
+]
+},
+{
+"n": 2057,
+"ten": "Quang Minh Thánh Điển",
+"sl": 2,
+"so_ch": 2,
+"goi_y": [
+[
+"Quang Minh Thần Điện",
+0.92,
+3
+]
+]
+},
+{
+"n": 2057,
+"ten": "Hư Không Kính",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Hư Không Kiếm",
+0.78,
+17
+]
+]
+},
+{
+"n": 2068,
+"ten": "Huyết Mạ",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Huyết Ma",
+1.0,
+35
+]
+]
+},
+{
+"n": 2081,
+"ten": "Địa Húc Giới",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Địa Ngục Giới",
+0.78,
+136
+]
+]
+},
+{
+"n": 2081,
+"ten": "Thích Linh Đế",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thí Linh Đế",
+0.78,
+14
+]
+]
+},
+{
+"n": 2087,
+"ten": "Bát Thủ",
+"sl": 12,
+"so_ch": 1,
+"goi_y": [
+[
+"Bất Tử",
+0.83,
+10
+]
+]
+},
+{
+"n": 2137,
+"ten": "Thần Thoái",
+"sl": 6,
+"so_ch": 1,
+"goi_y": [
+[
+"Thần Nhai",
+0.67,
+3
+]
+]
+},
+{
+"n": 2145,
+"ten": "Triều Thánh Thiên Tiếp",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Triều Thánh Thiên Thê",
+0.83,
+4
+]
+]
+},
+{
+"n": 2197,
+"ten": "Thời Gian Thánh Điện",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thời Gian Thần Điện",
+0.92,
+3
+]
+]
+},
+{
+"n": 2200,
+"ten": "Huyền Sát",
+"sl": 3,
+"so_ch": 3,
+"goi_y": [
+[
+"Huyền Nhất",
+0.67,
+4
+]
+]
+},
+{
+"n": 2239,
+"ten": "Huyết Tuất",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Huyết Tuyệt",
+0.67,
+21
+]
+]
+},
+{
+"n": 2244,
+"ten": "Huyết Hà",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Huyết Ma",
+0.83,
+11
+],
+[
+"Huyết Hậu",
+0.83,
+3
+]
+]
+},
+{
+"n": 2247,
+"ten": "Diệu Huyền Đại Thánh",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Dịch Hiên Đại Thánh",
+0.67,
+17
+]
+]
+},
+{
+"n": 2266,
+"ten": "Thiên Tiếp Thần Mộc",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Tiếp Thiên Thần Mộc",
+0.67,
+24
+]
+]
+},
+{
+"n": 2325,
+"ten": "La Thác",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"La Thần",
+0.83,
+5
+]
+]
+},
+{
+"n": 2342,
+"ten": "Thanh Thiên Bộ Lộc",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Tịnh Thiên Bộ Lộc",
+0.83,
+17
+]
+]
+},
+{
+"n": 2387,
+"ten": "Lũ Đế",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Ly Đế",
+0.83,
+6
+]
+]
+},
+{
+"n": 2392,
+"ten": "Thổ Đạo",
+"sl": 5,
+"so_ch": 1,
+"goi_y": [
+[
+"Trì Dao",
+0.67,
+3
+]
+]
+},
+{
+"n": 2400,
+"ten": "Đại Sảnh",
+"sl": 4,
+"so_ch": 1,
+"goi_y": [
+[
+"Đại Thánh",
+0.67,
+238
+]
+]
+},
+{
+"n": 2410,
+"ten": "Trả Đế",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Trì Đế",
+0.83,
+30
+]
+]
+},
+{
+"n": 2415,
+"ten": "Diêm Lão Tộc",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Diêm La Tộc",
+0.89,
+16
+]
+]
+},
+{
+"n": 2419,
+"ten": "Á Thần",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"La Thần",
+0.83,
+5
+]
+]
+},
+{
+"n": 2442,
+"ten": "La Thố",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"La Thần",
+0.67,
+15
+]
+]
+},
+{
+"n": 2450,
+"ten": "Ký Tân",
+"sl": 4,
+"so_ch": 1,
+"goi_y": [
+[
+"Kỷ Phạn",
+0.67,
+10
+]
+]
+},
+{
+"n": 2452,
+"ten": "Ngô Nguyệt Mệnh Hoàng",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Ngô Duyệt Mệnh Hoàng",
+0.83,
+41
+]
+]
+},
+{
+"n": 2462,
+"ten": "Càn Hư Huyết Đế",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Hoàn Hư Huyết Đế",
+0.83,
+18
+]
+]
+},
+{
+"n": 2477,
+"ten": "Cơ Ẩn Võ",
+"sl": 8,
+"so_ch": 1,
+"goi_y": [
+[
+"Cơ Vấn Võ",
+0.89,
+7
+]
+]
+},
+{
+"n": 2506,
+"ten": "Đại Tránh",
+"sl": 5,
+"so_ch": 1,
+"goi_y": [
+[
+"Đại Thánh",
+0.83,
+42
+]
+]
+},
+{
+"n": 2508,
+"ten": "Đại Tranh",
+"sl": 3,
+"so_ch": 1,
+"goi_y": [
+[
+"Đại Thánh",
+0.83,
+52
+]
+]
+},
+{
+"n": 2544,
+"ten": "Thiên Túc Tử",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Thiên Thúc Tử",
+0.89,
+103
+]
+]
+},
+{
+"n": 2545,
+"ten": "Thương Tiệt",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Thương Kiệt",
+0.83,
+5
+]
+]
+},
+{
+"n": 2564,
+"ten": "Nguyên Bích",
+"sl": 4,
+"so_ch": 1,
+"goi_y": [
+[
+"Nguyên Mạch",
+0.67,
+5
+]
+]
+},
+{
+"n": 2588,
+"ten": "Nguyên Phù",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Nguyên Thù",
+0.83,
+6
+]
+]
+},
+{
+"n": 2666,
+"ten": "Chư Kiện",
+"sl": 2,
+"so_ch": 2,
+"goi_y": [
+[
+"Chư Thiên",
+0.67,
+5
+]
+]
+},
+{
+"n": 2669,
+"ten": "Phòng Nham",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Phong Nham",
+1.0,
+48
+]
+]
+},
+{
+"n": 2674,
+"ten": "Hứa Thịnh",
+"sl": 5,
+"so_ch": 1,
+"goi_y": [
+[
+"Hư Thịnh",
+0.83,
+43
+]
+]
+},
+{
+"n": 2685,
+"ten": "Bát Tố",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Bất Tử",
+0.83,
+3
+]
+]
+},
+{
+"n": 2695,
+"ten": "Xích Thiên Sứ Hoàng",
+"sl": 5,
+"so_ch": 2,
+"goi_y": [
+[
+"Bạch Thiên Sứ Hoàng",
+0.83,
+27
+]
+]
+},
+{
+"n": 2724,
+"ten": "Huyết Tuyết",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Huyết Tuyệt",
+1.0,
+31
+]
+]
+},
+{
+"n": 2727,
+"ten": "Quy Hư",
+"sl": 2,
+"so_ch": 3,
+"goi_y": [
+[
+"Quỷ Chủ",
+0.83,
+11
+]
+]
+},
+{
+"n": 2799,
+"ten": "Thiên Nam Sanh Tử Hư",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thiên Nam Sinh Tử Khư",
+0.87,
+4
+]
+]
+},
+{
+"n": 2862,
+"ten": "Thiên Sơn",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Thiên Tôn",
+0.83,
+12
+]
+]
+},
+{
+"n": 2874,
+"ten": "Thái Thôn",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thái Thượng",
+0.67,
+3
+]
+]
+},
+{
+"n": 2916,
+"ten": "Hoang Tấn",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Hoang Tôn",
+0.83,
+18
+]
+]
+},
+{
+"n": 2934,
+"ten": "Vật Thần Đảo Chủ",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Vẫn Thần Đảo Chủ",
+0.92,
+19
+]
+]
+},
+{
+"n": 2973,
+"ten": "Huyết Tuyệt Chiến Tần",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Huyết Tuyệt Chiến Thần",
+0.92,
+9
+]
+]
+},
+{
+"n": 2985,
+"ten": "Thiên Sơn",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Thiên Tôn",
+0.83,
+5
+]
+]
+},
+{
+"n": 2999,
+"ten": "Chử Kiện",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Chư Thiên",
+0.67,
+4
+]
+]
+},
+{
+"n": 3002,
+"ten": "Hoàng Ngạc",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Hoàng Ngưu",
+0.67,
+16
+]
+]
+},
+{
+"n": 3006,
+"ten": "Xích Hồn Quân Thư",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Xích Hồn Quân Chủ",
+0.92,
+24
+]
+]
+},
+{
+"n": 3006,
+"ten": "Nguyên Thiên Quân Thư",
+"sl": 9,
+"so_ch": 1,
+"goi_y": [
+[
+"Nguyên Thiên Quân Chủ",
+0.92,
+12
+]
+]
+},
+{
+"n": 3011,
+"ten": "Hoàng Ngạc",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Hoàng Ngưu",
+0.67,
+33
+]
+]
+},
+{
+"n": 3013,
+"ten": "La Ba",
+"sl": 22,
+"so_ch": 1,
+"goi_y": [
+[
+"Bà Bà",
+0.83,
+20
+]
+]
+},
+{
+"n": 3025,
+"ten": "Trương Thái A",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Trang Thái A",
+0.78,
+9
+]
+]
+},
+{
+"n": 3042,
+"ten": "Mạc Bả Sa",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Mạc Bác Sa",
+0.89,
+20
+]
+]
+},
+{
+"n": 3044,
+"ten": "Mặc Cổ",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Lạc Cơ",
+0.83,
+18
+]
+]
+},
+{
+"n": 3051,
+"ten": "Phong Huyên",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Phong Huyền",
+1.0,
+43
+]
+]
+},
+{
+"n": 3074,
+"ten": "Phệ Giả",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Phệ Địa",
+0.83,
+6
+]
+]
+},
+{
+"n": 3091,
+"ten": "Phong Yến",
+"sl": 3,
+"so_ch": 1,
+"goi_y": [
+[
+"Phong Huyền",
+0.67,
+11
+]
+]
+},
+{
+"n": 3106,
+"ten": "Hải Thương",
+"sl": 4,
+"so_ch": 2,
+"goi_y": [
+[
+"Thái Thượng",
+0.83,
+6
+]
+]
+},
+{
+"n": 3131,
+"ten": "Thiên Mao",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thiên Mẫu",
+0.83,
+4
+]
+]
+},
+{
+"n": 3139,
+"ten": "Tư Liệu",
+"sl": 18,
+"so_ch": 1,
+"goi_y": [
+[
+"Tư Liễu",
+1.0,
+26
+],
+[
+"Tư Liêu",
+1.0,
+10
+]
+]
+},
+{
+"n": 3146,
+"ten": "Tư Diêu",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Tư Liêu",
+0.83,
+5
+]
+]
+},
+{
+"n": 3182,
+"ten": "Mặc Phi",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Mạc Phi",
+1.0,
+22
+]
+]
+},
+{
+"n": 3228,
+"ten": "Thương Giác",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Thương Giệt",
+0.67,
+32
+]
+]
+},
+{
+"n": 3236,
+"ten": "Lôi Thú",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Giới Thụ",
+0.67,
+4
+]
+]
+},
+{
+"n": 3250,
+"ten": "Thiện Nữ",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Thiên Mụ",
+0.83,
+7
+]
+]
+},
+{
+"n": 3279,
+"ten": "Khương Hoàng",
+"sl": 5,
+"so_ch": 1,
+"goi_y": [
+[
+"Phượng Hoàng",
+0.83,
+6
+]
+]
+},
+{
+"n": 3307,
+"ten": "Ngục Hoàng Đỉnh",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Ngọc Hoàng Đỉnh",
+0.89,
+14
+]
+]
+},
+{
+"n": 3327,
+"ten": "Bát Tư",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Bất Tử",
+1.0,
+5
+]
+]
+},
+{
+"n": 3329,
+"ten": "Quang Minh Thánh Điện",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Quang Minh Thần Điện",
+0.92,
+7
+]
+]
+},
+{
+"n": 3340,
+"ten": "Phương Thôn",
+"sl": 7,
+"so_ch": 1,
+"goi_y": [
+[
+"Phượng Thiên",
+0.67,
+27
+]
+]
+},
+{
+"n": 3347,
+"ten": "Vu Thành",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Vu Thần",
+0.83,
+13
+]
+]
+},
+{
+"n": 3383,
+"ten": "Thiên Cơ Văn Minh",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thiên Sơ Văn Minh",
+0.92,
+8
+]
+]
+},
+{
+"n": 3394,
+"ten": "Thiên Đạo Đích",
+"sl": 4,
+"so_ch": 1,
+"goi_y": [
+[
+"Thiên Đạo Địch",
+1.0,
+4
+]
+]
+},
+{
+"n": 3413,
+"ten": "Thái Tông",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thái Thượng",
+0.67,
+45
+]
+]
+},
+{
+"n": 3413,
+"ten": "Đệ Nhất Nho Tổ",
+"sl": 2,
+"so_ch": 3,
+"goi_y": [
+[
+"Đệ Nhị Nho Tổ",
+0.83,
+8
+]
+]
+},
+{
+"n": 3414,
+"ten": "Thiên Đạo Kỳ Đài",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thiên Địa Kỳ Đài",
+0.83,
+4
+]
+]
+},
+{
+"n": 3456,
+"ten": "Hoang Tuyền",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Hoàng Tuyền",
+1.0,
+4
+],
+[
+"Hoang Thiên",
+0.67,
+30
+]
+]
+},
+{
+"n": 3458,
+"ten": "Ngư Giao",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Ngư Dao",
+0.67,
+6
+]
+]
+},
+{
+"n": 3474,
+"ten": "La Yển",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"La Diễn",
+0.67,
+43
+]
+]
+},
+{
+"n": 3484,
+"ten": "Cố Tôn",
+"sl": 2,
+"so_ch": 2,
+"goi_y": [
+[
+"Cổ Tân",
+0.83,
+41
+]
+]
+},
+{
+"n": 3490,
+"ten": "Thiên Thể",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thiên Tôn",
+0.67,
+79
+]
+]
+},
+{
+"n": 3491,
+"ten": "Lang Tôn",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Lang Tổ",
+0.83,
+3
+]
+]
+},
+{
+"n": 3529,
+"ten": "Lân Tổ",
+"sl": 4,
+"so_ch": 1,
+"goi_y": [
+[
+"Lang Tổ",
+0.83,
+9
+],
+[
+"Lục Tổ",
+0.67,
+9
+],
+[
+"Nhân Tổ",
+0.67,
+6
+]
+]
+},
+{
+"n": 3538,
+"ten": "Phỉ Ma Vương",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Phi Mã Vương",
+1.0,
+17
+]
+]
+},
+{
+"n": 3554,
+"ten": "Thiên Tàn",
+"sl": 4,
+"so_ch": 2,
+"goi_y": [
+[
+"Thiên Tôn",
+0.83,
+4
+]
+]
+},
+{
+"n": 3560,
+"ten": "Thời Hồng Hỗn Độn Liên",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thời Không Hỗn Độn Liên",
+0.93,
+3
+]
+]
+},
+{
+"n": 3561,
+"ten": "Trịch Dao",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Trì Dao",
+0.67,
+48
+]
+]
+},
+{
+"n": 3581,
+"ten": "Phì Ma Vương",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Phi Mã Vương",
+1.0,
+5
+]
+]
+},
+{
+"n": 3590,
+"ten": "Tuy Diệu Thiền Nữ",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Tuyệt Diệu Thiền Nữ",
+0.83,
+28
+]
+]
+},
+{
+"n": 3592,
+"ten": "Phùng Thiên",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Phượng Thiên",
+0.83,
+4
+]
+]
+},
+{
+"n": 3595,
+"ten": "Cổ Hà",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Đồ Hà",
+0.83,
+4
+]
+]
+},
+{
+"n": 3606,
+"ten": "Hoăng Thiên Tiễn",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Hống Thiên Tiễn",
+0.89,
+3
+]
+]
+},
+{
+"n": 3610,
+"ten": "Thái Trung",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thái Thượng",
+0.67,
+6
+]
+]
+},
+{
+"n": 3626,
+"ten": "Tân Dương Tử",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Tuân Dương Tử",
+0.89,
+17
+]
+]
+},
+{
+"n": 3632,
+"ten": "Đường Thần",
+"sl": 10,
+"so_ch": 1,
+"goi_y": [
+[
+"Dương Luân",
+0.67,
+7
+]
+]
+},
+{
+"n": 3654,
+"ten": "Hoàn Tổ",
+"sl": 3,
+"so_ch": 3,
+"goi_y": [
+[
+"Bán Tổ",
+0.67,
+4
+]
+]
+},
+{
+"n": 3683,
+"ten": "Ngư Thanh Trinh",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Ngư Tịnh Trinh",
+0.78,
+41
+]
+]
+},
+{
+"n": 3690,
+"ten": "Ba Hải",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Bắc Hải",
+0.83,
+8
+]
+]
+},
+{
+"n": 3697,
+"ten": "Phỉ Ma Vương",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Phi Mã Vương",
+1.0,
+26
+]
+]
+},
+{
+"n": 3705,
+"ten": "Chú Tiêu",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Chư Thiên",
+0.67,
+6
+]
+]
+},
+{
+"n": 3711,
+"ten": "Xạ Giới",
+"sl": 4,
+"so_ch": 3,
+"goi_y": [
+[
+"Xá Lợi",
+0.67,
+9
+]
+]
+},
+{
+"n": 3723,
+"ten": "Tứ Đế",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Tà Đế",
+0.83,
+15
+]
+]
+},
+{
+"n": 3731,
+"ten": "Thanh Mộc Thần Trượng",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Thanh Lộc Thần Vương",
+0.75,
+3
+]
+]
+},
+{
+"n": 3738,
+"ten": "Diêm Vịnh Nhi",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Diêm Ảnh Nhi",
+0.78,
+19
+]
+]
+},
+{
+"n": 3752,
+"ten": "Thương Tiêu",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Thương Thiên",
+0.67,
+108
+]
+]
+},
+{
+"n": 3753,
+"ten": "Hư Thần Điện",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Tử Thần Điện",
+0.89,
+4
+]
+]
+},
+{
+"n": 3758,
+"ten": "Thời Hàng Nhân Tổ",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thời Không Nhân Tổ",
+0.83,
+9
+]
+]
+},
+{
+"n": 3776,
+"ten": "Thệ Thương",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thái Thượng",
+0.67,
+58
+]
+]
+},
+{
+"n": 3793,
+"ten": "Thỉ Nữ Vương",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thủy Nữ Vương",
+0.78,
+6
+]
+]
+},
+{
+"n": 3798,
+"ten": "Thi Tôn",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Thiên Tôn",
+0.67,
+31
+]
+]
+},
+{
+"n": 3807,
+"ten": "Chí Thượng Trục",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Chí Thượng Trụ",
+0.89,
+4
+]
+]
+},
+{
+"n": 3816,
+"ten": "Thương Giác",
+"sl": 2,
+"so_ch": 2,
+"goi_y": [
+[
+"Thương Giệt",
+0.67,
+6
+]
+]
+},
+{
+"n": 3820,
+"ten": "Huyết Sồ",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Huyết Đồ",
+0.83,
+40
+]
+]
+},
+{
+"n": 3821,
+"ten": "Tiểu Giác",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Tiểu Hắc",
+0.67,
+58
+]
+]
+},
+{
+"n": 3828,
+"ten": "Hư Tuyền",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Hư Thiên",
+0.67,
+3
+]
+]
+},
+{
+"n": 3836,
+"ten": "Bạt Nhĩ",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Ba Nhĩ",
+0.83,
+11
+]
+]
+},
+{
+"n": 3851,
+"ten": "Cống Thiên",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Hoang Thiên",
+0.67,
+4
+]
+]
+},
+{
+"n": 3860,
+"ten": "Thắng Lợi Vương Gián",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Thắng Lợi Vương Quan",
+0.83,
+18
+]
+]
+},
+{
+"n": 3863,
+"ten": "Ngọc Trảm",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Ngọc Trản",
+0.83,
+61
+]
+]
+},
+{
+"n": 3872,
+"ten": "La Tụng La",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"La Thống La",
+0.78,
+21
+]
+]
+},
+{
+"n": 3876,
+"ten": "Thiền Cốt Nữ Đế",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thiên Cốt Nữ Đế",
+1.0,
+52
+]
+]
+},
+{
+"n": 3883,
+"ten": "Trương Huyết Thần",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Trương Huyết Tấn",
+0.89,
+34
+]
+]
+},
+{
+"n": 3883,
+"ten": "Thần Đàn",
+"sl": 2,
+"so_ch": 3,
+"goi_y": [
+[
+"Thánh Đàn",
+0.83,
+6
+]
+]
+},
+{
+"n": 3890,
+"ten": "Thời Khổng Hỗn Độn Liên",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thời Không Hỗn Độn Liên",
+1.0,
+15
+]
+]
+},
+{
+"n": 3894,
+"ten": "Thời Khang Hỗn Độn Liên",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Thời Không Hỗn Độn Liên",
+0.93,
+18
+]
+]
+},
+{
+"n": 3906,
+"ten": "Đế Tri",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Đế Trần",
+0.67,
+48
+]
+]
+},
+{
+"n": 3918,
+"ten": "Thê Tổ",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Thủy Tổ",
+0.67,
+114
+]
+]
+},
+{
+"n": 3945,
+"ten": "Địa Húc Giới",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Địa Ngục Giới",
+0.78,
+10
+]
+]
+},
+{
+"n": 3953,
+"ten": "Vô Hĩnh",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Vô Hảnh",
+0.83,
+40
+]
+]
+},
+{
+"n": 3966,
+"ten": "Đế Tổ Thần Thần",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Đế Tổ Thần Quân",
+0.83,
+25
+]
+]
+},
+{
+"n": 3969,
+"ten": "Đế Tự",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Đế Tổ",
+0.83,
+28
+]
+]
+},
+{
+"n": 3980,
+"ten": "Đế Tự",
+"sl": 6,
+"so_ch": 3,
+"goi_y": [
+[
+"Đế Tổ",
+0.83,
+15
+]
+]
+},
+{
+"n": 3998,
+"ten": "Để Thần",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Đế Trần",
+0.83,
+72
+]
+]
+},
+{
+"n": 4000,
+"ten": "Thí Ma",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thiên Ma",
+0.67,
+19
+]
+]
+},
+{
+"n": 4016,
+"ten": "Nguyên Tấu Ân",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Nguyên Túc Ân",
+0.78,
+45
+]
+]
+},
+{
+"n": 4032,
+"ten": "Khúc Tổ",
+"sl": 6,
+"so_ch": 1,
+"goi_y": [
+[
+"Lục Tổ",
+0.67,
+6
+]
+]
+},
+{
+"n": 4043,
+"ten": "Mạnh Phượng Nhĩ",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Mạnh Phượng Nga",
+0.78,
+12
+]
+]
+},
+{
+"n": 4047,
+"ten": "Càn Thát La",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Càn Thát Bà",
+0.89,
+101
+]
+]
+},
+{
+"n": 4049,
+"ten": "Mạnh Phượng Nghi",
+"sl": 2,
+"so_ch": 2,
+"goi_y": [
+[
+"Mạnh Phượng Nga",
+0.78,
+33
+]
+]
+},
+{
+"n": 4057,
+"ten": "Mệnh Phượng Nhĩ",
+"sl": 5,
+"so_ch": 1,
+"goi_y": [
+[
+"Mệnh Phượng Nga",
+0.78,
+45
+]
+]
+},
+{
+"n": 4059,
+"ten": "Minh Tụ",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Sinh Tử",
+0.83,
+66
+]
+]
+},
+{
+"n": 4066,
+"ten": "Mạnh Phượng Nghi",
+"sl": 6,
+"so_ch": 2,
+"goi_y": [
+[
+"Mạnh Phượng Nga",
+0.78,
+46
+]
+]
+},
+{
+"n": 4066,
+"ten": "Khô Tử Huyết",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Khô Tử Tuyệt",
+0.89,
+7
+]
+]
+},
+{
+"n": 4070,
+"ten": "Thiên Tưởng",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thiên Tôn",
+0.67,
+22
+]
+]
+},
+{
+"n": 4080,
+"ten": "Quán Chủ",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Quỷ Chủ",
+0.67,
+26
+]
+]
+},
+{
+"n": 4087,
+"ten": "Thiên Tông",
+"sl": 4,
+"so_ch": 1,
+"goi_y": [
+[
+"Thiên Tôn",
+0.83,
+54
+],
+[
+"Thiên Cung",
+0.67,
+14
+]
+]
+},
+{
+"n": 4103,
+"ten": "Vĩnh Hằng Thân Tể",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Vĩnh Hằng Trân Tể",
+0.92,
+12
+]
+]
+},
+{
+"n": 4106,
+"ten": "Nham Tổ",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Nhân Tổ",
+0.83,
+8
+]
+]
+},
+{
+"n": 4112,
+"ten": "Hư Thân",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Hư Thiên",
+0.67,
+19
+]
+]
+},
+{
+"n": 4115,
+"ten": "Thiểm Ma",
+"sl": 18,
+"so_ch": 1,
+"goi_y": [
+[
+"Thiên Ma",
+0.83,
+4
+]
+]
+},
+{
+"n": 4126,
+"ten": "Hàn Thiền",
+"sl": 4,
+"so_ch": 1,
+"goi_y": [
+[
+"Hạo Thiên",
+0.83,
+7
+],
+[
+"Hoang Thiên",
+0.67,
+12
+]
+]
+},
+{
+"n": 4126,
+"ten": "Hiên Viên Kiếm",
+"sl": 2,
+"so_ch": 1,
+"goi_y": [
+[
+"Hiên Viên Kích",
+0.78,
+5
+]
+]
+},
+{
+"n": 4130,
+"ten": "Thi Bàng",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Thiền Băng",
+0.67,
+6
+]
+]
+},
+{
+"n": 4132,
+"ten": "Đệ Nhất Nho Tổ",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Đệ Nhị Nho Tổ",
+0.83,
+88
+]
+]
+},
+{
+"n": 4134,
+"ten": "Đế Tôn",
+"sl": 2,
+"so_ch": 2,
+"goi_y": [
+[
+"Đế Tổ",
+0.83,
+3
+],
+[
+"Đế Trần",
+0.67,
+79
+]
+]
+},
+{
+"n": 4137,
+"ten": "Bản Hoàng",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Băng Hoàng",
+0.83,
+4
+]
+]
+},
+{
+"n": 4151,
+"ten": "Vĩnh Hân Tể",
+"sl": 6,
+"so_ch": 1,
+"goi_y": [
+[
+"Vĩnh Trân Tể",
+0.78,
+8
+]
+]
+},
+{
+"n": 4154,
+"ten": "Chương Thiên",
+"sl": 4,
+"so_ch": 3,
+"goi_y": [
+[
+"Phượng Thiên",
+0.83,
+55
+]
+]
+},
+{
+"n": 4162,
+"ten": "Hàn Duyệt",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Hàn Tuyết",
+0.83,
+3
+]
+]
+},
+{
+"n": 4163,
+"ten": "Thần Thượng",
+"sl": 5,
+"so_ch": 1,
+"goi_y": [
+[
+"Thái Thượng",
+0.83,
+4
+]
+]
+},
+{
+"n": 4169,
+"ten": "Tân Tổ",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Bán Tổ",
+0.83,
+15
+],
+[
+"Nhân Tổ",
+0.67,
+165
+]
+]
+},
+{
+"n": 4171,
+"ten": "Tiểu Lạc",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Tiểu Hắc",
+0.83,
+5
+]
+]
+},
+{
+"n": 4184,
+"ten": "Thần Đăng",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Tàn Đăng",
+0.83,
+9
+]
+]
+},
+{
+"n": 4185,
+"ten": "Thiên Sử",
+"sl": 7,
+"so_ch": 2,
+"goi_y": [
+[
+"Thiên Mụ",
+0.83,
+21
+]
+]
+},
+{
+"n": 4188,
+"ten": "Thần Đàn",
+"sl": 1,
+"so_ch": 3,
+"goi_y": [
+[
+"Thánh Đàn",
+0.83,
+3
+]
+]
+},
+{
+"n": 4205,
+"ten": "Bạch Tư",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Bất Tử",
+0.67,
+17
+]
+]
+},
+{
+"n": 4209,
+"ten": "Đế Tôn",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Đế Trần",
+0.67,
+22
+]
+]
+},
+{
+"n": 4211,
+"ten": "Diêm Tổ",
+"sl": 1,
+"so_ch": 1,
+"goi_y": [
+[
+"Diêm Vô",
+0.83,
+6
+]
+]
+},
+{
+"n": 4211,
+"ten": "Đạo Thành",
+"sl": 1,
+"so_ch": 2,
+"goi_y": [
+[
+"Đan Thanh",
+0.83,
+6
+]
+]
+}
+]
