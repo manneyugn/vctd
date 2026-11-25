@@ -1,0 +1,455 @@
+[2169]|Diêm Huyễn Thần|Diêm Vô Thần
+[2782]|Trương Thượng Trần|Trương Nhược Trần
+[1139]|Trương Ngạc Trần|Trương Nhược Trần
+[3956]|Trương Nhược Chuyển|Trương Nhược Trần
+[2489]|Trương Lại Trần|Trương Nhược Trần
+[1862]|Trương Nhược Tuyền|Trương Nhược Trần
+[1298]|Trương Hưng Trần|Trương Nhược Trần
+[3283]|Trương Nhược Cổ|Trương Nhược Trần
+[3212]|Trương Giả Trần|Trương Nhược Trần
+[630]|Huyết Áo Vương|Huyết Nha Vương
+[630]|Xích Sí Áo|Xích Sí Nha
+[369]|Xích Sí Nha|Xích Sí Nha
+[629]|Xích Sí A|Xích Sí Nha
+[1537]|Ô Hạo|Ngô Hạo
+[2941]|Huyền Một|Huyền Nhất
+[3272]|Huyền Một|Huyền Nhất
+[4147]|Viên La|Diêm La
+[4147]|Viên Vô Thần|Diêm Vô Thần
+[617]|Hồng Dục Tế Sứ|Hồng Dục Tinh Sứ
+[601]|Hồng Muội Tinh Sứ|Hồng Dục Tinh Sứ
+[594]|Hồng Yêu Tinh Sứ|Hồng Dục Tinh Sứ
+[4082]|Hiên Viên Đệ Thường|Hiên Viên Đệ Nhị
+[4097]|Hiên Viên Đạo Nhị|Hiên Viên Đệ Nhị
+[3644]|Hiên Viên Đạo Nhị|Hiên Viên Đệ Nhị
+[211]|Huyết Yên Trần|Hoàng Yên Trần
+[746]|Hoàng Yên SơN|Hoàng Yên Trần
+[90]|Hoàng Yên Yên|Hoàng Yên Trần
+[1266]|Tửu Điên Tử|Tửu Phong Tử
+[1680]|Thiên Tê Thiên Nữ|Thiên Tinh Thiên Nữ
+[1683]|Thiên Lỗi Thiên Nữ|Thiên Tinh Thiên Nữ
+[1742]|Thiên Súc Thiên Nữ|Thiên Tinh Thiên Nữ
+[3163]|Huyết Tối|Huyết Tuyệt
+[3163]|Huyết Tối Chiến Thần|Huyết Tuyệt Chiến Thần
+[3256]|Huyết Tắc|Huyết Tuyệt
+[3256]|Huyết Tắc Chiến Thần|Huyết Tuyệt Chiến Thần
+[3272]|Huyết Giai|Huyết Tuyệt
+[3272]|Huyết Giai Chiến Thần|Huyết Tuyệt Chiến Thần
+[2331]|Huyết Giác|Huyết Tuyệt
+[2331]|Huyết Giác Chiến Thần|Huyết Tuyệt Chiến Thần
+[2431]|Huyết Vệ Chiến Thần|Huyết Tuyệt Chiến Thần
+[3767]|Cửu Sắc Dị Thiên Hoàng|Cửu Tử Dị Thiên Hoàng
+[749]|Bộ Thiên Tự|Bộ Thiên Phàm
+[2993]|Diệt Thần Đảo|Vẫn Thần Đảo
+[2993]|Diệt Thần Đảo Chủ|Vẫn Thần Đảo Chủ
+[3772]|Âm Hoàng Đồ|Diêm Hoàng Đồ
+[3888]|Lâm Côn Lôn|Trì Côn Lôn
+[2505]|Nham Chiết Tiên|Diêm Chiết Tiên
+[2756]|Diêm Trích Tiên|Diêm Chiết Tiên
+[2545]|Diêm Trích Tiên|Diêm Chiết Tiên
+[3774]|Diêm Lạp Tiên|Diêm Chiết Tiên
+[2396]|Diêm Lặc Tiên|Diêm Chiết Tiên
+[2560]|Diêm Lượng Tiên|Diêm Chiết Tiên
+[2854]|Khôi Tổ|Kình Tổ
+[1185]|Sở Tư Xa|Sở Tư Viễn
+[1010]|Thích Tư Viễn|Sở Tư Viễn
+[3403]|Giới Hình Thiên|Si Hình Thiên
+[1667]|Hạng Thúc|Hạng Sở
+[1667]|Hạng Thúc Nam|Hạng Sở Nam
+[4146]|Hạng Chân Nam|Hạng Sở Nam
+[478]|Ao Tâm Nhan|Ngao Tâm Nhan
+[1262]|Đồ Tâm Nhan|Ngao Tâm Nhan
+[1588]|Yêu Giả|Yêu Tuyệt
+[1588]|Yêu Giả Vương|Yêu Tuyệt Vương
+[1696]|Thiên Mẫu Tiên Tử|Thiên Sơ Tiên Tử
+[1695]|Thiên Đầu Tiên Tử|Thiên Sơ Tiên Tử
+[1685]|Thiên Trù Tiên Tử|Thiên Sơ Tiên Tử
+[1865]|Thiên Xung Tiên Tử|Thiên Sơ Tiên Tử
+[2345]|Huyết Ảnh Quỷ Loại|Huyết Ảnh Quỷ Chủng
+[289]|Hàn Lợi|Hàn Lệ
+[262]|Hàn Kiểu|Hàn Thu
+[2181]|Chân Lý Hiến Sơn|Chân Lý Chi Sơn
+[2830]|Trương Vô Thần|Diêm Vô Thần
+[2429]|Hạ Vô Thần|Diêm Vô Thần
+[3941]|Diêm Hướng Thần|Diêm Vô Thần
+[4127]|Diêm Vô Sơ|Diêm Vô Thần
+[294]|Yến Vân Hạo|Yến Vân Huyễn
+[774]|Vô Tự Kiếm Sơn|Vô Tự Kiếm Phổ
+[1737]|Tu Di Đạo Thưởng|Tu Di Đạo Tràng
+[1760]|Tu Vô Đạo Tràng|Tu Di Đạo Tràng
+[3204]|Yến Lịch Nhân|Yến Ly Nhân
+[2628]|Yến Lịch Nhân|Yến Ly Nhân
+[883]|Vạn Triệu Ất|Vạn Triệu Ức
+[1191]|Ma Mân Vương Phi|Ma Nhiễm Vương Phi
+[2408]|Chi Đế|Trì Đế
+[4127]|Sinh Sức Thiên Tôn|Sinh Tử Thiên Tôn
+[4133]|Sinh Sức Thiên Tôn|Sinh Tử Thiên Tôn
+[687]|Kiếm Giao|Kiếm Các
+[1740]|Yêu Hồng Lệ|Diệp Hồng Lệ
+[1911]|Vô Gian Luyện Ngục Đát|Vô Gian Luyện Ngục Tháp
+[3692]|Vi Tôn Giả|Kiếp Tôn Giả
+[3693]|Vạn Tôn Giả|Kiếp Tôn Giả
+[4131]|Đạo Quân Thiên|Nhị Quân Thiên
+[322]|Thường Thích Nhiên|Thường Thích Thích
+[623]|Đế Thừa|Đế Nhất
+[450]|Đế Hạc|Đế Nhất
+[343]|Đế Thích|Đế Nhất
+[315]|Đế Lôi|Đế Nhất
+[2231]|Hựu Hoàng|Du Hoàng
+[2329]|Nhu Hoàng|Du Hoàng
+[3731]|Băng Vương Tự|Băng Vương Tinh
+[715]|Hai Nghi Tông|Lưỡng Nghi Tông
+[2946]|Bạch Khanh Lại|Bạch Khanh Nhi
+[694]|Xích Thiên Kiều|Cái Thiên Kiều
+[3639]|Tu Dương Tử|Tuân Dương Tử
+[3709]|A Phù Hứa|A Phù Nhã
+[3886]|A Phù Hạc|A Phù Nhã
+[3680]|A Phù Hy|A Phù Nhã
+[624]|Tử Phong Tế Sử|Tử Phong Tinh Sứ
+[2086]|Địa Hữu Giới|Địa Ngục Giới
+[454]|Khổng Lan Hưu|Khổng Lan Du
+[1576]|Trượng Lý Thần Điện|Chân Lý Thần Điện
+[1883]|Thử Nhân|Sử Nhân
+[2300]|Vân Phi Đại Thánh|Nguyên Phi Đại Thánh
+[2321]|Viên Phi Đại Thánh|Nguyên Phi Đại Thánh
+[2885]|Tinh Huyền Thiên|Tinh Hoàn Thiên
+[3333]|Bặc Lạp|Mỹ Lạp
+[546]|Ô Cốt Giao Vương|Ô Hài Giao Vương
+[1421]|Lệnh Mật|Lệnh Mịch
+[1717]|Vô Huyễn Tiên Tử|Vô Ảnh Tiên Tử
+[2237]|Dịch Húc Đại Thánh|Dịch Hiên Đại Thánh
+[2275]|Thất Tế Đế Cung|Thất Tinh Đế Cung
+[2776]|Văn Trữ|Văn Chử
+[3006]|Nguyên Thiên Quân Thư|Nguyên Thiên Quân Chủ
+[3088]|Tu Sĩ Thiên Thần|Tu Thần Thiên Thần
+[4197]|Thánh Sách Tài Nữ|Thánh Thư Tài Nữ
+[100]|Phong Thiết Lâm|Phong Tri Lâm
+[174]|Ma Nguyệt Ma Giáo|Bái Nguyệt Ma Giáo
+[210]|Võ Sĩ Học Cung|Võ Thị Học Cung
+[222]|Võ Vị Học Cung|Võ Thị Học Cung
+[460]|Tạ Vân Sao|Tạ Vân An
+[844]|Cổ Thi Cổ Tộc|Cản Thi Cổ Tộc
+[655, 657]|Hách Hạo|Cái Hạo
+[369, 373]|Xích Sí Á|Xích Sí Nha
+[3774, 2396]|Diêm Lộng Tiên|Diêm Chiết Tiên
+[2300, 2321]|Nguồn Phi Đại Thánh|Nguyên Phi Đại Thánh
+[1495]|Hàn Tịch|Hàn Thu
+[1398]|Hàn Tịch|Hàn Thu
+[3413]|Hàn Tịch|Hàn Thu
+[1786]|Viên Tịch|Viên Triệt
+[1864]|Thiên Chu Tiên Tử|Thiên Sơ Tiên Tử
+[1847]|Thiên Chu Tiên Tử|Thiên Sơ Tiên Tử
+[2029]|Cửu Lệnh Thánh Vương|Cửu Bộ Thánh Vương
+[2001]|Cửu Hợp Thánh Vương|Cửu Bộ Thánh Vương
+[2140]|Ma Lược Đại Thân Vương|Ma La Đại Thân Vương
+[2194]|Lượng Huyết Kiếm|Tích Huyết Kiếm
+[2439]|Diêm Hoàng Lực|Diêm Hoàng Đồ
+[2509]|Diêm Hoàng Tường|Diêm Hoàng Đồ
+[2366]|Dạ Hoàng Đồ|Diêm Hoàng Đồ
+[3574]|Nguyên Tạc Ân|Nguyên Túc Ân
+[3847]|Huyết Dực Chiến Thần|Huyết Tuyệt Chiến Thần
+[3848]|Huyết Giác Chiến Thần|Huyết Tuyệt Chiến Thần
+[2414]|Huyết Giao Chiến Thần|Huyết Tuyệt Chiến Thần
+[2423]|Huyết Luyện Chiến Thần|Huyết Tuyệt Chiến Thần
+[3966]|Đế Cửu|Đế Trần
+[4010]|Đế Thức|Đế Trần
+[3751]|Đế Chúc|Đế Trần
+[3884]|Đế Côn|Đế Trần
+[3796]|Đế Tế|Đế Trần
+[86]|Dao Thanh Đồng|Diêu Thanh Đồng
+[113]|Đoan Mộc Tê Linh|Đoan Mộc Tinh Linh
+[202]|Võ Tỉnh Học Cung|Võ Thị Học Cung
+[364]|Võ Vụ Học Cung|Võ Thị Học Cung
+[219]|Võ Tự Học Cung|Võ Thị Học Cung
+[272]|Võ Tỉnh Học Cung|Võ Thị Học Cung
+[467]|Linh Sơ Bán Thánh|Linh Xu Bán Thánh
+[387]|Linh Sơ Bán Thánh|Linh Xu Bán Thánh
+[399]|Linh Thục Bán Thánh|Linh Xu Bán Thánh
+[820]|Giáp Thiên Thần Mộc|Tiếp Thiên Thần Mộc
+[1152]|Thừa Thiên Thần Mộc|Tiếp Thiên Thần Mộc
+[913]|Vương Hịch|Vương Cật
+[1281]|Trung Thúc Vương|Trung Doanh Vương
+[1280]|Trung Vĩnh Vương|Trung Doanh Vương
+[2205]|Thiên Yêu Thiên Nữ|Thiên Tinh Thiên Nữ
+[2204]|Thiên Sửu Thiên Nữ|Thiên Tinh Thiên Nữ
+[1685]|Cửu Tinh Thiên Nữ|Thiên Tinh Thiên Nữ
+[2974]|Bạch Tịch Nhi|Bạch Khanh Nhi
+[3162]|Nhật Sí|Nhật Quỹ
+[3276]|Nhật Cữu|Nhật Quỹ
+[3355]|Nhật Đồi|Nhật Quỹ
+[3796]|Nhật Giản|Nhật Quỹ
+[2977]|Nhật Môn|Nhật Quỹ
+[3956]|Nhật Hựu|Nhật Quỹ
+[3973]|Tứ Bất Khúc|Tứ Bất Tượng
+[3987]|Ô Đồng Thần Thụ|Ngô Đồng Thần Thụ
+[4205]|Tịch Hàng|Từ Hàng
+[340]|Yến Huyết Mệnh|Yến Tử Mệnh
+[400]|Đế Thư|Đế Nhất
+[463]|Đế Lỗi|Đế Nhất
+[355]|Đế Hi|Đế Nhất
+[1233]|Tửu Điên Tử|Tửu Phong Tử
+[1521]|Khai Nguyên Hưu Đỉnh|Khai Nguyên Lộc Đỉnh
+[1973]|Thạch Thiên Dịch|Thạch Thiên Tuyệt
+[1970]|Thạch Thiên Tứ|Thạch Thiên Tuyệt
+[2278]|Chấn Hi|Liễm Hi
+[2273]|Tấn Hi|Liễm Hi
+[4090]|Trác Hi|Liễm Hi
+[2597]|Bản Vực Thần Điện|Bản Nguyên Thần Điện
+[2573]|Bản Vấn Thần Điện|Bản Nguyên Thần Điện
+[2746]|Diêm Huyết Nhi|Diêm Ảnh Nhi
+[3444]|Thiên Hồ Nữ Đế|Thiên Cốt Nữ Đế
+[3910]|Trương Lãm Nga|Trương Tố Nga
+[4086]|Mạt Lộ Tế Sư|Mạt Nhật Tế Sư
+[4209]|Trần Không Thiên|Trần Vô Thiên
+[1700]|Bất Tận Đao|Vô Tận Đao
+[2001]|Trì Thăng|Xi Thăng
+[2121]|Địa Hắc Giới|Địa Ngục Giới
+[4086]|Địa Phược Giới|Địa Ngục Giới
+[2807]|Địa Sư Giới|Địa Ngục Giới
+[2628]|Khổng Lan Nhữu|Khổng Lan Du
+[2022]|Khổng Lan Hưu|Khổng Lan Du
+[2641]|Cát Thiên Kiều|Cái Thiên Kiều
+[756]|Già Thiên Kiều|Cái Thiên Kiều
+[2826]|Diêm Bất Thần|Diêm Vô Thần
+[3169]|Diêm Bất Thần|Diêm Vô Thần
+[3622]|Mai Kim Bạch Hổ|Táng Kim Bạch Hổ
+[3772]|Nhân Hư Thiên Tôn|Nhân Hoàn Thiên Tôn
+[395]|Tư Thánh Môn Vấn|Tư Thánh Môn Phiệt
+[539]|Ôn Tâm Nhan|Ngao Tâm Nhan
+[1048]|Vạn Hoa Y|Vạn Hoa Ngữ
+[1099]|Vạn Triệu Cầu|Vạn Triệu Ức
+[1247]|Tiên Phi Tiên|Tiên Phi Tử
+[1371]|Tề Phi Uyên|Tề Phi Vũ
+[1666]|Vũ Văn Tường|Vũ Văn Tĩnh
+[1669]|Sức Hồng Thiên Sứ|Tinh Hồng Thiên Sứ
+[2148]|Trương Côn Lôn|Trì Côn Lôn
+[2221]|Trì Khả Lạc|Trì Khổng Lạc
+[2255]|La Sinh Tế|La Sinh Thiên
+[2287]|Y Hiên Đại Thánh|Dịch Hiên Đại Thánh
+[2305]|Đại Sâm Lược Hoàng|Đại Sâm La Hoàng
+[2362]|Đại Sâm Lịch Hoàng|Đại Sâm La Hoàng
+[2504]|Thiên Trâm Châm|Thiên Xu Châm
+[2536]|Băng Vương Tự|Băng Vương Tinh
+[2494]|Băng Vương Tường|Băng Vương Tinh
+[3339]|Tu Thần Tần Thần|Tu Thần Thiên Thần
+[3770]|Tu Thần Tinh Thần|Tu Thần Thiên Thần
+[2526]|Tu Sơ Thiên Thần|Tu Thần Thiên Thần
+[2618]|Tu Sơn Thiên Thần|Tu Thần Thiên Thần
+[3903]|Tinh Thần Đảo Chủ|Vẫn Thần Đảo Chủ
+[4026]|Hồng Á Vương|Hồng Nha Vương
+[3986]|Hồng Quạ Vương|Hồng Nha Vương
+[4032]|Đệ Tứ Khúc Tổ|Đệ Tứ Nho Tổ
+[803]|Lưu Lợi Bảo|Lưu Ly Bảo
+[618]|Lưu Lợi Kỵ Sĩ|Lưu Ly Kỵ Sĩ
+[1111]|Tôn Đại Dũng|Tôn Đại Địa
+[1204]|Dao Sinh|Diêu Sinh
+[1279]|Hàng Hoặc|Huỳnh Hoặc
+[1294]|Thông Thiên Huyết Giảng|Thông Thiên Huyết Tướng
+[1355]|Phong Ngân Chiêm|Phong Ngân Thiền
+[1450]|Bán Vịnh Thánh Vương|Bán Bộ Thánh Vương
+[1719]|Liên Thành Bách Lượng|Liên Thành Bách Lý
+[1762]|Tu Sơ Đạo Tràng|Tu Di Đạo Tràng
+[1869]|Hồng Nhật Thần Hà Tượng|Hồng Nhật Thần Hà Đồ
+[1943]|Hạng Thục Nam|Hạng Sở Nam
+[2114]|Ngao Tâm An|Ngao Tâm Nhan
+[2657]|Thư Thiên Chiêu|Thư Thiên Si
+[2658]|Thư Thiên Trì|Thư Thiên Si
+[2660]|Thư Thiên Ngốc|Thư Thiên Si
+[2671]|Hồng Cửu Quần Đảo|Hồng Trần Quần Đảo
+[2875]|Tinh Huyễn Thiên|Tinh Hoàn Thiên
+[2899]|Tinh Huyên Thiên Tôn|Tinh Hoàn Thiên Tôn
+[3115]|Lạc Kỷ|Lạc Cơ
+[3428]|Hạng Hình Thiên|Si Hình Thiên
+[3772]|Âm Dục|Diêm Dục
+[3802]|Hoàng Quản Đại Đế|Hoàng Tuyền Đại Đế
+[7]|Long Tượng Bàn Nhược Quyền|Long Tượng Bàn Nhược Chưởng
+[64]|Cửu Trở Sinh Tử Quyết|Cửu Chuyển Sinh Tử Quyết
+[94]|Hoàng Yên Thiên|Hoàng Yên Trần
+[529]|Huỳnh Yên Trần|Hoàng Yên Trần
+[101]|Phong Biết Lâm|Phong Tri Lâm
+[196]|Võ Huyết Tiền Trang|Võ Thị Tiền Trang
+[537]|Hoắc Vô Cố|Hoắc Vô Kỵ
+[545]|Tiêu Cơ Kiếm Thánh|Tuyền Cơ Kiếm Thánh
+[552]|Mộc Linh Hồng Sư|Mộc Linh Hồng Đàn
+[861]|Bát Giác Thánh Mục|Bát Giác Thánh Nhãn
+[959]|Huyết Tộc Mật Sử|Huyết Tộc Mật Quyển
+[1090]|Thái Thánh Bảng|Bán Thánh Bảng
+[1189]|Thực Sô Hoa|Thực Thánh Hoa
+[1206]|Vô Ưu Cốc|Mạc Ưu Cốc
+[2756]|Địa Phủ Giới|Địa Ngục Giới
+[3199]|Địa Hộ Giới|Địa Ngục Giới
+[3212]|Địa Phược Giới|Địa Ngục Giới
+[3580]|Địa Yêu Giới|Địa Ngục Giới
+[4103]|Địa Hộ Giới|Địa Ngục Giới
+[2921]|Địa Hữu Giới|Địa Ngục Giới
+[3553]|Địa Phụ Giới|Địa Ngục Giới
+[3596]|Địa Sách Giới|Địa Ngục Giới
+[3634]|Địa Hạt Giới|Địa Ngục Giới
+[3913]|Địa Hộ Giới|Địa Ngục Giới
+[2226]|Huyết Tượng Chiến Thần|Huyết Tuyệt Chiến Thần
+[2447]|Huyết Tẩy Chiến Thần|Huyết Tuyệt Chiến Thần
+[2498]|Huyết Giao Chiến Thần|Huyết Tuyệt Chiến Thần
+[2516]|Huyết Cực Chiến Thần|Huyết Tuyệt Chiến Thần
+[2559]|Huyết Luyện Chiến Thần|Huyết Tuyệt Chiến Thần
+[2914]|Huyết Giao Chiến Thần|Huyết Tuyệt Chiến Thần
+[2940]|Huyết Cực Chiến Thần|Huyết Tuyệt Chiến Thần
+[2968]|Huyết Chiến Chiến Thần|Huyết Tuyệt Chiến Thần
+[2957]|Tinh Huyễn Thiên|Tinh Hoàn Thiên
+[3143]|Tinh Hủ Thiên|Tinh Hoàn Thiên
+[3033]|Tinh Huyễn Thiên|Tinh Hoàn Thiên
+[3062]|Tinh Huyền Thiên|Tinh Hoàn Thiên
+[3900]|Đế Côn|Đế Trần
+[3956]|Đế Chuyển|Đế Trần
+[4201]|Đế Tế|Đế Trần
+[3811]|Đế Châu|Đế Trần
+[3930]|Đế Cổn|Đế Trần
+[3765]|La Lỗi La|La Thống La
+[3757]|La Mâu La|La Thống La
+[3763]|La Tịch La|La Thống La
+[3815]|La Độc La|La Thống La
+[3838]|La Tịch La|La Thống La
+[3840]|La Đồ La|La Thống La
+[3193]|Hạng Thù Nam|Hạng Sở Nam
+[1641]|Hạng Tháp Nam|Hạng Sở Nam
+[1914]|Hạng Chân Nam|Hạng Sở Nam
+[4207]|Hạng Sâm Nam|Hạng Sở Nam
+[3437]|Sách Hình Thiên|Si Hình Thiên
+[4160]|Thôi Hình Thiên|Si Hình Thiên
+[2996]|Si Tiêu Thiên|Si Hình Thiên
+[3325]|Cố Hình Thiên|Si Hình Thiên
+[2404]|Lược Anh|Lam Anh
+[2413]|Tham Anh|Lam Anh
+[902]|Trảm Thiên Kiếm|Thao Thiên Kiếm
+[927]|Trụ Thiên Kiếm|Thao Thiên Kiếm
+[1894]|Tự Thiên Kiếm|Thao Thiên Kiếm
+[2082]|Thiên Tế Văn Minh|Thiên Tinh Văn Minh
+[3911]|Thiên Tế Văn Minh|Thiên Tinh Văn Minh
+[1685]|Thiên Trù Văn Minh|Thiên Tinh Văn Minh
+[2476]|Băng Vương Tế|Băng Vương Tinh
+[2523]|Băng Hoàng Tinh|Băng Vương Tinh
+[2493]|Băng Hoàng Tinh|Băng Vương Tinh
+[2591]|Băng Vương Tê|Băng Vương Tinh
+[2745]|Tu Thần Tê Thần|Tu Thần Thiên Thần
+[3987]|Tu Thần Tê Thần|Tu Thần Thiên Thần
+[4022]|Tu Thần Tê Thần|Tu Thần Thiên Thần
+[3586]|Tu Thần Tần Thần|Tu Thần Thiên Thần
+[1638]|Thiên Tế Thiên Nữ|Thiên Tinh Thiên Nữ
+[2006]|Thiên Tường Thiên Nữ|Thiên Tinh Thiên Nữ
+[2300]|Tước Phi Đại Thánh|Nguyên Phi Đại Thánh
+[2423]|Nguyên Ly Đại Thánh|Nguyên Phi Đại Thánh
+[2699]|Bản Vận Thần Điện|Bản Nguyên Thần Điện
+[2548]|Bản Vận Thần Điện|Bản Nguyên Thần Điện
+[4201]|Bản Vụ Thần Điện|Bản Nguyên Thần Điện
+[2656]|Thư Thiên Trí|Thư Thiên Si
+[2671]|Thư Thiên Hải|Thư Thiên Si
+[3085]|Thư Thiên Trí|Thư Thiên Si
+[3899]|Vệ Thần Đảo Chủ|Vẫn Thần Đảo Chủ
+[2610]|Tiêu Thần Đảo Chủ|Vẫn Thần Đảo Chủ
+[618]|Đế Tế|Đế Nhất
+[630]|Đế Thừa|Đế Nhất
+[740]|Bát Trận Tông|Bát Quái Tông
+[743]|Bát Trà Tông|Bát Quái Tông
+[3481]|Thiên Võng Thần Quốc|Thiên La Thần Quốc
+[3483]|Thiên Tịch Thần Quốc|Thiên La Thần Quốc
+[3873]|Thời Không Hỗn Nguyên Liên|Thời Không Hỗn Độn Liên
+[3895]|Thời Huyết Hỗn Độn Liên|Thời Không Hỗn Độn Liên
+[2462]|Ngân Cốt Nữ Đế|Thiên Cốt Nữ Đế
+[3460]|Củng Cốt Nữ Đế|Thiên Cốt Nữ Đế
+[1513]|Uẩn Uyên Cổ Kiếm|Trầm Uyên Cổ Kiếm
+[797]|Trầm Vực Cổ Kiếm|Trầm Uyên Cổ Kiếm
+[3035]|Trương Uyên Cổ Kiếm|Trầm Uyên Cổ Kiếm
+[1665]|Phược Thánh Tiên|Phược Thánh Tỏa
+[1668]|Phược Thánh Tiêu|Phược Thánh Tỏa
+[3677]|Phượng Phong Tận|Hư Phong Tẫn
+[222]|Võ Vị Tiền Trang|Võ Thị Tiền Trang
+[1308]|Võ Mị Tiền Trang|Võ Thị Tiền Trang
+[265]|Võ Sĩ Học Cung|Võ Thị Học Cung
+[343]|Võ Sĩ Học Cung|Võ Thị Học Cung
+[1375]|Khổng Lan Phương|Khổng Lan Du
+[2002]|Khổng Lan Hi|Khổng Lan Du
+[1394]|Hộ Long Sách|Hộ Long Các
+[1406]|Hộ Long Môn|Hộ Long Các
+[1323]|Thạch Thiên Lệnh|Thạch Thiên Tuyệt
+[1398]|Thạch Thiên Đạo|Thạch Thiên Tuyệt
+[1282]|Trung Hưng Vương|Trung Doanh Vương
+[1293]|Trung Hưng Vương|Trung Doanh Vương
+[1326]|Hắc Dạ Cung|Ám Dạ Cung
+[1458]|Vạn Triệu Tượng|Vạn Triệu Ức
+[1503]|Chuẩn Tư Viễn|Sở Tư Viễn
+[1547]|Lệnh Mật|Lệnh Mịch
+[1576]|Trượng Lý Thiên Vực|Chân Lý Thiên Vực
+[1827]|Vân Võ Côn Quốc|Vân Võ Quận Quốc
+[2319]|Xí Quỷ Hoàng|Dực Quỷ Hoàng
+[2498]|Ngô Việt Mệnh Hoàng|Ngô Duyệt Mệnh Hoàng
+[2527]|Tu Môn Thánh Tăng|Tu Di Thánh Tăng
+[2526]|Tu Sơ Thánh Tăng|Tu Di Thánh Tăng
+[2595]|Kỷ Tự Tâm|Kỷ Phạn Tâm
+[2688]|Tát Hi|Liễm Hi
+[2723]|Cửu Hàng Tiên Tử|Từ Hàng Tiên Tử
+[2836]|Khô Tử Tẫn|Khô Tử Tuyệt
+[4066]|Khô Tử Huyết|Khô Tử Tuyệt
+[3113]|Bạch Khanh Lân|Bạch Khanh Nhi
+[3225]|Trương Kim Bạch Hổ|Táng Kim Bạch Hổ
+[3699]|Vệ Tôn Giả|Kiếp Tôn Giả
+[3743]|Hạ Hoàng Khối|Hạ Hoàng Triều
+[3772]|Âm Ảnh Nhi|Diêm Ảnh Nhi
+[3776]|Trì Lỗ Lạc|Trì Khổng Lạc
+[3928]|A Phù A|A Phù Nhã
+[3913]|A Phù Y|A Phù Nhã
+[3948]|Trương Phạn Nộ|Không Phạn Nộ
+[4088]|Hồng Ỷ Hắc Long|Hồng Mông Hắc Long
+[4089]|Hồng Trần Hắc Long|Hồng Mông Hắc Long
+[4099]|Mạt Hộ Tế Sư|Mạt Nhật Tế Sư
+[4147]|Viên Hoàng Đồ|Diêm Hoàng Đồ
+[4149]|Âm Vô Thần|Diêm Vô Thần
+[111]|Dao Thanh Đồng|Diêu Thanh Đồng
+[120]|Càn Khôn Thần Mộc Thừa|Càn Khôn Thần Mộc Đồ
+[852]|Càn Khôn Thần Mộc Thư|Càn Khôn Thần Mộc Đồ
+[171]|Ngự Phong Phi Long Bộ|Ngự Phong Phi Long Ảnh
+[181]|Tịch Môn Quan Nhân|Tây Môn Quan Nhân
+[335]|Tang Thích Thích|Thường Thích Thích
+[465]|Toàn Cơ Viện Chủ|Tuyền Cơ Viện Chủ
+[482]|Lưu Ly Khải Sĩ|Lưu Ly Kỵ Sĩ
+[530]|Ao Tâm Nhan|Ngao Tâm Nhan
+[562]|Ô Cốt Giao Vương|Ô Hài Giao Vương
+[846]|Âm Huyền Cơ|Âm Huyền Kỷ
+[957]|Huyết Tộc Mật Dịch|Huyết Tộc Mật Quyển
+[968]|Thất Xảo Huyết Minh Chưởng|Thất Khiếu Huyết Minh Chưởng
+[997]|Quỷ Cốc Thánh Giả|Quỷ Cốc Thánh Tướng
+[1039]|Thái Khôi Luân|Thái Kinh Luân
+[1102]|Vạn Hoa Yêu|Vạn Hoa Ngữ
+[1295]|Thông Thiên Huyết Thánh|Thông Thiên Huyết Tướng
+[1380]|Phượng Vũ Cát|Phượng Vũ Cung
+[1425]|Tổ Linh Khư|Tổ Linh Giới
+[1848]|Hán Hi Vương|Đại Hi Vương
+[1920]|Tiên Kiêm|Tiên Cơ
+[1929]|Long Sách Bàn Nhược Chưởng|Long Tượng Bàn Nhược Chưởng
+[2030]|Chu Vũ|Trụ Vũ
+[2063]|Yến Lương Nhân|Yến Ly Nhân
+[2083]|Sát Linh Đế|Thí Linh Đế
+[2204]|Tử Vô Thiên Thư|Tử Vong Thiên Thư
+[2288]|Dụ Hiên Đại Thánh|Dịch Hiên Đại Thánh
+[2390]|Huyết Ảnh Quỷ Loại|Huyết Ảnh Quỷ Chủng
+[2714]|La Hãn Đại Đế|La Diễn Đại Đế
+[2715]|Tàng Sơn Ma Giáp|Tàng Sơn Ma Kính
+[2725]|Thông Thiên Phù Tụ|Thông Thiên Phù Đồ
+[2796]|Cô Tịch Tĩnh|Cô Xạ Tĩnh
+[3094]|Mạc Phá Sa|Mạc Bác Sa
+[3165]|Nê Tuyên Bắc Sư|Nghê Tuyên Bắc Sư
+[3192]|Lượng Tổ Tế|Lượng Tổ Chức
+[3344]|Cương Dương Thiện|Kha Dương Thiện
+[3433]|Hoa Hỷ Khinh Thiền|Hoa Ảnh Khinh Thiền
+[3599]|Chí Dao|Trì Dao
+[3757]|Nhưng Tu La|A Tu La
+[3896]|Hiên Viên Đệ Dân|Hiên Viên Đệ Nhị
+[3900]|Tỉnh Đạo Sĩ|Tỉnh Đạo Nhân
+[4093]|Hiên Viên Đệ Thường|Hiên Viên Đệ Nhị
+[4105]|Mạt Thế Tế Sư|Mạt Nhật Tế Sư
+[4123]|Trương Hồng Cầu|Trương Hồng Trần
+[4130]|Hiên Tiệp Liên|Hiên Viên Liên
+[4159]|Thiển Đô Đại Đế|Phong Đô Đại Đế
+[4168]|Hắc Ám Hiểm Uyên|Hắc Ám Chi Uyên
+[4189]|Địa Phược Giới|Địa Ngục Giới
+[4196]|Lược Hi|Liễm Hi
+[4204]|Cửu Bài Thạch Nhân|Cửu Thủ Thạch Nhân
+[4209]|Lỗ Lan Du|Khổng Lan Du
