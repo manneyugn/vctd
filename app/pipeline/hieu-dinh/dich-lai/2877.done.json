@@ -1,0 +1,433 @@
+{
+"so_doan": 110,
+"doan": {
+"0": {
+"goc": "Phật Đà tự chuyển thế dữ đoạt xá, hữu bản chất đích biệt.",
+"dich": "Phật Đà tự chuyển thế và đoạt xá có khác biệt về bản chất."
+},
+"1": {
+"goc": "Nãi phái tu vi tái cao đích Phật giả, báo thân chuyển thế, nhậm hội lưu thất cửu thành dĩ thượng đích thần hồn, thất khứ thượng nhất thế đích ký ức, đẳng vu thị tân sinh.",
+"dich": "Cho dù là Phật giả tu vi cao tới đâu, báo thân chuyển thế vẫn sẽ mất đi hơn chín phần thần hồn, mất đi ký ức của kiếp trước, tương đương với tân sinh."
+},
+"2": {
+"goc": "Tại đệ nhị thế, tu vi đạt đáo nhất định cao độ, đảo thị hữu khả năng giác tỉnh thượng nhất thế đích ký ức thối phiến, đản, dĩ kinh vô quan khỉnh yếu.",
+"dich": "Ở kiếp thứ hai, tu vi đạt tới một độ cao nhất định, ngược lại có khả năng thức tỉnh những mảnh vụn ký ức của kiếp trước, nhưng đã không còn quan trọng."
+},
+"3": {
+"goc": "Thị vi, tiền thế kim sinh.",
+"dich": "Đó gọi là tiền thế kim sinh."
+},
+"4": {
+"goc": "Tịch tiện thị Phật tổ, đô bất khả năng bằng tá chuyển thế, đạt đáo vĩnh sinh.",
+"dich": "Cho dù là Phật Tổ cũng không thể dựa vào chuyển thế để đạt tới vĩnh sinh."
+},
+"5": {
+"goc": "Yếu chuyển thế đích, đương nhiên thị Vân Thanh Cổ Phật đích báo thân.",
+"dich": "Thứ chuyển thế đương nhiên là báo thân của Vân Thanh Cổ Phật."
+},
+"6": {
+"goc": "Tố vị, đạo tu kim sinh, Phật tu lai thế. Thiện hữu thiện báo, ác hữu ác báo.",
+"dich": "Cái gọi là đạo tu kiếp này, Phật tu kiếp sau. Thiện có thiện báo, ác có ác báo."
+},
+"7": {
+"goc": "Đức thượng chuyển thế, đẳng vu A Lạc dữ Đào Hoa đích hài tử, thượng nhất thế tựu thị Vân Thanh Cổ Phật, tại giá hạ nhất thế, năng cú đắc đáo Vân Thanh Cổ Phật nhất sinh tích lụy đích thiện báo.",
+"dich": "Chuyển thế lần này, tương đương với việc đứa con của A Lạc và Đào Hoa, kiếp trước chính là Vân Thanh Cổ Phật, ở kiếp sau này có thể nhận được thiện báo tích lũy cả đời của Vân Thanh Cổ Phật."
+},
+"8": {
+"goc": "Trương Nhược Trần bất cận hoán xuất Vân Thanh Cổ Phật đích báo thân, dã tương Tam Sinh Môn nhất tịnh tống xuất.",
+"dich": "Trương Nhược Trần không chỉ gọi ra báo thân của Vân Thanh Cổ Phật, mà còn tặng luôn cả Tam Sinh Môn."
+},
+"9": {
+"goc": "Tu tri, Vân Thanh Cổ Phật tằng thuyết, Trương Nhược Trần chỉ yếu luyện hóa liễu Tam Sinh Môn, vạn niên nội, tựu năng đạt đáo đại thần tầng thứ. Khả tưởng nhi tri, Tam Sinh Môn thị hà đẳng trân quý.",
+"dich": "Phải biết rằng, Vân Thanh Cổ Phật từng nói, chỉ cần Trương Nhược Trần luyện hóa Tam Sinh Môn, trong vòng vạn năm có thể đạt tới tầng thứ đại thần. Có thể tưởng tượng Tam Sinh Môn trân quý tới mức nào."
+},
+"10": {
+"goc": "Giá thị chân chính đích đại cơ duyên!",
+"dich": "Đây là đại cơ duyên thật sự!"
+},
+"11": {
+"goc": "Tịch tiện thị hữu Kình Tổ giá dạng đích sư tôn, đô ngộ bất đáo đích đại cơ duyên.",
+"dich": "Ngay cả người có sư tôn như Kình Tổ cũng không gặp được đại cơ duyên như vậy."
+},
+"13": {
+"goc": "Trúc ốc trung, Phật quang ngoại dật.",
+"dich": "Trong căn nhà trúc, Phật quang tràn ra ngoài."
+},
+"14": {
+"goc": "Ốc ngoại đích địa diện hóa vi kim sắc, trưởng xuất chủng chủng Phật môn kỳ hoa.",
+"dich": "Mặt đất ngoài nhà hóa thành màu vàng, mọc lên đủ loại kỳ hoa Phật môn."
+},
+"15": {
+"goc": "Nhất Chu Chu vạn niên cổ thụ, đản sinh xuất linh trí, thụ căn hóa vi cước túc, thụ cán thượng trưởng xuất nhãn tình. Mỗi nhất khỏa thụ đô mang nhiên thất thố, tương hỗ giao lưu, bất minh bạch tự nhiên vi hà đột nhiên năng cú khai khẩu thuyết thoại.",
+"dich": "Từng gốc cổ thụ vạn năm sinh ra linh trí, rễ cây hóa thành chân, trên thân cây mọc ra mắt. Mỗi cây đều mờ mịt luống cuống, giao lưu với nhau, không hiểu tại sao mình đột nhiên có thể mở miệng nói chuyện."
+},
+"16": {
+"goc": "Na khỏa bản thị trưởng trước linh quả đích thụ, tấn tốc thuế biến, hóa vi thánh thụ, thụ thượng quả thật biến thành Phật tọa đích hình trạng.",
+"dich": "Cây vốn mọc linh quả nhanh chóng lột xác, hóa thành thánh thụ, quả trên cây biến thành hình Phật tọa."
+},
+"17": {
+"goc": "Đức lưu lão hoàng ngưu đô việt phát đích thần tuấn, bì mao kim xán xán đích, như hoàng kim trù tử, nhất song ngưu nhĩ lập liễu khởi lai, năng cú thính đáo thiên lý ngoại đích thanh hưởng.",
+"dich": "Ngay cả con trâu vàng già cũng trở nên thần tuấn hơn, bộ lông vàng óng ánh như lụa vàng, đôi tai trâu dựng lên, có thể nghe thấy âm thanh ngoài ngàn dặm."
+},
+"18": {
+"goc": "Giá ta, giai thị chuyển thế dị tượng.",
+"dich": "Những thứ này đều là dị tượng chuyển thế."
+},
+"19": {
+"goc": "Hạnh hảo chuyển thế đích địa phương, vị vu Thiên Tôn di địa, phủ tắc dị tượng chỉ hội ba cập đáo canh viễn đích địa phương, vạn linh giác tỉnh, phổ độ chúng sinh.",
+"dich": "May mà nơi chuyển thế nằm trong di địa của Thiên Tôn, nếu không dị tượng sẽ lan tới những nơi xa hơn, vạn linh thức tỉnh, phổ độ chúng sinh."
+},
+"20": {
+"goc": "Trương Nhược Trần dữ A Lạc trạm tại trúc ốc ngoại, tịnh kiêm nhi lập.",
+"dich": "Trương Nhược Trần và A Lạc đứng bên ngoài nhà trúc, sóng vai mà đứng."
+},
+"21": {
+"goc": "\"Đa tạ.\" A Lạc đạo.",
+"dich": "\"Đa tạ.\" A Lạc nói."
+},
+"22": {
+"goc": "Trương Nhược Trần vô sở vị đích nhất tiếu: \"Tạ thập ma? Ngã bản tựu đáp ứng liễu cổ Phật, trợ tha chuyển thế. Như quả nhĩ chân yếu tạ, hài tử xuất sinh hậu, nhận ngã tố càn đa đi!\"",
+"dich": "Trương Nhược Trần cười như không có gì: \"Cảm ơn cái gì? Ta vốn đã hứa với cổ Phật sẽ giúp ngài chuyển thế. Nếu ngươi thật sự muốn cảm ơn, sau khi đứa trẻ ra đời, để nó nhận ta làm cha nuôi đi!\""
+},
+"23": {
+"goc": "\"Na nhĩ đắc hảo hảo hoạt trước, nhĩ tri đạo đích, thần thai dựng dục đích thời gian, vãng vãng thị phàm thai đích thập bội, thậm chí bách bội.\" A Lạc đạo.",
+"dich": "\"Vậy thì ngươi phải sống cho tốt, ngươi biết đấy, thời gian thai nghén thần thai thường gấp mười, thậm chí gấp trăm lần thai phàm.\" A Lạc nói."
+},
+"24": {
+"goc": "\"Đương nhiên.\"",
+"dich": "\"Đương nhiên.\""
+},
+"25": {
+"goc": "Tiệm tiệm đích, Trương Nhược Trần liễm khứ tiếu dung, túc nhiên đạo: \"Ký nhiên thối ẩn liễu, tựu bất yếu tái xuất thế. Giá thiên hạ, nhất thiên bỉ nhất thiên loạn, quy tắc dĩ kinh băng tháp, tu sĩ du như cát thảo nhất dạng nhất tử nhất đại phiến, liên thần linh đô thời thường vẫn lạc. Nhĩ tri đạo đích, Đào Hoa đích thân phận đặc thù, nhất đản bị Thiên Sát Tổ Chức phát hiện, hậu quả bất kham thiết tưởng.\"",
+"dich": "Dần dần, Trương Nhược Trần thu lại nụ cười, nghiêm nghị nói: \"Đã quy ẩn thì đừng xuất thế nữa. Thiên hạ này ngày càng loạn, quy tắc đã sụp đổ, tu sĩ chết từng đám như cắt cỏ, ngay cả thần linh cũng thường xuyên vẫn lạc. Ngươi biết đấy, thân phận của Đào Hoa đặc thù, một khi bị Thiên Sát Tổ Chức phát hiện, hậu quả không thể tưởng tượng.\""
+},
+"26": {
+"goc": "\"Đãi hội nhi nhĩ môn tựu ly khai, hoa nhất cá một hữu chiến loạn đích địa phương, một cá thù đô bất nhận thức nhĩ môn đích địa phương, hảo hảo đích hoạt trước.\"",
+"dich": "\"Lát nữa các ngươi rời đi, tìm một nơi không có chiến loạn, một nơi không ai quen biết các ngươi, sống thật tốt.\""
+},
+"27": {
+"goc": "A Lạc điểm liễu điểm đầu, đạo: \"Cân ngã môn nhất khởi tẩu ba! Nhĩ giá thế gian đích thị thị phi phi, dĩ kinh dữ nhĩ vô quan.\"",
+"dich": "A Lạc gật đầu, nói: \"Đi cùng chúng ta đi! Thị phi trên thế gian này đã không còn liên quan tới ngươi.\""
+},
+"28": {
+"goc": "Trương Nhược Trần trầm tư liễu hứa cửu, đạo: \"Tằng kinh, ngã dã nhận vi, tự nhiên thọ nguyên vô đa, cai tố đích, năng tố đích, đô dĩ kinh tố liễu, khỉ dĩ ẩn thế, tố cá nhàn nhân. Đản, khả tiếu đích thị, giá vô đa đích thọ nguyên, khước thủy chung một hữu khô kiệt.\"",
+"dich": "Trương Nhược Trần trầm tư rất lâu, nói: \"Đã từng, ta cũng cho rằng thọ nguyên của mình không còn nhiều, những gì nên làm, có thể làm đều đã làm, có thể ẩn thế làm một người nhàn rỗi. Nhưng nực cười là, thọ nguyên không còn nhiều ấy lại mãi không cạn kiệt.\""
+},
+"29": {
+"goc": "\"Lai đáo Tinh Hoàn Thiên, canh ngã ý thức đáo, ngã căn bản vô pháp tượng nhĩ môn na dạng khả dĩ hào vô khiên phàn đích ẩn thế.\"",
+"dich": "\"Tới Tinh Hoàn Thiên, ta càng ý thức được, ta căn bản không thể ẩn thế không chút vướng bận như các ngươi.\""
+},
+"30": {
+"goc": "Tự hồ thị giác đắc, khí phân thái quá trầm úc, Trương Nhược Trần triển nhan nhất tiếu: \"Tương nhĩ môn ẩn cư địa phương cáo tố ngã, đẳng ngã tương thủ thượng đích sự biện hoàn, thuyết bất định, chân đích khả dĩ khiêu xuất giá hồng trang nê chiểu, dữ nhĩ môn tương lăng nhi cư.\"",
+"dich": "Dường như cảm thấy bầu không khí quá nặng nề, Trương Nhược Trần cười tươi: \"Nói cho ta biết nơi các ngươi ẩn cư, đợi ta làm xong việc trong tay, nói không chừng thật sự có thể nhảy ra khỏi vũng bùn hồng trần này, làm hàng xóm với các ngươi.\""
+},
+"31": {
+"goc": "Thiên không, trục tiệm ám liễu hạ lai.",
+"dich": "Bầu trời dần tối lại."
+},
+"32": {
+"goc": "Cổ lão mật lâm trung, xuy khởi âm hàn đích phong.",
+"dich": "Trong khu rừng rậm cổ xưa thổi lên những cơn gió âm hàn."
+},
+"33": {
+"goc": "\"Quát quả!\"",
+"dich": "\"Quạ quạ!\""
+},
+"34": {
+"goc": "Vạn thiên cầm điểu, tùng sùng sơn tuấn lĩnh trung phi xuất, như mật mật ma ma đích hắc điểm, đào mệnh nhất dạng tùng Trương Nhược Trần dữ A Lạc đích đầu đỉnh phi quá, hướng cổ lâm thâm xứ phi khứ.",
+"dich": "Vạn ngàn chim chóc bay ra từ núi non trùng điệp, như những chấm đen dày đặc, chạy trốn bay qua đỉnh đầu Trương Nhược Trần và A Lạc, bay về sâu trong rừng cổ."
+},
+"35": {
+"goc": "Lâm trung, địa động sơn dao.",
+"dich": "Trong rừng, đất rung núi chuyển."
+},
+"36": {
+"goc": "Nhất chỉ chỉ thể khu bàng đại đích dị thú, tùng sào huyệt trung xung xuất, hội tụ thành thú triều, vãng trước cầm điểu đào mệnh đích phương hướng bôn hành.",
+"dich": "Từng con dị thú thân hình khổng lồ xông ra khỏi hang ổ, hội tụ thành thú triều, chạy về hướng chim chóc đang chạy trốn."
+},
+"37": {
+"goc": "\"Oanh!\"",
+"dich": "\"Oanh!\""
+},
+"38": {
+"goc": "\"Oanh!\"",
+"dich": "\"Oanh!\""
+},
+"40": {
+"goc": "Trầm hỗn đích thanh âm, tùng dao viễn xứ truyền lai.",
+"dich": "Âm thanh trầm đục truyền tới từ nơi xa xôi."
+},
+"41": {
+"goc": "Đại địa chiến lật.",
+"dich": "Đại địa run rẩy."
+},
+"42": {
+"goc": "Giá phiến thượng cổ di tồn hạ lai đích nguyên thủy cổ lâm trung, phù hiện xuất cường hoành chí cực đích thần văn. Mỗi nhất đạo thần văn, đô như nhất điều thiểm điện hoành không, thích phóng xuất lai đích năng lượng, phảng phất năng cú kích xuyên tinh thần, phá khai thời không.",
+"dich": "Trong khu rừng nguyên thủy còn sót lại từ thượng cổ này hiện ra những thần văn cường hoành tới cực điểm. Mỗi đạo thần văn đều như một tia chớp vắt ngang trời, năng lượng phóng thích ra như có thể đánh xuyên tinh thần, phá vỡ thời không."
+},
+"43": {
+"goc": "A Lạc nhãn thần nhất ngưng, đạo: \"Hữu cường giả, sấm nhập liễu tiến lai.\"",
+"dich": "Ánh mắt A Lạc ngưng lại, nói: \"Có cường giả xông vào.\""
+},
+"44": {
+"goc": "Trương Nhược Trần bế thượng song mục, thích phóng xuất tinh thần lực, phảng phất hữu nhất song nhãn tình tùng thể nội phi xuất. Giá song vị vu thể ngoại đích nhãn tình, thị dã khoa việt nhất tọa tọa sơn lĩnh, xuyên quá mật lâm hà lưu, đạt đáo thiên lý ngoại.",
+"dich": "Trương Nhược Trần nhắm hai mắt, phóng thích tinh thần lực, như có một đôi mắt bay ra từ trong cơ thể. Đôi mắt bên ngoài cơ thể này, tầm nhìn vượt qua từng dãy núi, xuyên qua rừng rậm sông ngòi, tới ngoài ngàn dặm."
+},
+"45": {
+"goc": "Nhất bức họa diện, tại Trương Nhược Trần lão hải trung trình hiện xuất lai.",
+"dich": "Một bức hình ảnh hiện ra trong đầu Trương Nhược Trần."
+},
+"46": {
+"goc": "Tam điều trường đạt vạn mễ đích bạch mãng, tại lâm trung, dữ sổ chi bất tẫn đích hung tính thực vật đấu liễu khởi lai. Thử môn lân phiến thượng thần quang dịch dịch, đầu trường kim sắc nhục hoàng quan, chủy lý thổ xuất đích lôi điện, tương hung tính thực vật luyện hóa thành nhất phiến phiến kiếp hôi.",
+"dich": "Ba con bạch mãng dài vạn mét đang chiến đấu với vô số thực vật hung tính trong rừng. Vảy của chúng thần quang lấp lánh, trên đầu mọc mào thịt màu vàng, lôi điện phun ra từ miệng luyện thực vật hung tính thành từng mảng tro kiếp."
+},
+"47": {
+"goc": "Tại tam điều bạch mãng đích hậu phương, hữu nhất đoàn hắc sắc đích ma vân.",
+"dich": "Phía sau ba con bạch mãng có một đoàn ma vân màu đen."
+},
+"48": {
+"goc": "Ma vân trung, đình hữu nhất đính kiếu tử.",
+"dich": "Trong ma vân đậu một cỗ kiệu."
+},
+"49": {
+"goc": "Ẩn ẩn gian khả dĩ khán kiến nhất đạo nhân hình thân ảnh, tùng kiếu tử trung tẩu xuất, tự ẩn tự huyễn, quỹ dị mạc trắc.",
+"dich": "Mơ hồ có thể thấy một bóng người bước ra từ trong kiệu, lúc ẩn lúc hiện, quỷ dị khó lường."
+},
+"50": {
+"goc": "Tha đích thanh âm thương lão, đạo: \"Bất quý thị Thiên Tôn tằng kinh đãi quá đích địa phương, quả nhiên không gian quỹ dị, sung mãn hung hiểm. Nhĩ môn tam cá toàn lực dĩ phó xuất thủ, tương giá ta hung tính thực vật thanh lý, di, thập ma nhân tại khuy thị?\"",
+"dich": "Giọng nói của hắn già nua: \"Không hổ là nơi Thiên Tôn từng ở, không gian quả nhiên quỷ dị, tràn đầy hung hiểm. Ba ngươi dốc toàn lực ra tay, dọn sạch những thực vật hung tính này, ồ, ai đang nhìn trộm?\""
+},
+"51": {
+"goc": "Ma vân trung, nhất song nhãn tình hiển hiện xuất lai, uyển như lưỡng tọa hắc sắc thâm đàm, dữ Trương Nhược Trần đối thị.",
+"dich": "Trong ma vân hiện ra một đôi mắt, như hai đầm sâu màu đen, đối mắt với Trương Nhược Trần."
+},
+"52": {
+"goc": "Nhất song ma nhãn trung, bạo phát xuất bài sơn đảo hải nhất dạng đích lực lượng.",
+"dich": "Từ đôi ma nhãn bộc phát ra lực lượng như dời núi lấp biển."
+},
+"53": {
+"goc": "Trương Nhược Trần đích tinh thần lực, như triều thủy nhất dạng thối liễu hồi lai, trùng phản thể nội, đạo: \"Hải lịch hại đích cảm tri, cư nhiên phát hiện liễu ngã tại cách không khuy thị, khán lai thị nhất tôn cường đại đích thần linh.\"",
+"dich": "Tinh thần lực của Trương Nhược Trần như thủy triều rút về, quay lại trong cơ thể, nói: \"Cảm nhận thật lợi hại, vậy mà phát hiện ta đang cách không nhìn trộm, xem ra là một tôn thần linh cường đại.\""
+},
+"54": {
+"goc": "\"Đáo để phát sinh liễu thập ma sự?\" A Lạc vấn đạo.",
+"dich": "\"Rốt cuộc đã xảy ra chuyện gì?\" A Lạc hỏi."
+},
+"55": {
+"goc": "Chuyển thế kỳ gian, tha bất hi vọng phát sinh bất hà ngoài ý muốn.",
+"dich": "Trong thời gian chuyển thế, hắn không hy vọng xảy ra bất kỳ bất trắc nào."
+},
+"56": {
+"goc": "Trương Nhược Trần đạo: \"Tam điều bạch mãng dữ nhất vị ma khí thao thiên đích thần linh, sấm nhập liễu tiến lai.\"",
+"dich": "Trương Nhược Trần nói: \"Ba con bạch mãng và một vị thần linh ma khí ngập trời đã xông vào.\""
+},
+"57": {
+"goc": "Trúc ốc trung, hưởng khởi Đào Hoa khẩn trương đích thanh âm: \"Ma vân bạch mãng, thị sư tôn, nhất định thị tha, nhất định thị tha, ưng cai thị tại đệ nhất thần nữ thành trung, cảm ứng đáo liễu ngã đích khí tức, nhất lộ truy lai liễu giá lý. Lạc ca! Ngã môn cản khẩn tẩu ba!\"",
+"dich": "Trong nhà trúc vang lên giọng nói căng thẳng của Đào Hoa: \"Ma vân bạch mãng, là sư tôn, nhất định là ông ta, nhất định là ông ta, hẳn là đã cảm ứng được khí tức của ta ở Đệ Nhất Thần Nữ Thành, một đường đuổi tới đây. Lạc ca! Chúng ta mau đi thôi!\""
+},
+"58": {
+"goc": "Hào xưng thiên hạ đệ nhất sát thủ đích Đào Hoa, thử khắc khước vô bỉ khủng cụ.",
+"dich": "Đào Hoa được xưng là đệ nhất sát thủ thiên hạ, lúc này lại vô cùng sợ hãi."
+},
+"59": {
+"goc": "Tại một hữu hoài dựng chi tiền, tha khả dĩ bất cụ bất hà tu sĩ, tịch tiện thị thần, đô cảm khứ thích sát. Đản, đối sư tôn sát thần ma đồng, khước thị phát tự nội tâm đích cụ phạ.",
+"dich": "Trước khi mang thai, nàng có thể không sợ bất kỳ tu sĩ nào, ngay cả thần cũng dám đi ám sát. Nhưng đối với sư tôn sát thần Ma Đồng, nàng lại sợ hãi từ tận đáy lòng."
+},
+"60": {
+"goc": "A Lạc đạo: \"Bất dụng đam tâm, hữu ngã tại.\"",
+"dich": "A Lạc nói: \"Đừng lo, có ta ở đây.\""
+},
+"61": {
+"goc": "Đào Hoa cấp thiết vạn phân, đạo: \"Nhĩ chỉ thị hạ vị thần đích cảnh giới, bất khả năng thị sư tôn đích đối thủ.\"",
+"dich": "Đào Hoa nóng ruột vô cùng, nói: \"Chàng chỉ có cảnh giới Hạ Vị Thần, không thể là đối thủ của sư tôn.\""
+},
+"62": {
+"goc": "Trương Nhược Trần hiển đắc bả vi bình tĩnh, đạo: \"Giá lý thị Thiên Tôn di địa, tịch tiện tha tu vi tái cường, dã vô pháp tại đoản thời gian nội, hoành xung trực chàng cản đáo thử xử. Dĩ hữu Thiên Tôn thần văn phục tô, nhất đản triêm thượng, tịch tiện tha tu vi tái cường, dã đắc tử.\"",
+"dich": "Trương Nhược Trần tỏ ra khá bình tĩnh, nói: \"Đây là di địa của Thiên Tôn, cho dù tu vi hắn mạnh tới đâu cũng không thể trong thời gian ngắn xông thẳng tới đây. Thần văn của Thiên Tôn đã phục sinh, một khi dính vào, dù tu vi hắn mạnh tới đâu cũng phải chết.\""
+},
+"63": {
+"goc": "\"A Lạc, nhĩ đái Đào Hoa tiên tẩu.\"",
+"dich": "\"A Lạc, ngươi đưa Đào Hoa đi trước.\""
+},
+"64": {
+"goc": "A Lạc quả đoạn diêu đầu, đạo: \"Bất hành! Yếu chiến nhất khởi chiến, yếu tẩu nhất khởi tẩu. Cương hảo ma đồng tái cường, hợp nhị nhân chi lực, y cựu thị hữu cơ hội đích.\"",
+"dich": "A Lạc dứt khoát lắc đầu, nói: \"Không được! Muốn chiến thì cùng chiến, muốn đi thì cùng đi. Dù Ma Đồng có mạnh tới đâu, hợp sức hai người chúng ta vẫn có cơ hội.\""
+},
+"65": {
+"goc": "\"Nhĩ thủ thượng, dĩ vô kiếm.\" Trương Nhược Trần đạo.",
+"dich": "\"Trong tay ngươi đã không còn kiếm.\" Trương Nhược Trần nói."
+},
+"66": {
+"goc": "Thính đắc thử cú, A Lạc tình bất tự câm đích, than khai không đãng đãng đích song thủ.",
+"dich": "Nghe câu này, A Lạc không tự chủ được xòe đôi bàn tay trống rỗng ra."
+},
+"67": {
+"goc": "Trương Nhược Trần phách liễu phách tha kiên bả, đạo: \"Thủ thượng vô kiếm, tựu bất yếu tái tưởng trước chiến đấu dữ sát nhân, hảo hảo tố nhất cá phụ thân. Nhĩ dữ Đào Hoa đô kiết nhiên thân ảnh, khả dĩ ẩn thối, nhi ngã... Nhi ngã Trương Nhược Trần giá nhất sinh dĩ kinh chú định, yếu dữ sát mù, cừu hận, ma phiền, giá ta bất hảo đích sự nữu triêm tại nhất khởi.\"",
+"dich": "Trương Nhược Trần vỗ vai hắn, nói: \"Trong tay không còn kiếm thì đừng nghĩ tới chiến đấu và giết người nữa, làm một người cha thật tốt. Ngươi và Đào Hoa đều đơn độc một mình, có thể quy ẩn, còn ta... Trương Nhược Trần ta cả đời này đã định sẵn phải dính líu tới sát phạt, cừu hận, phiền phức, những chuyện không hay ấy.\""
+},
+"68": {
+"goc": "\"Khả thị.\"",
+"dich": "\"Nhưng mà.\""
+},
+"69": {
+"goc": "A Lạc hồi đầu khán liễu nhất nhãn trúc ốc, nhãn trung lộ xuất khổ sở dữ tránh trát đích sắc thái, đạo: \"Hảo ba, ngã tự khuyết liễu nhĩ nhất thứ.\"",
+"dich": "A Lạc quay đầu nhìn căn nhà trúc, trong mắt lộ ra vẻ khổ sở và giằng xé, nói: \"Được, ta lại nợ ngươi một lần.\""
+},
+"70": {
+"goc": "\"Nhĩ nhược giác đắc, chân đích khuyết liễu ngã thái đa, tu bang ngã hảo hảo chiếu cố ngã đích càn nhi tử.\" Tịch thoát nhất tiếu.",
+"dich": "\"Nếu ngươi cảm thấy thật sự nợ ta quá nhiều, vậy hãy giúp ta chăm sóc thật tốt con nuôi của ta.\" Hắn cười phóng khoáng."
+},
+"72": {
+"goc": "Hậu hậu đích ma vân, uyển như hắc sắc đích triều thủy tại lâm trung dũng động, sở quá chi xứ thảo mộc khô nuy.",
+"dich": "Ma vân dày đặc như thủy triều đen cuộn trào trong rừng, nơi nó đi qua cỏ cây khô héo."
+},
+"73": {
+"goc": "Đương ma vân mạn diên đáo trúc ốc ngoại đích thời gian, bị nhất tầng thủ hộ trận pháp đáng trụ.",
+"dich": "Khi ma vân lan tới bên ngoài nhà trúc thì bị một tầng thủ hộ trận pháp chặn lại."
+},
+"74": {
+"goc": "Tam điều ngụy thần cấp biệt đích bạch mãng, tại ma vân trung, thám khởi dữ trúc ốc nhất dạng cự đại đích đầu lâu. Tam song nhãn tình, uyển như lục khỏa tinh thần, tại hắc ám trung khuy thị, tán phát lệnh nhân tâm khịch đích thần uy.",
+"dich": "Ba con bạch mãng cấp ngụy thần trong ma vân ngóc lên những cái đầu to như căn nhà trúc. Ba đôi mắt như sáu ngôi sao nhìn trộm trong bóng tối, tỏa ra thần uy khiến lòng người run sợ."
+},
+"75": {
+"goc": "Không khí trung, phiêu trước tinh vị.",
+"dich": "Trong không khí phảng phất mùi tanh."
+},
+"76": {
+"goc": "Nhất đạo thương lão đích thanh âm, tùng ma vân trung truyền xuất: \"Đào Hoa, vi sư dĩ đáo, nhĩ hoàn bất xuất khứ nghênh tiếp?\"",
+"dich": "Một giọng nói già nua truyền ra từ ma vân: \"Đào Hoa, vi sư đã tới, ngươi còn không ra nghênh đón?\""
+},
+"77": {
+"goc": "Trúc ốc trung, một hữu động tĩnh.",
+"dich": "Trong nhà trúc không có động tĩnh."
+},
+"78": {
+"goc": "Chiên nhất đầu lão hoàng ngưu, thải khởi nhất trương mang nhiên đích kiểm, vọng trước thượng chúng tam khỏa tranh ninh cự đại đích mãng đầu, một hữu bị hách trụ, dạng tử hận hàm.",
+"dich": "Chỉ có con trâu vàng già ngẩng khuôn mặt mờ mịt, nhìn ba cái đầu trăn dữ tợn khổng lồ phía trên, không bị dọa sợ, dáng vẻ rất ngây ngô."
+},
+"79": {
+"goc": "Thương lão đích thanh âm, tái thứ hưởng khởi: \"Nhĩ đào liễu thiên niên, vi sư hoa liễu nhĩ thiên niên, cân ngã hồi khứ ba, phạm liễu thác, thị nhất định yếu thọ trừng phạt đích. Nhất nhật vi sát thủ, chung thân thị sát thủ. Nhĩ đào bất điệu đích!\"",
+"dich": "Giọng nói già nua lại vang lên: \"Ngươi chạy ngàn năm, vi sư tìm ngươi ngàn năm, về với ta đi, phạm sai lầm thì nhất định phải chịu trừng phạt. Một ngày là sát thủ, cả đời là sát thủ. Ngươi không chạy thoát được đâu!\""
+},
+"80": {
+"goc": "Trúc ốc đích môn, bị Trương Nhược Trần đả khai.",
+"dich": "Cửa nhà trúc được Trương Nhược Trần mở ra."
+},
+"81": {
+"goc": "\"Nhĩ thị thập ma nhân, lai lão phu đích địa phương thượng càn ma?\"",
+"dich": "\"Ngươi là ai, tới địa bàn của lão phu làm gì?\""
+},
+"82": {
+"goc": "Trương Nhược Trần dĩ thị biến hồi thương lão đích dạng tử.",
+"dich": "Trương Nhược Trần đã biến lại thành dáng vẻ già nua."
+},
+"83": {
+"goc": "Sử dụng tinh thần lực cải biến dung mạo, kỳ thật căn bản man bất quá tu vi cường đại đích thần linh, dữ kỳ na dạng, bị tiếu thoại, bất như tựu tố bản lai đích tự kỷ.",
+"dich": "Dùng tinh thần lực thay đổi dung mạo thật ra căn bản không giấu được thần linh tu vi cường đại, thay vì vậy mà bị chê cười, chi bằng cứ làm chính mình như vốn có."
+},
+"84": {
+"goc": "Ma đồng tùng kiếu tử trung tẩu xuất, thân chu ma văn hoàn nhiễu, cước hạ đích phương thốn chi địa, hóa vi nhất tọa vô biên vô tế đích Ma Giới.",
+"dich": "Ma Đồng bước ra từ trong kiệu, quanh thân ma văn vây quanh, khoảnh đất nhỏ dưới chân hóa thành một Ma Giới vô biên vô tận."
+},
+"85": {
+"goc": "Ma Giới trung, hữu hoành vĩ hắc sơn, vạn lý tử hải, thương mang xích thổ.",
+"dich": "Trong Ma Giới có núi đen hùng vĩ, biển chết vạn dặm, đất đỏ mênh mông."
+},
+"86": {
+"goc": "Tha bối kháo nhất tọa thế giới, dữ đối diện đích Trương Nhược Trần đối thị, nhãn trung đái hữu kỷ phân trá dị: \"Nhĩ thị thù?\"",
+"dich": "Hắn tựa lưng vào một thế giới, đối mặt với Trương Nhược Trần phía đối diện, trong mắt mang theo mấy phần kinh ngạc: \"Ngươi là ai?\""
+},
+"87": {
+"goc": "\"Lão phu nãi thị giá phiến cổ lâm đích thủ hộ giả, nhĩ hựu thị thù, cảm thiện sấm thử địa, khả tri nãi thị tử tội?\" Trương Nhược Trần đạo.",
+"dich": "\"Lão phu là người thủ hộ khu rừng cổ này, ngươi lại là ai, dám tự tiện xông vào nơi này, có biết là tội chết không?\" Trương Nhược Trần nói."
+},
+"88": {
+"goc": "Ma đồng lãnh thanh nhất tiếu: \"Tương Đào Hoa giao xuất lai ba!\"",
+"dich": "Ma Đồng cười lạnh một tiếng: \"Giao Đào Hoa ra đây!\""
+},
+"89": {
+"goc": "\"Nhĩ tưởng yếu Đào Hoa?\"",
+"dich": "\"Ngươi muốn Đào Hoa?\""
+},
+"90": {
+"goc": "\"Bản tọa dĩ tại thử xử, cảm ứng đáo liễu tha đích khí tức. Tương tha giao xuất lai, bản tọa lập tức ly khai, bất tái đả nhiễu nhĩ thanh tu.\"",
+"dich": "\"Bản tọa đã cảm ứng được khí tức của nàng ở đây. Giao nàng ra, bản tọa lập tức rời đi, không quấy rầy ngươi thanh tu nữa.\""
+},
+"91": {
+"goc": "\"Hảo ba, ký nhiên nhĩ tưởng yếu, cấp nhĩ bế thị.\"",
+"dich": "\"Được thôi, ngươi đã muốn thì cho ngươi.\""
+},
+"92": {
+"goc": "Trương Nhược Trần miễn vi kỳ nan đích, thích phóng xuất tinh thần lực, dũng nhập nê thổ.",
+"dich": "Trương Nhược Trần miễn cưỡng phóng thích tinh thần lực, rót vào trong đất."
+},
+"93": {
+"goc": "\"Sích sích!\"",
+"dich": "\"Xào xạc!\""
+},
+"94": {
+"goc": "Nê thổ liệt khai, trưởng xuất nộn lục chi diệp, nhất khỏa đào thụ bằng không sinh trưởng xuất lai, bách thả tấn tốc trừu chi khai diệp, trưởng xuất phân phồn quế lệ đích phấn hồng sắc đào hoa.",
+"dich": "Đất nứt ra, mọc lên cành lá non xanh, một cây đào bằng không mọc lên, hơn nữa nhanh chóng đâm chồi nảy lộc, nở ra hoa đào màu hồng phấn sum suê diễm lệ."
+},
+"95": {
+"goc": "Hoa hương, mãn sơn dã.",
+"dich": "Hương hoa ngập khắp núi đồi."
+},
+"96": {
+"goc": "Ma đồng chinh trụ liễu nhất thuấn gian, tùy tức đại nộ, đạo: \"Nhĩ cảm hí hỏa bản tọa?\"",
+"dich": "Ma Đồng sững người trong nháy mắt, ngay sau đó giận dữ nói: \"Ngươi dám đùa giỡn bản tọa?\""
+},
+"97": {
+"goc": "\"Nhĩ yếu đích đào hoa, nã khứ ba!\"",
+"dich": "\"Hoa đào ngươi muốn, cầm đi đi!\""
+},
+"98": {
+"goc": "Trương Nhược Trần y tụ nhất huy.",
+"dich": "Trương Nhược Trần vung ống tay áo."
+},
+"99": {
+"goc": "Đào thụ thượng đích đào hoa hoa biện, hóa vi yên hồng đích hoa vũ, trực hướng ma đồng phi liễu quá cư.",
+"dich": "Cánh hoa đào trên cây hóa thành một trận mưa hoa đỏ hồng, bay thẳng về phía Ma Đồng."
+},
+"100": {
+"goc": "Hoa biện tinh oánh dịch thấu, nhuệ lợi tự đao, uẩn hàm cường đại tinh thần lực ba động.",
+"dich": "Cánh hoa trong suốt óng ánh, sắc bén như đao, ẩn chứa dao động tinh thần lực cường đại."
+},
+"101": {
+"goc": "\"Bành!\"",
+"dich": "\"Bùm!\""
+},
+"102": {
+"goc": "Ma đồng song chưởng hướng trước phách xuất, thể nội ma khí như đồng phật thiên thủy lãng, dữ mật mật ma ma đích đào hoa trùng kích tại nhất khởi. Đào Hoa hoa biện cửu thành dĩ thượng, đô thị hóa vi hôi tẫn.",
+"dich": "Ma Đồng đánh hai chưởng về phía trước, ma khí trong cơ thể như sóng nước sôi trào, va chạm với những cánh hoa đào dày đặc. Hơn chín phần cánh hoa đào đều hóa thành tro bụi."
+},
+"103": {
+"goc": "Chiên vi sổ bất đa đích nhất ta, trùng kích tại tam điều bạch mãng thân thượng, đả đắc chúng đích lân phiến phá toái, tiên huyết lâm lẫm.",
+"dich": "Chỉ có một số ít đánh trúng ba con bạch mãng, đánh vỡ vảy của chúng, máu tươi đầm đìa."
+},
+"104": {
+"goc": "Ma đồng ám ám cật kinh, một tưởng đáo, giá cái lão đầu tử tinh thần lực như thử khả phái, tiên tiền đảo thị khinh thị liễu tha.",
+"dich": "Ma Đồng thầm kinh hãi, không ngờ lão già này tinh thần lực đáng sợ như vậy, trước đó đã xem thường hắn."
+},
+"105": {
+"goc": "\"Tinh Hoàn Thiên, bất quý thị Tinh Hoàn Thiên, một tưởng đáo giá dạng đồ năng ngộ đáo nhất vị cường đại đích tinh thần lực thần linh, hạnh hảo bản tọa tảo hữu chuẩn bị, yết thỉnh liễu nhất vị bằng hữu quá lai. Lão gia hỏa, tối hảo lập tức giao xuất Đào Hoa, phủ tắc kim nhật tựu thị nhĩ đích tử kỳ.\"",
+"dich": "\"Tinh Hoàn Thiên, không hổ là Tinh Hoàn Thiên, không ngờ lại gặp được một vị thần linh tinh thần lực cường đại như vậy, may mà bản tọa đã sớm chuẩn bị, mời một vị bằng hữu tới. Lão già, tốt nhất lập tức giao Đào Hoa ra, nếu không hôm nay chính là ngày chết của ngươi.\""
+},
+"106": {
+"goc": "Ma đồng thuyết xuất giá hoa đích thời gian.",
+"dich": "Ma Đồng nói ra những lời này."
+},
+"107": {
+"goc": "Ma vân trung, tẩu xuất nhất đạo đề đao đích thân ảnh, thân hình bút trực, khí thế hỗn trầm, đạo: \"Lão tiên sinh, ngã môn hựu kiến diện liễu!\"",
+"dich": "Từ trong ma vân bước ra một bóng người cầm đao, thân hình thẳng tắp, khí thế hùng hậu, nói: \"Lão tiên sinh, chúng ta lại gặp mặt rồi!\""
+},
+"108": {
+"goc": "\"Thị nhĩ.\"",
+"dich": "\"Là ngươi.\""
+},
+"109": {
+"goc": "Trương Nhược Trần tảo dĩ cảm ứng đáo liễu tha, không hữu thái quá ngoại ý muốn.",
+"dich": "Trương Nhược Trần đã sớm cảm ứng được hắn, không quá bất ngờ."
+}
+}
+}
