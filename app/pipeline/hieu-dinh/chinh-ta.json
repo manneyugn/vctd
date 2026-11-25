@@ -47,6 +47,9 @@
     "(?<=mươi) mươi(?= )": "",
     "(?<![^\\W\\d_])([Cc])h\\.ết": "\\1hết",
     "(?<![A-Za-zÀ-ỹ])(?<!Cố )Lâm\\s+Phong(?![A-Za-zÀ-ỹ])": "Trương Nhược Trần",
-    "Tu Chân thần thần": "Tu Thần Thiên Thần"
+    "Tu Chân thần thần": "Tu Thần Thiên Thần",
+    "(?<![A-Za-zÀ-ỹ])Thương (?:Gi tuyệt|C tuyệt|Tuyệt|Giệt|Gi)(?![A-Za-zÀ-ỹ])": "Thương Giữ",
+    "(?<![A-Za-zÀ-ỹ])Baal(?![A-Za-zÀ-ỹ])": "Ba Nhĩ",
+    "(?<![A-Za-zÀ-ỹ])(?<!Phủ, )Thiên Mẫu(?![A-Za-zÀ-ỹ])(?!\\s+[Gg]iới)": "Thiên Mụ"
   }
 }
