@@ -20,7 +20,8 @@
     "2026-11-25: dò cụm lạ theo từ chung (pipeline/ten_khop_tu.py): La Bàn (罗='lưới'), Thấp Bà (湿='ướt'), Danh Kiếm Thần, Bản Nguyên Thần Điện, Mạc Ưu Cốc (莫憂谷, sửa lại từ Mộ Ưu Cốc)...",
     "2026-11-25: tên bị đổi 1 âm tiết bất kỳ (kể cả đổi họ: Hách Hạo -> Cái Hạo) - pipeline/ten_doi_ho.py, duyệt 1.465 ứng viên, áp theo chương.",
     "2026-11-25: mọi biến thể của 韩湫 -> Hàn Thu (Thuế, Thuê, Cưu, Thiếu Trủng, Thiếu Hâm, Thấp Trũng Hồ Nước).",
-    "2026-11-25 rà soát đợt ten doi ho: bỏ 'Vô Tự Kiếm Sơn' c774 (tên gọi khác của Vô Tự Kiếm Phổ, có trong văn bản), bỏ 'Nhưng Tu La' c3757 (liên từ 'Nhưng' + Tu La tộc), c2429 Hạ Vô Thần là Hạ Du (nữ, Hạ tộc) không phải Diêm Vô Thần."
+    "2026-11-25 rà soát đợt ten doi ho: bỏ 'Vô Tự Kiếm Sơn' c774 (tên gọi khác của Vô Tự Kiếm Phổ, có trong văn bản), bỏ 'Nhưng Tu La' c3757 (liên từ 'Nhưng' + Tu La tộc), c2429 Hạ Vô Thần là Hạ Du (nữ, Hạ tộc) không phải Diêm Vô Thần.",
+    "2026-11-25 đợt 2: bỏ Thiên Tịch/Thiên Võng Thần Quốc -> Thiên La (c3481/3483): Thiên Tịch là nữ thần quân, Thiên Võng là Thiên Võng Đại Đế, đều là tên thật. Vạn Triệu Tỷ là dịch nghĩa của 億 -> Vạn Triệu Ức."
   ],
   "duyet": {
     "trương như trần": "trương nhược trần",
@@ -7487,22 +7488,6 @@
       "ghi_chu": "ten doi ho 2026-11-25"
     },
     {
-      "sai": "Thiên Võng Thần Quốc",
-      "dung": "Thiên La Thần Quốc",
-      "chuong": [
-        3481
-      ],
-      "ghi_chu": "ten doi ho 2026-11-25"
-    },
-    {
-      "sai": "Thiên Tịch Thần Quốc",
-      "dung": "Thiên La Thần Quốc",
-      "chuong": [
-        3483
-      ],
-      "ghi_chu": "ten doi ho 2026-11-25"
-    },
-    {
       "sai": "Thời Không Hỗn Nguyên Liên",
       "dung": "Thời Không Hỗn Độn Liên",
       "chuong": [
@@ -8351,6 +8336,585 @@
         742
       ],
       "ghi_chu": "ra soat ten doi ho 2026-11-25"
+    },
+    {
+      "sai": "Xích Sí A",
+      "dung": "Xích Sí Nha",
+      "chuong": [
+        1047
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Hiên Viên Đệ Thường",
+      "dung": "Hiên Viên Đệ Nhị",
+      "chuong": [
+        3723
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Thiên Tê Thiên Nữ",
+      "dung": "Thiên Tinh Thiên Nữ",
+      "chuong": [
+        1856
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Huyết Tắc Tam Thần",
+      "dung": "Huyết Tuyệt Tam Thần",
+      "chuong": [
+        2235
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Huyết Giác",
+      "dung": "Huyết Tuyệt",
+      "chuong": [
+        3667
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Huyết Ảnh Quỷ Loại",
+      "dung": "Huyết Ảnh Quỷ Chủng",
+      "chuong": [
+        3750
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Yến Lịch Nhân",
+      "dung": "Yến Ly Nhân",
+      "chuong": [
+        1398
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Vạn Triệu Ất",
+      "dung": "Vạn Triệu Ức",
+      "chuong": [
+        1529
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Vạn Triệu Tỷ",
+      "dung": "Vạn Triệu Ức",
+      "chuong": [
+        795,
+        861,
+        892,
+        900,
+        1013,
+        1059,
+        1064,
+        1280,
+        1351,
+        1388,
+        1496,
+        1749,
+        2841,
+        4160
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Kiếm Giao",
+      "dung": "Kiếm Các",
+      "chuong": [
+        3421
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Vạn Tôn Giả",
+      "dung": "Kiếp Tôn Giả",
+      "chuong": [
+        3768
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Đế Lôi",
+      "dung": "Đế Nhất",
+      "chuong": [
+        511
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Đế Lỗi",
+      "dung": "Đế Nhất",
+      "chuong": [
+        621
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Xích Thiên Kiều",
+      "dung": "Cái Thiên Kiều",
+      "chuong": [
+        4209
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Già Thiên Kiều",
+      "dung": "Cái Thiên Kiều",
+      "chuong": [
+        2160,
+        2194
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Địa Hữu Giới",
+      "dung": "Địa Ngục Giới",
+      "chuong": [
+        2982
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Địa Phụ Giới",
+      "dung": "Địa Ngục Giới",
+      "chuong": [
+        3141
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Lệnh Mật",
+      "dung": "Lệnh Mịch",
+      "chuong": [
+        1576
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Vô Huyễn Tiên Tử",
+      "dung": "Vô Ảnh Tiên Tử",
+      "chuong": [
+        1842
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Xích Sí Á",
+      "dung": "Xích Sí Nha",
+      "chuong": [
+        370,
+        371
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Diêm Lộng Tiên",
+      "dung": "Diêm Chiết Tiên",
+      "chuong": [
+        2362,
+        2395,
+        2436,
+        2441,
+        2510,
+        2977,
+        2980,
+        3383,
+        3776,
+        4142
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Nguồn Phi Đại Thánh",
+      "dung": "Nguyên Phi Đại Thánh",
+      "chuong": [
+        2263,
+        2303,
+        2306,
+        2315,
+        2316,
+        2386,
+        2406
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Huyết Dực Chiến Thần",
+      "dung": "Huyết Tuyệt Chiến Thần",
+      "chuong": [
+        2932
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Đế Cửu",
+      "dung": "Đế Trần",
+      "chuong": [
+        4173,
+        4177
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Đế Côn",
+      "dung": "Đế Trần",
+      "chuong": [
+        3873
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Linh Sơ Bán Thánh",
+      "dung": "Linh Xu Bán Thánh",
+      "chuong": [
+        573
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Giáp Thiên Thần Mộc",
+      "dung": "Tiếp Thiên Thần Mộc",
+      "chuong": [
+        1601
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Cửu Trở Sinh Tử Quyết",
+      "dung": "Cửu Chuyển Sinh Tử Quyết",
+      "chuong": [
+        1601
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Ô Đồng Thần Thụ",
+      "dung": "Ngô Đồng Thần Thụ",
+      "chuong": [
+        3974
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Trần Không Thiên",
+      "dung": "Trần Vô Thiên",
+      "chuong": [
+        1388,
+        1822
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Trương Côn Lôn",
+      "dung": "Trì Côn Lôn",
+      "chuong": [
+        2013,
+        4069
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Tu Thần Tần Thần",
+      "dung": "Tu Thần Thiên Thần",
+      "chuong": [
+        4136
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Tu Thần Tinh Thần",
+      "dung": "Tu Thần Thiên Thần",
+      "chuong": [
+        2976
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Thông Thiên Huyết Giảng",
+      "dung": "Thông Thiên Huyết Tướng",
+      "chuong": [
+        1308,
+        1314
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Hạng Thục Nam",
+      "dung": "Hạng Sở Nam",
+      "chuong": [
+        2509
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Thư Thiên Trì",
+      "dung": "Thư Thiên Si",
+      "chuong": [
+        2707
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Thư Thiên Ngốc",
+      "dung": "Thư Thiên Si",
+      "chuong": [
+        2681
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Tinh Huyên Thiên",
+      "dung": "Tinh Hoàn Thiên",
+      "chuong": [
+        2899,
+        2916,
+        3023,
+        3082,
+        3120,
+        3276,
+        3309,
+        3317,
+        3349,
+        3602
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Long Tượng Bàn Nhược Quyền",
+      "dung": "Long Tượng Bàn Nhược Chưởng",
+      "chuong": [
+        15,
+        17
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Sách Hình Thiên",
+      "dung": "Si Hình Thiên",
+      "chuong": [
+        4207
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Tham Anh",
+      "dung": "Lam Anh",
+      "chuong": [
+        2402
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Trảm Thiên Kiếm",
+      "dung": "Thao Thiên Kiếm",
+      "chuong": [
+        893
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Trụ Thiên Kiếm",
+      "dung": "Thao Thiên Kiếm",
+      "chuong": [
+        917
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Thiên Tế Thiên Nữ",
+      "dung": "Thiên Tinh Thiên Nữ",
+      "chuong": [
+        2872
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Tu Sơ Thánh Tăng",
+      "dung": "Tu Di Thánh Tăng",
+      "chuong": [
+        1377,
+        2233
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Cửu Hàng Tiên Tử",
+      "dung": "Từ Hàng Tiên Tử",
+      "chuong": [
+        3701
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Trương Phạn Nộ",
+      "dung": "Không Phạn Nộ",
+      "chuong": [
+        3725,
+        3767
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Ngự Phong Phi Long Bộ",
+      "dung": "Ngự Phong Phi Long Ảnh",
+      "chuong": [
+        119
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Thất Xảo Huyết Minh Chưởng",
+      "dung": "Thất Khiếu Huyết Minh Chưởng",
+      "chuong": [
+        1190,
+        1901
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Quỷ Cốc Thánh Giảng",
+      "dung": "Quỷ Cốc Thánh Tướng",
+      "chuong": [
+        1026
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Quỷ Cốc Thánh Giả",
+      "dung": "Quỷ Cốc Thánh Tướng",
+      "chuong": [
+        1026
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Long Sách Bàn Nhược Chưởng",
+      "dung": "Long Tượng Bàn Nhược Chưởng",
+      "chuong": [
+        947
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Cửu Bài Thạch Nhân",
+      "dung": "Cửu Thủ Thạch Nhân",
+      "chuong": [
+        3951
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Lỗ Lan Du",
+      "dung": "Khổng Lan Du",
+      "chuong": [
+        2019,
+        2021
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
+    },
+    {
+      "sai": "Nhật Cửu",
+      "dung": "Nhật Quỹ",
+      "chuong": [
+        1705,
+        1714,
+        1799,
+        1928,
+        1947,
+        2042,
+        2079,
+        2104,
+        2131,
+        2133,
+        2138,
+        2162,
+        2195,
+        2220,
+        2221,
+        2224,
+        2225,
+        2236,
+        2260,
+        2261,
+        2262,
+        2310,
+        2357,
+        2361,
+        2417,
+        2428,
+        2434,
+        2475,
+        2546,
+        2564,
+        2569,
+        2648,
+        2652,
+        2725,
+        2754,
+        2813,
+        2814,
+        2820,
+        2829,
+        2835,
+        2844,
+        2909,
+        2943,
+        2971,
+        2976,
+        2978,
+        2984,
+        2990,
+        2994,
+        3053,
+        3085,
+        3098,
+        3103,
+        3111,
+        3279,
+        3281,
+        3284,
+        3291,
+        3305,
+        3337,
+        3340,
+        3354,
+        3367,
+        3396,
+        3421,
+        3455,
+        3487,
+        3591,
+        3592,
+        3622,
+        3627,
+        3664,
+        3716,
+        3723,
+        3754,
+        3756,
+        3847,
+        3870,
+        3883,
+        3891,
+        3929,
+        3959,
+        3971,
+        3978,
+        3986,
+        3987,
+        4064,
+        4067,
+        4069,
+        4105,
+        4164,
+        4180
+      ],
+      "ghi_chu": "ra soat ten doi ho dot 2, 2026-11-25"
     }
   ]
 }
