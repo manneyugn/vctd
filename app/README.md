@@ -156,8 +156,9 @@ về nó như một nhân vật. Ngữ cảnh chỉ được quyết với các 
 
 Sửa `pipeline/name-overrides.json` cho tên riêng (xem bảng ở trên), `hieu-dinh/sua-tay.json`
 cho đoạn văn cụ thể, hoặc `web/data/entities.json.gz` rồi chạy lại `build_index.py` +
-`giu_phan_loai.py` cho phân loại. Sửa xong chạy lại `build_corpus.py` và copy
-`web/data/*` (trừ shard) sang `public/data/`.
+`giu_phan_loai.py` cho phân loại. Sửa xong chạy lại `build_corpus.py`, rồi
+`SEO_BASE_URL=https://vctd.vercel.app python3 pipeline/build_public.py` để sinh lại `public/`
+(đừng chép tay `web/data` sang: bản public cần `chapters.json` ở chế độ `tra-cuu`).
 
 ## Chat (tuỳ chọn)
 

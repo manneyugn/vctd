@@ -1,6 +1,5 @@
 output/
 app/web/data/*.bak
-app/public/
 .tmp/
 
 # Công cụ thu thập dữ liệu từ nguồn không chính thức
