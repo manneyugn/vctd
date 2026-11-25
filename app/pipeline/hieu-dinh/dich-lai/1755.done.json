@@ -1,0 +1,393 @@
+{
+"so_doan": 98,
+"doan": {
+"0": {
+"goc": "Hỏa thần quyền sáo đích lực lượng, hoàn toàn bạo phát đi ra.",
+"dich": "Lực lượng của Hỏa Thần Quyền Sáo hoàn toàn bộc phát ra."
+},
+"1": {
+"goc": "Quyền đạo quy tắc, như cùng là tơ nhện thông thường, tại trong ngọn lửa giao chức. Rõ ràng chỉ là một cái quyền đầu, lại đánh ra so cung điện còn muốn cự đại đích hỏa diễm vân đoàn.",
+"dich": "Quy tắc quyền đạo như tơ nhện đan xen trong ngọn lửa. Rõ ràng chỉ là một nắm đấm, lại đánh ra đám mây lửa còn lớn hơn cả cung điện."
+},
+"2": {
+"goc": "Đức phiến thiên không, pích lịch ba lạp đích bạo hưởng.",
+"dich": "Cả vùng trời vang lên những tiếng nổ lách tách."
+},
+"3": {
+"goc": "Cận cự ly chiến đấu, Công Tử Diễn đích phản ứng tốc độ, hiển nhiên là kém Trương Nhược Trần một đoạn lớn, cho dù ủng hữu Thất Bộ Thánh Vương đích cảnh giới, cũng không năng tị khai.",
+"dich": "Chiến đấu cự ly gần, tốc độ phản ứng của Công Tử Diễn hiển nhiên kém Trương Nhược Trần một đoạn lớn, cho dù có cảnh giới Thánh Vương thất bộ cũng không thể tránh được."
+},
+"4": {
+"goc": "Bất quá, quyền kình đáo đạt cự ly Công Tử Diễn đích tam trượng vị trí, trùng kích tốc độ biến hoãn, vi hắn tranh thủ đáo thi triển phòng ngự thủ đoạn đích thời gian.",
+"dich": "Có điều, khi quyền kình tới cách Công Tử Diễn ba trượng, tốc độ xung kích chậm lại, giúp hắn tranh thủ được thời gian thi triển thủ đoạn phòng ngự."
+},
+"5": {
+"goc": "Công Tử Diễn chống lên nhất diện viên hình thuẫn bài, dữ Trương Nhược Trần đả xuất đích quyền đầu đối bính.",
+"dich": "Công Tử Diễn dựng lên một tấm khiên hình tròn, đối đầu với nắm đấm Trương Nhược Trần đánh ra."
+},
+"6": {
+"goc": "\"Oanh long.\"",
+"dich": "\"Ầm ầm.\""
+},
+"7": {
+"goc": "Bạo tạc tính đích quyền kình lực lượng, chấn đắc Công Tử Diễn hồn thân nhất chiến, hướng hậu đảo phi thập sổ lý viễn, trụy lạc đáo địa thượng ném xuất nhất cái cự đại đích khanh tào.",
+"dich": "Lực lượng quyền kình bùng nổ chấn khiến toàn thân Công Tử Diễn run lên, bay ngược ra xa hơn mười dặm, rơi xuống đất tạo thành một cái hố lớn."
+},
+"8": {
+"goc": "Tha thủ trung đích thuẫn bài, tức thị nhất kiện đại thánh cổ khí, phòng ngự lực lượng tương đương cường đại, ký khả dĩ phản đạn lực lượng, dã khả dĩ tương lực lượng chuyển di đáo trắc diện.",
+"dich": "Tấm khiên trong tay hắn là một kiện đại thánh cổ khí, lực phòng ngự vô cùng cường đại, vừa có thể phản lại lực lượng, cũng có thể chuyển lực lượng sang hai bên."
+},
+"9": {
+"goc": "Giản thử nhi lai, Công Tử Diễn đích song chưởng, hoàn thị thống đằng dục liệt.",
+"dich": "Dù vậy, hai bàn tay Công Tử Diễn vẫn đau như muốn nứt ra."
+},
+"10": {
+"goc": "Hổ khẩu xứ, liệt xuất nhất đạo khẩu tử, lưu thính xuất tiên hồng đích thánh huyết.",
+"dich": "Ở hổ khẩu nứt ra một vết rách, chảy ra thánh huyết đỏ tươi."
+},
+"11": {
+"goc": "\"Khu khu nhất cái Tứ Bộ Thánh Vương nhi dĩ, lực lượng chẩm ma hội như thử cường đại?\" Công Tử Diễn hận đắc giảo nha thiết xỉ, giác đắc Trương Nhược Trần khẳng định thị ẩn tàng liễu chân thực tu vi, nhất trực đô tại giả trư cật lão hổ.",
+"dich": "\"Chỉ là một Thánh Vương tứ bộ mà thôi, lực lượng sao lại mạnh như vậy?\" Công Tử Diễn hận đến nghiến răng nghiến lợi, cảm thấy Trương Nhược Trần chắc chắn đã che giấu tu vi thật sự, vẫn luôn giả heo ăn thịt hổ."
+},
+"12": {
+"goc": "Tha khước bất tri, Trương Nhược Trần tại tu luyện quyền đạo hòa nhục thân thượng diện, hoa phí liễu đại lượng thời gian.",
+"dich": "Hắn lại không biết, Trương Nhược Trần đã tốn rất nhiều thời gian tu luyện quyền đạo và nhục thân."
+},
+"13": {
+"goc": "Công Tử Diễn dã chỉ thị tu vi cảnh giới cường ư Trương Nhược Trần, tại nhục thân hòa võ đạo phương diện, bất tri kém liễu Trương Nhược Trần đa thiểu bội.",
+"dich": "Công Tử Diễn cũng chỉ là cảnh giới tu vi mạnh hơn Trương Nhược Trần, về nhục thân và võ đạo không biết kém Trương Nhược Trần bao nhiêu lần."
+},
+"14": {
+"goc": "Trương Nhược Trần đích nhãn trung, lộ xuất nhất đạo thất vọng đích thần sắc, ám đạo: \"Khả tích liễu, Công Tử Diễn đích thân thượng, bội đái hữu thời không mã não. Thời không mã não đích tam trượng nội, thời gian lưu tốc hội giảm hoãn nhất bội, nhi thả hội hình thành nhất xử tiểu tiểu đích thác loạn không gian.\"",
+"dich": "Trong mắt Trương Nhược Trần lộ ra vẻ thất vọng, thầm nghĩ: \"Tiếc thật, trên người Công Tử Diễn đeo thời không mã não. Trong phạm vi ba trượng quanh thời không mã não, tốc độ trôi của thời gian sẽ chậm đi một lần, hơn nữa còn hình thành một vùng không gian thác loạn nho nhỏ.\""
+},
+"15": {
+"goc": "Nhược bất thị thời không mã não đích lực lượng, Trương Nhược Trần cương tài na nhất kích, thuyết bất định tựu năng trọng sang Công Tử Diễn.",
+"dich": "Nếu không phải nhờ lực lượng của thời không mã não, một kích vừa rồi của Trương Nhược Trần nói không chừng đã có thể trọng thương Công Tử Diễn."
+},
+"16": {
+"goc": "Công Tử Diễn thủ xuất bát khỏa không gian linh lung cầu, đả liễu xuất khứ, huyền phù tại bát cá phương vị, hoãn hoãn toàn chuyển, sử đắc phương viên sổ thập trượng đích không gian đô hóa vi nhất cái toàn oa, biến đắc hỗn loạn hòa động đãng.",
+"dich": "Công Tử Diễn lấy ra tám viên không gian linh lung cầu, ném ra ngoài, lơ lửng ở tám phương vị, chậm rãi xoay tròn, khiến không gian phương viên mấy chục trượng hóa thành một vòng xoáy, trở nên hỗn loạn và chấn động."
+},
+"17": {
+"goc": "Bất hà tu sĩ khố nhập bát khỏa không gian linh lung cầu cấu kiến thành đích toàn oa, đô hội tao đáo không gian lực lượng đích áp chế.",
+"dich": "Bất kỳ tu sĩ nào bị cuốn vào vòng xoáy do tám viên không gian linh lung cầu tạo thành đều sẽ bị lực lượng không gian áp chế."
+},
+"18": {
+"goc": "Sử dụng xuất giá chiêu để bài, Công Tử Diễn tâm trung đại định, dương thanh đạo: \"Trương Nhược Trần, nhĩ đích tu vi, đáo thử đạt đáo liễu thập ma cảnh giới?\"",
+"dich": "Dùng ra lá bài tẩy này, trong lòng Công Tử Diễn đại định, cất giọng nói: \"Trương Nhược Trần, tu vi của ngươi rốt cuộc đã đạt tới cảnh giới nào?\""
+},
+"19": {
+"goc": "\"Nhĩ bất phối tri đạo.\"",
+"dich": "\"Ngươi không xứng biết.\""
+},
+"20": {
+"goc": "Trương Nhược Trần thi triển xuất không gian đại na di, xuất hiện đáo Công Tử Diễn đích đối diện, chống khởi bát long tản, đả xuất bát điều kim sắc cự long, hướng tha công phạt quá khứ.",
+"dich": "Trương Nhược Trần thi triển không gian đại na di, xuất hiện đối diện Công Tử Diễn, giương Bát Long Tản, đánh ra tám con cự long màu vàng, công phạt về phía hắn."
+},
+"21": {
+"goc": "\"Ngao!\"",
+"dich": "\"Ngao!\""
+},
+"22": {
+"goc": "Kim sắc cự long tán phát xuất hồn hậu đích thánh kình, hữu bài sơn đảo hải đích uy năng.",
+"dich": "Cự long màu vàng tỏa ra thánh kình hùng hậu, có uy năng dời núi lấp biển."
+},
+"23": {
+"goc": "Khả thị, tiến nhập không gian toàn oa, bát điều kim sắc cự long khước vi nhiễu toàn oa toàn chuyển khởi lai, một hữu khứ công kích Công Tử Diễn.",
+"dich": "Thế nhưng, khi tiến vào vòng xoáy không gian, tám con cự long màu vàng lại xoay quanh vòng xoáy, không công kích Công Tử Diễn."
+},
+"24": {
+"goc": "Công Tử Diễn tiếu liễu nhất thanh: \"Hữu bát khỏa không gian linh lung cầu đích gia trì, nhĩ đích bất hà lực lượng, công kích quá khứ, đô hóa giải ư vô hình. Kỳ thực, chỉ hữu diện đối Cửu Bộ Thánh Vương, ngã tài hội sử dụng không gian linh lung cầu. Ngã dụng tha lai đối phó nhĩ, nhĩ ưng cai cảm đáo tự ngạo liễu!\"",
+"dich": "Công Tử Diễn cười một tiếng: \"Có tám viên không gian linh lung cầu gia trì, bất kỳ lực lượng nào của ngươi công kích tới đều bị hóa giải thành vô hình. Thật ra, chỉ khi đối mặt với Thánh Vương cửu bộ ta mới dùng không gian linh lung cầu. Ta dùng nó để đối phó ngươi, ngươi nên cảm thấy tự hào mới phải!\""
+},
+"25": {
+"goc": "Mạc địa, Công Tử Diễn thao khống cự đại đích không gian toàn oa, ly địa phi khởi, hướng Trương Nhược Trần trùng liễu quá khứ.",
+"dich": "Đột nhiên, Công Tử Diễn điều khiển vòng xoáy không gian khổng lồ bay khỏi mặt đất, lao về phía Trương Nhược Trần."
+},
+"26": {
+"goc": "Địa diện thượng đích thổ thạch dã bị quyền khởi, khoái tốc toàn chuyển phi hành, phát xuất thứ nhĩ đích hô khiếu thanh âm.",
+"dich": "Đất đá trên mặt đất cũng bị cuốn lên, nhanh chóng xoay tròn bay lượn, phát ra tiếng rít chói tai."
+},
+"27": {
+"goc": "Na phiến thiên địa, biến đắc hôn trầm nhi hắc ám.",
+"dich": "Vùng thiên địa ấy trở nên u ám và tối tăm."
+},
+"28": {
+"goc": "Bát khỏa không gian linh lung cầu, thị phi đồng tiểu khả đích không gian bảo vật, Trương Nhược Trần cảm thụ đáo cự đại đích áp lực. Nhược thị bị quyền nhập không gian toàn oa, giáp phì tha thị không gian chưởng khống giả, khủng phạ dã hội tương đương bị động.",
+"dich": "Tám viên không gian linh lung cầu là bảo vật không gian phi phàm, Trương Nhược Trần cảm nhận được áp lực cực lớn. Nếu bị cuốn vào vòng xoáy không gian, cho dù hắn là người chưởng khống không gian, e là cũng sẽ vô cùng bị động."
+},
+"29": {
+"goc": "Trương Nhược Trần đích song thối, phù hiện xuất nhất loan nhất phượng đích hư ảnh, cấp tốc hướng hậu đảo thối.",
+"dich": "Hai chân Trương Nhược Trần hiện ra hư ảnh một loan một phượng, nhanh chóng lùi về phía sau."
+},
+"30": {
+"goc": "\"Hải tưởng tẩu? Hải hoàn cấp nhĩ.\"",
+"dich": "\"Còn muốn chạy? Trả lại cho ngươi.\""
+},
+"31": {
+"goc": "Công Tử Diễn thao khống không gian lực lượng, tùy tức toàn oa trung đích bát điều kim sắc cự long phi liễu xuất khứ, phản hướng công kích Trương Nhược Trần.",
+"dich": "Công Tử Diễn điều khiển lực lượng không gian, ngay sau đó tám con cự long màu vàng trong vòng xoáy bay ra, quay ngược lại công kích Trương Nhược Trần."
+},
+"32": {
+"goc": "\"Oanh long.\"",
+"dich": "\"Ầm ầm.\""
+},
+"33": {
+"goc": "\"Oanh long.\"",
+"dich": "\"Ầm ầm.\""
+},
+"35": {
+"goc": "Bát đạo lực lượng kích tại địa diện, đả xuất nhất cái hựu nhất cái thâm bất kiến để đích đại khanh, đại địa biến đắc chi ly phá toái.",
+"dich": "Tám đạo lực lượng đánh xuống mặt đất, đánh ra từng cái hố lớn sâu không thấy đáy, đại địa trở nên chi ly phá toái."
+},
+"36": {
+"goc": "Tại ngoại nhân khán lai, Công Tử Diễn chiêm cứ tuyệt đối thượng phong, bức đắc Trương Nhược Trần hiểm tượng hoàn sinh, tự hồ khoái tốc tựu năng tương Trương Nhược Trần trấn áp.",
+"dich": "Trong mắt người ngoài, Công Tử Diễn chiếm thượng phong tuyệt đối, ép Trương Nhược Trần hiểm tượng hoàn sinh, dường như rất nhanh sẽ trấn áp được Trương Nhược Trần."
+},
+"37": {
+"goc": "Đinh thử Thiên Đường Giới đích thánh vương, toàn bộ đô khứ vi công Côn Lôn Giới đích tu sĩ, một hữu khứ trợ Công Tử Diễn.",
+"dich": "Vì vậy, các Thánh Vương của Thiên Đường Giới toàn bộ đi vây công tu sĩ Côn Lôn Giới, không ai tới giúp Công Tử Diễn."
+},
+"38": {
+"goc": "Tố phì cửu thiên huyền nữ, dã giác đắc Trương Nhược Trần đích xứ cảnh tương đương nguy hiểm.",
+"dich": "Ngay cả Cửu Thiên Huyền Nữ cũng cảm thấy tình cảnh của Trương Nhược Trần vô cùng nguy hiểm."
+},
+"39": {
+"goc": "Thu hồi ngân sắc thái đao, tha tiện cấp tốc trùng hướng Trương Nhược Trần hòa Công Tử Diễn sở tại đích na xử chiến trường, nhất chưởng phách kích xuất khứ, đả xuất nhất phiến tịnh diệt thần hỏa hỏa vân.",
+"dich": "Thu hồi thanh thái đao màu bạc, nàng nhanh chóng lao về chiến trường nơi Trương Nhược Trần và Công Tử Diễn đang đấu, một chưởng đánh ra, tạo thành một đám mây lửa Tịnh Diệt Thần Hỏa."
+},
+"40": {
+"goc": "Tịnh diệt thần hỏa thị tha kế thừa Băng Hỏa Phượng Hoàng đích truyền thừa đích thời hầu đắc đáo, tùy trứ bất đoạn hấp thu truyền thừa đích lực lượng, cửu thiên huyền nữ thể nội đích tịnh diệt thần hỏa, đãng kinh tương đương tiếp cận thần diễm.",
+"dich": "Tịnh Diệt Thần Hỏa là thứ nàng có được khi kế thừa truyền thừa của Băng Hỏa Phượng Hoàng, theo việc không ngừng hấp thu lực lượng truyền thừa, Tịnh Diệt Thần Hỏa trong cơ thể Cửu Thiên Huyền Nữ đã vô cùng tiếp cận thần diễm."
+},
+"41": {
+"goc": "\"Bất tự lượng lực.\"",
+"dich": "\"Không biết tự lượng sức.\""
+},
+"42": {
+"goc": "Công Tử Diễn đích thủ chỉ nhất dẫn, nhất khỏa không gian linh lung cầu phi xuất khứ, như cùng kích xuyên nhất tằng chỉ nhất dạng, bàng đích nhất thanh kích toái hỏa vân.",
+"dich": "Ngón tay Công Tử Diễn dẫn một cái, một viên không gian linh lung cầu bay ra, như xuyên qua một tờ giấy, \"bùm\" một tiếng đánh nát đám mây lửa."
+},
+"43": {
+"goc": "Đồng thời, không gian linh lung cầu trung phún bạc xuất nhất đạo không gian trùng kích ba, kích tại cửu thiên huyền nữ thân thượng.",
+"dich": "Đồng thời, trong không gian linh lung cầu phun ra một đạo sóng xung kích không gian, đánh lên người Cửu Thiên Huyền Nữ."
+},
+"44": {
+"goc": "Cửu thiên huyền nữ đả xuất nho tổ thánh thư, thư trung phi xuất mãn thiên văn tự, dữ không gian trùng kích ba đối bính tại nhất khởi.",
+"dich": "Cửu Thiên Huyền Nữ đánh ra Nho Tổ Thánh Thư, trong sách bay ra văn tự đầy trời, va chạm với sóng xung kích không gian."
+},
+"45": {
+"goc": "\"Cánh nhiên đáng chủ liễu!\" Công Tử Diễn cảm đáo tra dị.",
+"dich": "\"Vậy mà chặn được!\" Công Tử Diễn cảm thấy kinh ngạc."
+},
+"46": {
+"goc": "Cửu thiên huyền nữ hướng hậu đảo thối liễu sổ thập trượng cự ly, tiện thị ổn trụ cước bản, sử dụng nho tổ thánh thư đích lực lượng, tương không gian trùng kích ba hóa giải.",
+"dich": "Cửu Thiên Huyền Nữ lùi lại mấy chục trượng mới đứng vững, dùng lực lượng của Nho Tổ Thánh Thư hóa giải sóng xung kích không gian."
+},
+"47": {
+"goc": "Khả thị, khịt tiếp trứ, hựu hữu lưỡng khỏa không gian linh lung cầu phi xuất.",
+"dich": "Thế nhưng, ngay sau đó lại có hai viên không gian linh lung cầu bay ra."
+},
+"48": {
+"goc": "Tam khỏa không gian linh lung cầu cấp tốc toàn chuyển, dữ nho tổ thánh thư bính chàng tại nhất khởi, bạo phát xuất lai đích lực lượng, tựu như thị tam khỏa tinh thần bính chàng hạ lai.",
+"dich": "Ba viên không gian linh lung cầu nhanh chóng xoay tròn, va chạm với Nho Tổ Thánh Thư, lực lượng bộc phát ra giống như ba ngôi sao đâm xuống."
+},
+"49": {
+"goc": "\"Oa!\"",
+"dich": "\"Oa!\""
+},
+"50": {
+"goc": "Cửu thiên huyền nữ thổ xuất nhất khẩu huyết dịch, tự đoạn tuyến phong tranh nhất dạng phi liễu xuất khứ, thể nội đích tạng phủ hòa kinh mạch, thọ liễu cực kỳ nghiêm trọng đích thương thế.",
+"dich": "Cửu Thiên Huyền Nữ phun ra một ngụm máu, bay ra như con diều đứt dây, tạng phủ và kinh mạch trong cơ thể bị thương cực kỳ nghiêm trọng."
+},
+"51": {
+"goc": "Lạc đáo địa thượng, tha bán quỵ tại địa thượng, chủy lý bất đoạn tích đìch xuất tiên huyết, \"Thái cường đại liễu! Chưởng khống không gian linh lung cầu đích Công Tử Diễn, chiến lực khủng phạ thị bất nhược ư Cửu Bộ Thánh Vương. Giáp phì ngã hòa Trương Nhược Trần liên thủ, cổ kế dã viễn viễn bất thị tha đích đối thủ.\"",
+"dich": "Rơi xuống đất, nàng quỳ nửa người, trong miệng không ngừng nhỏ máu tươi: \"Quá mạnh! Công Tử Diễn nắm giữ không gian linh lung cầu, chiến lực e là không yếu hơn Thánh Vương cửu bộ. Cho dù ta và Trương Nhược Trần liên thủ, e là cũng còn xa mới là đối thủ của hắn.\""
+},
+"52": {
+"goc": "Công Tử Diễn đích chủ yếu mục tiêu thị Trương Nhược Trần, đinh thử kích thối cửu thiên huyền nữ, tiện thị tái thứ hướng tha công sát quá khứ: \"Trương Nhược Trần nhĩ bất thị hữu nhất kiện không gian chí bảo, hải bất sử dụng xuất lai? Đới liễu, nhĩ đích na kiện không gian chí bảo, hải tại trấn áp thần điện, căn bản vô pháp sử dụng. Cợt nhả.\"",
+"dich": "Mục tiêu chủ yếu của Công Tử Diễn là Trương Nhược Trần, vì vậy đánh lui Cửu Thiên Huyền Nữ xong, lại lần nữa công sát về phía hắn: \"Trương Nhược Trần, chẳng phải ngươi có một kiện không gian chí bảo sao, còn không dùng ra? Quên mất, kiện không gian chí bảo của ngươi còn đang trấn áp thần điện, căn bản không thể sử dụng. Thật nực cười.\""
+},
+"53": {
+"goc": "Trương Nhược Trần cấp tốc hướng hậu đảo thối, lợi dụng cực trí đích thân pháp, đóa tị Công Tử Diễn đả xuất đích không gian công kích.",
+"dich": "Trương Nhược Trần nhanh chóng lùi về phía sau, dùng thân pháp cực hạn tránh né công kích không gian Công Tử Diễn đánh ra."
+},
+"54": {
+"goc": "\"Nhĩ bất thị thời không truyện nhân mạ? Chẩm ma bất sử dụng không gian lực lượng dữ ngã đối kháng, nhất trực thối đào, hữu ý nghĩa mạ?\" Công Tử Diễn toàn diện áp chế trụ Trương Nhược Trần, tiện thị dương thanh tiếu liễu khởi lai.",
+"dich": "\"Chẳng phải ngươi là truyền nhân Thời Không sao? Sao không dùng lực lượng không gian đối kháng với ta, cứ chạy trốn mãi thì có ý nghĩa gì?\" Công Tử Diễn áp chế Trương Nhược Trần toàn diện, cất giọng cười lớn."
+},
+"55": {
+"goc": "Trương Nhược Trần đình hạ cước bộ, thủ xuất nhất mai tử sắc thần thạch, thác tại chưởng tâm: \"Đối phó nhĩ, căn bản một tất yếu sử dụng không gian lực lượng.\"",
+"dich": "Trương Nhược Trần dừng bước, lấy ra một viên thần thạch màu tím, nâng trong lòng bàn tay: \"Đối phó ngươi, căn bản không cần dùng lực lượng không gian.\""
+},
+"56": {
+"goc": "\"Nhĩ thuyết thập ma?\"",
+"dich": "\"Ngươi nói cái gì?\""
+},
+"57": {
+"goc": "Công Tử Diễn đích mục quang nhất ngưng.",
+"dich": "Ánh mắt Công Tử Diễn ngưng lại."
+},
+"58": {
+"goc": "Trương Nhược Trần đạo: \"Ngã thuyết, nhĩ hải bất cú tư cách, nhượng ngã sử dụng xuất không gian lực lượng.\"",
+"dich": "Trương Nhược Trần nói: \"Ta nói, ngươi còn chưa đủ tư cách để ta dùng lực lượng không gian.\""
+},
+"59": {
+"goc": "\"Hoa ——\"",
+"dich": "\"Vù ——\""
+},
+"60": {
+"goc": "Mạc địa, tử sắc thần thạch phóng xuất vạn trượng quang mang, hóa vi nhất tọa cao đại nguy nga đích thần sơn, tinh ưng thí thấu, do như thị thiên địa thần tinh chú luyện nhi thành.",
+"dich": "Đột nhiên, viên thần thạch màu tím phóng ra hào quang vạn trượng, hóa thành một ngọn thần sơn cao lớn nguy nga, trong suốt óng ánh, như được đúc luyện từ thần tinh của thiên địa."
+},
+"61": {
+"goc": "İh thần sơn vi trung tâm, giá nhất phiến thiên địa đích không gian bị trấn trụ.",
+"dich": "Lấy thần sơn làm trung tâm, không gian của vùng thiên địa này bị trấn áp."
+},
+"62": {
+"goc": "Đốn thời, huyền phù tại Công Tử Diễn thân thể tứ chu đích bát khỏa không gian linh lung cầu, trụy lạc đáo địa thượng.",
+"dich": "Lập tức, tám viên không gian linh lung cầu lơ lửng quanh thân thể Công Tử Diễn rơi xuống đất."
+},
+"63": {
+"goc": "Na tọa cự đại đích không gian toàn oa, dã thị tùy trứ tiêu tán.",
+"dich": "Vòng xoáy không gian khổng lồ kia cũng theo đó tiêu tán."
+},
+"64": {
+"goc": "\"Giá...\"",
+"dich": "\"Đây...\""
+},
+"65": {
+"goc": "Công Tử Diễn nhạ nhiên, chinh chinh đích đinh trứ Trương Nhược Trần.",
+"dich": "Công Tử Diễn sững sờ, ngây ngốc nhìn Trương Nhược Trần."
+},
+"66": {
+"goc": "Tha na lý năng cú tưởng đáo, nhất cái chưởng khống giả, cánh nhiên hội tự kỷ định trụ không gian, giá bất thị tự phế võ công?",
+"dich": "Hắn làm sao có thể nghĩ tới, một người chưởng khống không gian lại tự mình định trụ không gian, đây chẳng phải là tự phế võ công sao?"
+},
+"67": {
+"goc": "Công Tử Diễn chính yếu tương địa thượng đích không gian linh lung cầu thu khởi, khả thị, thần sơn đích thượng phương, Trương Nhược Trần giá ngự nhất chiếc kim sắc long niên khí thế hung hãn đích phủ trùng hạ lai, nhất kiếm hướng tha phách trảm hạ khứ.",
+"dich": "Công Tử Diễn đang định thu không gian linh lung cầu dưới đất lên, thế nhưng từ phía trên thần sơn, Trương Nhược Trần điều khiển một chiếc Kim Bộ Long Liễn khí thế hung hãn lao xuống, một kiếm chém về phía hắn."
+},
+"68": {
+"goc": "Công Tử Diễn chỉ đắc xá khí không gian linh lung cầu, hướng hựu trắc nhất thối, song chưởng đồng thời kích xuất.",
+"dich": "Công Tử Diễn đành phải bỏ không gian linh lung cầu, lùi sang bên phải, hai chưởng đồng thời đánh ra."
+},
+"69": {
+"goc": "\"Thứ lạt.\"",
+"dich": "\"Xoẹt.\""
+},
+"70": {
+"goc": "Tài đái kiếm đạo huyền cương đích Trầm Uyên Cổ Kiếm, giản trực tựu thị vô kiên bất tồi, họa phá Công Tử Diễn đích chưởng lực, tại tha đích hung khẩu lưu hạ nhất đạo trường trường đích huyết ngân, tùng hung khẩu nhất trực liên đáo đỗ hạ.",
+"dich": "Trầm Uyên Cổ Kiếm mang theo kiếm đạo huyền cương quả thực vô kiên bất tồi, xé rách chưởng lực của Công Tử Diễn, lưu lại một vết máu dài trên ngực hắn, kéo dài từ ngực xuống tận bụng dưới."
+},
+"71": {
+"goc": "Công Tử Diễn khán trứ tùng bì phu trung dũng xuất đích thánh huyết, nhãn trung vũng xuất hùng hùng nộ hỏa.",
+"dich": "Công Tử Diễn nhìn thánh huyết tuôn ra từ da thịt, trong mắt bốc lên lửa giận hừng hực."
+},
+"72": {
+"goc": "\"Chẩm ma liễu? Bất năng sử dụng không gian lực lượng, tạc vi Thất Bộ Thánh Vương, nhĩ tựu chỉ hữu giá điểm bản sự?\" Trương Nhược Trần giá ngự kim bộ long niên, hành sử nhi hồi, đề trứ trầm uyên, lãnh lãnh đích thuyết đạo.",
+"dich": "\"Sao vậy? Không thể dùng lực lượng không gian, thân là Thánh Vương thất bộ, ngươi chỉ có chút bản lĩnh này thôi sao?\" Trương Nhược Trần điều khiển Kim Bộ Long Liễn quay trở lại, cầm Trầm Uyên, lạnh lùng nói."
+},
+"73": {
+"goc": "\"Nhĩ hưu yếu đắc ý, Thất Bộ Thánh Vương chung cứu thị Thất Bộ Thánh Vương, tại cảnh giới thượng diện tựu năng niễn áp nhĩ.\"",
+"dich": "\"Ngươi đừng đắc ý, Thánh Vương thất bộ dù sao cũng là Thánh Vương thất bộ, chỉ riêng cảnh giới đã đủ nghiền ép ngươi.\""
+},
+"74": {
+"goc": "Tùng cương tài na nhất kiếm, Công Tử Diễn khán xuất Trương Nhược Trần ưng cai một hữu ẩn tàng tu vi, đích xác thị Tứ Bộ Thánh Vương cảnh giới. Phản chi, tha đô dĩ kinh bị Trương Nhược Trần nhất kiếm phách tử, nhiễu bất thị chỉ thọ liễu nhất ta bì ngoại thương.",
+"dich": "Từ một kiếm vừa rồi, Công Tử Diễn nhìn ra Trương Nhược Trần hẳn không che giấu tu vi, quả thật là cảnh giới Thánh Vương tứ bộ. Nếu không, hắn đã bị Trương Nhược Trần một kiếm chém chết, chứ không phải chỉ bị chút thương ngoài da."
+},
+"75": {
+"goc": "\"Chấn vân phân hải chưởng.\"",
+"dich": "\"Chấn Vân Phân Hải Chưởng.\""
+},
+"76": {
+"goc": "Công Tử Diễn đích thể nội, vũng xuất hồn hậu đích thánh khí, bất thả tả hữu song tý hải phân biệt vũng xuất nhất vạn đa đạo chưởng đạo quy tắc, bàng bạc đích chưởng lực, sử dụng thiên địa phong vân kích đãng.",
+"dich": "Trong cơ thể Công Tử Diễn tuôn ra thánh khí hùng hậu, hơn nữa hai cánh tay trái phải đều tuôn ra hơn một vạn đạo quy tắc chưởng đạo, chưởng lực bàng bạc khiến phong vân thiên địa cuộn trào."
+},
+"77": {
+"goc": "Nhất thứ tính điều động xuất lưỡng vạn đa đạo chưởng đạo quy tắc, dã chỉ hữu Thất Bộ Thánh Vương tài năng đáo.",
+"dich": "Một lần điều động hơn hai vạn đạo quy tắc chưởng đạo, cũng chỉ có Thánh Vương thất bộ mới làm được."
+},
+"78": {
+"goc": "Nhi Trương Nhược Trần, hiện tại tu luyện xuất lai đích chưởng đạo quy tắc, hải bất túc lưỡng thiên đạo. Chân yếu dữ Công Tử Diễn bính chưởng, Trương Nhược Trần tất bại vô nghi, giá thị cảnh giới thượng đích cự đại cự ly.",
+"dich": "Còn quy tắc chưởng đạo Trương Nhược Trần tu luyện ra hiện tại còn chưa tới hai ngàn đạo. Nếu thật sự đối chưởng với Công Tử Diễn, Trương Nhược Trần chắc chắn thất bại, đây là khoảng cách cực lớn về cảnh giới."
+},
+"79": {
+"goc": "\"Đáo thị hữu ta xuất hồ ngã đích dự liêu, nhĩ cư nhiên tu luyện liễu nhất chủng thánh thuật cấp biệt đích chưởng pháp.\" Trương Nhược Trần đạo.",
+"dich": "\"Có chút nằm ngoài dự liệu của ta, ngươi vậy mà tu luyện một loại chưởng pháp cấp thánh thuật.\" Trương Nhược Trần nói."
+},
+"80": {
+"goc": "Công Tử Diễn tự tín mãn mãn đích tiếu đạo: \"Bằng tịch chủng chưởng pháp, yếu trấn áp nhĩ, ưng cai bất nan ba?\"",
+"dich": "Công Tử Diễn tràn đầy tự tin cười nói: \"Dựa vào loại chưởng pháp này, muốn trấn áp ngươi hẳn không khó chứ?\""
+},
+"81": {
+"goc": "Trương Nhược Trần một hữu hồi đáp, nhãn thần bình tĩnh.",
+"dich": "Trương Nhược Trần không trả lời, ánh mắt bình tĩnh."
+},
+"82": {
+"goc": "Đỉnh tại Công Tử Diễn thể nội thánh khí vận chuyển đáo cực điểm đích thời hầu, đột nhiên, thể nội truyền xuất nhất cổ kịch liệt đích hư nhược cảm, như cùng thị nhất cái tiết khí đích bì phu, thân thượng đích uy thế biến đắc việt lai việt nhược.",
+"dich": "Ngay lúc thánh khí trong cơ thể Công Tử Diễn vận chuyển tới cực điểm, đột nhiên trong cơ thể truyền ra một luồng cảm giác hư nhược kịch liệt, như một túi da xì hơi, uy thế trên người càng lúc càng yếu."
+},
+"83": {
+"goc": "\"Chẩm ma hội giá dạng?\"",
+"dich": "\"Sao lại thế này?\""
+},
+"84": {
+"goc": "Công Tử Diễn đích nhãn sắc thương bạch, song thối chiến đẩu, hữu ta trản lập bất ổn.",
+"dich": "Sắc mặt Công Tử Diễn tái nhợt, hai chân run rẩy, có chút đứng không vững."
+},
+"85": {
+"goc": "Trương Nhược Trần đích Trầm Uyên Cổ Kiếm thượng diện, khắc lục hữu thời gian ấn ký, cương tài huy xuất đích na nhất kiếm, tuy nhiên chỉ thị nhượng Công Tử Diễn thọ liễu nhất ta bì ngoại thương, bất quá thời gian ấn ký khuyết đả tại liễu tha đích thân thượng, trảm liễu tha bách niên thọ nguyên.",
+"dich": "Trên Trầm Uyên Cổ Kiếm của Trương Nhược Trần có khắc thời gian ấn ký, một kiếm vung ra vừa rồi tuy chỉ khiến Công Tử Diễn bị chút thương ngoài da, nhưng thời gian ấn ký lại đánh lên người hắn, chém đi trăm năm thọ nguyên của hắn."
+},
+"86": {
+"goc": "\"Phốc phốc.\"",
+"dich": "\"Phập phập.\""
+},
+"87": {
+"goc": "Trương Nhược Trần nhất kiếm huy xuất, tương Công Tử Diễn đích hữu thủ trảm lạc.",
+"dich": "Trương Nhược Trần vung một kiếm, chém rơi tay phải của Công Tử Diễn."
+},
+"88": {
+"goc": "Đốn thời, Công Tử Diễn phát xuất nhất thanh đê hầu, thủ oản xứ, tiên huyết như tuyền dũng.",
+"dich": "Lập tức, Công Tử Diễn phát ra một tiếng gầm thấp, máu tươi phun ra như suối từ cổ tay."
+},
+"89": {
+"goc": "\"Phốc phốc.\"",
+"dich": "\"Phập phập.\""
+},
+"90": {
+"goc": "Huy xuất đệ nhị kiếm, Công Tử Diễn đích linh nhất chỉ thủ, dã bị trảm điệu.",
+"dich": "Vung ra kiếm thứ hai, bàn tay còn lại của Công Tử Diễn cũng bị chém đứt."
+},
+"91": {
+"goc": "Công Tử Diễn nhất biên hướng viễn ly thần sơn đích phương hướng đào độn, nhất biên đại hống: \"Trương Nhược Trần, nhĩ đáo để đối ngã tố liễu thập ma?\"",
+"dich": "Công Tử Diễn vừa trốn về hướng xa khỏi thần sơn, vừa gầm lớn: \"Trương Nhược Trần, rốt cuộc ngươi đã làm gì ta?\""
+},
+"92": {
+"goc": "Trương Nhược Trần nhãn thần băng lãnh, nhất ngôn bất phát, chỉ thị tùng tha thể nội vũng xuất đích sát khí, khuyết thị dữ kim bộ long niên nhất khởi, truy tại Công Tử Diễn đích thân hậu, việt truy việt cận, hách đắc Công Tử Diễn đảm chiến tâm kinh, tại tử vong biên giới nỗ lực đích tranh trát.",
+"dich": "Ánh mắt Trương Nhược Trần lạnh như băng, không nói một lời, chỉ có sát khí tuôn ra từ cơ thể, cùng Kim Bộ Long Liễn đuổi theo sau lưng Công Tử Diễn, càng đuổi càng gần, dọa Công Tử Diễn mật run tim sợ, giãy giụa trên ranh giới tử vong."
+},
+"93": {
+"goc": "Thiên Đường Giới đích thánh vương, toàn bộ đô hách liễu đại khiêu, na lý liêu đáo, cục thế phản chuyển đắc giá ma khoái?",
+"dich": "Các Thánh Vương của Thiên Đường Giới toàn bộ đều giật nảy mình, làm sao ngờ được cục thế đảo ngược nhanh như vậy?"
+},
+"94": {
+"goc": "Tiên tiền hải chiêm cứ tuyệt đối thượng phong đích Công Tử Diễn, thử khắc khuyết bị Trương Nhược Trần trảm đoạn song thủ, như cùng táng gia chi khuyển nhất dạng đích bôn đào.",
+"dich": "Công Tử Diễn trước đó còn chiếm thượng phong tuyệt đối, lúc này lại bị Trương Nhược Trần chém đứt hai tay, chạy trốn như chó nhà có tang."
+},
+"95": {
+"goc": "Trương Nhược Trần hiển nhiên thị bất cấp trứ sát tha, nhiễu thị truy tại tha đích thân hậu.",
+"dich": "Trương Nhược Trần hiển nhiên không vội giết hắn, chỉ đuổi theo sau lưng hắn."
+},
+"96": {
+"goc": "Khả tưởng nhi tri, Công Tử Diễn đích nội tâm, tất định thị tương đương băng quỹ.",
+"dich": "Có thể tưởng tượng, nội tâm Công Tử Diễn chắc chắn đã sụp đổ hoàn toàn."
+},
+"97": {
+"goc": "Cửu thiên huyền nữ dã chinh trụ, giác đắc nhãn tiền thị huyễn giác, \"Trương Nhược Trần giá cá gia hỏa tài Tứ Bộ Thánh Vương cảnh giới nhi dĩ, chẩm ma năng sát đắc nhất vị Thất Bộ Thánh Vương cảnh giới đích không gian chưởng khống giả lạc hoàng nhi đào? Nan đạo cửu thiên huyền nữ gia tí lại, đô bất như tha?\" Nt",
+"dich": "Cửu Thiên Huyền Nữ cũng sững sờ, cảm thấy trước mắt là ảo giác: \"Tên Trương Nhược Trần này mới cảnh giới Thánh Vương tứ bộ mà thôi, sao có thể giết cho một không gian chưởng khống giả cảnh giới Thánh Vương thất bộ phải chạy trối chết? Lẽ nào Cửu Thiên Huyền Nữ ta cũng không bằng hắn?\""
+}
+}
+}

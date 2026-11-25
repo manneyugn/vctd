@@ -7,7 +7,8 @@
     "KHONG them 'sát nhập': trong ban convert no nghia la 'giết vào' (杀入), khong phai 'sáp nhập'.",
     "KHONG them 'sáng lạn': trong truyen chi gap 'ánh sáng lạnh'.",
     "'vân vũ' = 'vân võ' (云武, nguyên văn); regex giu viet hoa, bo qua 'vũ trụ' (danh tu thuong).",
-    "'Lâm Phong' (hoa ca) = 'Trương Nhược Trần' (张若尘): ~260 file chuong xtruyen lan '林枫' (ten chinh cua mot truyen khac); case-sensitive de giu thanh ngu thuong 'ngọc thụ lâm phong'."
+    "'Lâm Phong' (hoa ca) = 'Trương Nhược Trần' (张若尘): ~260 file chuong xtruyen lan '林枫' (ten chinh cua mot truyen khac); case-sensitive de giu thanh ngu thuong 'ngọc thụ lâm phong'.",
+    "'Cố Lâm Phong' (顾临风) là tên giả của Trương Nhược Trần ở Huyết Thần Giáo (c930-1220), giữ nguyên; 'Cố Lăng Phong' -> 'Cố Lâm Phong'."
   ],
   "ten_dich_nghia": {
     "hoàng suối đại đế": "hoàng tuyền đại đế",
@@ -44,7 +45,7 @@
   "regex": {
     "(?i)(?<![A-Za-zÀ-ỹ])([v])ân ([v])ũ(?![A-Za-zÀ-ỹ])(?!\\s*trụ)": "\\1ân \\2õ",
     "(?<=mươi) mươi(?= )": "",
-    "(?<![A-Za-zÀ-ỹ])Lâm\\s+Phong(?![A-Za-zÀ-ỹ])": "Trương Nhược Trần",
-    "(?<![^\\W\\d_])([Cc])h\\.ết": "\\1hết"
+    "(?<![^\\W\\d_])([Cc])h\\.ết": "\\1hết",
+    "(?<![A-Za-zÀ-ỹ])(?<!Cố )Lâm\\s+Phong(?![A-Za-zÀ-ỹ])": "Trương Nhược Trần"
   }
 }
