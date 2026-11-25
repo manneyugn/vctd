@@ -1,0 +1,561 @@
+{
+"so_doan": 140,
+"doan": {
+"0": {
+"goc": "Kiếm xuất vô thanh.",
+"dich": "Kiếm xuất không tiếng động."
+},
+"1": {
+"goc": "Đằng, thiên địa quy tắc tẫn sổ yên diệt, bao quát thời gian, không gian, quang minh, hắc âm, thế gian duy thặng kiếm ý.",
+"dich": "Lập tức, mọi quy tắc thiên địa đều bị dập tắt, bao gồm thời gian, không gian, quang minh, hắc ám, thế gian chỉ còn lại kiếm ý."
+},
+"2": {
+"goc": "Sở có hỏa nha giai bị thanh không.",
+"dich": "Tất cả hỏa nha đều bị quét sạch."
+},
+"3": {
+"goc": "Hồng A Vương dĩ tinh thiên nhai địch đáng, bán tổ thần khí ngưng tụ thành vân, khước hải thị bị vô cùng vô hạn đích kiếm khí thương tổn, thụ thân tòng tinh thiên nhai thượng bác ly hạ lai.",
+"dich": "Hồng Nha Vương dùng Tinh Thiên Nhai chống đỡ, thần khí Bán Tổ ngưng tụ thành mây, nhưng vẫn bị kiếm khí vô cùng vô tận làm tổn thương, bị đánh bật khỏi Tinh Thiên Nhai."
+},
+"4": {
+"goc": "Này một kiếm đích cường hoành, ẩn ẩn dĩ hữu khóa cảnh giới nghịch phạt chi năng.",
+"dich": "Sự cường hoành của nhát kiếm này mơ hồ đã có năng lực vượt cảnh giới nghịch phạt."
+},
+"5": {
+"goc": "Kim Nghê lão tổ thích phóng thời không hỗn độn liên, liên hoa nhất biện biện triển khai. Nhất hoa nhất thế giới, không gian tại bất đoạn khuếch tán dữ thu súc, yếu tương Hồng A Vương trấn áp tiến liên hoa trung.",
+"dich": "Kim Nghê lão tổ phóng thích Thời Không Hỗn Độn Liên, từng cánh sen mở ra. Một hoa một thế giới, không gian không ngừng khuếch tán và co lại, muốn trấn áp Hồng Nha Vương vào trong hoa sen."
+},
+"6": {
+"goc": "Biện thị thử thời, hắc ám tàn khu cản chí, huy xuất lôi thần chùy.",
+"dich": "Đúng lúc này, tàn khu hắc ám tới nơi, vung Lôi Thần Chùy."
+},
+"7": {
+"goc": "\"Lách tách!\"",
+"dich": "\"Lách tách!\""
+},
+"8": {
+"goc": "Lôi điện như vũ bạo, minh lượng thích nhãn, tòng thiên nhi giáng, tẫn sổ lạc tại Hồng A Vương thân thượng.",
+"dich": "Lôi điện như mưa bão, sáng chói mắt, từ trên trời giáng xuống, toàn bộ rơi lên người Hồng Nha Vương."
+},
+"9": {
+"goc": "Trọng thương Hồng A Vương đích đồng thời, dã phá liễu thời không hỗn độn liên đích không gian cấm cố chi lực. Trảo trụ cơ hội, Hồng A Vương tòng lôi điện khải đích không gian phùng khích trung đào tẩu, tiến nhập hư vô thế giới.",
+"dich": "Vừa trọng thương Hồng Nha Vương, đồng thời cũng phá vỡ lực giam cầm không gian của Thời Không Hỗn Độn Liên. Nắm lấy cơ hội, Hồng Nha Vương trốn thoát qua khe hở không gian do lôi điện mở ra, tiến vào thế giới hư vô."
+},
+"10": {
+"goc": "\"Hoại chúng nhân hảo sự, nhĩ thị cố ý đích ba?\"",
+"dich": "\"Phá hỏng chuyện tốt của mọi người, ngươi cố ý phải không?\""
+},
+"11": {
+"goc": "Hư Thiên chấn nộ, song đồng bính xạ kiếm khí, huy tụ gian đả toái không gian, truy nhập hư vô thế giới.",
+"dich": "Hư Thiên giận dữ, đôi đồng tử bắn ra kiếm khí, vung tay áo đánh nát không gian, đuổi vào thế giới hư vô."
+},
+"12": {
+"goc": "Kim Nghê lão tổ tốc độ canh khoai, tiên Hư Thiên nhất bộ, chàng xuyên tinh không, mang đệ vô hạn kim sắc tổ mang, tương hư vô thế giới đô chiếu lượng.",
+"dich": "Kim Nghê lão tổ tốc độ còn nhanh hơn, trước Hư Thiên một bước, đâm xuyên tinh không, mang theo tổ mang màu vàng vô hạn, chiếu sáng cả thế giới hư vô."
+},
+"13": {
+"goc": "Hắc ám tàn khu một hữu tái xuất thủ, dã một hữu truy, nhi thị bất tật bất từ đích tương tinh thiên nhai thu thủ. Kế nhi, vãng lai hận thiên.",
+"dich": "Tàn khu hắc ám không ra tay nữa, cũng không đuổi theo, mà thong thả thu lấy Tinh Thiên Nhai. Sau đó, nhìn về phía Ly Hận Thiên."
+},
+"14": {
+"goc": "Đối diện Trương Nhược Trần, Bàn Nguyên cổ thần, Đệ Tứ Nho Tổ, hắc ám tàn khu tứ đại bán tổ cấp cường giả, Minh Hải chi linh liên tự bạo thần nguyên đích cơ hội đô một hữu, bị liên tục sổ thứ đả đắc hồn thể phá toái.",
+"dich": "Đối mặt bốn cường giả cấp Bán Tổ là Trương Nhược Trần, Bàn Nguyên cổ thần, Đệ Tứ Nho Tổ, tàn khu hắc ám, Minh Hải chi linh ngay cả cơ hội tự bạo thần nguyên cũng không có, liên tục bị đánh nát hồn thể mấy lần."
+},
+"15": {
+"goc": "Hãn ngôn hiển nhiên, tha thử tiền sở thuyết đích hữu tứ đạo thủy tổ chú ấn, hoàn toàn thị tại mê hoặc đối thủ.",
+"dich": "Rõ ràng, việc trước đó nó nói có bốn đạo chú ấn Thủy Tổ hoàn toàn là để mê hoặc đối thủ."
+},
+"16": {
+"goc": "Chung vu, Minh Hải chi linh thương thế nghiêm trọng đáo, chiến lực điệt trí bán tổ chi hạ, bị hắc ám tàn khu đích \"Hắc ám vụ tỏa\" dữ Đệ Tứ Nho Tổ đích hạo nhiên chính khí trấn áp.",
+"dich": "Cuối cùng, Minh Hải chi linh bị thương nghiêm trọng, chiến lực rơi xuống dưới Bán Tổ, bị \"Hắc Ám Vụ Tỏa\" của tàn khu hắc ám và hạo nhiên chính khí của Đệ Tứ Nho Tổ trấn áp."
+},
+"17": {
+"goc": "Hắc ám tàn khu rất thanh sở, tố vi thần giới nhất hệ đích Đệ Tứ Nho Tổ, bất khả năng cấp tha khôi phục thần hồn đích cơ hội, vu thị đạo: \"Đế Trần nhất ngôn Cửu Đỉnh, hiện tại Minh Hải chi linh bị trấn áp, nhĩ thử tiền đích thoại khả hải toán sổ?\"",
+"dich": "Tàn khu hắc ám rất rõ, Đệ Tứ Nho Tổ thuộc hệ Thần Giới không thể cho hắn cơ hội khôi phục thần hồn, vì vậy nói: \"Đế Trần nhất ngôn cửu đỉnh, bây giờ Minh Hải chi linh đã bị trấn áp, lời trước đó của ngươi còn tính không?\""
+},
+"18": {
+"goc": "Bất đại Trương Nhược Trần khai khẩu, Tu Thần thiên thần tòng nhật củng trung phi xuất, cấp đạo: \"Nhĩ tự kỷ hồi tưởng nhất hạ, Đế Trần tòng lai một hữu thuyết quá, yếu tương Minh Hải chi linh cấp nhĩ.\"",
+"dich": "Không đợi Trương Nhược Trần mở miệng, Tu Thần Thiên Thần bay ra từ Nhật Quỹ, vội nói: \"Ngươi tự nhớ lại xem, Đế Trần chưa bao giờ nói sẽ giao Minh Hải chi linh cho ngươi.\""
+},
+"19": {
+"goc": "\"Tượng Đế Trần giá dạng đích tồn tại, vạn giá chủng văn tự duệ hí, một hữu ý nghĩa ba?\" Hắc ám tàn khu đạo.",
+"dich": "\"Tồn tại như Đế Trần mà chơi trò chữ nghĩa này, không có ý nghĩa gì chứ?\" Tàn khu hắc ám nói."
+},
+"20": {
+"goc": "\"Hữu ý nghĩa!\"",
+"dich": "\"Có ý nghĩa!\""
+},
+"21": {
+"goc": "Tu Thần thiên thần đạo: \"Ngã, nhật củng đích khí linh, tha thị Minh Hải chi linh. Đế Trần dục yếu dĩ tha chi linh, dưỡng nhật củng khí linh, hợp tình hợp lý, hoàn toàn phù hợp Kiếm Giới đích lợi ích.\"",
+"dich": "Tu Thần Thiên Thần nói: \"Ta là khí linh của Nhật Quỹ, còn nó là Minh Hải chi linh. Đế Trần muốn dùng linh của nó để nuôi khí linh Nhật Quỹ, hợp tình hợp lý, hoàn toàn phù hợp lợi ích của Kiếm Giới.\""
+},
+"22": {
+"goc": "Bàn Nguyên cổ thần đạo: \"Hiện tại, tịnh bất thị vị liễu lợi ích tranh đấu đích thời hầu, thi ma tùy thời khả năng khóa duyệt không gian hồi lai, đáo thời hầu, chúng nhân thùy năng thừa thụ trụ tha đích nộ hỏa? Tất tu cật khoai trần ai lạc định, nhiên hậu ly khai.\"",
+"dich": "Bàn Nguyên cổ thần nói: \"Bây giờ không phải lúc tranh đấu vì lợi ích, Thi Ma có thể vượt không gian trở về bất cứ lúc nào, đến lúc đó ai trong chúng ta chịu nổi cơn thịnh nộ của hắn? Phải nhanh chóng kết thúc rồi rời đi.\""
+},
+"23": {
+"goc": "Bàn Nguyên cổ thần giá thoại, thị giảng cấp Trương Nhược Trần thính.",
+"dich": "Lời này của Bàn Nguyên cổ thần là nói cho Trương Nhược Trần nghe."
+},
+"24": {
+"goc": "Hãn ngôn hiển nhiên, tha nhận vi ưng cai tương Minh Hải chi linh giao cấp hắc ám tàn khu.",
+"dich": "Rõ ràng ông cho rằng nên giao Minh Hải chi linh cho tàn khu hắc ám."
+},
+"25": {
+"goc": "Giá dạng tố, hữu nhị chủng khảo lự.",
+"dich": "Làm vậy có hai cân nhắc."
+},
+"26": {
+"goc": "Kỳ nhất, Minh Hải chi linh đích tu vi tạo nghệ viễn thắng Ba Nhĩ, yếu tương tha luyện hóa hấp thu, dĩ hắc ám tàn khu chi năng, dã khẳng định nhu yếu bất thiểu thời gian.",
+"dich": "Thứ nhất, tạo nghệ tu vi của Minh Hải chi linh vượt xa Ba Nhĩ, muốn luyện hóa hấp thu nó, dù với năng lực của tàn khu hắc ám cũng chắc chắn cần không ít thời gian."
+},
+"27": {
+"goc": "Tại thử tiền, thi ma tựu toán tòng thủy tổ chiến trường thoát thân quy lai, dã hội tiên hoa thượng hắc ám tàn khu.",
+"dich": "Trước đó, Thi Ma dù thoát thân khỏi chiến trường Thủy Tổ trở về, cũng sẽ tìm tới tàn khu hắc ám trước."
+},
+"28": {
+"goc": "Giá dạng thiên đình vũ trụ dữ Kiếm Giới, tựu hữu canh đa thời gian tổ kiến phòng ngự, địch đáng thủy tổ chi nộ.",
+"dich": "Như vậy vũ trụ Thiên Đình và Kiếm Giới sẽ có thêm thời gian xây dựng phòng ngự, chống lại cơn thịnh nộ của Thủy Tổ."
+},
+"29": {
+"goc": "Kỳ nhị, kinh thử nhất chiến, minh tổ phái hệ tao thụ trọng thương, thần giới dĩ nhiên tọa đại.",
+"dich": "Thứ hai, qua trận chiến này, phái hệ Minh Tổ bị trọng thương, Thần Giới đã lớn mạnh."
+},
+"30": {
+"goc": "Chẩm năng tái tương Minh Hải chi linh giao cấp Đệ Tứ Nho Tổ?",
+"dich": "Sao có thể giao Minh Hải chi linh cho Đệ Tứ Nho Tổ nữa?"
+},
+"31": {
+"goc": "Giao cấp hắc ám tàn khu, nhượng tha cường đại nhược khởi lai, tài năng tại nhất định trình độ thượng chế hành thần giới.",
+"dich": "Giao cho tàn khu hắc ám, để hắn cường đại lên mới có thể kiềm chế Thần Giới ở một mức độ nhất định."
+},
+"32": {
+"goc": "Nhượng thần giới, minh tổ phái hệ, Hắc Ám Tôn Chủ, hải hữu như kim đích Thái Cổ sinh vật, tứ phương giác trục, tha môn tài hữu canh đại đích sinh tồn không gian.",
+"dich": "Để Thần Giới, phái hệ Minh Tổ, Hắc Ám Tôn Chủ, cùng sinh vật Thái Cổ hiện nay, bốn phương tranh đấu, bọn họ mới có không gian sinh tồn lớn hơn."
+},
+"33": {
+"goc": "Đương nhiên, tại Bàn Nguyên cổ thần khán lai, Kiếm Giới dữ Địa Ngục Giới dĩ kinh hữu dữ tứ phương giác trục đích lực lượng, kham xưng đệ ngũ, đệ lục phương thế lực.",
+"dich": "Đương nhiên, theo Bàn Nguyên cổ thần, Kiếm Giới và Địa Ngục Giới đã có lực lượng tranh đấu với bốn phương kia, có thể xưng là thế lực thứ năm, thứ sáu."
+},
+"34": {
+"goc": "Kim Nghê lão tổ đích xuất hiện, vô nghi thị thuyết minh, Đại Tôn dữ Linh Yến Tử rất khả năng hải tháo trứ. Giá thị Kiếm Giới năng liệt nhập đệ ngũ phương đích tối đại nguyên nhân!",
+"dich": "Sự xuất hiện của Kim Nghê lão tổ không nghi ngờ gì chứng tỏ Đại Tôn và Linh Yến Tử rất có thể vẫn còn sống. Đây là nguyên nhân lớn nhất để Kiếm Giới có thể xếp vào phương thứ năm!"
+},
+"35": {
+"goc": "Đường Địa Ngục Giới, hữu liễu tu vi canh thượng nhất tằng lâu đích Hư Phong Tẫn dữ Phượng Thái Dực, khả vị bán tổ lâm lập.",
+"dich": "Còn Địa Ngục Giới, có Hư Phong Tẫn và Phượng Thái Dực tu vi tiến thêm một tầng, có thể nói Bán Tổ san sát."
+},
+"36": {
+"goc": "Duy hữu thiên đình vũ trụ, hiện tại biến thành tối nhược thế đích nhất phương.",
+"dich": "Chỉ có vũ trụ Thiên Đình bây giờ trở thành phe yếu thế nhất."
+},
+"37": {
+"goc": "Yêu thị, Bàn Nguyên cổ thần tất tu mại hắc ám tàn khu giá cá nhân tình.",
+"dich": "Vì vậy, Bàn Nguyên cổ thần phải bán cho tàn khu hắc ám nhân tình này."
+},
+"38": {
+"goc": "Bàn Nguyên cổ thần năng cú khảo lự đáo đích vấn đề, Trương Nhược Trần tự nhiên năng cú tưởng đáo, thậm chí tri đạo hắc ám tàn khu cố ý phóng Hồng A Vương đào tẩu, tựu thị đam tâm thần giới nhất gia độc đại.",
+"dich": "Những vấn đề Bàn Nguyên cổ thần cân nhắc được, Trương Nhược Trần tự nhiên cũng nghĩ tới, thậm chí biết tàn khu hắc ám cố ý thả Hồng Nha Vương chạy thoát chính là vì lo Thần Giới một nhà độc đại."
+},
+"39": {
+"goc": "Đệ Tứ Nho Tổ cấm cố Minh Hải chi linh đích đồng thời, thân thượng tán phát xuất lai đích hạo nhiên chính khí dữ hắc ám chi lực tương hỗ xâm thực, đạo: \"Hắc Ám Tôn Chủ sát tính thái trọng liễu, tích nhật kiếm tổ đế tạo đích Kiếm Giới, tựu thị tha nhất thủ phục diệt. Nhược Trần, tuyệt bất khả nhượng tha trọng tân khôi phục thủy tổ cảnh giới, hậu hoạn vô cùng.\"",
+"dich": "Đệ Tứ Nho Tổ vừa giam cầm Minh Hải chi linh, hạo nhiên chính khí tỏa ra từ người ông vừa ăn mòn lẫn nhau với lực lượng hắc ám, nói: \"Sát tính của Hắc Ám Tôn Chủ quá nặng, Kiếm Giới năm xưa do Kiếm Tổ sáng tạo chính là bị hắn một tay hủy diệt. Nhược Trần, tuyệt đối không thể để hắn khôi phục cảnh giới Thủy Tổ, hậu hoạn vô cùng.\""
+},
+"40": {
+"goc": "Bàn Nguyên cổ thần dĩ thị minh xác trạm đội hắc ám tàn khu, Trương Nhược Trần đích lựa chọn, hiển đắc dị thường quan kiện.",
+"dich": "Bàn Nguyên cổ thần đã rõ ràng đứng về phía tàn khu hắc ám, lựa chọn của Trương Nhược Trần trở nên đặc biệt then chốt."
+},
+"41": {
+"goc": "\"Đương nhiên, nhược Trần nhược thị tương Minh Hải chi linh đái hồi Côn Lôn Giới, dĩ đỉnh luyện hóa thành hồn đan, phân phát cấp Côn Lôn Giới đích thần linh, trợ tha môn tu vi canh thượng nhất tằng lâu, lão phu tiện thị vạn phân tán đồng.\" Đệ Tứ Nho Tổ đạo.",
+"dich": "\"Đương nhiên, nếu Nhược Trần mang Minh Hải chi linh về Côn Lôn Giới, dùng đỉnh luyện hóa thành hồn đan, phân phát cho thần linh Côn Lôn Giới, giúp tu vi bọn họ tiến thêm một tầng, lão phu sẽ vô cùng tán đồng.\" Đệ Tứ Nho Tổ nói."
+},
+"42": {
+"goc": "Tu Thần thiên thần đạo: \"Bất quý thị Nho Tổ, giảng xuất lai đích thoại đô thị chân tri trác kiến. Kiếm Giới dữ Côn Lôn Giới hiện tại thái nhu yếu đề thăng thực lực liễu!\"",
+"dich": "Tu Thần Thiên Thần nói: \"Không hổ là Nho Tổ, lời nói ra đều là chân tri trác kiến. Kiếm Giới và Côn Lôn Giới bây giờ quá cần nâng cao thực lực!\""
+},
+"43": {
+"goc": "Hốt đích, Trương Nhược Trần vấn đạo: \"Nho Tổ giá thị yếu hồi Côn Lôn Giới?\"",
+"dich": "Đột nhiên, Trương Nhược Trần hỏi: \"Nho Tổ định quay về Côn Lôn Giới sao?\""
+},
+"44": {
+"goc": "Đệ Tứ Nho Tổ điểm liễu điểm đầu, đạo: \"Tảo cai hồi khứ liễu! Dã bất tri sơn hà thị phủ biến dạng, nho đạo thị phủ phồn thịnh.\"",
+"dich": "Đệ Tứ Nho Tổ gật đầu, nói: \"Đã sớm nên về rồi! Cũng không biết núi sông có đổi khác không, nho đạo có phồn thịnh không.\""
+},
+"45": {
+"goc": "Bàn Nguyên cổ thần thính xuất lưỡng nhân đối thoại đích cơ phong sở tại, vu thị, đạo: \"Kiến vu yếu hồi khứ, tiện trường trụ hạ lai ba! Hữu nhất vị Nho Tổ tọa trấn, khai đàn giảng đạo, Côn Lôn Giới đích nho đạo nhất định phồn thịnh.\"",
+"dich": "Bàn Nguyên cổ thần nghe ra cơ phong trong cuộc đối thoại của hai người, vì vậy nói: \"Đã muốn về thì ở lại lâu dài đi! Có một vị Nho Tổ tọa trấn, mở đàn giảng đạo, nho đạo của Côn Lôn Giới nhất định phồn thịnh.\""
+},
+"46": {
+"goc": "Tại Bàn Nguyên cổ thần khán lai, Đệ Tứ Nho Tổ nhượng Trương Nhược Trần tương Minh Hải chi linh đái khứ Côn Lôn Giới, tựu thị yếu tương thi ma đích thủy tổ chi nộ, dẫn đáo Vô Định Thần Hải.",
+"dich": "Theo Bàn Nguyên cổ thần, việc Đệ Tứ Nho Tổ bảo Trương Nhược Trần mang Minh Hải chi linh về Côn Lôn Giới chính là muốn dẫn cơn thịnh nộ Thủy Tổ của Thi Ma tới Vô Định Thần Hải."
+},
+"47": {
+"goc": "Trương Nhược Trần khán xuất liễu giá nhất điểm, sở dĩ tài vấn xuất na nhất cú. Ý tứ thị, \"Nhĩ nhượng ngã tương Minh Hải chi linh đái hồi Côn Lôn Giới, na nhĩ yếu bất yếu hồi Côn Lôn Giới, bang ngã địch đáng thủy tổ chi nộ?\"",
+"dich": "Trương Nhược Trần nhìn ra điểm này nên mới hỏi câu đó. Ý là: \"Ngươi bảo ta mang Minh Hải chi linh về Côn Lôn Giới, vậy ngươi có về Côn Lôn Giới giúp ta chống lại cơn thịnh nộ của Thủy Tổ không?\""
+},
+"48": {
+"goc": "Bàn Nguyên cổ thần tự nhiên thị yếu thừa cơ điểm nhất bả hỏa, tương Đệ Tứ Nho Tổ giá thượng khứ khảo.",
+"dich": "Bàn Nguyên cổ thần tự nhiên muốn nhân cơ hội thêm dầu vào lửa, đặt Đệ Tứ Nho Tổ lên lửa mà nướng."
+},
+"49": {
+"goc": "Tu Thần thiên thần đạo: \"Nhĩ môn kế tục giá ma nhàn liêu hạ khứ, thi ma khả tựu chân đích hồi lai liễu!\"",
+"dich": "Tu Thần Thiên Thần nói: \"Các ngươi cứ nói chuyện phiếm như vậy, Thi Ma sẽ thật sự quay về đấy!\""
+},
+"50": {
+"goc": "Trương Nhược Trần tiếu đạo: \"Chư vị kiến vu đô đinh trứ ngã, ngã tố quyết định, nhĩ môn ưng cai một hữu ý kiến ba? Niên linh ngã tối tiểu, trạm nhược hà nhất phương đô nan dĩ phục chúng, na ngã chỉ năng trạm tại tối công chính công đạo đích thị giác.\"",
+"dich": "Trương Nhược Trần cười nói: \"Chư vị đã đều nhìn ta, vậy ta quyết định, các vị hẳn không có ý kiến chứ? Ta nhỏ tuổi nhất, đứng về phía nào cũng khó khiến mọi người phục, vậy ta chỉ có thể đứng ở góc nhìn công bằng chính trực nhất.\""
+},
+"51": {
+"goc": "\"Trấn áp Minh Hải chi linh giá nhất chiến, đại gia đô hữu xuất lực, tự nhiên đô cai hữu nhất phận thu hoạch.\"",
+"dich": "\"Trận chiến trấn áp Minh Hải chi linh này, mọi người đều có góp sức, tự nhiên đều nên có một phần thu hoạch.\""
+},
+"52": {
+"goc": "\"Minh Hải chi linh đích thần hồn cường hoành chí cực, cảnh giới tối thiểu dã thị bán tổ hậu kỳ, tương tha giao cấp nhược hà nhất cá nhân, đô bất an toàn, tùy thời khả năng bị thi ma cứu tẩu, giả dĩ thời nhật tựu hội trọng hồi đỉnh phong. Giá dạng ba, Minh Hải chi linh đích thần hồn, tiện Bàn Nguyên cổ thần dữ Hắc Ám Tôn Chủ các phân nhất bán.\"",
+"dich": "\"Thần hồn của Minh Hải chi linh cường hoành tới cực điểm, cảnh giới ít nhất cũng là hậu kỳ Bán Tổ, giao cho bất kỳ ai cũng không an toàn, có thể bị Thi Ma cứu đi bất cứ lúc nào, cho nó thời gian sẽ trở lại đỉnh phong. Thế này đi, thần hồn của Minh Hải chi linh, Bàn Nguyên cổ thần và Hắc Ám Tôn Chủ mỗi người một nửa.\""
+},
+"53": {
+"goc": "Bàn Nguyên cổ thần nhãn tình vi vi mị, mẫn duệ cảm tri đáo Trương Nhược Trần đích dụng ý.",
+"dich": "Bàn Nguyên cổ thần hơi híp mắt, nhạy bén cảm nhận được dụng ý của Trương Nhược Trần."
+},
+"54": {
+"goc": "Giá thị bất hi vọng thiên đình vũ trụ dữ hắc ám tàn khu tẩu đắc thái cận!",
+"dich": "Đây là không muốn vũ trụ Thiên Đình và tàn khu hắc ám đi quá gần!"
+},
+"55": {
+"goc": "Thiên Đình vũ trụ dữ hắc ám tàn khu tẩu đắc thái cận, đối Kiếm Giới đích y lại, tựu hội giảm nhược.",
+"dich": "Vũ trụ Thiên Đình và tàn khu hắc ám đi quá gần, sự dựa dẫm vào Kiếm Giới sẽ giảm đi."
+},
+"56": {
+"goc": "Trương Nhược Trần đạo: \"Bàn Nguyên tiền bối trung liễu thủy tổ chú ấn, tất nhiên thương liễu nguyên khí, chính hảo tá Minh Hải chi linh đích thần hồn liệu dưỡng thương thế.\"",
+"dich": "Trương Nhược Trần nói: \"Bàn Nguyên tiền bối trúng chú ấn Thủy Tổ, tất nhiên đã tổn thương nguyên khí, vừa hay mượn thần hồn của Minh Hải chi linh để dưỡng thương.\""
+},
+"57": {
+"goc": "Giá nhất phận hảo xứ, Bàn Nguyên cổ thần dĩ thị bất thu dã đắc thu liễu!",
+"dich": "Phần lợi ích này, Bàn Nguyên cổ thần không nhận cũng phải nhận!"
+},
+"58": {
+"goc": "Đông thời, tha hải một hữu biện pháp kim hậu tái chuyển giao cấp hắc ám tàn khu.",
+"dich": "Đồng thời, sau này ông cũng không có cách nào chuyển giao cho tàn khu hắc ám."
+},
+"59": {
+"goc": "Vinh vi na dạng, đẳng vu thị đắc tội liễu Trương Nhược Trần, đắc tội liễu Kiếm Giới. Nhĩ kiến vu giá ma bất thức hảo đãi, kim hậu khủng phạ tựu một hữu hảo xứ phân nhuận cấp nhĩ.",
+"dich": "Bởi vì như vậy tương đương với đắc tội Trương Nhược Trần, đắc tội Kiếm Giới. Ngươi đã không biết điều như vậy, sau này e rằng sẽ không còn lợi ích nào chia cho ngươi nữa."
+},
+"60": {
+"goc": "Tái thuyết, đáo thủ đích hảo xứ, yếu Bàn Nguyên cổ thần trọng tân giao xuất khứ, tha vị tất quá đắc nội tâm na nhất quan.",
+"dich": "Hơn nữa, lợi ích đã tới tay, bắt Bàn Nguyên cổ thần giao ra lần nữa, ông chưa chắc đã qua được cửa ải trong lòng."
+},
+"61": {
+"goc": "Minh Hải chi linh đích tu vi cảnh giới ba tại na lý, luyện hóa liễu tha đích thần hồn, tất nhiên đối Bàn Nguyên cổ thần tại bán tổ cảnh giới đích tu luyện hữu vô cùng hảo xứ.",
+"dich": "Tu vi cảnh giới của Minh Hải chi linh bày ra đó, luyện hóa thần hồn của nó tất nhiên có lợi ích vô cùng cho việc tu luyện ở cảnh giới Bán Tổ của Bàn Nguyên cổ thần."
+},
+"62": {
+"goc": "Nhân tựu thị như thử, chỉ yếu bất tằng hữu nhân, tựu khả năng khống tống phóng khí.",
+"dich": "Con người là vậy, chỉ cần chưa từng có, có thể dễ dàng từ bỏ."
+},
+"63": {
+"goc": "Đắc đáo hậu, tái củng thủ tương nhượng, tiện thị thiên nan vạn nan, dữ phân hưởng tự kỷ đích thê tử hữu thập ma khu biệt?",
+"dich": "Có được rồi lại phải chắp tay nhường cho người khác thì vạn phần khó khăn, có khác gì chia sẻ vợ mình?"
+},
+"64": {
+"goc": "Trương Nhược Trần hướng khán Đệ Tứ Nho Tổ, đạo: \"Hải thỉnh Nho Tổ tiền bối, tương Minh Hải đái khứ Vĩnh Hằng Thiên Quốc trấn áp. Minh Hải, thị minh tổ thần cảnh thế giới đích nhất bộ phần, giá dạng khả phố đích đối thủ, chúng nhân chiêu nhạ bất khởi, duy hữu thần giới khả năng dữ chi phân đình kháng lễ.\"",
+"dich": "Trương Nhược Trần nhìn Đệ Tứ Nho Tổ, nói: \"Còn xin Nho Tổ tiền bối mang Minh Hải tới Vĩnh Hằng Thiên Quốc trấn áp. Minh Hải là một phần thần cảnh thế giới của Minh Tổ, đối thủ đáng sợ như vậy, chúng ta không chọc nổi, chỉ có Thần Giới mới có thể ngang hàng đối kháng.\""
+},
+"65": {
+"goc": "Tu Thần thiên thần nhất kiểm bất duyệt, đạo: \"Sở dĩ, liều tử liều hoạt, tối hậu chúng nhân tựu đắc liễu U Minh luyện ngục? Nhượng lưỡng cá tối hậu xuất thủ đích, khinh khinh tống tống ngư ông đắc lợi? Trương Nhược Trần, nhĩ thái ngu xu...\"",
+"dich": "Tu Thần Thiên Thần mặt đầy không vui, nói: \"Vậy là liều sống liều chết, cuối cùng chúng ta chỉ được U Minh Luyện Ngục? Để hai kẻ ra tay sau cùng nhẹ nhàng ngư ông đắc lợi? Trương Nhược Trần, ngươi quá ngu xuẩn...\""
+},
+"66": {
+"goc": "\"Phóng tứ!\"",
+"dich": "\"Càn rỡ!\""
+},
+"67": {
+"goc": "Trương Nhược Trần diện lộ lãnh sắc, nhất chưởng tương Tu Thần thiên thần đả hồi nhật củng, kế nhi bão quyền hướng chúng nhân: \"Đối hạ diện đích nhân quản giáo bất nghiêm, nhượng chư vị kiến tiễu! Tựu đáo giá lý ba, hi vọng kim hậu ngộ đáo, chúng nhân hải năng đàm tiếu phong sinh, nhi bất thị binh nhược tương kiến.\"",
+"dich": "Trương Nhược Trần mặt lộ vẻ lạnh lùng, một chưởng đánh Tu Thần Thiên Thần trở lại Nhật Quỹ, sau đó ôm quyền với mọi người: \"Quản giáo người dưới không nghiêm, để chư vị chê cười! Tới đây thôi, hy vọng sau này gặp lại, chúng ta vẫn có thể cười nói vui vẻ, chứ không phải binh đao tương kiến.\""
+},
+"68": {
+"goc": "Trương Nhược Trần tương U Minh luyện ngục, tiệm tiệm di nhập tự kỷ đích thần cảnh thế giới.",
+"dich": "Trương Nhược Trần dần dần dời U Minh Luyện Ngục vào thần cảnh thế giới của mình."
+},
+"69": {
+"goc": "\"Mệnh Vận Thiên Thư\" dữ thiên cơ bút, tựu huyền phù tại U Minh luyện ngục trung.",
+"dich": "\"Mệnh Vận Thiên Thư\" và Thiên Cơ Bút đang lơ lửng trong U Minh Luyện Ngục."
+},
+"70": {
+"goc": "\"Ngã dữ mệnh vận thần điện giao tình thâm hậu, bang tha môn thu hồi 'Mệnh Vận Thiên Thư' dữ thiên cơ bút, chư vị tiền bối ưng cai một hữu ý kiến ba?\"",
+"dich": "\"Ta và Vận Mệnh Thần Điện giao tình sâu đậm, giúp bọn họ thu hồi 'Mệnh Vận Thiên Thư' và Thiên Cơ Bút, chư vị tiền bối hẳn không có ý kiến chứ?\""
+},
+"71": {
+"goc": "Trương Nhược Trần tân tân hữu lễ, ngữ khí trung mãn đảo khiêm hư, thu thủ U Minh luyện ngục hậu, tiện thân hình nhất thiểm, khóa duyệt không gian, phản hồi liễu minh quốc.",
+"dich": "Trương Nhược Trần lễ độ chu đáo, ngữ khí đầy khiêm tốn, sau khi thu lấy U Minh Luyện Ngục, thân hình lóe lên, vượt qua không gian, quay về Minh Quốc."
+},
+"72": {
+"goc": "Giá trường lợi ích phân phối, ý kiến tối đại đích tựu thị hắc ám tàn khu.",
+"dich": "Trong cuộc phân chia lợi ích này, kẻ có ý kiến lớn nhất chính là tàn khu hắc ám."
+},
+"73": {
+"goc": "Đãn, tha chỉ năng bách phạ tiếp thụ.",
+"dich": "Nhưng hắn chỉ có thể bất đắc dĩ chấp nhận."
+},
+"74": {
+"goc": "Vinh vi tha hải hữu cầu vu Trương Nhược Trần.",
+"dich": "Bởi vì hắn còn có việc cầu Trương Nhược Trần."
+},
+"75": {
+"goc": "Dữ Bàn Nguyên cổ thần phân cát liễu Minh Hải chi linh đích thần hồn hậu, hắc ám tàn khu truy hồi minh quốc.",
+"dich": "Sau khi chia thần hồn của Minh Hải chi linh với Bàn Nguyên cổ thần, tàn khu hắc ám đuổi về Minh Quốc."
+},
+"77": {
+"goc": "Giá trường thủy tổ dữ bán tổ đô hữu tham chiến đích chiến đấu, tiện thị minh quốc dã thừa thụ bất trụ, tùy xử khả kiến phá toái đích không gian dữ hỗn loạn đích đạo pháp dư ba, khả vị mãn mục sang di.",
+"dich": "Trận chiến có cả Thủy Tổ và Bán Tổ tham chiến này, ngay cả Minh Quốc cũng không chịu nổi, khắp nơi có thể thấy không gian vỡ nát và dư ba đạo pháp hỗn loạn, có thể nói là thương tích đầy mắt."
+},
+"78": {
+"goc": "Minh binh minh tương, tử đích tử, đào đích đào.",
+"dich": "Minh binh minh tướng, kẻ chết thì chết, kẻ trốn thì trốn."
+},
+"79": {
+"goc": "Sở vị bát vạn lâu, hủy diệt liễu bán sổ.",
+"dich": "Cái gọi là tám vạn lâu đã bị hủy diệt một nửa."
+},
+"80": {
+"goc": "Đãn, minh quốc đích chủ thể hải tại, đại địa quảng mậu, âm vân tử khí lung tráo quần sơn. Tứ thập nhị khỏa hằng tinh đại nhật, huyền phù tại Yêu Tổ Lĩnh thượng không, sái lạc quang huy, chiếu lượng vô cứ hắc ám.",
+"dich": "Nhưng chủ thể của Minh Quốc vẫn còn, đại địa rộng lớn, mây âm tử khí bao phủ quần sơn. Bốn mươi hai ngôi hằng tinh đại nhật lơ lửng trên không Yêu Tổ Lĩnh, rải quang huy, chiếu sáng bóng tối vô tận."
+},
+"81": {
+"goc": "Phượng Thiên dĩ thị tòng ngô đồng thần thụ trung xuất thân, thân chu lưu động tổ diễm, thân hậu thập nhị đạo mệnh vận chi môn chiếu lượng vĩnh hằng, thân thượng khí chất dữ khí thế đô hữu phiên thiên phúc địa đích biến hóa.",
+"dich": "Phượng Thiên đã đi ra từ Ngô Đồng thần thụ, quanh thân lưu động tổ diễm, sau lưng mười hai cánh Vận Mệnh Chi Môn chiếu sáng vĩnh hằng, khí chất và khí thế trên người đều có biến hóa long trời lở đất."
+},
+"82": {
+"goc": "Hủy liễu tu luyện mệnh vận phú dư tha đích na cổ đạo uẩn, thân thượng hải đa liễu nhất lũ yêu khí.",
+"dich": "Ngoài đạo vận do tu luyện vận mệnh mang lại, trên người nàng còn có thêm một sợi yêu khí."
+},
+"83": {
+"goc": "Giá lũ yêu khí, nhượng tha thể nội tử vong dữ sinh mệnh nhược chủng khí tức, chung vu đạt đáo bình hành trạng thái.",
+"dich": "Sợi yêu khí này khiến hai luồng khí tức tử vong và sinh mệnh trong cơ thể nàng cuối cùng đạt tới trạng thái cân bằng."
+},
+"84": {
+"goc": "Tha tất cánh thị xuất thân thi tộc, hựu chủ tu Tử Vong chi đạo siêu quá bách vạn niên, nãi chí niết bàn trọng sinh, thân thượng đích tử khí dã viễn bỉ sinh khí nồng hậu.",
+"dich": "Dù sao nàng cũng xuất thân Thi tộc, lại chủ tu tử vong chi đạo hơn trăm vạn năm, dù đã niết bàn trùng sinh, tử khí trên người vẫn nồng đậm hơn sinh khí rất nhiều."
+},
+"85": {
+"goc": "Giá đối dục yếu tu luyện thập nhị tướng viên mãn đích Phượng Thiên nhi ngôn, vô nghi thị mại xuất tối nan nhược bộ, vị xung kích bán tổ cảnh giới, đả hạ kiên thật cơ sở.",
+"dich": "Đối với Phượng Thiên muốn tu luyện thập nhị tướng viên mãn, đây không nghi ngờ gì là bước khó khăn nhất, đặt nền móng vững chắc cho việc xung kích cảnh giới Bán Tổ."
+},
+"86": {
+"goc": "Tiếp hạ lai, tu hành chi lộ tiện thị thản đồ, khả năng nhất nhật thiên lý.",
+"dich": "Tiếp theo, con đường tu hành sẽ là đường bằng phẳng, có thể một ngày ngàn dặm."
+},
+"87": {
+"goc": "Trương Nhược Trần xuất hiện tại Phượng Thiên thân bàng, thuận trứ tha mục quang vãng khứ, khán kiến chính tại đả tảo chiến trường đích mệnh vận thần điện chư thần, đạo: \"Cản khẩn triệt ly ba, trì tắc sinh biến.\"",
+"dich": "Trương Nhược Trần xuất hiện bên cạnh Phượng Thiên, nhìn theo ánh mắt nàng, thấy chư thần Vận Mệnh Thần Điện đang dọn dẹp chiến trường, nói: \"Mau rút đi, chậm thì sinh biến.\""
+},
+"88": {
+"goc": "\"Thi ma nhược năng trừu thân, dĩ tha thủy tổ đích cảnh giới, tảo tựu cản hồi lai liễu, bất cấp tại thử nhất thời.\" Phượng Thiên thân thượng mãn đảo liễu bình tĩnh.",
+"dich": "\"Nếu Thi Ma có thể rút thân, với cảnh giới Thủy Tổ của hắn đã sớm quay về rồi, không vội nhất thời.\" Trên người Phượng Thiên tràn đầy sự bình tĩnh."
+},
+"89": {
+"goc": "Trương Nhược Trần nhạ nhiên đích khán liễu tha nhất nhãn.",
+"dich": "Trương Nhược Trần ngạc nhiên nhìn nàng một cái."
+},
+"90": {
+"goc": "Phượng Thiên thị xuất liễu danh đích lôi lệ phong hành, tố sự khoai, cấp, hành, bất hội thác quá nhược hà chiến cơ, tố xuất đích quyết định thị lập tức tựu hội chấp hành.",
+"dich": "Phượng Thiên nổi tiếng là người làm việc như sấm sét, làm việc nhanh, gấp, quyết, không bao giờ bỏ lỡ chiến cơ nào, quyết định đưa ra là lập tức thi hành."
+},
+"91": {
+"goc": "Năng cú mạn hạ lai, chấn năng bất nhượng nhân kinh nhạ?",
+"dich": "Có thể chậm lại như vậy, sao không khiến người ta kinh ngạc?"
+},
+"92": {
+"goc": "\"Nhĩ hấp thu liễu tổ diễm? Ngã năng cảm thụ đáo, nhĩ dữ ngô đồng thần thụ, Yêu Tổ Lĩnh hình thành liễu nhất chủng độc đặc đích liên hệ, cung hỷ nhĩ, bất nhật chi hậu, ưng cai năng cú tiến nhập bán tổ đại cảnh.\" Trương Nhược Trần đạo.",
+"dich": "\"Nàng đã hấp thu tổ diễm? Ta có thể cảm nhận được nàng đã hình thành một mối liên hệ độc đáo với Ngô Đồng thần thụ và Yêu Tổ Lĩnh, chúc mừng nàng, không lâu nữa hẳn có thể bước vào đại cảnh giới Bán Tổ.\" Trương Nhược Trần nói."
+},
+"93": {
+"goc": "Phượng Thiên Nhãn trung cổ tỉnh vô ba, bất bi bất hỉ, vấn đạo: \"Tha ni?\"",
+"dich": "Trong mắt Phượng Thiên phẳng lặng như giếng cổ, không buồn không vui, hỏi: \"Còn hắn?\""
+},
+"94": {
+"goc": "\"Hồi đáo tha đích na cá thời đại liễu!\" Trương Nhược Trần bất tự giác đích khinh thán.",
+"dich": "\"Đã về thời đại của hắn rồi!\" Trương Nhược Trần bất giác khẽ thở dài."
+},
+"95": {
+"goc": "Phượng Thiên đạo: \"Thị tha bang liễu ngã?\"",
+"dich": "Phượng Thiên nói: \"Là hắn đã giúp ta?\""
+},
+"96": {
+"goc": "Trương Nhược Trần điểm liễu điểm đầu, đạo: \"Tha xá khí liễu thủy tổ tu vi, yếu tương nhĩ tống đắc canh viễn, nhi tha tắc hồi đáo túc mệnh trung nguyên lai đích vị trí.\"",
+"dich": "Trương Nhược Trần gật đầu, nói: \"Hắn từ bỏ tu vi Thủy Tổ để đưa nàng đi xa hơn, còn hắn thì trở về vị trí vốn có trong số mệnh.\""
+},
+"97": {
+"goc": "Phượng Thiên Nhãn thượng chung vu xuất hiện liễu tình tự ba động, đạo: \"Một hữu tha đích bang trợ, ngã khả năng hội tử tại tổ diễ chi hạ. Một hữu tha đả nhập minh tổ thần nguyên trung đích lực lượng, tựu toán đắc đáo tổ diễm, ngã khả năng dã vạn pháp tại thọ nguyên hạo tận tiền, đạt đáo bán tổ chi cảnh. Ngã đích thời gian, dĩ kinh rất thiểu rất thiểu, hiện tại tối thiểu hữu thất thành dĩ thượng đích cơ hội.\"",
+"dich": "Trên mặt Phượng Thiên cuối cùng cũng xuất hiện dao động cảm xúc, nói: \"Không có sự giúp đỡ của hắn, ta có thể đã chết dưới tổ diễm. Không có lực lượng hắn đánh vào thần nguyên Minh Tổ, dù có được tổ diễm, ta cũng không thể đạt tới cảnh giới Bán Tổ trước khi thọ nguyên cạn kiệt. Thời gian của ta đã rất ít, rất ít, bây giờ ít nhất có hơn bảy thành cơ hội.\""
+},
+"98": {
+"goc": "\"Cổ vãng kim lai, đa thiếu thiên túng kỳ tài, hùng kiệt bá chủ, đô tại truy cầu thủy tổ cảnh giới, khước chỉ hữu tha nhất nhân khả năng xá khí giá cá cảnh giới. Vị thập ma?\"",
+"dich": "\"Từ xưa tới nay, bao nhiêu thiên tung kỳ tài, hùng kiệt bá chủ đều theo đuổi cảnh giới Thủy Tổ, vậy mà chỉ có một mình hắn có thể từ bỏ cảnh giới ấy. Tại sao?\""
+},
+"99": {
+"goc": "Trương Nhược Trần tri đạo Cung Nam Phong đích giá nhất hành vi, cấp Phượng Thiên tạo thành cự đại đích tâm lý trùng kích.",
+"dich": "Trương Nhược Trần biết hành động này của Cung Nam Phong đã tạo cú sốc tâm lý cực lớn cho Phượng Thiên."
+},
+"100": {
+"goc": "Phượng Thiên hiển nhiên bất hỉ hoan khiếm nhân tình, đặc biệt thị khiếm hạ Cung Nam Phong giá chủng cổ vãng kim lai đô ngộ bất đáo nhất thứ đích nhân tình. Căn bản bất tri đạo cai chém ma hoàn, dã căn bản một hữu biện pháp hoàn.",
+"dich": "Phượng Thiên rõ ràng không thích nợ nhân tình, đặc biệt là nợ Cung Nam Phong một nhân tình mà từ xưa tới nay chưa từng có. Căn bản không biết nên trả thế nào, cũng căn bản không có cách nào trả."
+},
+"101": {
+"goc": "Trương Nhược Trần đạo: \"Ngã bất tri đạo tha vị thập ma giá ma tố, đán ngã tri đạo, tha nhất định một hữu hậu hối. Vinh vi, hồi đáo quá khứ na cá thời đại đích tha, tối hậu hải thị tương hỉ môn giao cấp liễu nhĩ, tịnh một hữu thí đồ cải biến dĩ kinh chú định đích mệnh vận. Tại tha khán lai, khả năng giá thị tối hảo đích an bài.\"",
+"dich": "Trương Nhược Trần nói: \"Ta không biết tại sao hắn làm vậy, nhưng ta biết hắn nhất định không hối hận. Bởi vì khi trở về thời đại quá khứ, cuối cùng hắn vẫn giao mọi thứ cho nàng, không hề cố thay đổi vận mệnh đã định sẵn. Theo hắn, có lẽ đó là sự sắp xếp tốt nhất.\""
+},
+"102": {
+"goc": "Phượng Thiên khán trứ Trương Nhược Trần, đạo: \"Tha một hữu thoại lưu cấp ngã?\"",
+"dich": "Phượng Thiên nhìn Trương Nhược Trần, nói: \"Hắn không để lại lời nào cho ta sao?\""
+},
+"103": {
+"goc": "Trương Nhược Trần khinh khinh dao đầu, đạo: \"Tha bình thời tuy nhiên thị nhất vị lạc quan nhi thoại đa đích nhân! Đán giá chủng nhân, ly khai đích thời hầu, vãng vãng thị vô thanh đích.\"",
+"dich": "Trương Nhược Trần khẽ lắc đầu, nói: \"Bình thường hắn tuy là người lạc quan và nói nhiều! Nhưng người như vậy, khi rời đi thường là không một tiếng động.\""
+},
+"104": {
+"goc": "\"Ngã hội chấn hưng mệnh vận thần điện, ngã hội đệ tha báo cừu, thân thủ sát tử minh tổ.\" Phượng Thiên bình tĩnh đích nhãn mâu trung, phù hiện xuất hàn sương dữ kiên quyết đích tín niệm.",
+"dich": "\"Ta sẽ chấn hưng Vận Mệnh Thần Điện, ta sẽ báo thù cho hắn, tự tay giết Minh Tổ.\" Trong đôi mắt bình tĩnh của Phượng Thiên hiện ra hàn sương và tín niệm kiên quyết."
+},
+"105": {
+"goc": "Trương Nhược Trần đạo: \"Hứa thị tha chỉ thị hi vọng nhĩ năng cú hảo hảo đích hoạt trứ!\"",
+"dich": "Trương Nhược Trần nói: \"Có lẽ hắn chỉ mong nàng có thể sống thật tốt!\""
+},
+"106": {
+"goc": "Phượng Thiên hảo kỳ đích vấn đạo: \"Nhĩ ni? Nhĩ tị vi hà tiền vãng Bắc Trạch Trường Thành, vi hà lai đương giá thám hồn thủy? Tại Nộ Thiên thần cung, nhĩ bất thị trảm kim tiệt thiết đích thuyết, giá thị tống tử?\"",
+"dich": "Phượng Thiên tò mò hỏi: \"Còn chàng? Tại sao chàng tới Bắc Trạch Trường Thành, tại sao tới lội vào vũng nước đục này? Ở Nộ Thiên Thần Cung, chẳng phải chàng đã chém đinh chặt sắt nói đây là đi chịu chết sao?\""
+},
+"107": {
+"goc": "Minh minh đô dĩ kinh cáo tố quá tha đáp án, tha khước hải thị tái nhất thứ vấn xuất lai.",
+"dich": "Rõ ràng đã nói cho nàng đáp án, nàng lại hỏi thêm một lần nữa."
+},
+"108": {
+"goc": "Nữ nhân quả nhiên thị hỉ hoan phản phục vấn tương đồng đích vấn đề, hỉ hoan phản phục thính tự kỷ tảo tựu tri đạo đích na chủng tưởng thính đích thoại.",
+"dich": "Nữ nhân quả nhiên thích hỏi đi hỏi lại cùng một câu hỏi, thích nghe đi nghe lại những lời mình đã biết từ trước mà vẫn muốn nghe."
+},
+"109": {
+"goc": "Hắc ám tàn khu xuất hiện tại bán không, đạo: \"Bão khiểm, bất thị hữu ý yếu đả đảo nhị vị, chỉ thị bản tọa dữ Đế Trần hải hữu nhất cái ước định, hiện tại cai thị Đế Trần đoái hiện thừa nặc đích thời hầu liễu!\"",
+"dich": "Tàn khu hắc ám xuất hiện giữa không trung, nói: \"Xin lỗi, không cố ý quấy rầy hai vị, chỉ là bản tọa và Đế Trần còn có một ước định, bây giờ là lúc Đế Trần thực hiện lời hứa rồi!\""
+},
+"110": {
+"goc": "Trì Dao cự giá Đại Tôn lưu hạ đích nhị thập thất trọng thiên vũ giới, hồi đáo Yêu Tổ Lĩnh, đạo: \"Tố vi minh hữu, tôn chủ trừ liễu phóng tẩu Hồng A Vương, tự hồ đằng một hữu bang thượng thập ma mang.\"",
+"dich": "Trì Dao điều khiển hai mươi bảy tầng Thiên Vũ giới do Đại Tôn để lại, quay về Yêu Tổ Lĩnh, nói: \"Là minh hữu, ngoài việc thả Hồng Nha Vương chạy, tôn chủ dường như chẳng giúp được gì.\""
+},
+"111": {
+"goc": "Hắc ám tàn khu đạo: \"Minh Hải chi linh nhược yếu tự bạo, phượng Đế Trần, Bàn Nguyên, Đệ Tứ Nho Tổ vị tất áp chế đắc trụ.\"",
+"dich": "Tàn khu hắc ám nói: \"Nếu Minh Hải chi linh muốn tự bạo, chỉ dựa vào Đế Trần, Bàn Nguyên, Đệ Tứ Nho Tổ chưa chắc áp chế được.\""
+},
+"112": {
+"goc": "Phượng Thiên tuy bất tri đạo hắc ám tàn khu dữ Trương Nhược Trần đích giao dịch thị thập ma, đán, đối kỳ một hữu nhược hà hảo cảm, đạo: \"Quân tử chi yêu, thủ chi. Tiểu nhân chi minh, đại khả bất tất đương chân, bất nhiên chỉ hội bị tiểu nhân sở khi.\"",
+"dich": "Phượng Thiên tuy không biết giao dịch giữa tàn khu hắc ám và Trương Nhược Trần là gì, nhưng không có chút thiện cảm nào với hắn, nói: \"Ước hẹn của quân tử thì giữ. Minh ước của tiểu nhân không cần coi là thật, nếu không chỉ bị tiểu nhân lừa gạt.\""
+},
+"113": {
+"goc": "Trì Dao đạo: \"Thử tiền tôn chủ khả thị tưởng yếu lạc tỉnh hạ thạch!\"",
+"dich": "Trì Dao nói: \"Trước đó tôn chủ còn muốn ném đá xuống giếng đấy!\""
+},
+"114": {
+"goc": "Hắc ám tàn khu nhược thị hữu đầu lô, khán hướng Trì Dao dữ Phượng Thiên đích nhãn thần, tất nhiên mãn đảo sát ý.",
+"dich": "Nếu tàn khu hắc ám có đầu, ánh mắt nhìn Trì Dao và Phượng Thiên tất nhiên tràn đầy sát ý."
+},
+"115": {
+"goc": "Tha đạo: \"Bản tọa chỉ đương Đế Trần nhất nặc thiên kim, thị đính thiên lập địa đích hùng kiệt. Khước một tưởng đáo, cánh yếu bị lưỡng cá nữ nhân tả hữu quyết định, tín dự dữ danh thanh đô thị hủy vu nhất đán.\"",
+"dich": "Hắn nói: \"Bản tọa cứ tưởng Đế Trần một lời hứa đáng ngàn vàng, là hùng kiệt đội trời đạp đất. Không ngờ lại bị hai nữ nhân chi phối quyết định, uy tín và danh tiếng đều hủy trong một sớm.\""
+},
+"116": {
+"goc": "Trương Nhược Trần tiếu liễu khởi lai, đạo: \"Hắc thủ nhất trực xử vu bất ổn định đích trạng thái, ngã thị chân đích bất tưởng kế tục lưu tại thân thượng, đồ hao tinh lực. Giao cấp tôn chủ, phản nhi khỉnh tùng. Đàn, tha môn thuyết đích hựu rất hữu đạo lý, giá thứ kết minh, tôn chủ đích đích xác xác thái bất hậu đạo.\"",
+"dich": "Trương Nhược Trần bật cười, nói: \"Bàn tay đen luôn ở trạng thái không ổn định, ta thật sự không muốn tiếp tục giữ trên người, tốn công vô ích. Giao cho tôn chủ ngược lại nhẹ nhõm. Nhưng các nàng nói cũng rất có lý, lần kết minh này, tôn chủ quả thật quá không có đạo nghĩa.\""
+},
+"117": {
+"goc": "\"Hà chỉ thị bất hậu đạo! Sổ tác sở vi, căn bản bất năng xưng vi minh hữu, bất như tương tha lưu hạ, dĩ tuyệt hậu hoạn.\"",
+"dich": "\"Đâu chỉ là không có đạo nghĩa! Những việc hắn làm căn bản không thể gọi là minh hữu, chi bằng giữ hắn lại để trừ hậu hoạn.\""
+},
+"118": {
+"goc": "Hư Thiên đích thanh âm, tòng dao viễn chi địa truyền lai.",
+"dich": "Giọng của Hư Thiên truyền tới từ nơi xa xôi."
+},
+"119": {
+"goc": "Phiến khắc hậu, như nhất đạo minh lượng kiếm quang, tạp lạc hạ lai, lập thân tại liễu minh quốc đích nhất phiến nguyên dã thượng, phong tử hắc ám tàn khu tả trắc đích không gian.",
+"dich": "Chốc lát sau, như một đạo kiếm quang sáng rực đáp xuống, đứng trên một vùng đồng bằng của Minh Quốc, chặn không gian bên trái tàn khu hắc ám."
+},
+"120": {
+"goc": "\"Oảng oảng!\"",
+"dich": "\"Gào gào!\""
+},
+"121": {
+"goc": "Kim Nghê lão tổ cự giá kim sắc vân thải, tòng hữu trắc nhi lai, thân như sơn nhạc, hô hấp như lôi.",
+"dich": "Kim Nghê lão tổ cưỡi mây vàng tới từ bên phải, thân như núi non, hơi thở như sấm."
+},
+"122": {
+"goc": "Trương Nhược Trần khán trứ Hư Thiên cổ quái đích tạo hình, tâm đầu hoặc hắc, giá hư lão quỷ học thùy bất hảo, thiên thiên học tỉnh đạo nhân.",
+"dich": "Trương Nhược Trần nhìn tạo hình cổ quái của Hư Thiên, trong lòng nghi hoặc, lão quỷ Hư Thiên này học ai không học, lại cứ học Tỉnh đạo nhân."
+},
+"123": {
+"goc": "Một hữu thời gian khứ tuân vấn đáo đính thị chém ma hồi sự, tha kế tục hướng Hắc Ám Tôn Chủ thi áp, đạo: \"Khán lai Hư Thiên dữ Phượng Thiên, dữ tôn chủ đích ân oán bất tiểu. Giá đảo thị hữu điểm nan biện liễu!\"",
+"dich": "Không có thời gian hỏi rốt cuộc là chuyện gì, hắn tiếp tục gây áp lực lên Hắc Ám Tôn Chủ, nói: \"Xem ra ân oán giữa Hư Thiên, Phượng Thiên với tôn chủ không nhỏ. Việc này lại có chút khó xử rồi!\""
+},
+"124": {
+"goc": "Hắc Ám Tôn Chủ rất thanh sở, Trương Nhược Trần bặt bất thị bất tưởng tương hắc thủ cấp tha, chỉ thị tại đàm điều kiện, tranh thủ canh đại đích lợi ích.",
+"dich": "Hắc Ám Tôn Chủ rất rõ, Trương Nhược Trần không phải không muốn giao bàn tay đen cho hắn, chỉ là đang đàm phán điều kiện, tranh thủ lợi ích lớn hơn."
+},
+"125": {
+"goc": "Đại cục bác dịch, Trương Nhược Trần tuyệt đối thị tối lý tính na nhất cá, bất hội bị tình tự tả hữu.",
+"dich": "Trong ván cờ đại cục, Trương Nhược Trần tuyệt đối là người lý trí nhất, không bị cảm xúc chi phối."
+},
+"126": {
+"goc": "Tự tri lý khuy, thả hoàn toàn xử vu nhược thế đích Hắc Ám Tôn Chủ, chỉ đắc chủ động thối bộ, vấn đạo: \"Hắc Ám Chi Uyên phòng tuyến đích na nhất chiến, tịnh bất thị bản tọa chủ đạo. Phóng tẩu Hồng A Vương, thị vị liễu bất nhượng thần giới nhất gia độc đại, bản tọa tự nhận một hữu tố thác. Đế Trần bất phương trực ngôn, đính vĩ nhu yếu thập ma điều kiện, tài năng tương hắc thủ giao cấp bản tọa?\"",
+"dich": "Tự biết đuối lý, lại hoàn toàn ở thế yếu, Hắc Ám Tôn Chủ đành chủ động lùi bước, hỏi: \"Trận chiến ở phòng tuyến Hắc Ám Chi Uyên không phải do bản tọa chủ đạo. Thả Hồng Nha Vương chạy là để Thần Giới không một nhà độc đại, bản tọa tự nhận không làm sai. Đế Trần cứ nói thẳng, rốt cuộc cần điều kiện gì mới chịu giao bàn tay đen cho bản tọa?\""
+},
+"127": {
+"goc": "Trương Nhược Trần đạo: \"Tôn chủ thị phủ ngộ hội liễu thập ma?\"",
+"dich": "Trương Nhược Trần nói: \"Tôn chủ có phải đã hiểu lầm gì không?\""
+},
+"128": {
+"goc": "\"Một hữu ngộ hội, bản tọa dã nhận vi giá nhất chiến, một hữu bang thượng thái đại đích mang. Bất như bản tọa tương tinh thiên nhai giao cấp Đế Trần?\" Hắc ám tôn chủ đạo.",
+"dich": "\"Không hiểu lầm, bản tọa cũng cho rằng trận chiến này mình không giúp được nhiều. Hay là bản tọa giao Tinh Thiên Nhai cho Đế Trần?\" Hắc Ám Tôn Chủ nói."
+},
+"129": {
+"goc": "Hư Thiên lộ xuất tâm động chi sắc, đán rất khoai lý tính chiến thắng tham lanh.",
+"dich": "Hư Thiên lộ vẻ động lòng, nhưng rất nhanh lý trí đã chiến thắng lòng tham."
+},
+"130": {
+"goc": "Tinh Thiên Nhai, nãi thị thi ma chi vật. Thùy đắc khứ, đô thị đại họa lâm đầu.",
+"dich": "Tinh Thiên Nhai là vật của Thi Ma. Ai lấy được cũng là đại họa lâm đầu."
+},
+"131": {
+"goc": "Trương Nhược Trần đạo: \"Ngã đảo thị một hữu thập ma oán khí! Đán Hư Thiên hiểm hiệp bị Hồng A Vương sát tử, tôn chủ khước tương kỳ phóng tẩu, giá phần oán khí đích đích xác xác nhu yếu bổ thảm nhất nhị. Bất như, tặng dư nhất phận thông vãng thủy tổ đại đạo đích tu luyện tâm đắc, dữ vạn tượng vô hình đích tu luyện pháp?\"",
+"dich": "Trương Nhược Trần nói: \"Ta thì không có oán khí gì! Nhưng Hư Thiên suýt bị Hồng Nha Vương giết chết, tôn chủ lại thả nó chạy, phần oán khí này quả thật cần bù đắp đôi chút. Chi bằng tặng một phần tâm đắc tu luyện dẫn tới đại đạo Thủy Tổ, cùng với tu luyện pháp Vạn Tượng Vô Hình?\""
+},
+"132": {
+"goc": "Hư Thiên Nhãn tình đốn thời lượng.",
+"dich": "Mắt Hư Thiên lập tức sáng lên."
+},
+"133": {
+"goc": "Mục tiền nhi ngôn, tha đảo thị hữu tự tri chi minh, căn bản một hữu xa vọng quá thủy tổ cảnh giới. Đàn, tu luyện thành kiếm nhị thập ngũ hậu, bán tổ cảnh giới dĩ thị chỉ nhật khả đãi.",
+"dich": "Trước mắt, hắn cũng tự biết mình, căn bản chưa từng vọng tưởng cảnh giới Thủy Tổ. Nhưng sau khi tu luyện thành Kiếm Nhị Thập Ngũ, cảnh giới Bán Tổ đã ở ngay trước mắt."
+},
+"134": {
+"goc": "Bán tổ dã hữu cường nhược chi phân.",
+"dich": "Bán Tổ cũng có mạnh yếu khác nhau."
+},
+"135": {
+"goc": "Tượng Minh Hải chi linh, tiện thị viễn thắng tầm thường bán tổ.",
+"dich": "Như Minh Hải chi linh thì mạnh hơn xa Bán Tổ tầm thường."
+},
+"136": {
+"goc": "Hắc Ám Tôn Chủ khả thị trường sinh bất tử giả, tha đích tu luyện tâm đắc, đối bán tổ nhi ngôn, bỉ nhược hà đông tây đô canh quý trọng.\"",
+"dich": "Hắc Ám Tôn Chủ là trường sinh bất tử giả, tâm đắc tu luyện của hắn đối với Bán Tổ quý giá hơn bất cứ thứ gì."
+},
+"137": {
+"goc": "Trì Dao đạo: \"Tôn chủ đắc đáo hắc thủ, nhất đán dung hợp, tất nhiên khôi phục thủy tổ cấp chiến lực. Đáo thời hầu phản khách vị chủ, kim nhật chúng nhân bức bách đắc hữu hậnnh liệt, tương lai báo phục tựu hữu đa liệt.\"",
+"dich": "Trì Dao nói: \"Tôn chủ có được bàn tay đen, một khi dung hợp tất nhiên khôi phục chiến lực cấp Thủy Tổ. Đến lúc đó phản khách vi chủ, hôm nay chúng ta ép bức hắn càng dữ, tương lai bị trả thù càng nặng.\""
+},
+"138": {
+"goc": "\"Ha ha!\"",
+"dich": "\"Ha ha!\""
+},
+"139": {
+"goc": "Hắc ám tàn khu đại tiếu:\"Lưỡng phận tu luyện tâm đắc nhi dĩ, giá dã toán bức bách? Đế Trần thị chân chính tâm hung quảng khoát đích nhân vật, bản tọa bội phục chí cực, tương lai chúng nhân nhất định hội hữu tái thứ tề càn tác chiến đích hội. \"Minh tổ dữ thần giới, tài thị cộng đồng đích đại địch.\"",
+"dich": "Tàn khu hắc ám cười lớn: \"Hai phần tâm đắc tu luyện mà thôi, thế này cũng tính là ép bức? Đế Trần là nhân vật tâm hung rộng lớn thật sự, bản tọa vô cùng bội phục, tương lai chúng ta nhất định còn có cơ hội kề vai tác chiến. Minh Tổ và Thần Giới mới là đại địch chung.\""
+}
+}
+}
