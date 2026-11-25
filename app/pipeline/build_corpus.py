@@ -83,6 +83,35 @@ def clean(text):
             counts[name] = counts.get(name, 0) + k
     return text, counts
 
+DICH_LAI = Path(__file__).resolve().parent / "hieu-dinh" / "dich-lai"
+
+def ap_dich_lai(noi_dung):
+    """Ap ban dich lai cac doan phien am tho (hieu-dinh/dich-lai/<n>.done.json).
+    Moi doan: {idx: {goc, dich}}; dich rong => bo doan. Khop theo chi so, lech thi tim theo van ban goc."""
+    sua = lech = 0
+    for f in sorted(DICH_LAI.glob("*.done.json")):
+        num = int(f.name.split(".", 1)[0])
+        paras = noi_dung.get(num)
+        if paras is None:
+            continue
+        data = json.loads(f.read_text(encoding="utf-8"))
+        moi = list(paras)
+        for k, d in data["doan"].items():
+            i = int(k)
+            if i < len(paras) and paras[i] == d["goc"]:
+                j = i
+            elif d["goc"] in paras:
+                j = paras.index(d["goc"])
+            elif len(paras) == data.get("so_doan") and i < len(paras):
+                j = i
+            else:
+                lech += 1
+                continue
+            moi[j] = d["dich"]
+            sua += 1
+        noi_dung[num] = [x for x in moi if x and x.strip()]
+    return sua, lech
+
 def main():
     manifest = json.loads((SRC / "manifest.json").read_text(encoding="utf-8"))
     files = {}
@@ -127,6 +156,8 @@ def main():
             e["title"] = tieu_de[e["num"]]
         print(f"tieu de     : sua {k}")
         print(f"hieu dinh   : xong  ({time.time() - t0:.0f}s)")
+        sua, lech = ap_dich_lai(noi_dung)
+        print(f"dich lai    : {sua} doan  (khong khop: {lech})")
 
     for old in OUT.glob("shard-*.json.gz"):
         old.unlink()
