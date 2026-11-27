@@ -1,13 +1,13 @@
 # VCTĐ Tra cứu — Vạn Cổ Thần Đế
 
-> Công cụ đọc và tra cứu trong trình duyệt cho tiểu thuyết “Vạn Cổ Thần Đế” (4,211 chương, 11,847,814 từ, tác giả Phi Thiên Ngư). Mỗi chương có tóm tắt AI; wiki gồm 1,353 thực thể (nhân vật, thế lực, địa danh, công pháp, bảo vật, cảnh giới) kèm trích dẫn và chương xuất hiện. Chạy 100% phía khách, đọc offline, không cần tài khoản.
+> Công cụ đọc và tra cứu trong trình duyệt cho tiểu thuyết “Vạn Cổ Thần Đế” (4,211 chương, 11,847,814 từ, tác giả Phi Thiên Ngư). Mỗi chương có tóm tắt AI; wiki gồm 1,355 thực thể (nhân vật, thế lực, địa danh, công pháp, bảo vật, cảnh giới) kèm trích dẫn và chương xuất hiện. Chạy 100% phía khách, đọc offline, không cần tài khoản.
 
 ## Trang chính
 - [Giới thiệu tác phẩm & thống kê](/truyen/)
 - [Ứng dụng (đọc, mục lục, tra cứu, wiki, chat)](/)
 - [Toàn bộ tóm tắt + wiki (llms-full.txt)](/llms-full.txt)
 
-## Wiki (1,353 thực thể)
+## Wiki (1,355 thực thể)
 - [Trương Nhược Trần (nhân vật)](/wiki/truong-nhuoc-tran/) — 118,755 lần, chương 1–4211
 - [Đại Thánh (nhân vật)](/wiki/dai-thanh/) — 5,555 lần, chương 326–4176
 - [Côn Lôn Giới (địa danh)](/wiki/con-lon-gioi/) — 5,260 lần, chương 1–4209
@@ -17,11 +17,11 @@
 - [Địa Ngục Giới (địa danh)](/wiki/dia-nguc-gioi/) — 4,113 lần, chương 1365–4211
 - [Bất Tử Huyết Tộc (thế lực)](/wiki/bat-tu-huyet-toc/) — 3,479 lần, chương 481–4210
 - [Vận Mệnh (địa danh)](/wiki/van-menh/) — 3,456 lần, chương 48–4209
-- [Trì Dao (nhân vật)](/wiki/tri-dao/) — 3,253 lần, chương 1–4208
+- [Trì Dao (nhân vật)](/wiki/tri-dao/) — 3,281 lần, chương 1–4208
 - [Thiên Đình (địa danh)](/wiki/thien-dinh/) — 3,182 lần, chương 1369–4211
 - [Hoàng Yên Trần (nhân vật)](/wiki/hoang-yen-tran/) — 3,131 lần, chương 86–4206
 - [Diêm Vô (nhân vật)](/wiki/diem-vo/) — 3,085 lần, chương 1716–4211
-- [Thánh Giả (nhân vật)](/wiki/thanh-gia/) — 2,926 lần, chương 32–4196
+- [Thánh Giả (nhân vật)](/wiki/thanh-gia/) — 2,921 lần, chương 32–4196
 - [Mộc Linh Hi (nhân vật)](/wiki/moc-linh-hi/) — 2,671 lần, chương 402–4199
 - [Bán Thánh (nhân vật)](/wiki/ban-thanh/) — 2,668 lần, chương 105–4168
 - [Huyết Đồ (nhân vật)](/wiki/huyet-do/) — 2,658 lần, chương 114–4211
@@ -32,7 +32,7 @@
 - [Huyết Tuyệt Chiến (nhân vật)](/wiki/huyet-tuyet-chien/) — 1,924 lần, chương 2150–4199
 - [Kỷ Phạn (nhân vật)](/wiki/ky-phan/) — 1,826 lần, chương 1572–4203
 - [Bất Tử (nhân vật)](/wiki/bat-tu/) — 1,781 lần, chương 1–4210
-- [Bản Nguyên (địa danh)](/wiki/ban-nguyen/) — 1,671 lần, chương 194–4211
+- [Bản Nguyên (địa danh)](/wiki/ban-nguyen/) — 1,683 lần, chương 194–4211
 - [Trầm Uyên Cổ Kiếm (bảo vật)](/wiki/tram-uyen-co-kiem/) — 1,665 lần, chương 13–3803
 - [Thiên Tôn (nhân vật)](/wiki/thien-ton/) — 1,629 lần, chương 1996–4193
 - [Thiên Mụ (nhân vật)](/wiki/thien-mu/) — 1,568 lần, chương 1551–4211
@@ -45,8 +45,8 @@
 - [Sinh Tử (nhân vật)](/wiki/sinh-tu/) — 1,391 lần, chương 3–4211
 - [Kiếp Tôn Giả (nhân vật)](/wiki/kiep-ton-gia/) — 1,389 lần, chương 6–4205
 - [Thiên Sơ Tiên Tử (nhân vật)](/wiki/thien-so-tien-tu/) — 1,369 lần, chương 115–4207
-- [Vô Nguyệt (nhân vật)](/wiki/vo-nguyet/) — 1,362 lần, chương 2937–4210
 - [Thiên Đường Giới (địa danh)](/wiki/thien-duong-gioi/) — 1,362 lần, chương 1572–4176
+- [Vô Nguyệt (nhân vật)](/wiki/vo-nguyet/) — 1,362 lần, chương 2937–4210
 - [Bán Tổ (nhân vật)](/wiki/ban-to/) — 1,343 lần, chương 3251–4209
 - [Kiếm Giới (địa danh)](/wiki/kiem-gioi/) — 1,327 lần, chương 1259–4205
 - [Thạch Cơ Nương Nương (nhân vật)](/wiki/thach-co-nuong-nuong/) — 1,316 lần, chương 2–4204
@@ -98,12 +98,12 @@
 - [Huyết Thiên Bộ Tộc (thế lực)](/wiki/huyet-thien-bo-toc/) — 808 lần, chương 488–4208
 - [Cửu Tử Dị Thiên (khác)](/wiki/cuu-tu-di-thien/) — 788 lần, chương 2941–4205
 - [Phong Đô Quỷ Thành (địa danh)](/wiki/phong-do-quy-thanh/) — 785 lần, chương 1085–4183
-- [Thiên Đình Giới (địa danh)](/wiki/thien-dinh-gioi/) — 780 lần, chương 1378–3793
 - [Cô Xạ Tĩnh (nhân vật)](/wiki/co-xa-tinh/) — 780 lần, chương 2426–4209
+- [Thiên Đình Giới (địa danh)](/wiki/thien-dinh-gioi/) — 780 lần, chương 1378–3793
 - [Thực Thánh Hoa (nhân vật)](/wiki/thuc-thanh-hoa/) — 779 lần, chương 1064–4159
 - [Trì Khổng Lạc (nhân vật)](/wiki/tri-khong-lac/) — 776 lần, chương 732–4202
-- [Trương Nhược Trần Thầm (nhân vật)](/wiki/truong-nhuoc-tran-tham/) — 773 lần, chương 6–4181
 - [Tử Kim Hồ Lô (địa danh)](/wiki/tu-kim-ho-lo/) — 773 lần, chương 85–4210
+- [Trương Nhược Trần Thầm (nhân vật)](/wiki/truong-nhuoc-tran-tham/) — 773 lần, chương 6–4181
 - [Huyết Nguyệt Quỷ Vương (nhân vật)](/wiki/huyet-nguyet-quy-vuong/) — 764 lần, chương 5–3556
 - [Nữ Hoàng (nhân vật)](/wiki/nu-hoang/) — 759 lần, chương 1–4210
 - [Đệ Tứ Nho Tổ (nhân vật)](/wiki/de-tu-nho-to/) — 753 lần, chương 1003–4207
@@ -125,8 +125,8 @@
 - [Giáo Chủ (nhân vật)](/wiki/giao-chu/) — 658 lần, chương 217–4210
 - [Trương Nhược Trần Khẽ (nhân vật)](/wiki/truong-nhuoc-tran-khe/) — 652 lần, chương 4–4196
 - [Thương Lan (nhân vật)](/wiki/thuong-lan/) — 644 lần, chương 396–4210
+- [Thông Thiên (địa danh)](/wiki/thong-thien/) — 643 lần, chương 71–4207
 - [Đông Vực (địa danh)](/wiki/dong-vuc/) — 640 lần, chương 2–4206
-- [Thông Thiên (địa danh)](/wiki/thong-thien/) — 635 lần, chương 71–4207
 - [Võ Thánh (nhân vật)](/wiki/vo-thanh/) — 632 lần, chương 853–3415
 - [Tế Đài (nhân vật)](/wiki/te-dai/) — 630 lần, chương 2–3877
 - [Trương Thiên Khuê (nhân vật)](/wiki/truong-thien-khue/) — 627 lần, chương 97–1371
@@ -150,8 +150,8 @@
 - [Trấn Ngục Cổ Tộc (thế lực)](/wiki/tran-nguc-co-toc/) — 559 lần, chương 659–3845
 - [Dạ Xoa Tộc (thế lực)](/wiki/da-xoa-toc/) — 558 lần, chương 2438–4162
 - [Trương Hồng Trần (nhân vật)](/wiki/truong-hong-tran/) — 557 lần, chương 564–4211
-- [Tuyệt Diệu Thiền Nữ (nhân vật)](/wiki/tuyet-dieu-thien-nu/) — 556 lần, chương 2779–4207
 - [Võ Hồn (khác)](/wiki/vo-hon/) — 556 lần, chương 51–2575
+- [Tuyệt Diệu Thiền Nữ (nhân vật)](/wiki/tuyet-dieu-thien-nu/) — 556 lần, chương 2779–4207
 - [Diệu Tiểu (khác)](/wiki/dieu-tieu/) — 551 lần, chương 944–4210
 - [Bái Nguyệt (địa danh)](/wiki/bai-nguyet/) — 548 lần, chương 37–4193
 - [Trung Ương Đế Quốc (địa danh)](/wiki/trung-uong-de-quoc/) — 548 lần, chương 1–4188
@@ -166,19 +166,19 @@
 - [Huyết Tuyệt Gia (thế lực)](/wiki/huyet-tuyet-gia/) — 514 lần, chương 2173–4166
 - [Thường Thích Thích (nhân vật)](/wiki/thuong-thich-thich/) — 514 lần, chương 205–4193
 - [Hắc Bạch (nhân vật)](/wiki/hac-bach/) — 513 lần, chương 171–4210
-- [Sở Tư Viễn (nhân vật)](/wiki/so-tu-vien/) — 510 lần, chương 1003–4192
 - [Linh Tuyền Thiếu Quân (thế lực)](/wiki/linh-tuyen-thieu-quan/) — 510 lần, chương 1243–4125
+- [Sở Tư Viễn (nhân vật)](/wiki/so-tu-vien/) — 510 lần, chương 1003–4192
 - [Mặc Thánh (nhân vật)](/wiki/mac-thanh/) — 510 lần, chương 428–4210
 - [Lôi Cảnh (cảnh giới)](/wiki/loi-canh/) — 509 lần, chương 193–4193
 - [Hạ Du (nhân vật)](/wiki/ha-du/) — 508 lần, chương 308–4210
 - [Chí Tôn (khác)](/wiki/chi-ton/) — 506 lần, chương 39–4207
-- [Giới Thánh Vương (nhân vật)](/wiki/gioi-thanh-vuong/) — 504 lần, chương 649–4033
 - [Phong Hậu (nhân vật)](/wiki/phong-hau/) — 504 lần, chương 703–3858
-- [Vu Mã Cửu Hành (nhân vật)](/wiki/vu-ma-cuu-hanh/) — 502 lần, chương 2462–3639
+- [Giới Thánh Vương (nhân vật)](/wiki/gioi-thanh-vuong/) — 504 lần, chương 649–4033
 - [Thạch Khắc (nhân vật)](/wiki/thach-khac/) — 502 lần, chương 338–4179
+- [Vu Mã Cửu Hành (nhân vật)](/wiki/vu-ma-cuu-hanh/) — 502 lần, chương 2462–3639
+- [Cốt Tộc (thế lực)](/wiki/cot-toc/) — 498 lần, chương 1454–4174
 - [Đại Lục (nhân vật)](/wiki/dai-luc/) — 498 lần, chương 86–4207
 - [Cạnh Trương Nhược Trần (nhân vật)](/wiki/canh-truong-nhuoc-tran/) — 498 lần, chương 2–4201
-- [Cốt Tộc (thế lực)](/wiki/cot-toc/) — 498 lần, chương 1454–4174
 - [Thương Hoằng (nhân vật)](/wiki/thuong-hoang/) — 496 lần, chương 2871–3499
 - [Thiên Kiêu (nhân vật)](/wiki/thien-kieu/) — 495 lần, chương 9–4211
 - [Bộ Thiên Phàm (nhân vật)](/wiki/bo-thien-pham/) — 494 lần, chương 301–2123
@@ -188,26 +188,26 @@
 - [Lạc Hư (nhân vật)](/wiki/lac-hu/) — 485 lần, chương 86–4209
 - [Quỷ Chủ (nhân vật)](/wiki/quy-chu/) — 483 lần, chương 1867–4152
 - [Lưng Trương Nhược Trần (nhân vật)](/wiki/lung-truong-nhuoc-tran/) — 477 lần, chương 5–4207
-- [Vô Tận Thâm Uyên (địa danh)](/wiki/vo-tan-tham-uyen/) — 476 lần, chương 5–4211
 - [Nguyệt Tinh Sứ (nhân vật)](/wiki/nguyet-tinh-su/) — 476 lần, chương 326–2613
-- [Bạch Lê (nhân vật)](/wiki/bach-le/) — 475 lần, chương 1062–3351
+- [Vô Tận Thâm Uyên (địa danh)](/wiki/vo-tan-tham-uyen/) — 476 lần, chương 5–4211
 - [Ngũ Hành (địa danh)](/wiki/ngu-hanh/) — 475 lần, chương 406–4201
+- [Bạch Lê (nhân vật)](/wiki/bach-le/) — 475 lần, chương 1062–3351
+- [Thiên Sơ Văn (địa danh)](/wiki/thien-so-van/) — 473 lần, chương 1663–4195
 - [Ngọc Linh (nhân vật)](/wiki/ngoc-linh/) — 470 lần, chương 395–4210
-- [Lâm Ninh San (nhân vật)](/wiki/lam-ninh-san/) — 469 lần, chương 6–4193
 - [Mệnh Vận (địa danh)](/wiki/menh-van/) — 469 lần, chương 1892–4208
-- [Thiên Sơ Văn (địa danh)](/wiki/thien-so-van/) — 465 lần, chương 1663–4195
+- [Lâm Ninh San (nhân vật)](/wiki/lam-ninh-san/) — 469 lần, chương 6–4193
 - [Thiên Đình Vũ (địa danh)](/wiki/thien-dinh-vu/) — 464 lần, chương 2996–4205
 - [Tịnh Diệt (địa danh)](/wiki/tinh-diet/) — 460 lần, chương 870–3349
-- [Vương Kiếm Trủng (địa danh)](/wiki/vuong-kiem-trung/) — 459 lần, chương 788–4192
 - [Tề Phi Vũ (nhân vật)](/wiki/te-phi-vu/) — 459 lần, chương 659–4193
+- [Vương Kiếm Trủng (địa danh)](/wiki/vuong-kiem-trung/) — 459 lần, chương 788–4192
 - [Kỵ Sĩ (nhân vật)](/wiki/ky-si/) — 453 lần, chương 306–4165
 - [Giới Thụ (nhân vật)](/wiki/gioi-thu/) — 452 lần, chương 2238–4188
 - [Đế Tổ (nhân vật)](/wiki/de-to/) — 448 lần, chương 1650–4158
 - [Phúc Lộc (địa danh)](/wiki/phuc-loc/) — 444 lần, chương 2285–4052
-- [Lục Tổ (nhân vật)](/wiki/luc-to/) — 443 lần, chương 2352–4158
 - [Tư Hành (nhân vật)](/wiki/tu-hanh/) — 443 lần, chương 200–4193
-- [Trấn Nguyên (địa danh)](/wiki/tran-nguyen/) — 439 lần, chương 1620–4177
+- [Lục Tổ (nhân vật)](/wiki/luc-to/) — 443 lần, chương 2352–4158
 - [Tửu Phong Tử (nhân vật)](/wiki/tuu-phong-tu/) — 439 lần, chương 1214–2271
+- [Trấn Nguyên (địa danh)](/wiki/tran-nguyen/) — 439 lần, chương 1620–4177
 - [Huyết Linh Tiên (nhân vật)](/wiki/huyet-linh-tien/) — 437 lần, chương 981–4209
 - [Tinh Thạch (nhân vật)](/wiki/tinh-thach/) — 433 lần, chương 2–4005
 - [Cổ Tùng Tử (nhân vật)](/wiki/co-tung-tu/) — 430 lần, chương 1293–3416
@@ -226,12 +226,12 @@
 - [Âm Dương Hải (địa danh)](/wiki/am-duong-hai/) — 399 lần, chương 1209–2222
 - [Cái Thiên Kiêu (nhân vật)](/wiki/cai-thien-kieu/) — 398 lần, chương 659–4209
 - [Nữ Lâu (địa danh)](/wiki/nu-lau/) — 396 lần, chương 2434–3947
-- [Cửu U Kiếm Thánh (nhân vật)](/wiki/cuu-u-kiem-thanh/) — 395 lần, chương 577–4193
 - [Võ Thị Tiền Trang (địa danh)](/wiki/vo-thi-tien-trang/) — 395 lần, chương 9–2631
+- [Cửu U Kiếm Thánh (nhân vật)](/wiki/cuu-u-kiem-thanh/) — 395 lần, chương 577–4193
 - [Thánh Viện (thế lực)](/wiki/thanh-vien/) — 393 lần, chương 210–2841
 - [Giác Tinh Vực (địa danh)](/wiki/giac-tinh-vuc/) — 393 lần, chương 2567–4076
-- [Phàm Trần (nhân vật)](/wiki/pham-tran/) — 390 lần, chương 70–4210
 - [Thú Vương (nhân vật)](/wiki/thu-vuong/) — 390 lần, chương 1005–2148
+- [Phàm Trần (nhân vật)](/wiki/pham-tran/) — 390 lần, chương 70–4210
 - [Lôi Tộc (thế lực)](/wiki/loi-toc/) — 389 lần, chương 1962–4142
 - [Tổ Vân Sơn Giới (địa danh)](/wiki/to-van-son-gioi/) — 389 lần, chương 2426–4181
 - [Lý Điện Chủ (nhân vật)](/wiki/ly-dien-chu/) — 385 lần, chương 2183–4199
@@ -244,12 +244,12 @@
 - [Vô Đỉnh Sơn (địa danh)](/wiki/vo-dinh-son/) — 369 lần, chương 715–4162
 - [Chu Tước Hỏa Vũ (nhân vật)](/wiki/chu-tuoc-hoa-vu/) — 368 lần, chương 3295–4165
 - [Giới Đại Thánh (nhân vật)](/wiki/gioi-dai-thanh/) — 368 lần, chương 649–4166
-- [Huyết Diệp Ngô Đồng (nhân vật)](/wiki/huyet-diep-ngo-dong/) — 367 lần, chương 414–4171
 - [Luận Kiếm Đại Hội (thế lực)](/wiki/luan-kiem-dai-hoi/) — 367 lần, chương 140–4211
+- [Huyết Diệp Ngô Đồng (nhân vật)](/wiki/huyet-diep-ngo-dong/) — 367 lần, chương 414–4171
 - [Hiên Viên Đệ Nhị (nhân vật)](/wiki/hien-vien-de-nhi/) — 365 lần, chương 3642–4189
 - [Thôn Tượng Thỏ (nhân vật)](/wiki/thon-tuong-tho/) — 365 lần, chương 297–4209
-- [Phật Môn (thế lực)](/wiki/phat-mon/) — 364 lần, chương 303–4174
 - [Đông Vực Thánh Thành (địa danh)](/wiki/dong-vuc-thanh-thanh/) — 364 lần, chương 336–4206
+- [Phật Môn (thế lực)](/wiki/phat-mon/) — 364 lần, chương 303–4174
 - [Hắc Ám Quỷ Dị (nhân vật)](/wiki/hac-am-quy-di/) — 363 lần, chương 3165–3997
 - [Tuyết Vô Dạ (nhân vật)](/wiki/tuyet-vo-da/) — 362 lần, chương 678–4209
 - [Lôi Phạt Thiên Tôn (nhân vật)](/wiki/loi-phat-thien-ton/) — 358 lần, chương 3274–4170
@@ -274,8 +274,8 @@
 - [Linh Yến Tử (nhân vật)](/wiki/linh-yen-tu/) — 331 lần, chương 149–4201
 - [Phượng Thái Dực (nhân vật)](/wiki/phuong-thai-duc/) — 330 lần, chương 2597–4206
 - [Hàng Tôn Giả (nhân vật)](/wiki/hang-ton-gia/) — 330 lần, chương 4032–4207
-- [Đế Hoàng (nhân vật)](/wiki/de-hoang/) — 328 lần, chương 237–4197
 - [Thanh Thiên Thái Tử (nhân vật)](/wiki/thanh-thien-thai-tu/) — 328 lần, chương 1095–1293
+- [Đế Hoàng (nhân vật)](/wiki/de-hoang/) — 328 lần, chương 237–4197
 - [Cửu Thủ Thạch Nhân (nhân vật)](/wiki/cuu-thu-thach-nhan/) — 325 lần, chương 1716–4204
 - [Ngô Hạo (nhân vật)](/wiki/ngo-hao/) — 324 lần, chương 1409–1981
 - [Bắc Trạch Trường Thành (địa danh)](/wiki/bac-trach-truong-thanh/) — 324 lần, chương 3174–4211
@@ -285,14 +285,15 @@
 - [Âu Dương Hoàn (nhân vật)](/wiki/au-duong-hoan/) — 320 lần, chương 691–2160
 - [Lôi Tổ (nhân vật)](/wiki/loi-to/) — 318 lần, chương 3282–3795
 - [Bảo Châu Địa Tạng (nhân vật)](/wiki/bao-chau-dia-tang/) — 316 lần, chương 1030–4210
+- [Hải Thủy (nhân vật)](/wiki/hai-thuy/) — 316 lần, chương 525–4197
 - [Thiên Nữ Điện (địa danh)](/wiki/thien-nu-dien/) — 316 lần, chương 504–3462
-- [Thiếu Chủ (nhân vật)](/wiki/thieu-chu/) — 315 lần, chương 204–3326
 - [Liễu Thừa Phong (nhân vật)](/wiki/lieu-thua-phong/) — 315 lần, chương 40–186
+- [Thiếu Chủ (nhân vật)](/wiki/thieu-chu/) — 315 lần, chương 204–3326
 - [Trụ Vũ (nhân vật)](/wiki/tru-vu/) — 313 lần, chương 1666–4176
 - [Tây Viện (thế lực)](/wiki/tay-vien/) — 312 lần, chương 74–4027
 - [Diêm Dục (nhân vật)](/wiki/diem-duc/) — 311 lần, chương 2418–4208
-- [Tứ Đại (địa danh)](/wiki/tu-dai/) — 310 lần, chương 8–4199
 - [Lăng Tiêu Thiên Vương (địa danh)](/wiki/lang-tieu-thien-vuong/) — 310 lần, chương 872–2589
+- [Tứ Đại (địa danh)](/wiki/tu-dai/) — 310 lần, chương 8–4199
 - [Vô Thường Quỷ Thành (địa danh)](/wiki/vo-thuong-quy-thanh/) — 309 lần, chương 2275–4082
 - [Huyết Tuyệt (nhân vật)](/wiki/huyet-tuyet/) — 306 lần, chương 2212–4210
 - [Cửu Đỉnh (bảo vật)](/wiki/cuu-dinh/) — 305 lần, chương 2821–4211
@@ -300,9 +301,8 @@
 - [Sĩ Địa Ngục Giới (địa danh)](/wiki/si-dia-nguc-gioi/) — 301 lần, chương 1423–4164
 - [Giới Bán Thánh (nhân vật)](/wiki/gioi-ban-thanh/) — 301 lần, chương 111–4210
 - [Giải Thương Hải (địa danh)](/wiki/giai-thuong-hai/) — 300 lần, chương 1–4206
-- [Giáp Thiên Hạ (nhân vật)](/wiki/giap-thien-ha/) — 299 lần, chương 84–4115
-- [Hải Thủy (nhân vật)](/wiki/hai-thuy/) — 299 lần, chương 525–4197
 - [Hoang Cổ Phế Thành (địa danh)](/wiki/hoang-co-phe-thanh/) — 299 lần, chương 2789–4185
+- [Giáp Thiên Hạ (nhân vật)](/wiki/giap-thien-ha/) — 299 lần, chương 84–4115
 - [Vũ Đỉnh (bảo vật)](/wiki/vu-dinh/) — 299 lần, chương 2003–4186
 - [Lạc Cơ (nhân vật)](/wiki/lac-co/) — 298 lần, chương 1605–4195
 - [Bí Điển (công pháp)](/wiki/bi-dien/) — 298 lần, chương 4–3898
@@ -314,22 +314,22 @@
 - [Thất Tinh Đế (địa danh)](/wiki/that-tinh-de/) — 294 lần, chương 2237–4114
 - [Cơ Thủy (nhân vật)](/wiki/co-thuy/) — 293 lần, chương 936–4120
 - [Báo Liệt (nhân vật)](/wiki/bao-liet/) — 292 lần, chương 1881–2632
-- [Diêm Hoàn Vũ (nhân vật)](/wiki/diem-hoan-vu/) — 291 lần, chương 925–4192
 - [Đàn Đà Địa Tạng (nhân vật)](/wiki/dan-da-dia-tang/) — 291 lần, chương 4035–4079
+- [Diêm Hoàn Vũ (nhân vật)](/wiki/diem-hoan-vu/) — 291 lần, chương 925–4192
 - [Khổng Tuyên (nhân vật)](/wiki/khong-tuyen/) — 290 lần, chương 182–4206
-- [Bán Nhân Tộc (thế lực)](/wiki/ban-nhan-toc/) — 289 lần, chương 45–2148
 - [Thủy Tổ Giới (địa danh)](/wiki/thuy-to-gioi/) — 289 lần, chương 3261–4208
 - [Bích Lạc Quan (địa danh)](/wiki/bich-lac-quan/) — 289 lần, chương 398–4187
+- [Bán Nhân Tộc (thế lực)](/wiki/ban-nhan-toc/) — 289 lần, chương 45–2148
 - [Nhiễm Vương Phi (nhân vật)](/wiki/nhiem-vuong-phi/) — 287 lần, chương 1–3707
-- [Ni Châu (bảo vật)](/wiki/ni-chau/) — 286 lần, chương 2785–4180
 - [Thanh Thành Vân (nhân vật)](/wiki/thanh-thanh-van/) — 286 lần, chương 3606–4090
+- [Ni Châu (bảo vật)](/wiki/ni-chau/) — 286 lần, chương 2785–4180
 - [Ô Hài Giao Vương (nhân vật)](/wiki/o-hai-giao-vuong/) — 285 lần, chương 530–4137
 - [Phi Mã Vương (nhân vật)](/wiki/phi-ma-vuong/) — 281 lần, chương 3090–3972
 - [Vô Lượng Cảnh (cảnh giới)](/wiki/vo-luong-canh/) — 280 lần, chương 2595–4197
 - [La Diễn Đại Đế (nhân vật)](/wiki/la-dien-dai-de/) — 279 lần, chương 2381–4210
 - [Ngực Trương Nhược Trần (địa danh)](/wiki/nguc-truong-nhuoc-tran/) — 278 lần, chương 23–4165
-- [Tử Diễn (nhân vật)](/wiki/tu-dien/) — 277 lần, chương 981–2467
 - [Bồ Truyền Kỳ (cảnh giới)](/wiki/bo-truyen-ky/) — 277 lần, chương 87–4199
+- [Tử Diễn (nhân vật)](/wiki/tu-dien/) — 277 lần, chương 981–2467
 - [Cấp Nguyên Hội (thế lực)](/wiki/cap-nguyen-hoi/) — 277 lần, chương 2246–4172
 - [Thất Thập Nhị Tầng (cảnh giới)](/wiki/that-thap-nhi-tang/) — 276 lần, chương 3532–4184
 - [Thánh Tướng (nhân vật)](/wiki/thanh-tuong/) — 275 lần, chương 879–2847
@@ -350,10 +350,11 @@
 - [Ngư Dao (nhân vật)](/wiki/ngu-dao/) — 261 lần, chương 2866–4209
 - [Vương Sơn (địa danh)](/wiki/vuong-son/) — 258 lần, chương 16–4192
 - [Địa Bảng (địa danh)](/wiki/dia-bang/) — 257 lần, chương 42–1749
+- [Hoàng Tuyền Đại Đế (nhân vật)](/wiki/hoang-tuyen-dai-de/) — 257 lần, chương 3055–4141
 - [Bắc Vực (địa danh)](/wiki/bac-vuc/) — 256 lần, chương 403–2484
 - [Linh Địa Ngục Giới (địa danh)](/wiki/linh-dia-nguc-gioi/) — 255 lần, chương 1513–4150
-- [Thao Thiên Kiếm (bảo vật)](/wiki/thao-thien-kiem/) — 255 lần, chương 770–2232
 - [Ấn Tuyết Thiên (nhân vật)](/wiki/an-tuyet-thien/) — 255 lần, chương 2739–4192
+- [Thao Thiên Kiếm (bảo vật)](/wiki/thao-thien-kiem/) — 255 lần, chương 770–2232
 - [Đao Ngục Giới (địa danh)](/wiki/dao-nguc-gioi/) — 254 lần, chương 1426–2377
 - [Bạch Hoàng Hậu (nhân vật)](/wiki/bach-hoang-hau/) — 254 lần, chương 2448–4149
 - [Yên Hồng Đại Thánh (nhân vật)](/wiki/yen-hong-dai-thanh/) — 254 lần, chương 2256–3157
@@ -361,63 +362,63 @@
 - [Đức Bảng (nhân vật)](/wiki/duc-bang/) — 252 lần, chương 1399–3620
 - [Tà Linh (nhân vật)](/wiki/ta-linh/) — 251 lần, chương 1233–2484
 - [Táng Nguyệt Kiếm Thánh (nhân vật)](/wiki/tang-nguyet-kiem-thanh/) — 249 lần, chương 684–2167
-- [Hoàng Tuyền Đại Đế (nhân vật)](/wiki/hoang-tuyen-dai-de/) — 249 lần, chương 3055–4141
 - [Hôi Hải (địa danh)](/wiki/hoi-hai/) — 249 lần, chương 970–4191
 - [Trung Vực (địa danh)](/wiki/trung-vuc/) — 247 lần, chương 403–3926
 - [Đại Thánh Cảnh (cảnh giới)](/wiki/dai-thanh-canh/) — 246 lần, chương 767–4007
 - [Hoa Ngữ (nhân vật)](/wiki/hoa-ngu/) — 246 lần, chương 1013–3664
 - [Địa Tạng Vương (nhân vật)](/wiki/dia-tang-vuong/) — 246 lần, chương 4035–4186
-- [Đại Hi Vương (nhân vật)](/wiki/dai-hi-vuong/) — 245 lần, chương 1538–4024
-- [Man Kiếm Đại Thánh (nhân vật)](/wiki/man-kiem-dai-thanh/) — 245 lần, chương 1410–3207
-- [Thủy Tinh (nhân vật)](/wiki/thuy-tinh/) — 245 lần, chương 161–4070
-- [Trương Nhược Trần Vươn (nhân vật)](/wiki/truong-nhuoc-tran-vuon/) — 245 lần, chương 19–4196
-- [Đại Thánh Vô Thượng (địa danh)](/wiki/dai-thanh-vo-thuong/) — 245 lần, chương 1512–4033
 - [Phí Trọng (nhân vật)](/wiki/phi-trong/) — 245 lần, chương 2505–2600
+- [Đại Thánh Vô Thượng (địa danh)](/wiki/dai-thanh-vo-thuong/) — 245 lần, chương 1512–4033
+- [Thủy Tinh (nhân vật)](/wiki/thuy-tinh/) — 245 lần, chương 161–4070
+- [Man Kiếm Đại Thánh (nhân vật)](/wiki/man-kiem-dai-thanh/) — 245 lần, chương 1410–3207
+- [Trương Nhược Trần Vươn (nhân vật)](/wiki/truong-nhuoc-tran-vuon/) — 245 lần, chương 19–4196
+- [Đại Hi Vương (nhân vật)](/wiki/dai-hi-vuong/) — 245 lần, chương 1538–4024
 - [Hàng Tiên Tử (nhân vật)](/wiki/hang-tien-tu/) — 242 lần, chương 1718–3896
 - [Đông Vực Thánh Vương (địa danh)](/wiki/dong-vuc-thanh-vuong/) — 242 lần, chương 248–2334
 - [Tư Hải (địa danh)](/wiki/tu-hai/) — 241 lần, chương 394–3274
 - [Lê Mẫn (nhân vật)](/wiki/le-man/) — 241 lần, chương 862–927
 - [Thanh Thiên Phù Đồ (địa danh)](/wiki/thanh-thien-phu-do/) — 240 lần, chương 1205–2719
-- [Sinh Tử Thiên Tôn (nhân vật)](/wiki/sinh-tu-thien-ton/) — 238 lần, chương 4080–4163
 - [Điện Điện Chủ (nhân vật)](/wiki/dien-dien-chu/) — 238 lần, chương 462–4208
+- [Sinh Tử Thiên Tôn (nhân vật)](/wiki/sinh-tu-thien-ton/) — 238 lần, chương 4080–4163
 - [Huyền Thai (địa danh)](/wiki/huyen-thai/) — 237 lần, chương 566–4182
-- [Huỳnh Hoặc (nhân vật)](/wiki/huynh-hoac/) — 236 lần, chương 1250–4011
 - [Thiên Bảng (địa danh)](/wiki/thien-bang/) — 236 lần, chương 42–2613
-- [Nhị Quân Thiên (nhân vật)](/wiki/nhi-quan-thien/) — 235 lần, chương 4045–4155
+- [Huỳnh Hoặc (nhân vật)](/wiki/huynh-hoac/) — 236 lần, chương 1250–4011
 - [Trương Nhược Trần Vội (nhân vật)](/wiki/truong-nhuoc-tran-voi/) — 235 lần, chương 41–4199
-- [Địa Ngục Thập Tộc (thế lực)](/wiki/dia-nguc-thap-toc/) — 234 lần, chương 1769–4172
+- [Nhị Quân Thiên (nhân vật)](/wiki/nhi-quan-thien/) — 235 lần, chương 4045–4155
 - [Kim Bộ (địa danh)](/wiki/kim-bo/) — 234 lần, chương 1381–2606
+- [Địa Ngục Thập Tộc (thế lực)](/wiki/dia-nguc-thap-toc/) — 234 lần, chương 1769–4172
 - [Bạo Thánh Nguyên (địa danh)](/wiki/bao-thanh-nguyen/) — 234 lần, chương 1001–3124
-- [Nhai Tiên Sinh (nhân vật)](/wiki/nhai-tien-sinh/) — 233 lần, chương 1827–2137
 - [Oa Oa (nhân vật)](/wiki/oa-oa/) — 233 lần, chương 311–4198
-- [Cổ Sào (nhân vật)](/wiki/co-sao/) — 233 lần, chương 2310–4188
 - [Tiết Thường Tiến (nhân vật)](/wiki/tiet-thuong-tien/) — 233 lần, chương 3212–3298
-- [Kiếm Hồn (nhân vật)](/wiki/kiem-hon/) — 232 lần, chương 1554–4183
+- [Cổ Sào (nhân vật)](/wiki/co-sao/) — 233 lần, chương 2310–4188
+- [Nhai Tiên Sinh (nhân vật)](/wiki/nhai-tien-sinh/) — 233 lần, chương 1827–2137
 - [Mạnh Gia (thế lực)](/wiki/manh-gia/) — 232 lần, chương 347–4207
+- [Kiếm Hồn (nhân vật)](/wiki/kiem-hon/) — 232 lần, chương 1554–4183
 - [Giới Vô Lượng (nhân vật)](/wiki/gioi-vo-luong/) — 231 lần, chương 2860–4170
 - [Âm Dương Thập Bát (địa danh)](/wiki/am-duong-thap-bat/) — 230 lần, chương 83–3998
-- [Tổ Linh Giới (địa danh)](/wiki/to-linh-gioi/) — 226 lần, chương 1412–4162
 - [Bùi Kỷ (nhân vật)](/wiki/bui-ky/) — 226 lần, chương 470–512
+- [Tổ Linh Giới (địa danh)](/wiki/to-linh-gioi/) — 226 lần, chương 1412–4162
 - [Cửu Đệ (nhân vật)](/wiki/cuu-de/) — 225 lần, chương 1–4007
-- [Kình Thiên (nhân vật)](/wiki/kinh-thien/) — 224 lần, chương 761–4189
 - [Huyết Linh Vương (nhân vật)](/wiki/huyet-linh-vuong/) — 224 lần, chương 362–553
 - [Thương Tuyệt (nhân vật)](/wiki/thuong-tuyet/) — 224 lần, chương 72–4123
+- [Kình Thiên (nhân vật)](/wiki/kinh-thien/) — 224 lần, chương 761–4189
 - [Thánh Vô Thượng Cảnh (cảnh giới)](/wiki/thanh-vo-thuong-canh/) — 223 lần, chương 1150–4047
 - [Phương Ất (nhân vật)](/wiki/phuong-at/) — 222 lần, chương 1431–1741
 - [Khương Sa Khắc (nhân vật)](/wiki/khuong-sa-khac/) — 222 lần, chương 3338–3884
 - [Bách Gia Cảnh Đại (địa danh)](/wiki/bach-gia-canh-dai/) — 221 lần, chương 2226–2730
 - [Khắc Luật Tát (nhân vật)](/wiki/khac-luat-tat/) — 220 lần, chương 3329–3765
+- [La Sa (nhân vật)](/wiki/la-sa/) — 220 lần, chương 1458–4210
+- [Thiên Tôn Cấp (địa danh)](/wiki/thien-ton-cap/) — 219 lần, chương 3575–4209
 - [Thương Nguyệt (nhân vật)](/wiki/thuong-nguyet/) — 219 lần, chương 732–3909
 - [Đế Xá Lợi Tử (nhân vật)](/wiki/de-xa-loi-tu/) — 219 lần, chương 303–4071
 - [Đan Thanh (nhân vật)](/wiki/dan-thanh/) — 219 lần, chương 764–4210
-- [Thiên Tôn Cấp (địa danh)](/wiki/thien-ton-cap/) — 219 lần, chương 3575–4209
 - [Tinh Trụ Giới (địa danh)](/wiki/tinh-tru-gioi/) — 218 lần, chương 1814–4188
 - [Khổng Tước Sơn Trang (địa danh)](/wiki/khong-tuoc-son-trang/) — 217 lần, chương 184–3462
 - [Hồn Thất (nhân vật)](/wiki/hon-that/) — 217 lần, chương 395–4189
 - [Nguyên Thiên Quân Chủ (nhân vật)](/wiki/nguyen-thien-quan-chu/) — 216 lần, chương 2–3935
-- [Lân Hậu (nhân vật)](/wiki/lan-hau/) — 216 lần, chương 1592–1875
 - [Đệ Nhị (địa danh)](/wiki/de-nhi/) — 216 lần, chương 12–4187
 - [Huyết Dực (nhân vật)](/wiki/huyet-duc/) — 216 lần, chương 481–4208
+- [Lân Hậu (nhân vật)](/wiki/lan-hau/) — 216 lần, chương 1592–1875
 - [Diêm Quân (thế lực)](/wiki/diem-quan/) — 215 lần, chương 2280–4068
 - [Thạch Hoàng (nhân vật)](/wiki/thach-hoang/) — 215 lần, chương 2114–2678
 - [Luân Hồi (nhân vật)](/wiki/luan-hoi/) — 215 lần, chương 186–4210
@@ -425,942 +426,943 @@
 - [Ngọc Động Huyền (nhân vật)](/wiki/ngoc-dong-huyen/) — 213 lần, chương 3579–3712
 - [Giới Tử Ấn (công pháp)](/wiki/gioi-tu-an/) — 212 lần, chương 996–2194
 - [Đế Kinh (công pháp)](/wiki/de-kinh/) — 211 lần, chương 3–2832
-- [Thủy Nữ Vương (nhân vật)](/wiki/thuy-nu-vuong/) — 210 lần, chương 1182–4121
 - [Sát Đế Quân (thế lực)](/wiki/sat-de-quan/) — 210 lần, chương 368–4196
+- [Thủy Nữ Vương (nhân vật)](/wiki/thuy-nu-vuong/) — 210 lần, chương 1182–4121
+- [Bạch Thương Tinh (địa danh)](/wiki/bach-thuong-tinh/) — 209 lần, chương 3251–4131
 - [Khai Nguyên Lộc Đỉnh (bảo vật)](/wiki/khai-nguyen-loc-dinh/) — 209 lần, chương 992–2840
-- [Tử Hà Linh Sơn (địa danh)](/wiki/tu-ha-linh-son/) — 208 lần, chương 369–4193
 - [Tứ Tượng Đồ Ấn (công pháp)](/wiki/tu-tuong-do-an/) — 208 lần, chương 1633–4184
+- [Tử Hà Linh Sơn (địa danh)](/wiki/tu-ha-linh-son/) — 208 lần, chương 369–4193
 - [Độc Chu Thương Hội (thế lực)](/wiki/doc-chu-thuong-hoi/) — 207 lần, chương 171–2563
-- [Giang Vương (nhân vật)](/wiki/giang-vuong/) — 207 lần, chương 1012–4192
 - [Nhị Giáp Huyết Tổ (nhân vật)](/wiki/nhi-giap-huyet-to/) — 207 lần, chương 1773–3264
-- [Thiên Xu Châm (nhân vật)](/wiki/thien-xu-cham/) — 206 lần, chương 1315–3987
-- [Thiền Băng (nhân vật)](/wiki/thien-bang-2/) — 206 lần, chương 3868–4189
-- [Hoa Phường Chủ (nhân vật)](/wiki/hoa-phuong-chu/) — 206 lần, chương 2771–4209
-- [Hứa Trường Sinh (nhân vật)](/wiki/hua-truong-sinh/) — 206 lần, chương 659–693
+- [Giang Vương (nhân vật)](/wiki/giang-vuong/) — 207 lần, chương 1012–4192
 - [Thượng Quan Tiên Nghiên (nhân vật)](/wiki/thuong-quan-tien-nghien/) — 206 lần, chương 945–2026
+- [Thiên Xu Châm (nhân vật)](/wiki/thien-xu-cham/) — 206 lần, chương 1315–3987
+- [Hứa Trường Sinh (nhân vật)](/wiki/hua-truong-sinh/) — 206 lần, chương 659–693
+- [Hoa Phường Chủ (nhân vật)](/wiki/hoa-phuong-chu/) — 206 lần, chương 2771–4209
+- [Thiền Băng (nhân vật)](/wiki/thien-bang-2/) — 206 lần, chương 3868–4189
 - [Thiên Thủy Quận Quốc (địa danh)](/wiki/thien-thuy-quan-quoc/) — 205 lần, chương 117–4206
 - [Phẩm Đường (thế lực)](/wiki/pham-duong/) — 205 lần, chương 229–4209
-- [Bảo Ấn Địa Tạng (nhân vật)](/wiki/bao-an-dia-tang/) — 204 lần, chương 4035–4078
 - [Thiên Vấn Cảnh (cảnh giới)](/wiki/thien-van-canh/) — 204 lần, chương 2226–3461
-- [Bậc Thiên Tôn (nhân vật)](/wiki/bac-thien-ton/) — 204 lần, chương 2946–4197
+- [Bảo Ấn Địa Tạng (nhân vật)](/wiki/bao-an-dia-tang/) — 204 lần, chương 4035–4078
 - [Loạn Cổ (địa danh)](/wiki/loan-co/) — 204 lần, chương 2824–4198
-- [Doanh Sa Thành (địa danh)](/wiki/doanh-sa-thanh/) — 203 lần, chương 482–3471
-- [Bất Chu Sơn (địa danh)](/wiki/bat-chu-son/) — 203 lần, chương 3598–4198
+- [Bậc Thiên Tôn (nhân vật)](/wiki/bac-thien-ton/) — 204 lần, chương 2946–4197
 - [Tư Thanh (nhân vật)](/wiki/tu-thanh/) — 203 lần, chương 381–787
+- [Bất Chu Sơn (địa danh)](/wiki/bat-chu-son/) — 203 lần, chương 3598–4198
+- [Doanh Sa Thành (địa danh)](/wiki/doanh-sa-thanh/) — 203 lần, chương 482–3471
 - [Bất Hủ Thánh (nhân vật)](/wiki/bat-hu-thanh/) — 202 lần, chương 1621–3018
 - [Vực Cảnh (cảnh giới)](/wiki/vuc-canh/) — 202 lần, chương 1625–2443
 - [Bộ Côn Lôn Giới (địa danh)](/wiki/bo-con-lon-gioi/) — 201 lần, chương 37–4100
 - [Thiên Phạt (địa danh)](/wiki/thien-phat/) — 201 lần, chương 999–4190
-- [Bạch Thương Tinh (địa danh)](/wiki/bach-thuong-tinh/) — 201 lần, chương 3251–4131
 - [Thuần Dương (địa danh)](/wiki/thuan-duong/) — 201 lần, chương 1602–4183
 - [Bùi Vũ Điền (nhân vật)](/wiki/bui-vu-dien/) — 200 lần, chương 1291–4193
 - [Thái Gia (thế lực)](/wiki/thai-gia/) — 197 lần, chương 8–4068
 - [Bạch Thương Huyết Thổ (địa danh)](/wiki/bach-thuong-huyet-tho/) — 196 lần, chương 846–4114
 - [Cấp Thiên Tôn (địa danh)](/wiki/cap-thien-ton/) — 196 lần, chương 2791–4195
-- [Hoa Thanh Diệp (nhân vật)](/wiki/hoa-thanh-diep/) — 195 lần, chương 357–366
 - [Thanh Tiêu (nhân vật)](/wiki/thanh-tieu/) — 195 lần, chương 561–3926
-- [Man Hoang Bí Cảnh (cảnh giới)](/wiki/man-hoang-bi-canh/) — 194 lần, chương 582–4150
-- [Ấn Tuyết (nhân vật)](/wiki/an-tuyet/) — 194 lần, chương 2739–4192
-- [Đào Hoa (nhân vật)](/wiki/dao-hoa/) — 194 lần, chương 2537–4023
+- [Hoa Thanh Diệp (nhân vật)](/wiki/hoa-thanh-diep/) — 195 lần, chương 357–366
 - [Yến Ly Nhân (nhân vật)](/wiki/yen-ly-nhan/) — 194 lần, chương 1175–3219
 - [Thiên Nhân Thư Viện (thế lực)](/wiki/thien-nhan-thu-vien/) — 194 lần, chương 471–4158
-- [Chợ Đen (địa danh)](/wiki/cho-den/) — 193 lần, chương 40–2199
+- [Đào Hoa (nhân vật)](/wiki/dao-hoa/) — 194 lần, chương 2537–4023
+- [Ấn Tuyết (nhân vật)](/wiki/an-tuyet/) — 194 lần, chương 2739–4192
+- [Man Hoang Bí Cảnh (cảnh giới)](/wiki/man-hoang-bi-canh/) — 194 lần, chương 582–4150
 - [Âm Dương Đồ (nhân vật)](/wiki/am-duong-do/) — 193 lần, chương 2049–4187
-- [Phượng Thất (nhân vật)](/wiki/phuong-that/) — 192 lần, chương 2998–3027
-- [Thái Thanh Tổ Sư (nhân vật)](/wiki/thai-thanh-to-su/) — 192 lần, chương 2986–3889
+- [Chợ Đen (địa danh)](/wiki/cho-den/) — 193 lần, chương 40–2199
 - [Thạch Trụ (nhân vật)](/wiki/thach-tru/) — 192 lần, chương 1805–4204
+- [Thái Thanh Tổ Sư (nhân vật)](/wiki/thai-thanh-to-su/) — 192 lần, chương 2986–3889
+- [Phượng Thất (nhân vật)](/wiki/phuong-that/) — 192 lần, chương 2998–3027
 - [Vương Hậu (nhân vật)](/wiki/vuong-hau/) — 191 lần, chương 1–3901
 - [Cửu Mục Thiên Vương (nhân vật)](/wiki/cuu-muc-thien-vuong/) — 189 lần, chương 1881–2226
 - [Trung Ương Hoàng Thành (địa danh)](/wiki/trung-uong-hoang-thanh/) — 189 lần, chương 746–3880
 - [Ngô Duyệt Mệnh Hoàng (nhân vật)](/wiki/ngo-duyet-menh-hoang/) — 188 lần, chương 2433–2721
-- [Càn Thát Bà (nhân vật)](/wiki/can-that-ba/) — 187 lần, chương 4044–4187
 - [Phượng Hoàng Sào (địa danh)](/wiki/phuong-hoang-sao/) — 187 lần, chương 1424–3196
-- [Mộc Tinh Khư Giới (địa danh)](/wiki/moc-tinh-khu-gioi/) — 187 lần, chương 471–4162
 - [Tích Huyết Kiếm (bảo vật)](/wiki/tich-huyet-kiem/) — 187 lần, chương 377–4156
-- [La Sa (nhân vật)](/wiki/la-sa/) — 186 lần, chương 1458–4210
+- [Càn Thát Bà (nhân vật)](/wiki/can-that-ba/) — 187 lần, chương 4044–4187
+- [Mộc Tinh Khư Giới (địa danh)](/wiki/moc-tinh-khu-gioi/) — 187 lần, chương 471–4162
 - [Phẩm Bản Nguyên (địa danh)](/wiki/pham-ban-nguyen/) — 185 lần, chương 2445–2612
 - [Trương Nhược Trần Tỏ (nhân vật)](/wiki/truong-nhuoc-tran-to/) — 184 lần, chương 17–4197
-- [Bảo Bình (nhân vật)](/wiki/bao-binh/) — 183 lần, chương 490–2974
 - [Yên Trần Quận (địa danh)](/wiki/yen-tran-quan/) — 183 lần, chương 133–4206
+- [Bảo Bình (nhân vật)](/wiki/bao-binh/) — 183 lần, chương 490–2974
 - [Lỗ Phiên Thiên (nhân vật)](/wiki/lo-phien-thien/) — 182 lần, chương 377–567
-- [Hiên Viên (địa danh)](/wiki/hien-vien/) — 182 lần, chương 385–4197
 - [Tử Phủ Giới (địa danh)](/wiki/tu-phu-gioi/) — 182 lần, chương 1426–3914
 - [Tượng Hồn (nhân vật)](/wiki/tuong-hon/) — 182 lần, chương 928–2962
+- [Hiên Viên (địa danh)](/wiki/hien-vien/) — 182 lần, chương 385–4197
 - [Thiên Đường Giới Phái (thế lực)](/wiki/thien-duong-gioi-phai/) — 181 lần, chương 1625–4097
-- [Nguyên Phi Đại Thánh (nhân vật)](/wiki/nguyen-phi-dai-thanh/) — 181 lần, chương 2249–3008
 - [Dịch Hiên Đại Thánh (nhân vật)](/wiki/dich-hien-dai-thanh/) — 181 lần, chương 2226–2416
+- [Nguyên Phi Đại Thánh (nhân vật)](/wiki/nguyen-phi-dai-thanh/) — 181 lần, chương 2249–3008
 - [Đức Bổ Tường (nhân vật)](/wiki/duc-bo-tuong/) — 181 lần, chương 1426–1528
-- [Vân Thanh Cổ Phật (nhân vật)](/wiki/van-thanh-co-phat/) — 180 lần, chương 415–4202
 - [Bích Vân Hải (địa danh)](/wiki/bich-van-hai/) — 180 lần, chương 297–4158
+- [Vân Thanh Cổ Phật (nhân vật)](/wiki/van-thanh-co-phat/) — 180 lần, chương 415–4202
 - [Ngũ Thanh Tông (thế lực)](/wiki/ngu-thanh-tong/) — 179 lần, chương 2418–4197
 - [Tà Mộc (địa danh)](/wiki/ta-moc/) — 179 lần, chương 408–437
-- [Diễm Dương Thiên Tử (nhân vật)](/wiki/diem-duong-thien-tu/) — 178 lần, chương 2076–2235
-- [Diêm Ảnh Nhi (nhân vật)](/wiki/diem-anh-nhi/) — 178 lần, chương 2733–4195
 - [Thiên Hoang (địa danh)](/wiki/thien-hoang/) — 178 lần, chương 1713–4211
 - [Huyết Tuyệt Tộc (thế lực)](/wiki/huyet-tuyet-toc/) — 178 lần, chương 3720–4209
+- [Diễm Dương Thiên Tử (nhân vật)](/wiki/diem-duong-thien-tu/) — 178 lần, chương 2076–2235
+- [Diêm Ảnh Nhi (nhân vật)](/wiki/diem-anh-nhi/) — 178 lần, chương 2733–4195
 - [Thanh Xích Bạch (nhân vật)](/wiki/thanh-xich-bach/) — 176 lần, chương 143–232
 - [Thú Thiên (địa danh)](/wiki/thu-thien/) — 175 lần, chương 477–4211
 - [Yến Vân Huyễn (nhân vật)](/wiki/yen-van-huyen/) — 174 lần, chương 290–311
-- [Mệnh Cốt (nhân vật)](/wiki/menh-cot/) — 174 lần, chương 3809–4210
 - [Tần Vũ Đồng (nhân vật)](/wiki/tan-vu-dong/) — 174 lần, chương 1020–2632
-- [Yêu Tổ Lĩnh (địa danh)](/wiki/yeu-to-linh/) — 173 lần, chương 3386–4167
-- [Huyết Linh (nhân vật)](/wiki/huyet-linh/) — 173 lần, chương 4–3081
+- [Mệnh Cốt (nhân vật)](/wiki/menh-cot/) — 174 lần, chương 3809–4210
 - [Tuân Hoa Liễu (nhân vật)](/wiki/tuan-hoa-lieu/) — 173 lần, chương 649–788
 - [Kỳ Trung Cổ (nhân vật)](/wiki/ky-trung-co/) — 173 lần, chương 217–4141
+- [Huyết Linh (nhân vật)](/wiki/huyet-linh/) — 173 lần, chương 4–3081
+- [Yêu Tổ Lĩnh (địa danh)](/wiki/yeu-to-linh/) — 173 lần, chương 3386–4167
 - [Ngũ Hành Quan (địa danh)](/wiki/ngu-hanh-quan/) — 172 lần, chương 1415–4201
 - [Giới Môn (thế lực)](/wiki/gioi-mon/) — 171 lần, chương 1889–4173
 - [Thụ Nhân (nhân vật)](/wiki/thu-nhan/) — 170 lần, chương 424–2887
-- [Hư Phong Tẫn (nhân vật)](/wiki/hu-phong-tan/) — 169 lần, chương 3005–4205
 - [Phật Tổ (nhân vật)](/wiki/phat-to/) — 169 lần, chương 538–4159
+- [Quân Địa Ngục Giới (địa danh)](/wiki/quan-dia-nguc-gioi/) — 169 lần, chương 1703–4190
+- [Hư Phong Tẫn (nhân vật)](/wiki/hu-phong-tan/) — 169 lần, chương 3005–4205
 - [Đế Phù (bảo vật)](/wiki/de-phu/) — 169 lần, chương 1149–4114
 - [Quỷ Tứ (nhân vật)](/wiki/quy-tu/) — 169 lần, chương 2798–4051
-- [Quân Địa Ngục Giới (địa danh)](/wiki/quan-dia-nguc-gioi/) — 169 lần, chương 1703–4190
 - [Bán Thánh Bảng (địa danh)](/wiki/ban-thanh-bang/) — 169 lần, chương 810–1368
-- [Kim Giáp (bảo vật)](/wiki/kim-giap/) — 168 lần, chương 105–4209
 - [Càn Khôn Vô Lượng (địa danh)](/wiki/can-khon-vo-luong/) — 168 lần, chương 3237–4060
+- [Kim Giáp (bảo vật)](/wiki/kim-giap/) — 168 lần, chương 105–4209
 - [Lâm Gia (thế lực)](/wiki/lam-gia/) — 168 lần, chương 5–2632
 - [Diệp Phong (nhân vật)](/wiki/diep-phong/) — 168 lần, chương 635–3885
 - [Thư Sơn (địa danh)](/wiki/thu-son/) — 167 lần, chương 739–4196
 - [Thái Hư Cảnh (cảnh giới)](/wiki/thai-hu-canh/) — 167 lần, chương 2851–3867
-- [Thanh Bình Tử (nhân vật)](/wiki/thanh-binh-tu/) — 166 lần, chương 3019–4188
-- [Tô Cảnh (cảnh giới)](/wiki/to-canh/) — 166 lần, chương 1543–1767
 - [Hoa Thanh Sơn (địa danh)](/wiki/hoa-thanh-son/) — 166 lần, chương 203–4190
+- [Tô Cảnh (cảnh giới)](/wiki/to-canh/) — 166 lần, chương 1543–1767
+- [Thanh Bình Tử (nhân vật)](/wiki/thanh-binh-tu/) — 166 lần, chương 3019–4188
+- [Cửu Trọng Thiên Vũ (địa danh)](/wiki/cuu-trong-thien-vu/) — 165 lần, chương 2297–4164
 - [Bạch Nhật Tiễn (nhân vật)](/wiki/bach-nhat-tien/) — 165 lần, chương 1122–2281
 - [Dạ Thổ (địa danh)](/wiki/da-tho/) — 165 lần, chương 3437–4024
 - [Bí Phủ (nhân vật)](/wiki/bi-phu/) — 165 lần, chương 156–2142
-- [Tử Kim Bát Quái (địa danh)](/wiki/tu-kim-bat-quai/) — 165 lần, chương 256–4094
 - [Kiếm Thánh Địa (nhân vật)](/wiki/kiem-thanh-dia/) — 165 lần, chương 376–3040
-- [Cửu Trọng Thiên Vũ (địa danh)](/wiki/cuu-trong-thien-vu/) — 165 lần, chương 2297–4164
+- [Tử Kim Bát Quái (địa danh)](/wiki/tu-kim-bat-quai/) — 165 lần, chương 256–4094
 - [Phong Vân Bá (nhân vật)](/wiki/phong-van-ba/) — 164 lần, chương 3045–3909
 - [Dưỡng Quỷ Cổ Tộc (thế lực)](/wiki/duong-quy-co-toc/) — 163 lần, chương 826–3633
-- [Thượng Thanh (địa danh)](/wiki/thuong-thanh/) — 163 lần, chương 559–3962
 - [Tổ Phái (thế lực)](/wiki/to-phai/) — 163 lần, chương 946–4183
-- [Đồ Quỷ Đế (nhân vật)](/wiki/do-quy-de/) — 162 lần, chương 3128–3800
+- [Thượng Thanh (địa danh)](/wiki/thuong-thanh/) — 163 lần, chương 559–3962
 - [Hạ Vương Gia (thế lực)](/wiki/ha-vuong-gia/) — 162 lần, chương 6–3703
+- [Đồ Quỷ Đế (nhân vật)](/wiki/do-quy-de/) — 162 lần, chương 3128–3800
 - [Quỷ Môn Quan (địa danh)](/wiki/quy-mon-quan/) — 161 lần, chương 153–4100
 - [Hải Khách (nhân vật)](/wiki/hai-khach/) — 161 lần, chương 2561–3730
 - [Cửu Quận Chủ (nhân vật)](/wiki/cuu-quan-chu/) — 161 lần, chương 23–1369
 - [Kỳ Dương (nhân vật)](/wiki/ky-duong/) — 160 lần, chương 1948–4003
-- [Vu Đỉnh (bảo vật)](/wiki/vu-dinh-2/) — 160 lần, chương 3091–4211
-- [Nhật Nguyệt (nhân vật)](/wiki/nhat-nguyet/) — 160 lần, chương 122–4179
 - [Ngọc Trản (nhân vật)](/wiki/ngoc-tran/) — 160 lần, chương 3851–3864
-- [Thánh Vương Cảnh (cảnh giới)](/wiki/thanh-vuong-canh/) — 159 lần, chương 1365–3407
-- [Phong Tri Lâm (nhân vật)](/wiki/phong-tri-lam/) — 159 lần, chương 91–107
+- [Nhật Nguyệt (nhân vật)](/wiki/nhat-nguyet/) — 160 lần, chương 122–4179
+- [Vu Đỉnh (bảo vật)](/wiki/vu-dinh-2/) — 160 lần, chương 3091–4211
 - [Thanh Túc (nhân vật)](/wiki/thanh-tuc/) — 159 lần, chương 3583–4209
-- [Thiệu Lân (nhân vật)](/wiki/thieu-lan/) — 157 lần, chương 751–853
+- [Phong Tri Lâm (nhân vật)](/wiki/phong-tri-lam/) — 159 lần, chương 91–107
+- [Thánh Vương Cảnh (cảnh giới)](/wiki/thanh-vuong-canh/) — 159 lần, chương 1365–3407
 - [Ma La Chiến Đế (nhân vật)](/wiki/ma-la-chien-de/) — 157 lần, chương 2240–2429
 - [Huyết Diệu (nhân vật)](/wiki/huyet-dieu/) — 157 lần, chương 1609–4168
-- [Quy Khư (địa danh)](/wiki/quy-khu/) — 156 lần, chương 75–4197
+- [Thiệu Lân (nhân vật)](/wiki/thieu-lan/) — 157 lần, chương 751–853
 - [Phong Trần Kiếm (bảo vật)](/wiki/phong-tran-kiem/) — 156 lần, chương 2254–4188
-- [Kiếm Nhị (nhân vật)](/wiki/kiem-nhi/) — 155 lần, chương 564–2484
+- [Quy Khư (địa danh)](/wiki/quy-khu/) — 156 lần, chương 75–4197
 - [Tử Âm Dương (nhân vật)](/wiki/tu-am-duong/) — 155 lần, chương 222–3765
-- [Tà Thành Tử (nhân vật)](/wiki/ta-thanh-tu/) — 154 lần, chương 1592–1974
-- [Tử Phong Tinh Sứ (nhân vật)](/wiki/tu-phong-tinh-su/) — 154 lần, chương 302–724
+- [Kiếm Nhị (nhân vật)](/wiki/kiem-nhi/) — 155 lần, chương 564–2484
 - [Bách Gia Cảnh (cảnh giới)](/wiki/bach-gia-canh/) — 154 lần, chương 2137–3168
 - [Kim Hoàng Vương (nhân vật)](/wiki/kim-hoang-vuong/) — 154 lần, chương 522–559
-- [Triều Thiên Khuyết (địa danh)](/wiki/trieu-thien-khuyet/) — 154 lần, chương 2804–4202
 - [Tứ Phương Quận Vương (nhân vật)](/wiki/tu-phuong-quan-vuong/) — 154 lần, chương 124–357
+- [Tử Phong Tinh Sứ (nhân vật)](/wiki/tu-phong-tinh-su/) — 154 lần, chương 302–724
+- [Tà Thành Tử (nhân vật)](/wiki/ta-thanh-tu/) — 154 lần, chương 1592–1974
+- [Triều Thiên Khuyết (địa danh)](/wiki/trieu-thien-khuyet/) — 154 lần, chương 2804–4202
 - [Tàn Đăng (nhân vật)](/wiki/tan-dang/) — 153 lần, chương 3316–4197
-- [Vô Tự Kiếm Phổ (nhân vật)](/wiki/vo-tu-kiem-pho/) — 153 lần, chương 563–3869
-- [Thập Tự Thuẫn (nhân vật)](/wiki/thap-tu-thuan/) — 153 lần, chương 1133–2070
 - [Quỷ Vụ (nhân vật)](/wiki/quy-vu/) — 153 lần, chương 164–4087
 - [Trì Trọng Sơn (địa danh)](/wiki/tri-trong-son/) — 153 lần, chương 654–2993
-- [Chuẩn Thánh Kiếp (nhân vật)](/wiki/chuan-thanh-kiep/) — 152 lần, chương 1059–1286
-- [Phương Tây (địa danh)](/wiki/phuong-tay/) — 152 lần, chương 745–4147
+- [Vô Tự Kiếm Phổ (nhân vật)](/wiki/vo-tu-kiem-pho/) — 153 lần, chương 563–3869
+- [Thập Tự Thuẫn (nhân vật)](/wiki/thap-tu-thuan/) — 153 lần, chương 1133–2070
 - [Thiên Thủy Quận Vương (nhân vật)](/wiki/thien-thuy-quan-vuong/) — 152 lần, chương 117–4206
+- [Phương Tây (địa danh)](/wiki/phuong-tay/) — 152 lần, chương 745–4147
+- [Chuẩn Thánh Kiếp (nhân vật)](/wiki/chuan-thanh-kiep/) — 152 lần, chương 1059–1286
 - [Âm Dương Ngũ Hành (địa danh)](/wiki/am-duong-ngu-hanh/) — 151 lần, chương 2267–4211
-- [Tần Nhã (nhân vật)](/wiki/tan-nha/) — 151 lần, chương 13–585
 - [Triệu Vô Diên (nhân vật)](/wiki/trieu-vo-dien/) — 151 lần, chương 672–3118
-- [Bách Hoa (địa danh)](/wiki/bach-hoa/) — 150 lần, chương 1577–4035
-- [Đại Thánh Bách Gia (thế lực)](/wiki/dai-thanh-bach-gia/) — 150 lần, chương 2159–3097
+- [Tần Nhã (nhân vật)](/wiki/tan-nha/) — 151 lần, chương 13–585
 - [Thạch Mỹ Nhân (nhân vật)](/wiki/thach-my-nhan/) — 150 lần, chương 984–1009
+- [Đại Thánh Bách Gia (thế lực)](/wiki/dai-thanh-bach-gia/) — 150 lần, chương 2159–3097
 - [Tư Đồ Phượng Thành (địa danh)](/wiki/tu-do-phuong-thanh/) — 150 lần, chương 1292–1380
+- [Bách Hoa (địa danh)](/wiki/bach-hoa/) — 150 lần, chương 1577–4035
 - [Thiên Thê (nhân vật)](/wiki/thien-the/) — 149 lần, chương 240–3602
 - [Ngũ Hành Quan Chủ (nhân vật)](/wiki/ngu-hanh-quan-chu/) — 149 lần, chương 644–4198
-- [Hỏa Tộc (thế lực)](/wiki/hoa-toc/) — 148 lần, chương 1367–3961
-- [Thanh U (nhân vật)](/wiki/thanh-u/) — 148 lần, chương 78–4150
 - [Trác Vũ Nông (nhân vật)](/wiki/trac-vu-nong/) — 148 lần, chương 2449–3504
+- [Thanh U (nhân vật)](/wiki/thanh-u/) — 148 lần, chương 78–4150
 - [Đan Linh Vương (nhân vật)](/wiki/dan-linh-vuong/) — 148 lần, chương 1596–4015
 - [Tử Thiền Giáo (nhân vật)](/wiki/tu-thien-giao/) — 148 lần, chương 754–3995
+- [Hỏa Tộc (thế lực)](/wiki/hoa-toc/) — 148 lần, chương 1367–3961
 - [Bạch Vũ (nhân vật)](/wiki/bach-vu/) — 147 lần, chương 941–3745
-- [Lưu Tinh (nhân vật)](/wiki/luu-tinh/) — 147 lần, chương 47–4202
 - [Phong Vân (nhân vật)](/wiki/phong-van/) — 147 lần, chương 25–4172
+- [Lưu Tinh (nhân vật)](/wiki/luu-tinh/) — 147 lần, chương 47–4202
 - [Vô Ngã Đăng (nhân vật)](/wiki/vo-nga-dang/) — 146 lần, chương 3830–4150
 - [Gian Chưởng Khống Giả (nhân vật)](/wiki/gian-chuong-khong-gia/) — 146 lần, chương 775–3657
 - [Tả Mục Thánh Quân (thế lực)](/wiki/ta-muc-thanh-quan/) — 145 lần, chương 2321–2380
 - [Diêm Đình (nhân vật)](/wiki/diem-dinh/) — 145 lần, chương 2770–4210
 - [Thiên Ngoại Thiên (địa danh)](/wiki/thien-ngoai-thien/) — 145 lần, chương 1366–4188
-- [Diệt Phong Huyết Thánh (nhân vật)](/wiki/diet-phong-huyet-thanh/) — 144 lần, chương 1294–1350
 - [Lạc Kim Thư (nhân vật)](/wiki/lac-kim-thu/) — 144 lần, chương 3006–3064
-- [Lạc Thủy Quyền (công pháp)](/wiki/lac-thuy-quyen/) — 143 lần, chương 277–3184
+- [Diệt Phong Huyết Thánh (nhân vật)](/wiki/diet-phong-huyet-thanh/) — 144 lần, chương 1294–1350
 - [Hoàng Ngưu (nhân vật)](/wiki/hoang-nguu/) — 143 lần, chương 2865–4209
 - [Đoan Mộc Nhã (nhân vật)](/wiki/doan-moc-nha/) — 143 lần, chương 585–752
-- [Thương Tử (nhân vật)](/wiki/thuong-tu/) — 143 lần, chương 1576–4159
 - [Vong Xuyên (địa danh)](/wiki/vong-xuyen/) — 143 lần, chương 3283–4211
+- [Lạc Thủy Quyền (công pháp)](/wiki/lac-thuy-quyen/) — 143 lần, chương 277–3184
+- [Thương Tử (nhân vật)](/wiki/thuong-tu/) — 143 lần, chương 1576–4159
+- [Nguyễn Linh (nhân vật)](/wiki/nguyen-linh/) — 142 lần, chương 1783–1986
+- [Thiên Sát Tổ Chức (địa danh)](/wiki/thien-sat-to-chuc/) — 142 lần, chương 1553–3453
+- [Lý Diệu Hàm (nhân vật)](/wiki/ly-dieu-ham/) — 142 lần, chương 1663–4195
 - [Ngọc Hoàng Giới (địa danh)](/wiki/ngoc-hoang-gioi/) — 142 lần, chương 2428–4188
 - [Sương Thành (địa danh)](/wiki/suong-thanh/) — 142 lần, chương 3043–4001
 - [Ngốc Tử (nhân vật)](/wiki/ngoc-tu/) — 142 lần, chương 14–3528
-- [Lý Diệu Hàm (nhân vật)](/wiki/ly-dieu-ham/) — 142 lần, chương 1663–4195
-- [Nguyễn Linh (nhân vật)](/wiki/nguyen-linh/) — 142 lần, chương 1783–1986
-- [Thiên Sát Tổ Chức (địa danh)](/wiki/thien-sat-to-chuc/) — 142 lần, chương 1553–3453
-- [Giới Bán Tổ (nhân vật)](/wiki/gioi-ban-to/) — 141 lần, chương 3485–4202
 - [Huyễn Diệt Tinh Hải (địa danh)](/wiki/huyen-diet-tinh-hai/) — 141 lần, chương 2167–4211
-- [Tuân Quy Hải (địa danh)](/wiki/tuan-quy-hai/) — 140 lần, chương 128–4111
+- [Giới Bán Tổ (nhân vật)](/wiki/gioi-ban-to/) — 141 lần, chương 3485–4202
 - [Tiên Lạc Sư (nhân vật)](/wiki/tien-lac-su/) — 140 lần, chương 113–4138
-- [Xá Lợi (nhân vật)](/wiki/xa-loi/) — 139 lần, chương 303–4039
-- [Cửu Đại Giới Tử (địa danh)](/wiki/cuu-dai-gioi-tu/) — 139 lần, chương 715–3407
-- [Huyền Hoàng (nhân vật)](/wiki/huyen-hoang/) — 139 lần, chương 1178–4204
-- [Ngũ Hành Khư Giới (địa danh)](/wiki/ngu-hanh-khu-gioi/) — 139 lần, chương 397–4162
-- [Chiến Hồn Hải (địa danh)](/wiki/chien-hon-hai/) — 139 lần, chương 1814–4131
+- [Tuân Quy Hải (địa danh)](/wiki/tuan-quy-hai/) — 140 lần, chương 128–4111
 - [Phật Tổ Xá Lợi (nhân vật)](/wiki/phat-to-xa-loi/) — 139 lần, chương 2352–4211
-- [Sĩ Khư Giới (địa danh)](/wiki/si-khu-gioi/) — 138 lần, chương 472–1051
+- [Cửu Đại Giới Tử (địa danh)](/wiki/cuu-dai-gioi-tu/) — 139 lần, chương 715–3407
+- [Xá Lợi (nhân vật)](/wiki/xa-loi/) — 139 lần, chương 303–4039
+- [Ngũ Hành Khư Giới (địa danh)](/wiki/ngu-hanh-khu-gioi/) — 139 lần, chương 397–4162
+- [Huyền Hoàng (nhân vật)](/wiki/huyen-hoang/) — 139 lần, chương 1178–4204
+- [Chiến Hồn Hải (địa danh)](/wiki/chien-hon-hai/) — 139 lần, chương 1814–4131
 - [Thất Tinh Quỷ Liên (nhân vật)](/wiki/that-tinh-quy-lien/) — 138 lần, chương 2283–2820
+- [Sĩ Khư Giới (địa danh)](/wiki/si-khu-gioi/) — 138 lần, chương 472–1051
+- [Tế Thiên Đồng Đỉnh (bảo vật)](/wiki/te-thien-dong-dinh/) — 138 lần, chương 390–4030
+- [Địa Phủ Môn (thế lực)](/wiki/dia-phu-mon/) — 138 lần, chương 69–752
+- [Tứ Dương Thiên Quân (thế lực)](/wiki/tu-duong-thien-quan/) — 138 lần, chương 3003–3907
+- [Kim Cương (nhân vật)](/wiki/kim-cuong/) — 138 lần, chương 33–4058
 - [Phật Đế (nhân vật)](/wiki/phat-de/) — 138 lần, chương 303–2629
 - [Ngọc Thanh (nhân vật)](/wiki/ngoc-thanh/) — 138 lần, chương 482–4027
-- [Địa Phủ Môn (thế lực)](/wiki/dia-phu-mon/) — 138 lần, chương 69–752
 - [Mặc Lưu Tinh Ẩn (nhân vật)](/wiki/mac-luu-tinh-an/) — 138 lần, chương 193–3406
-- [Kim Cương (nhân vật)](/wiki/kim-cuong/) — 138 lần, chương 33–4058
-- [Tế Thiên Đồng Đỉnh (bảo vật)](/wiki/te-thien-dong-dinh/) — 138 lần, chương 390–4030
-- [Tứ Dương Thiên Quân (thế lực)](/wiki/tu-duong-thien-quan/) — 138 lần, chương 3003–3907
-- [Lưu Ly Kỵ Sĩ (nhân vật)](/wiki/luu-ly-ky-si/) — 137 lần, chương 444–623
 - [Thường Phượng (nhân vật)](/wiki/thuong-phuong/) — 137 lần, chương 1581–3806
-- [Vũ Sư (nhân vật)](/wiki/vu-su/) — 137 lần, chương 274–3999
-- [Hỗn Độn Liên (nhân vật)](/wiki/hon-don-lien/) — 137 lần, chương 2612–4183
-- [Địa Hỏa Thành (địa danh)](/wiki/dia-hoa-thanh/) — 137 lần, chương 196–372
-- [Thương Hạ (nhân vật)](/wiki/thuong-ha/) — 137 lần, chương 1178–4189
 - [Hệ Thiên Đường Giới (địa danh)](/wiki/he-thien-duong-gioi/) — 137 lần, chương 1665–3633
-- [Linh Thiên Đình (nhân vật)](/wiki/linh-thien-dinh/) — 136 lần, chương 1455–4172
-- [Âm Huyền Kỷ (nhân vật)](/wiki/am-huyen-ky/) — 136 lần, chương 826–1134
-- [Địa Lược Giới (địa danh)](/wiki/dia-luoc-gioi/) — 136 lần, chương 1793–4199
+- [Hỗn Độn Liên (nhân vật)](/wiki/hon-don-lien/) — 137 lần, chương 2612–4183
+- [Thương Hạ (nhân vật)](/wiki/thuong-ha/) — 137 lần, chương 1178–4189
+- [Lưu Ly Kỵ Sĩ (nhân vật)](/wiki/luu-ly-ky-si/) — 137 lần, chương 444–623
+- [Vũ Sư (nhân vật)](/wiki/vu-su/) — 137 lần, chương 274–3999
+- [Địa Hỏa Thành (địa danh)](/wiki/dia-hoa-thanh/) — 137 lần, chương 196–372
 - [Giả Địa Ngục Giới (địa danh)](/wiki/gia-dia-nguc-gioi/) — 136 lần, chương 1822–4141
-- [Đông Lưu Kiếm Tôn (nhân vật)](/wiki/dong-luu-kiem-ton/) — 136 lần, chương 1431–1572
 - [Văn Đế (nhân vật)](/wiki/van-de/) — 136 lần, chương 507–4082
+- [Linh Thiên Đình (nhân vật)](/wiki/linh-thien-dinh/) — 136 lần, chương 1455–4172
+- [Đông Lưu Kiếm Tôn (nhân vật)](/wiki/dong-luu-kiem-ton/) — 136 lần, chương 1431–1572
+- [Địa Lược Giới (địa danh)](/wiki/dia-luoc-gioi/) — 136 lần, chương 1793–4199
+- [Âm Huyền Kỷ (nhân vật)](/wiki/am-huyen-ky/) — 136 lần, chương 826–1134
 - [Bạch Ngọc Cuồng Sư (nhân vật)](/wiki/bach-ngoc-cuong-su/) — 135 lần, chương 2246–2322
-- [Dị Vương (nhân vật)](/wiki/di-vuong/) — 134 lần, chương 1563–1569
-- [Trương Nhược Trần Cất (nhân vật)](/wiki/truong-nhuoc-tran-cat/) — 134 lần, chương 15–4178
-- [Thượng Quan Khuyết (nhân vật)](/wiki/thuong-quan-khuyet/) — 134 lần, chương 785–2531
-- [Diêu Sinh (nhân vật)](/wiki/dieu-sinh/) — 134 lần, chương 966–1234
-- [Thiên Thúc Tử (nhân vật)](/wiki/thien-thuc-tu/) — 134 lần, chương 1699–3978
 - [Địa Hoang Vũ (địa danh)](/wiki/dia-hoang-vu/) — 134 lần, chương 2652–4200
+- [Diêu Sinh (nhân vật)](/wiki/dieu-sinh/) — 134 lần, chương 966–1234
+- [Trương Nhược Trần Cất (nhân vật)](/wiki/truong-nhuoc-tran-cat/) — 134 lần, chương 15–4178
+- [Thiên Thúc Tử (nhân vật)](/wiki/thien-thuc-tu/) — 134 lần, chương 1699–3978
+- [Thượng Quan Khuyết (nhân vật)](/wiki/thuong-quan-khuyet/) — 134 lần, chương 785–2531
+- [Dị Vương (nhân vật)](/wiki/di-vuong/) — 134 lần, chương 1563–1569
+- [Ái Liên Quân (thế lực)](/wiki/ai-lien-quan/) — 133 lần, chương 2548–3123
 - [Kính Đài (nhân vật)](/wiki/kinh-dai/) — 133 lần, chương 2352–4035
-- [Kha Dương Thiện (nhân vật)](/wiki/kha-duong-thien/) — 133 lần, chương 3216–4118
 - [Khứ Hành Giả (nhân vật)](/wiki/khu-hanh-gia/) — 133 lần, chương 730–4136
 - [Vương Kiếm Mộ (địa danh)](/wiki/vuong-kiem-mo/) — 133 lần, chương 770–3463
-- [Ái Liên Quân (thế lực)](/wiki/ai-lien-quan/) — 133 lần, chương 2548–3123
-- [Hắc Phượng Hoàng (nhân vật)](/wiki/hac-phuong-hoang/) — 132 lần, chương 1792–1877
-- [Thông Thiên Hà (địa danh)](/wiki/thong-thien-ha/) — 132 lần, chương 1413–2860
+- [Kha Dương Thiện (nhân vật)](/wiki/kha-duong-thien/) — 133 lần, chương 3216–4118
 - [Ngôn Thâu Thiền Sư (nhân vật)](/wiki/ngon-thau-thien-su/) — 132 lần, chương 655–4199
+- [Hắc Phượng Hoàng (nhân vật)](/wiki/hac-phuong-hoang/) — 132 lần, chương 1792–1877
+- [Thiên Nhụy Giới (địa danh)](/wiki/thien-nhuy-gioi/) — 132 lần, chương 1577–4149
 - [Chiến Chùy (nhân vật)](/wiki/chien-chuy/) — 132 lần, chương 531–4082
-- [Phương Bắc (địa danh)](/wiki/phuong-bac/) — 131 lần, chương 239–4211
-- [Mông Qua (nhân vật)](/wiki/mong-qua/) — 131 lần, chương 3580–4201
-- [Chu Hồng Đào (nhân vật)](/wiki/chu-hong-dao/) — 131 lần, chương 560–4192
+- [Thông Thiên Hà (địa danh)](/wiki/thong-thien-ha/) — 132 lần, chương 1413–2860
 - [Xích Huyền Quỷ Quân (thế lực)](/wiki/xich-huyen-quy-quan/) — 131 lần, chương 3289–3995
 - [Thập Lục Biến (nhân vật)](/wiki/thap-luc-bien/) — 131 lần, chương 420–3638
+- [Mông Qua (nhân vật)](/wiki/mong-qua/) — 131 lần, chương 3580–4201
+- [Chu Hồng Đào (nhân vật)](/wiki/chu-hong-dao/) — 131 lần, chương 560–4192
+- [Phương Bắc (địa danh)](/wiki/phuong-bac/) — 131 lần, chương 239–4211
 - [Huyền Bảng (địa danh)](/wiki/huyen-bang/) — 130 lần, chương 42–659
+- [Đế Tổ Thái Tử (nhân vật)](/wiki/de-to-thai-tu/) — 130 lần, chương 1650–1875
 - [Mạt Vân Đoan (nhân vật)](/wiki/mat-van-doan/) — 130 lần, chương 2520–2749
 - [Oa Hoàng (địa danh)](/wiki/oa-hoang/) — 130 lần, chương 1946–4206
-- [Đế Tổ Thái Tử (nhân vật)](/wiki/de-to-thai-tu/) — 130 lần, chương 1650–1875
-- [Sĩ Thiên Đình (nhân vật)](/wiki/si-thien-dinh/) — 129 lần, chương 1881–4199
 - [Bậc Thánh Vương (nhân vật)](/wiki/bac-thanh-vuong/) — 129 lần, chương 963–2870
-- [Tử Hà Bán Thánh (nhân vật)](/wiki/tu-ha-ban-thanh/) — 129 lần, chương 643–772
-- [Diễm Dương Thiên Chủ (nhân vật)](/wiki/diem-duong-thien-chu/) — 129 lần, chương 2130–3368
 - [Thiên Nhãn (nhân vật)](/wiki/thien-nhan/) — 129 lần, chương 274–3946
+- [Diễm Dương Thiên Chủ (nhân vật)](/wiki/diem-duong-thien-chu/) — 129 lần, chương 2130–3368
+- [Tử Hà Bán Thánh (nhân vật)](/wiki/tu-ha-ban-thanh/) — 129 lần, chương 643–772
+- [Sĩ Thiên Đình (nhân vật)](/wiki/si-thien-dinh/) — 129 lần, chương 1881–4199
+- [Âm Độn Cửu (địa danh)](/wiki/am-don-cuu/) — 128 lần, chương 2888–3101
 - [Thanh Tiêu Thánh Giả (nhân vật)](/wiki/thanh-tieu-thanh-gia/) — 128 lần, chương 560–1077
 - [Hắc Ám Tinh (địa danh)](/wiki/hac-am-tinh/) — 128 lần, chương 2324–3951
-- [Âm Độn Cửu (địa danh)](/wiki/am-don-cuu/) — 128 lần, chương 2888–3101
+- [Tài Quyết Tôn Giả (nhân vật)](/wiki/tai-quyet-ton-gia/) — 127 lần, chương 2448–3601
 - [Bộ Địa Ngục Giới (địa danh)](/wiki/bo-dia-nguc-gioi/) — 127 lần, chương 1913–4128
 - [Lang Tộc (thế lực)](/wiki/lang-toc/) — 127 lần, chương 1646–3948
-- [Tinh Linh Tộc (thế lực)](/wiki/tinh-linh-toc/) — 126 lần, chương 1744–4116
-- [U Tự Thiên (địa danh)](/wiki/u-tu-thien/) — 126 lần, chương 935–1206
 - [Hạc Thanh (nhân vật)](/wiki/hac-thanh/) — 126 lần, chương 3797–4174
-- [Tề Gia (thế lực)](/wiki/te-gia/) — 126 lần, chương 665–3276
-- [Tuyền Trung Sinh (nhân vật)](/wiki/tuyen-trung-sinh/) — 126 lần, chương 3215–3664
 - [Triệu Ngộ (nhân vật)](/wiki/trieu-ngo/) — 126 lần, chương 3228–3303
-- [Võ Thị Đấu Trường (địa danh)](/wiki/vo-thi-dau-truong/) — 125 lần, chương 42–2250
-- [Thượng Quan (địa danh)](/wiki/thuong-quan/) — 125 lần, chương 779–2518
+- [Tinh Linh Tộc (thế lực)](/wiki/tinh-linh-toc/) — 126 lần, chương 1744–4116
+- [Tề Gia (thế lực)](/wiki/te-gia/) — 126 lần, chương 665–3276
+- [U Tự Thiên (địa danh)](/wiki/u-tu-thien/) — 126 lần, chương 935–1206
+- [Tuyền Trung Sinh (nhân vật)](/wiki/tuyen-trung-sinh/) — 126 lần, chương 3215–3664
 - [Huyết Vân (địa danh)](/wiki/huyet-van/) — 125 lần, chương 168–4119
+- [Huyết Tuyền (địa danh)](/wiki/huyet-tuyen/) — 125 lần, chương 537–3898
+- [Tài Quyết (công pháp)](/wiki/tai-quyet/) — 125 lần, chương 2282–4203
+- [Nhan Vô Khuyết (nhân vật)](/wiki/nhan-vo-khuyet/) — 125 lần, chương 3610–3792
+- [Sơn Mạch (nhân vật)](/wiki/son-mach/) — 125 lần, chương 135–4180
 - [Xích Tử Kiếm (bảo vật)](/wiki/xich-tu-kiem/) — 125 lần, chương 1761–2814
 - [Liêu Đằng (nhân vật)](/wiki/lieu-dang/) — 125 lần, chương 1168–1181
-- [Nhan Vô Khuyết (nhân vật)](/wiki/nhan-vo-khuyet/) — 125 lần, chương 3610–3792
-- [Huyết Tuyền (địa danh)](/wiki/huyet-tuyen/) — 125 lần, chương 537–3898
-- [Sơn Mạch (nhân vật)](/wiki/son-mach/) — 125 lần, chương 135–4180
-- [Thánh Nguyên Linh Tuyền (nhân vật)](/wiki/thanh-nguyen-linh-tuyen/) — 124 lần, chương 517–3422
-- [Thương Bạch Tử (nhân vật)](/wiki/thuong-bach-tu/) — 124 lần, chương 2439–2490
+- [Võ Thị Đấu Trường (địa danh)](/wiki/vo-thi-dau-truong/) — 125 lần, chương 42–2250
+- [Thượng Quan (địa danh)](/wiki/thuong-quan/) — 125 lần, chương 779–2518
 - [Viên Thánh Nguyên (địa danh)](/wiki/vien-thanh-nguyen/) — 124 lần, chương 573–2847
 - [Khung Lân (nhân vật)](/wiki/khung-lan/) — 124 lần, chương 1566–1777
-- [Bất Hoặc (nhân vật)](/wiki/bat-hoac/) — 123 lần, chương 3515–4127
+- [Thánh Nguyên Linh Tuyền (nhân vật)](/wiki/thanh-nguyen-linh-tuyen/) — 124 lần, chương 517–3422
+- [Thương Bạch Tử (nhân vật)](/wiki/thuong-bach-tu/) — 124 lần, chương 2439–2490
 - [Xà Nhị (nhân vật)](/wiki/xa-nhi/) — 123 lần, chương 723–1068
+- [Bất Hoặc (nhân vật)](/wiki/bat-hoac/) — 123 lần, chương 3515–4127
 - [Linh Bảo (nhân vật)](/wiki/linh-bao/) — 122 lần, chương 316–3148
 - [Hủy Diệt Kim Dương (nhân vật)](/wiki/huy-diet-kim-duong/) — 122 lần, chương 2088–2337
 - [Địa Huyết Giới (địa danh)](/wiki/dia-huyet-gioi/) — 122 lần, chương 1426–4119
 - [Quỷ Đế (nhân vật)](/wiki/quy-de/) — 121 lần, chương 833–4082
-- [Thiên Tôn Bảo Sa (nhân vật)](/wiki/thien-ton-bao-sa/) — 121 lần, chương 2866–3928
-- [Hắc Tinh Số (địa danh)](/wiki/hac-tinh-so/) — 121 lần, chương 2325–2704
 - [Phách Kiếm (bảo vật)](/wiki/phach-kiem/) — 121 lần, chương 2574–3786
+- [Hắc Tinh Số (địa danh)](/wiki/hac-tinh-so/) — 121 lần, chương 2325–2704
+- [Thiên Tôn Bảo Sa (nhân vật)](/wiki/thien-ton-bao-sa/) — 121 lần, chương 2866–3928
 - [Nhược Trần Giới Tôn (nhân vật)](/wiki/nhuoc-tran-gioi-ton/) — 120 lần, chương 2981–3654
 - [Tề Thiên Thái Tử (nhân vật)](/wiki/te-thien-thai-tu/) — 120 lần, chương 1128–1808
-- [Tiên Cơ (nhân vật)](/wiki/tien-co/) — 119 lần, chương 212–4206
 - [Gốc Thụ Nhân Vương (nhân vật)](/wiki/goc-thu-nhan-vuong/) — 119 lần, chương 491–503
 - [Tử Kim (nhân vật)](/wiki/tu-kim/) — 119 lần, chương 48–4082
-- [Tài Quyết (công pháp)](/wiki/tai-quyet/) — 119 lần, chương 2282–4203
+- [Tiên Cơ (nhân vật)](/wiki/tien-co/) — 119 lần, chương 212–4206
 - [Mạnh Hoàng Nhĩ (nhân vật)](/wiki/manh-hoang-nhi/) — 119 lần, chương 4033–4078
-- [Trấn Hồn (địa danh)](/wiki/tran-hon/) — 118 lần, chương 395–4185
-- [Tài Quyết Tôn Giả (nhân vật)](/wiki/tai-quyet-ton-gia/) — 118 lần, chương 2448–3601
-- [Tứ Giáp Huyết Tổ (nhân vật)](/wiki/tu-giap-huyet-to/) — 118 lần, chương 1770–2952
 - [Hồng Đỉnh (bảo vật)](/wiki/hong-dinh/) — 118 lần, chương 3513–4152
-- [Thiên Nhụy Giới (địa danh)](/wiki/thien-nhuy-gioi/) — 117 lần, chương 1577–4149
-- [Mục Thanh (nhân vật)](/wiki/muc-thanh/) — 117 lần, chương 237–2672
+- [Trấn Hồn (địa danh)](/wiki/tran-hon/) — 118 lần, chương 395–4185
+- [Tứ Giáp Huyết Tổ (nhân vật)](/wiki/tu-giap-huyet-to/) — 118 lần, chương 1770–2952
 - [Sử Càn Khôn (nhân vật)](/wiki/su-can-khon/) — 117 lần, chương 1200–2630
-- [Bộ Thiên Đình (nhân vật)](/wiki/bo-thien-dinh/) — 117 lần, chương 1410–4198
+- [Mục Thanh (nhân vật)](/wiki/muc-thanh/) — 117 lần, chương 237–2672
 - [Khương Vân Trùng (cảnh giới)](/wiki/khuong-van-trung/) — 117 lần, chương 1826–2644
-- [Vận Mệnh Áo Nghĩa (nhân vật)](/wiki/van-menh-ao-nghia/) — 116 lần, chương 2183–4178
-- [Cấp Bán Thánh (nhân vật)](/wiki/cap-ban-thanh/) — 116 lần, chương 521–1805
+- [Bộ Thiên Đình (nhân vật)](/wiki/bo-thien-dinh/) — 117 lần, chương 1410–4198
 - [Càn Đạt Bà (nhân vật)](/wiki/can-dat-ba/) — 116 lần, chương 4060–4207
+- [Trấn Quân Hầu (nhân vật)](/wiki/tran-quan-hau/) — 116 lần, chương 241–253
+- [Cấp Bán Thánh (nhân vật)](/wiki/cap-ban-thanh/) — 116 lần, chương 521–1805
 - [Tuế Hàn (nhân vật)](/wiki/tue-han/) — 116 lần, chương 678–3896
 - [Diệt Vô Lượng Đỉnh (bảo vật)](/wiki/diet-vo-luong-dinh/) — 116 lần, chương 57–4196
-- [Trấn Quân Hầu (nhân vật)](/wiki/tran-quan-hau/) — 116 lần, chương 241–253
-- [Huyết Ngưng Tiêu (nhân vật)](/wiki/huyet-ngung-tieu/) — 115 lần, chương 2173–3932
+- [Vận Mệnh Áo Nghĩa (nhân vật)](/wiki/van-menh-ao-nghia/) — 116 lần, chương 2183–4178
 - [Phong Ngân Thiền (nhân vật)](/wiki/phong-ngan-thien/) — 115 lần, chương 842–1355
+- [Luận Kiếm (bảo vật)](/wiki/luan-kiem/) — 115 lần, chương 140–4207
+- [Huyết Ngưng Tiêu (nhân vật)](/wiki/huyet-ngung-tieu/) — 115 lần, chương 2173–3932
 - [Đan Linh (nhân vật)](/wiki/dan-linh/) — 115 lần, chương 264–3382
 - [Băng Hỏa Phượng Hoàng (nhân vật)](/wiki/bang-hoa-phuong-hoang/) — 115 lần, chương 1424–2637
-- [Luận Kiếm (bảo vật)](/wiki/luan-kiem/) — 115 lần, chương 140–4207
 - [Vong Linh Cổ (địa danh)](/wiki/vong-linh-co/) — 115 lần, chương 1232–2162
-- [Hoàng Lễ (nhân vật)](/wiki/hoang-le/) — 115 lần, chương 220–372
-- [Xích Vân Mãng Giao (nhân vật)](/wiki/xich-van-mang-giao/) — 115 lần, chương 528–2043
 - [Ngọc Mãng Quân (thế lực)](/wiki/ngoc-mang-quan/) — 115 lần, chương 3289–3444
-- [Cửu Phẩm (địa danh)](/wiki/cuu-pham/) — 114 lần, chương 2–2774
-- [Bán Bộ Thánh Vương (nhân vật)](/wiki/ban-bo-thanh-vuong/) — 114 lần, chương 1427–1884
-- [Cửu Khúc Thiên Tinh (địa danh)](/wiki/cuu-khuc-thien-tinh/) — 114 lần, chương 1815–2664
-- [Lục Hàm (nhân vật)](/wiki/luc-ham/) — 114 lần, chương 165–334
-- [Lý Đại Đế (nhân vật)](/wiki/ly-dai-de/) — 114 lần, chương 3887–4197
-- [Hoang Cổ (địa danh)](/wiki/hoang-co/) — 114 lần, chương 156–4196
-- [Vương Quyền (công pháp)](/wiki/vuong-quyen/) — 114 lần, chương 333–4119
-- [Nguyên Túc Ân (nhân vật)](/wiki/nguyen-tuc-an/) — 114 lần, chương 3559–4207
+- [Xích Vân Mãng Giao (nhân vật)](/wiki/xich-van-mang-giao/) — 115 lần, chương 528–2043
+- [Hoàng Lễ (nhân vật)](/wiki/hoang-le/) — 115 lần, chương 220–372
 - [Sơn Lĩnh (nhân vật)](/wiki/son-linh/) — 114 lần, chương 75–4207
+- [Vương Quyền (công pháp)](/wiki/vuong-quyen/) — 114 lần, chương 333–4119
+- [Cửu Khúc Thiên Tinh (địa danh)](/wiki/cuu-khuc-thien-tinh/) — 114 lần, chương 1815–2664
+- [Bán Bộ Thánh Vương (nhân vật)](/wiki/ban-bo-thanh-vuong/) — 114 lần, chương 1427–1884
+- [Lục Hàm (nhân vật)](/wiki/luc-ham/) — 114 lần, chương 165–334
+- [Sa Đà Thất Giới (địa danh)](/wiki/sa-da-that-gioi/) — 114 lần, chương 1410–1778
+- [Cửu Phẩm (địa danh)](/wiki/cuu-pham/) — 114 lần, chương 2–2774
+- [Hoang Cổ (địa danh)](/wiki/hoang-co/) — 114 lần, chương 156–4196
+- [Nguyên Túc Ân (nhân vật)](/wiki/nguyen-tuc-an/) — 114 lần, chương 3559–4207
 - [Yêu Tổ (nhân vật)](/wiki/yeu-to/) — 114 lần, chương 2655–4176
+- [Lý Đại Đế (nhân vật)](/wiki/ly-dai-de/) — 114 lần, chương 3887–4197
 - [Huyết Khấp Đại Thánh (nhân vật)](/wiki/huyet-khap-dai-thanh/) — 113 lần, chương 2221–2436
 - [Thiên Nữ Thiên Tinh (nhân vật)](/wiki/thien-nu-thien-tinh/) — 113 lần, chương 1636–3460
-- [Ngao Dịch (nhân vật)](/wiki/ngao-dich/) — 112 lần, chương 736–1286
-- [Bậc Bán Thánh (nhân vật)](/wiki/bac-ban-thanh/) — 112 lần, chương 133–2286
+- [Hồng Chu Cự (địa danh)](/wiki/hong-chu-cu/) — 113 lần, chương 203–327
 - [Huyết Vân Tông (thế lực)](/wiki/huyet-van-tong/) — 112 lần, chương 287–3218
-- [Tình Sơn (địa danh)](/wiki/tinh-son/) — 112 lần, chương 2550–4207
-- [Sinh Môn (thế lực)](/wiki/sinh-mon/) — 112 lần, chương 315–4129
 - [Trì Đế (nhân vật)](/wiki/tri-de/) — 112 lần, chương 2312–3782
-- [Tuân Dương Tử (nhân vật)](/wiki/tuan-duong-tu/) — 111 lần, chương 3620–3664
-- [Mạnh Nại Hà (nhân vật)](/wiki/manh-nai-ha/) — 111 lần, chương 877–4157
-- [Thái Hư Đỉnh (bảo vật)](/wiki/thai-hu-dinh/) — 111 lần, chương 2942–4179
-- [Võ Tháp (bảo vật)](/wiki/vo-thap/) — 111 lần, chương 74–176
-- [Hải Linh Ấn (công pháp)](/wiki/hai-linh-an/) — 111 lần, chương 969–2028
+- [Ngao Dịch (nhân vật)](/wiki/ngao-dich/) — 112 lần, chương 736–1286
+- [Sinh Môn (thế lực)](/wiki/sinh-mon/) — 112 lần, chương 315–4129
+- [Bậc Bán Thánh (nhân vật)](/wiki/bac-ban-thanh/) — 112 lần, chương 133–2286
+- [Tình Sơn (địa danh)](/wiki/tinh-son/) — 112 lần, chương 2550–4207
 - [Lang Tổ (nhân vật)](/wiki/lang-to/) — 111 lần, chương 2554–4069
+- [Võ Tháp (bảo vật)](/wiki/vo-thap/) — 111 lần, chương 74–176
+- [Mạnh Nại Hà (nhân vật)](/wiki/manh-nai-ha/) — 111 lần, chương 877–4157
+- [Hải Linh Ấn (công pháp)](/wiki/hai-linh-an/) — 111 lần, chương 969–2028
+- [Tuân Dương Tử (nhân vật)](/wiki/tuan-duong-tu/) — 111 lần, chương 3620–3664
+- [Thái Hư Đỉnh (bảo vật)](/wiki/thai-hu-dinh/) — 111 lần, chương 2942–4179
+- [Hồng Liễu Sơn Trang (địa danh)](/wiki/hong-lieu-son-trang/) — 110 lần, chương 594–629
+- [Tàng Tẫn Cốt Hải (địa danh)](/wiki/tang-tan-cot-hai/) — 110 lần, chương 2435–4147
+- [Phong Cầm (nhân vật)](/wiki/phong-cam/) — 110 lần, chương 863–3800
+- [Du Đan (bảo vật)](/wiki/du-dan/) — 110 lần, chương 2251–2750
 - [Huyền Cương (nhân vật)](/wiki/huyen-cuong/) — 110 lần, chương 354–3486
 - [Sĩ Thiên Đường Giới (địa danh)](/wiki/si-thien-duong-gioi/) — 110 lần, chương 1652–4145
-- [Phong Cầm (nhân vật)](/wiki/phong-cam/) — 110 lần, chương 863–3800
-- [Hồng Liễu Sơn Trang (địa danh)](/wiki/hong-lieu-son-trang/) — 110 lần, chương 594–629
-- [Du Đan (bảo vật)](/wiki/du-dan/) — 110 lần, chương 2251–2750
-- [Tàng Tẫn Cốt Hải (địa danh)](/wiki/tang-tan-cot-hai/) — 110 lần, chương 2435–4147
+- [Vân Hỗn Huyền (nhân vật)](/wiki/van-hon-huyen/) — 109 lần, chương 3563–3855
+- [Nhật Nguyệt Thủy Tinh (địa danh)](/wiki/nhat-nguyet-thuy-tinh/) — 109 lần, chương 804–4160
 - [Huyết Đan (bảo vật)](/wiki/huyet-dan/) — 109 lần, chương 4–4210
 - [Thiền Viện (thế lực)](/wiki/thien-vien/) — 109 lần, chương 918–3219
-- [Sa Đà Thất Giới (địa danh)](/wiki/sa-da-that-gioi/) — 109 lần, chương 1410–1778
-- [Nhật Nguyệt Thủy Tinh (địa danh)](/wiki/nhat-nguyet-thuy-tinh/) — 109 lần, chương 804–4160
+- [Sinh Tử Khư (địa danh)](/wiki/sinh-tu-khu/) — 109 lần, chương 2560–4189
 - [Tượng Vương (nhân vật)](/wiki/tuong-vuong/) — 109 lần, chương 866–1587
-- [Vân Hỗn Huyền (nhân vật)](/wiki/van-hon-huyen/) — 109 lần, chương 3563–3855
 - [Thập Phương Giới (địa danh)](/wiki/thap-phuong-gioi/) — 109 lần, chương 1425–2263
 - [Vũ Văn Tĩnh (nhân vật)](/wiki/vu-van-tinh/) — 108 lần, chương 1616–2283
-- [Cửu Đại Hằng Cổ (địa danh)](/wiki/cuu-dai-hang-co/) — 108 lần, chương 775–4177
-- [Địa Sát Quỷ Thành (địa danh)](/wiki/dia-sat-quy-thanh/) — 108 lần, chương 2275–4084
-- [Khư Giới Chiến (địa danh)](/wiki/khu-gioi-chien/) — 108 lần, chương 397–2841
-- [Vô Thường (nhân vật)](/wiki/vo-thuong-2/) — 108 lần, chương 54–4082
 - [Phong Huyền (nhân vật)](/wiki/phong-huyen/) — 108 lần, chương 75–3918
-- [Thiếu Dương (địa danh)](/wiki/thieu-duong/) — 107 lần, chương 3080–4113
-- [Nhiếp Huyền (nhân vật)](/wiki/nhiep-huyen/) — 107 lần, chương 94–104
-- [Đại Phạn Thiên (nhân vật)](/wiki/dai-phan-thien/) — 107 lần, chương 3107–4134
-- [Kim Xuyên (nhân vật)](/wiki/kim-xuyen/) — 107 lần, chương 306–3491
+- [Địa Sát Quỷ Thành (địa danh)](/wiki/dia-sat-quy-thanh/) — 108 lần, chương 2275–4084
+- [Vô Thường (nhân vật)](/wiki/vo-thuong-2/) — 108 lần, chương 54–4082
+- [Khư Giới Chiến (địa danh)](/wiki/khu-gioi-chien/) — 108 lần, chương 397–2841
+- [Cửu Đại Hằng Cổ (địa danh)](/wiki/cuu-dai-hang-co/) — 108 lần, chương 775–4177
 - [Khổng Tước Thiên Hậu (nhân vật)](/wiki/khong-tuoc-thien-hau/) — 107 lần, chương 3751–4210
-- [Xích Hà Phi Tiên (nhân vật)](/wiki/xich-ha-phi-tien/) — 107 lần, chương 257–4168
-- [Nhiếp Hồng Lâu (địa danh)](/wiki/nhiep-hong-lau/) — 107 lần, chương 439–719
-- [Thông Thiên Cảnh (cảnh giới)](/wiki/thong-thien-canh/) — 107 lần, chương 940–2030
-- [Thạch Phủ Quân (thế lực)](/wiki/thach-phu-quan/) — 107 lần, chương 2428–3515
 - [Bậc Đại Thánh (nhân vật)](/wiki/bac-dai-thanh/) — 107 lần, chương 802–4047
-- [Hồng Trần Tuyệt (địa danh)](/wiki/hong-tran-tuyet/) — 106 lần, chương 2418–4168
-- [Hoàng Tuyền (nhân vật)](/wiki/hoang-tuyen/) — 106 lần, chương 118–4200
-- [Dương Mục (nhân vật)](/wiki/duong-muc/) — 106 lần, chương 2659–2683
+- [Kim Xuyên (nhân vật)](/wiki/kim-xuyen/) — 107 lần, chương 306–3491
+- [Thiếu Dương (địa danh)](/wiki/thieu-duong/) — 107 lần, chương 3080–4113
+- [Nhiếp Hồng Lâu (địa danh)](/wiki/nhiep-hong-lau/) — 107 lần, chương 439–719
+- [Thạch Phủ Quân (thế lực)](/wiki/thach-phu-quan/) — 107 lần, chương 2428–3515
+- [Đại Phạn Thiên (nhân vật)](/wiki/dai-phan-thien/) — 107 lần, chương 3107–4134
+- [Nhiếp Huyền (nhân vật)](/wiki/nhiep-huyen/) — 107 lần, chương 94–104
+- [Xích Hà Phi Tiên (nhân vật)](/wiki/xich-ha-phi-tien/) — 107 lần, chương 257–4168
+- [Thông Thiên Cảnh (cảnh giới)](/wiki/thong-thien-canh/) — 107 lần, chương 940–2030
 - [Bồ Đề Thụ (nhân vật)](/wiki/bo-de-thu/) — 106 lần, chương 2352–4035
+- [Dương Mục (nhân vật)](/wiki/duong-muc/) — 106 lần, chương 2659–2683
+- [Hồng Trần Tuyệt (địa danh)](/wiki/hong-tran-tuyet/) — 106 lần, chương 2418–4168
 - [Sinh Tử Giới (địa danh)](/wiki/sinh-tu-gioi/) — 106 lần, chương 2868–4187
-- [Lượng Sứ (nhân vật)](/wiki/luong-su/) — 105 lần, chương 3177–4092
+- [Hoàng Tuyền (nhân vật)](/wiki/hoang-tuyen/) — 106 lần, chương 118–4200
 - [Thái Thanh (địa danh)](/wiki/thai-thanh/) — 105 lần, chương 177–4104
-- [Thạch Khai (nhân vật)](/wiki/thach-khai/) — 104 lần, chương 846–3376
+- [Lượng Sứ (nhân vật)](/wiki/luong-su/) — 105 lần, chương 3177–4092
 - [Cửu Linh Đại Thánh (nhân vật)](/wiki/cuu-linh-dai-thanh/) — 104 lần, chương 1412–2650
+- [Gian Linh Lung Cầu (nhân vật)](/wiki/gian-linh-lung-cau/) — 104 lần, chương 1755–2610
 - [Linh Thái Cổ (nhân vật)](/wiki/linh-thai-co/) — 104 lần, chương 1055–4202
 - [Đoạn Lăng Phong (nhân vật)](/wiki/doan-lang-phong/) — 104 lần, chương 2482–2598
-- [Ngọc Thanh Tổ Sư (nhân vật)](/wiki/ngoc-thanh-to-su/) — 104 lần, chương 2991–3889
-- [Gian Linh Lung Cầu (nhân vật)](/wiki/gian-linh-lung-cau/) — 104 lần, chương 1755–2610
 - [Đế Phẩm Thánh Đan (bảo vật)](/wiki/de-pham-thanh-dan/) — 104 lần, chương 1222–3010
-- [Kình Tổ (nhân vật)](/wiki/kinh-to/) — 103 lần, chương 2850–3061
-- [Thanh Thiên Bộ (địa danh)](/wiki/thanh-thien-bo/) — 103 lần, chương 952–3886
+- [Ngọc Thanh Tổ Sư (nhân vật)](/wiki/ngoc-thanh-to-su/) — 104 lần, chương 2991–3889
+- [Thạch Khai (nhân vật)](/wiki/thach-khai/) — 104 lần, chương 846–3376
 - [Thiên Ngoại (địa danh)](/wiki/thien-ngoai/) — 103 lần, chương 129–4208
-- [Phạn Ninh (nhân vật)](/wiki/phan-ninh/) — 103 lần, chương 3208–4198
-- [Hoàng Tuyền Ấn (công pháp)](/wiki/hoang-tuyen-an/) — 103 lần, chương 3487–4154
-- [Kim Huy Đại Thánh (nhân vật)](/wiki/kim-huy-dai-thanh/) — 103 lần, chương 2126–2139
-- [Lăng Tư Bạch (nhân vật)](/wiki/lang-tu-bach/) — 103 lần, chương 1084–3308
 - [Cửu Thải (địa danh)](/wiki/cuu-thai/) — 103 lần, chương 434–4211
-- [Chủ Châu Quang Các (thế lực)](/wiki/chu-chau-quang-cac/) — 102 lần, chương 984–4160
+- [Kim Huy Đại Thánh (nhân vật)](/wiki/kim-huy-dai-thanh/) — 103 lần, chương 2126–2139
+- [Thanh Thiên Bộ (địa danh)](/wiki/thanh-thien-bo/) — 103 lần, chương 952–3886
+- [Phạn Ninh (nhân vật)](/wiki/phan-ninh/) — 103 lần, chương 3208–4198
+- [Kình Tổ (nhân vật)](/wiki/kinh-to/) — 103 lần, chương 2850–3061
+- [Hoàng Tuyền Ấn (công pháp)](/wiki/hoang-tuyen-an/) — 103 lần, chương 3487–4154
+- [Lăng Tư Bạch (nhân vật)](/wiki/lang-tu-bach/) — 103 lần, chương 1084–3308
+- [Vũ Ấn Ký (nhân vật)](/wiki/vu-an-ky/) — 102 lần, chương 2–4182
+- [Lục Bào Tinh Sứ (nhân vật)](/wiki/luc-bao-tinh-su/) — 102 lần, chương 444–639
+- [Vu Điện (địa danh)](/wiki/vu-dien/) — 102 lần, chương 2821–4141
+- [Huyết Nha Vương (nhân vật)](/wiki/huyet-nha-vuong/) — 102 lần, chương 630–635
 - [Ninh Thượng Thư (nhân vật)](/wiki/ninh-thuong-thu/) — 102 lần, chương 139–2251
-- [Phỉ Nhĩ Thiên Đinh (nhân vật)](/wiki/phi-nhi-thien-dinh/) — 102 lần, chương 2442–2580
+- [Quân Vương (nhân vật)](/wiki/quan-vuong/) — 102 lần, chương 216–3792
+- [Chủ Châu Quang Các (thế lực)](/wiki/chu-chau-quang-cac/) — 102 lần, chương 984–4160
 - [Khô Tử Tuyệt (nhân vật)](/wiki/kho-tu-tuyet/) — 102 lần, chương 2825–4160
 - [Hoắc Cảnh Thành (địa danh)](/wiki/hoac-canh-thanh/) — 102 lần, chương 250–272
-- [Vu Điện (địa danh)](/wiki/vu-dien/) — 102 lần, chương 2821–4141
-- [Quân Vương (nhân vật)](/wiki/quan-vuong/) — 102 lần, chương 216–3792
-- [Vũ Ấn Ký (nhân vật)](/wiki/vu-an-ky/) — 102 lần, chương 2–4182
-- [Huyết Nha Vương (nhân vật)](/wiki/huyet-nha-vuong/) — 102 lần, chương 630–635
-- [Lục Bào Tinh Sứ (nhân vật)](/wiki/luc-bao-tinh-su/) — 102 lần, chương 444–639
-- [Hồng Chu Cự (địa danh)](/wiki/hong-chu-cu/) — 101 lần, chương 203–327
-- [Vân Nhi (nhân vật)](/wiki/van-nhi/) — 101 lần, chương 4–310
+- [Phỉ Nhĩ Thiên Đinh (nhân vật)](/wiki/phi-nhi-thien-dinh/) — 102 lần, chương 2442–2580
 - [Thiên Cương (nhân vật)](/wiki/thien-cuong/) — 101 lần, chương 257–4147
-- [Sinh Tử Giới Tinh (địa danh)](/wiki/sinh-tu-gioi-tinh/) — 100 lần, chương 2759–4104
+- [Vân Nhi (nhân vật)](/wiki/van-nhi/) — 101 lần, chương 4–310
 - [Tinh Hoàn Thiên Tôn (nhân vật)](/wiki/tinh-hoan-thien-ton/) — 100 lần, chương 2870–4168
 - [Địa Hoang (địa danh)](/wiki/dia-hoang/) — 100 lần, chương 953–4211
-- [Sinh Tử Khư (địa danh)](/wiki/sinh-tu-khu/) — 100 lần, chương 2560–4189
-- [Binh Đoàn (nhân vật)](/wiki/binh-doan/) — 99 lần, chương 439–621
-- [Húc Phong (địa danh)](/wiki/huc-phong/) — 99 lần, chương 3045–3146
+- [Sinh Tử Giới Tinh (địa danh)](/wiki/sinh-tu-gioi-tinh/) — 100 lần, chương 2759–4104
 - [Hoa Ảnh Khinh Thiền (nhân vật)](/wiki/hoa-anh-khinh-thien/) — 99 lần, chương 2262–4194
-- [Thiên Cơ Bút (nhân vật)](/wiki/thien-co-but/) — 99 lần, chương 3705–4185
-- [Cửu Lê (địa danh)](/wiki/cuu-le/) — 99 lần, chương 1239–4207
+- [Húc Phong (địa danh)](/wiki/huc-phong/) — 99 lần, chương 3045–3146
 - [Vô Lượng Kỳ Vương (nhân vật)](/wiki/vo-luong-ky-vuong/) — 99 lần, chương 950–966
-- [Thập Tứ (nhân vật)](/wiki/thap-tu/) — 99 lần, chương 265–4099
+- [Thiên Cơ Bút (nhân vật)](/wiki/thien-co-but/) — 99 lần, chương 3705–4185
 - [Thái Cổ Thập Nhị (địa danh)](/wiki/thai-co-thap-nhi/) — 99 lần, chương 3556–4203
-- [Diệp Hồng Lệ (nhân vật)](/wiki/diep-hong-le/) — 98 lần, chương 609–4209
-- [Thủy Tổ Ẩn (nhân vật)](/wiki/thuy-to-an/) — 98 lần, chương 3272–4202
-- [Võ Giới Đế Tử (nhân vật)](/wiki/vo-gioi-de-tu/) — 98 lần, chương 1881–1899
+- [Cửu Lê (địa danh)](/wiki/cuu-le/) — 99 lần, chương 1239–4207
+- [Binh Đoàn (nhân vật)](/wiki/binh-doan/) — 99 lần, chương 439–621
+- [Thập Tứ (nhân vật)](/wiki/thap-tu/) — 99 lần, chương 265–4099
+- [Sĩ Thiên Đình Giới (địa danh)](/wiki/si-thien-dinh-gioi/) — 98 lần, chương 1423–2721
 - [Diêm Nhân Hoàn (nhân vật)](/wiki/diem-nhan-hoan/) — 98 lần, chương 2778–4192
 - [Cừu Lâm (nhân vật)](/wiki/cuu-lam/) — 98 lần, chương 269–300
-- [Sĩ Thiên Đình Giới (địa danh)](/wiki/si-thien-dinh-gioi/) — 98 lần, chương 1423–2721
+- [Diệp Hồng Lệ (nhân vật)](/wiki/diep-hong-le/) — 98 lần, chương 609–4209
 - [Hải Thạch Tinh Ổ (địa danh)](/wiki/hai-thach-tinh-o/) — 98 lần, chương 1582–4125
-- [Trung Ương (địa danh)](/wiki/trung-uong/) — 98 lần, chương 105–4165
 - [Tửu Quỷ (nhân vật)](/wiki/tuu-quy/) — 98 lần, chương 567–3998
-- [Nhị Giai Bán Thánh (địa danh)](/wiki/nhi-giai-ban-thanh/) — 97 lần, chương 761–1164
-- [Trần Vô Thiên (nhân vật)](/wiki/tran-vo-thien/) — 97 lần, chương 577–4209
-- [Thạch Thiên Tuyệt (nhân vật)](/wiki/thach-thien-tuyet/) — 97 lần, chương 1322–3443
+- [Trung Ương (địa danh)](/wiki/trung-uong/) — 98 lần, chương 105–4165
+- [Thủy Tổ Ẩn (nhân vật)](/wiki/thuy-to-an/) — 98 lần, chương 3272–4202
+- [Võ Giới Đế Tử (nhân vật)](/wiki/vo-gioi-de-tu/) — 98 lần, chương 1881–1899
 - [Kiếm Tùy (nhân vật)](/wiki/kiem-tuy/) — 97 lần, chương 6–4055
-- [Huyết Lạp Hoành Đông (nhân vật)](/wiki/huyet-lap-hoanh-dong/) — 96 lần, chương 1823–1854
-- [Hiên Viên Gia (thế lực)](/wiki/hien-vien-gia/) — 96 lần, chương 3620–4198
-- [Chí Thượng Trụ (nhân vật)](/wiki/chi-thuong-tru/) — 96 lần, chương 3430–4209
-- [Lạc Thư (nhân vật)](/wiki/lac-thu/) — 96 lần, chương 1805–4179
+- [Thạch Thiên Tuyệt (nhân vật)](/wiki/thach-thien-tuyet/) — 97 lần, chương 1322–3443
+- [Trần Vô Thiên (nhân vật)](/wiki/tran-vo-thien/) — 97 lần, chương 577–4209
+- [Nhị Giai Bán Thánh (địa danh)](/wiki/nhi-giai-ban-thanh/) — 97 lần, chương 761–1164
 - [Thông Thiên Huyết Tướng (nhân vật)](/wiki/thong-thien-huyet-tuong/) — 96 lần, chương 923–1355
-- [Huyền Vũ Khư Giới (địa danh)](/wiki/huyen-vu-khu-gioi/) — 95 lần, chương 471–1329
-- [Thuật Phật Sư (nhân vật)](/wiki/thuat-phat-su/) — 95 lần, chương 804–1610
-- [Kim Bức Cự Mãng (nhân vật)](/wiki/kim-buc-cu-mang/) — 95 lần, chương 17–3004
-- [Hán Bạch Châu (bảo vật)](/wiki/han-bach-chau/) — 95 lần, chương 1017–3568
-- [Giáp Tuần Thiên Sứ (nhân vật)](/wiki/giap-tuan-thien-su/) — 95 lần, chương 1787–2209
-- [Yêu Tuyệt Vương (nhân vật)](/wiki/yeu-tuyet-vuong/) — 95 lần, chương 1578–2549
-- [Tước Phi (nhân vật)](/wiki/tuoc-phi/) — 95 lần, chương 2300–2388
+- [Chí Thượng Trụ (nhân vật)](/wiki/chi-thuong-tru/) — 96 lần, chương 3430–4209
+- [Hiên Viên Gia (thế lực)](/wiki/hien-vien-gia/) — 96 lần, chương 3620–4198
+- [Lạc Thư (nhân vật)](/wiki/lac-thu/) — 96 lần, chương 1805–4179
+- [Huyết Lạp Hoành Đông (nhân vật)](/wiki/huyet-lap-hoanh-dong/) — 96 lần, chương 1823–1854
 - [Cố Phùng (nhân vật)](/wiki/co-phung/) — 95 lần, chương 1672–1991
-- [Ly Đế (nhân vật)](/wiki/ly-de/) — 95 lần, chương 2322–2464
 - [Tứ Đại Thiên Vương (nhân vật)](/wiki/tu-dai-thien-vuong/) — 95 lần, chương 1844–2202
 - [Giới Tử Yến (địa danh)](/wiki/gioi-tu-yen/) — 95 lần, chương 716–4162
+- [Kim Bức Cự Mãng (nhân vật)](/wiki/kim-buc-cu-mang/) — 95 lần, chương 17–3004
+- [Giáp Tuần Thiên Sứ (nhân vật)](/wiki/giap-tuan-thien-su/) — 95 lần, chương 1787–2209
+- [Thuật Phật Sư (nhân vật)](/wiki/thuat-phat-su/) — 95 lần, chương 804–1610
+- [Tước Phi (nhân vật)](/wiki/tuoc-phi/) — 95 lần, chương 2300–2388
+- [Yêu Tuyệt Vương (nhân vật)](/wiki/yeu-tuyet-vuong/) — 95 lần, chương 1578–2549
+- [Hán Bạch Châu (bảo vật)](/wiki/han-bach-chau/) — 95 lần, chương 1017–3568
 - [Nghê Tuyên Bắc Sư (nhân vật)](/wiki/nghe-tuyen-bac-su/) — 95 lần, chương 3164–4188
-- [Thái Âm Cổ Thành (địa danh)](/wiki/thai-am-co-thanh/) — 94 lần, chương 860–1234
-- [Mục Cát Cát (nhân vật)](/wiki/muc-cat-cat/) — 94 lần, chương 657–788
+- [Huyền Vũ Khư Giới (địa danh)](/wiki/huyen-vu-khu-gioi/) — 95 lần, chương 471–1329
+- [Ly Đế (nhân vật)](/wiki/ly-de/) — 95 lần, chương 2322–2464
 - [Xích Ngư Thú (nhân vật)](/wiki/xich-ngu-thu/) — 94 lần, chương 540–551
-- [Nguyên Hội Thánh Dược (nhân vật)](/wiki/nguyen-hoi-thanh-duoc/) — 94 lần, chương 1920–3306
-- [Huyết Tộc Mật Quyển (nhân vật)](/wiki/huyet-toc-mat-quyen/) — 94 lần, chương 788–2031
 - [Thủ Thử (nhân vật)](/wiki/thu-thu/) — 94 lần, chương 322–3641
-- [Sinh Tử Bộ (nhân vật)](/wiki/sinh-tu-bo/) — 93 lần, chương 2068–4187
-- [Thất Thập Nhị (địa danh)](/wiki/that-thap-nhi/) — 93 lần, chương 174–4207
+- [Huyết Tộc Mật Quyển (nhân vật)](/wiki/huyet-toc-mat-quyen/) — 94 lần, chương 788–2031
+- [Mục Cát Cát (nhân vật)](/wiki/muc-cat-cat/) — 94 lần, chương 657–788
+- [Thái Âm Cổ Thành (địa danh)](/wiki/thai-am-co-thanh/) — 94 lần, chương 860–1234
+- [Nguyên Hội Thánh Dược (nhân vật)](/wiki/nguyen-hoi-thanh-duoc/) — 94 lần, chương 1920–3306
 - [Ngư Tịnh Trinh (nhân vật)](/wiki/ngu-tinh-trinh/) — 93 lần, chương 3669–3795
+- [Thất Thập Nhị (địa danh)](/wiki/that-thap-nhi/) — 93 lần, chương 174–4207
+- [Sinh Tử Bộ (nhân vật)](/wiki/sinh-tu-bo/) — 93 lần, chương 2068–4187
 - [Khỏi Côn Lôn Giới (địa danh)](/wiki/khoi-con-lon-gioi/) — 93 lần, chương 723–3926
-- [Khúc Sơn Lão Mẫu (nhân vật)](/wiki/khuc-son-lao-mau/) — 92 lần, chương 1858–2017
-- [Bàn Cổ Giới (địa danh)](/wiki/ban-co-gioi/) — 92 lần, chương 1619–4094
+- [Hạ Cảnh Thánh (địa danh)](/wiki/ha-canh-thanh/) — 92 lần, chương 996–1845
 - [Thất Thải San Hô (địa danh)](/wiki/that-thai-san-ho/) — 92 lần, chương 22–3727
 - [Thẩm Phong (nhân vật)](/wiki/tham-phong/) — 92 lần, chương 209–215
+- [Khúc Sơn Lão Mẫu (nhân vật)](/wiki/khuc-son-lao-mau/) — 92 lần, chương 1858–2017
 - [Uyên Diêm Thị (nhân vật)](/wiki/uyen-diem-thi/) — 92 lần, chương 2418–4146
+- [Bàn Cổ Giới (địa danh)](/wiki/ban-co-gioi/) — 92 lần, chương 1619–4094
 - [Thư Thiên Si (nhân vật)](/wiki/thu-thien-si/) — 92 lần, chương 2653–4188
-- [Hạ Cảnh Thánh (địa danh)](/wiki/ha-canh-thanh/) — 92 lần, chương 996–1845
-- [Trương Nhược Trần Ném (nhân vật)](/wiki/truong-nhuoc-tran-nem/) — 91 lần, chương 101–4180
-- [Viên Lượng Tổ Chức (nhân vật)](/wiki/vien-luong-to-chuc/) — 91 lần, chương 2973–3777
-- [Vương Phù (bảo vật)](/wiki/vuong-phu/) — 91 lần, chương 1686–3294
-- [Kỳ Điệp (nhân vật)](/wiki/ky-diep/) — 91 lần, chương 2378–2435
-- [Tề Vân (nhân vật)](/wiki/te-van/) — 91 lần, chương 708–715
-- [Linh Lung Tiên Tử (nhân vật)](/wiki/linh-lung-tien-tu/) — 91 lần, chương 2076–3614
-- [Tử Hàn Sa (nhân vật)](/wiki/tu-han-sa/) — 91 lần, chương 369–390
-- [Hỏa Đảo (địa danh)](/wiki/hoa-dao/) — 91 lần, chương 1237–1307
-- [Huyết Nguyệt (nhân vật)](/wiki/huyet-nguyet/) — 91 lần, chương 809–4181
 - [Huyết Phù Tà Hoàng (nhân vật)](/wiki/huyet-phu-ta-hoang/) — 91 lần, chương 3638–4064
+- [Tử Hàn Sa (nhân vật)](/wiki/tu-han-sa/) — 91 lần, chương 369–390
+- [Linh Lung Tiên Tử (nhân vật)](/wiki/linh-lung-tien-tu/) — 91 lần, chương 2076–3614
+- [Kỳ Điệp (nhân vật)](/wiki/ky-diep/) — 91 lần, chương 2378–2435
+- [Vương Phù (bảo vật)](/wiki/vuong-phu/) — 91 lần, chương 1686–3294
+- [Tề Vân (nhân vật)](/wiki/te-van/) — 91 lần, chương 708–715
+- [Huyết Nguyệt (nhân vật)](/wiki/huyet-nguyet/) — 91 lần, chương 809–4181
+- [Hỏa Đảo (địa danh)](/wiki/hoa-dao/) — 91 lần, chương 1237–1307
+- [Viên Lượng Tổ Chức (nhân vật)](/wiki/vien-luong-to-chuc/) — 91 lần, chương 2973–3777
+- [Trương Nhược Trần Ném (nhân vật)](/wiki/truong-nhuoc-tran-nem/) — 91 lần, chương 101–4180
 - [Tượng Vô Hình Ấn (công pháp)](/wiki/tuong-vo-hinh-an/) — 90 lần, chương 3761–4186
-- [Đơn Hương Lăng (nhân vật)](/wiki/don-huong-lang/) — 90 lần, chương 14–47
 - [Bạch Thiên Sứ Hoàng (nhân vật)](/wiki/bach-thien-su-hoang/) — 90 lần, chương 2673–2718
-- [Tắc Thủy Tổ (nhân vật)](/wiki/tac-thuy-to/) — 90 lần, chương 3501–4208
 - [Vai Trương Nhược Trần (nhân vật)](/wiki/vai-truong-nhuoc-tran/) — 90 lần, chương 91–4170
+- [Tuyệt Cổ Tuyết Sơn (địa danh)](/wiki/tuyet-co-tuyet-son/) — 90 lần, chương 672–4126
+- [Đơn Hương Lăng (nhân vật)](/wiki/don-huong-lang/) — 90 lần, chương 14–47
+- [Tắc Thủy Tổ (nhân vật)](/wiki/tac-thuy-to/) — 90 lần, chương 3501–4208
 - [Phệ Huyết Chú (nhân vật)](/wiki/phe-huyet-chu/) — 90 lần, chương 2289–4157
 - [Nho Giới (địa danh)](/wiki/nho-gioi/) — 90 lần, chương 2653–4002
-- [Tuyệt Cổ Tuyết Sơn (địa danh)](/wiki/tuyet-co-tuyet-son/) — 90 lần, chương 672–4126
-- [Đại Tuyết Nữ Vương (nhân vật)](/wiki/dai-tuyet-nu-vuong/) — 89 lần, chương 3320–3721
-- [Văn Chử (nhân vật)](/wiki/van-chu/) — 89 lần, chương 2420–2849
-- [Tế Sư (nhân vật)](/wiki/te-su/) — 89 lần, chương 3006–4189
-- [Quy Tắc Đại Thiên (địa danh)](/wiki/quy-tac-dai-thien/) — 89 lần, chương 1787–2153
 - [Huyết Ảnh Quỷ Chủng (nhân vật)](/wiki/huyet-anh-quy-chung/) — 89 lần, chương 2343–3750
+- [Tế Sư (nhân vật)](/wiki/te-su/) — 89 lần, chương 3006–4189
 - [Cấp Đại Thánh (nhân vật)](/wiki/cap-dai-thanh/) — 89 lần, chương 1330–3122
-- [Thanh Vân Quận (địa danh)](/wiki/thanh-van-quan/) — 89 lần, chương 194–643
+- [Văn Chử (nhân vật)](/wiki/van-chu/) — 89 lần, chương 2420–2849
 - [Thái Ất (địa danh)](/wiki/thai-at/) — 89 lần, chương 1548–3470
-- [Ưu Đàm Bà (địa danh)](/wiki/uu-dam-ba/) — 88 lần, chương 2786–4177
+- [Quy Tắc Đại Thiên (địa danh)](/wiki/quy-tac-dai-thien/) — 89 lần, chương 1787–2153
+- [Đại Tuyết Nữ Vương (nhân vật)](/wiki/dai-tuyet-nu-vuong/) — 89 lần, chương 3320–3721
+- [Thanh Vân Quận (địa danh)](/wiki/thanh-van-quan/) — 89 lần, chương 194–643
+- [Thú Bảo Giám (nhân vật)](/wiki/thu-bao-giam/) — 88 lần, chương 1256–4130
 - [Hiên Viên Huyền Đế (nhân vật)](/wiki/hien-vien-huyen-de/) — 88 lần, chương 3642–4197
 - [Nguyên Phủ (địa danh)](/wiki/nguyen-phu/) — 88 lần, chương 862–1398
-- [Vô Gian Các (thế lực)](/wiki/vo-gian-cac/) — 88 lần, chương 2263–3721
-- [Lục Kiếp Quỷ Vương (nhân vật)](/wiki/luc-kiep-quy-vuong/) — 88 lần, chương 845–2569
-- [Trác Cổ (nhân vật)](/wiki/trac-co/) — 88 lần, chương 2041–2070
-- [Bát Bộ (địa danh)](/wiki/bat-bo/) — 88 lần, chương 45–4131
-- [Thú Bảo Giám (nhân vật)](/wiki/thu-bao-giam/) — 88 lần, chương 1256–4130
 - [Hùng Quan Tinh (địa danh)](/wiki/hung-quan-tinh/) — 88 lần, chương 3289–3365
+- [Ưu Đàm Bà (địa danh)](/wiki/uu-dam-ba/) — 88 lần, chương 2786–4177
+- [Bát Bộ (địa danh)](/wiki/bat-bo/) — 88 lần, chương 45–4131
+- [Trác Cổ (nhân vật)](/wiki/trac-co/) — 88 lần, chương 2041–2070
+- [Lục Kiếp Quỷ Vương (nhân vật)](/wiki/luc-kiep-quy-vuong/) — 88 lần, chương 845–2569
+- [Vô Gian Các (thế lực)](/wiki/vo-gian-cac/) — 88 lần, chương 2263–3721
+- [Thiên Chu Văn (địa danh)](/wiki/thien-chu-van/) — 87 lần, chương 1673–3192
 - [Lâu Chủ (nhân vật)](/wiki/lau-chu/) — 87 lần, chương 178–4110
 - [Mộng Trạch (địa danh)](/wiki/mong-trach/) — 87 lần, chương 1212–1285
 - [Thất Sinh Thất Tử (địa danh)](/wiki/that-sinh-that-tu/) — 87 lần, chương 1003–4104
-- [Thiên Chu Văn (địa danh)](/wiki/thien-chu-van/) — 87 lần, chương 1673–3192
-- [Ngân Quang Sa (nhân vật)](/wiki/ngan-quang-sa/) — 86 lần, chương 316–325
-- [Ngân Bào Trưởng (địa danh)](/wiki/ngan-bao-truong/) — 86 lần, chương 74–1341
 - [Thanh Thiên Huyết Đế (nhân vật)](/wiki/thanh-thien-huyet-de/) — 86 lần, chương 915–1966
-- [Kiếp Lão (nhân vật)](/wiki/kiep-lao/) — 86 lần, chương 3417–4207
-- [Phong Ngân Ảnh (nhân vật)](/wiki/phong-ngan-anh/) — 86 lần, chương 1351–1374
-- [Bất Hủ Cảnh (cảnh giới)](/wiki/bat-hu-canh/) — 86 lần, chương 1864–2754
-- [Lão Thiên Chủ (nhân vật)](/wiki/lao-thien-chu/) — 86 lần, chương 1672–3963
+- [Ngân Bào Trưởng (địa danh)](/wiki/ngan-bao-truong/) — 86 lần, chương 74–1341
+- [Ngân Quang Sa (nhân vật)](/wiki/ngan-quang-sa/) — 86 lần, chương 316–325
 - [Trang Thái A (nhân vật)](/wiki/trang-thai-a/) — 86 lần, chương 7–4147
-- [Gian Thánh Tướng (nhân vật)](/wiki/gian-thanh-tuong/) — 86 lần, chương 1223–2813
+- [Phong Ngân Ảnh (nhân vật)](/wiki/phong-ngan-anh/) — 86 lần, chương 1351–1374
 - [Việt Thính Hải (địa danh)](/wiki/viet-thinh-hai/) — 86 lần, chương 2274–2379
-- [Diêm Lập Tuyên (nhân vật)](/wiki/diem-lap-tuyen/) — 86 lần, chương 176–287
-- [Hồng Nguyên Thánh Giả (nhân vật)](/wiki/hong-nguyen-thanh-gia/) — 86 lần, chương 982–1177
 - [Vương Triều (nhân vật)](/wiki/vuong-trieu/) — 86 lần, chương 153–3872
+- [Kiếp Lão (nhân vật)](/wiki/kiep-lao/) — 86 lần, chương 3417–4207
+- [Hồng Nguyên Thánh Giả (nhân vật)](/wiki/hong-nguyen-thanh-gia/) — 86 lần, chương 982–1177
+- [Diêm Lập Tuyên (nhân vật)](/wiki/diem-lap-tuyen/) — 86 lần, chương 176–287
+- [Lão Thiên Chủ (nhân vật)](/wiki/lao-thien-chu/) — 86 lần, chương 1672–3963
+- [Gian Thánh Tướng (nhân vật)](/wiki/gian-thanh-tuong/) — 86 lần, chương 1223–2813
+- [Bất Hủ Cảnh (cảnh giới)](/wiki/bat-hu-canh/) — 86 lần, chương 1864–2754
+- [Bán Thánh Ngoại Bảng (địa danh)](/wiki/ban-thanh-ngoai-bang/) — 85 lần, chương 1016–1185
 - [Kim Vũ (nhân vật)](/wiki/kim-vu/) — 85 lần, chương 1999–4109
+- [Thiên Đài Châu (bảo vật)](/wiki/thien-dai-chau/) — 85 lần, chương 685–4160
 - [Thanh Huyền Các (thế lực)](/wiki/thanh-huyen-cac/) — 85 lần, chương 12–588
+- [Đàm Trung Ly (nhân vật)](/wiki/dam-trung-ly/) — 85 lần, chương 1050–1063
+- [Già La Cổ (nhân vật)](/wiki/gia-la-co/) — 85 lần, chương 754–812
 - [Bản Giới Tôn (nhân vật)](/wiki/ban-gioi-ton/) — 85 lần, chương 2970–3448
 - [Hoàng Cấp Võ Đấu (địa danh)](/wiki/hoang-cap-vo-dau/) — 85 lần, chương 25–2437
-- [Thiên Đài Châu (bảo vật)](/wiki/thien-dai-chau/) — 85 lần, chương 685–4160
-- [Già La Cổ (nhân vật)](/wiki/gia-la-co/) — 85 lần, chương 754–812
-- [Bán Thánh Ngoại Bảng (địa danh)](/wiki/ban-thanh-ngoai-bang/) — 85 lần, chương 1016–1185
-- [Đàm Trung Ly (nhân vật)](/wiki/dam-trung-ly/) — 85 lần, chương 1050–1063
+- [Giả Hắc Thị (nhân vật)](/wiki/gia-hac-thi/) — 84 lần, chương 202–579
+- [Thanh Hỏa Huyền Vũ (nhân vật)](/wiki/thanh-hoa-huyen-vu/) — 84 lần, chương 516–1301
+- [Viêm Cự (nhân vật)](/wiki/viem-cu/) — 84 lần, chương 3212–4176
 - [Bà Sa (địa danh)](/wiki/ba-sa/) — 84 lần, chương 2649–4126
 - [Thanh Lê Viên (địa danh)](/wiki/thanh-le-vien/) — 84 lần, chương 2665–2695
 - [Lôi Châu (bảo vật)](/wiki/loi-chau/) — 84 lần, chương 159–3874
-- [Thanh Hỏa Huyền Vũ (nhân vật)](/wiki/thanh-hoa-huyen-vu/) — 84 lần, chương 516–1301
-- [Viêm Cự (nhân vật)](/wiki/viem-cu/) — 84 lần, chương 3212–4176
-- [Đồ Vân (nhân vật)](/wiki/do-van/) — 84 lần, chương 146–2630
-- [Giả Hắc Thị (nhân vật)](/wiki/gia-hac-thi/) — 84 lần, chương 202–579
 - [Già Diệp Phật Tổ (nhân vật)](/wiki/gia-diep-phat-to/) — 84 lần, chương 3712–4177
-- [Hỗn Nguyên (địa danh)](/wiki/hon-nguyen/) — 83 lần, chương 39–4142
-- [Phật Ảnh (nhân vật)](/wiki/phat-anh/) — 83 lần, chương 549–4202
+- [Đồ Vân (nhân vật)](/wiki/do-van/) — 84 lần, chương 146–2630
 - [Thiên Sứ Tộc (thế lực)](/wiki/thien-su-toc/) — 83 lần, chương 1634–4109
 - [Thanh Bình Kiếm (bảo vật)](/wiki/thanh-binh-kiem/) — 83 lần, chương 2993–3146
-- [Tim Trương Nhược Trần (địa danh)](/wiki/tim-truong-nhuoc-tran/) — 83 lần, chương 62–4154
 - [Bách Thánh Huyết Khải (nhân vật)](/wiki/bach-thanh-huyet-khai/) — 83 lần, chương 759–1902
-- [Sa Đà Thiên Vực (địa danh)](/wiki/sa-da-thien-vuc/) — 82 lần, chương 1419–2649
-- [Thương Khâu (địa danh)](/wiki/thuong-khau/) — 82 lần, chương 2662–4146
-- [Thiên Tuyệt Các (thế lực)](/wiki/thien-tuyet-cac/) — 82 lần, chương 1820–2137
-- [Hỏa Kim Ô (nhân vật)](/wiki/hoa-kim-o/) — 82 lần, chương 369–4125
-- [Mỹ Nữ Quỷ Vương (nhân vật)](/wiki/my-nu-quy-vuong/) — 82 lần, chương 798–1408
+- [Tim Trương Nhược Trần (địa danh)](/wiki/tim-truong-nhuoc-tran/) — 83 lần, chương 62–4154
+- [Phật Ảnh (nhân vật)](/wiki/phat-anh/) — 83 lần, chương 549–4202
+- [Hỗn Nguyên (địa danh)](/wiki/hon-nguyen/) — 83 lần, chương 39–4142
 - [Thiểm Hồn Kiếm (bảo vật)](/wiki/thiem-hon-kiem/) — 82 lần, chương 14–146
-- [Thương Kiệt (nhân vật)](/wiki/thuong-kiet/) — 82 lần, chương 2437–2547
-- [Đao Bán Thánh (nhân vật)](/wiki/dao-ban-thanh/) — 82 lần, chương 384–571
-- [Xích Sí Nha (nhân vật)](/wiki/xich-si-nha/) — 82 lần, chương 369–1047
 - [Đừng Vội (nhân vật)](/wiki/dung-voi/) — 82 lần, chương 128–4162
-- [Tứ Kiếm Huyết Thánh (nhân vật)](/wiki/tu-kiem-huyet-thanh/) — 81 lần, chương 1308–1337
-- [Trì Ngọc Đường (thế lực)](/wiki/tri-ngoc-duong/) — 81 lần, chương 1013–1085
+- [Mỹ Nữ Quỷ Vương (nhân vật)](/wiki/my-nu-quy-vuong/) — 82 lần, chương 798–1408
+- [Sa Đà Thiên Vực (địa danh)](/wiki/sa-da-thien-vuc/) — 82 lần, chương 1419–2649
+- [Đao Bán Thánh (nhân vật)](/wiki/dao-ban-thanh/) — 82 lần, chương 384–571
+- [Thiên Tuyệt Các (thế lực)](/wiki/thien-tuyet-cac/) — 82 lần, chương 1820–2137
+- [Thương Kiệt (nhân vật)](/wiki/thuong-kiet/) — 82 lần, chương 2437–2547
+- [Thương Khâu (địa danh)](/wiki/thuong-khau/) — 82 lần, chương 2662–4146
+- [Xích Sí Nha (nhân vật)](/wiki/xich-si-nha/) — 82 lần, chương 369–1047
+- [Hỏa Kim Ô (nhân vật)](/wiki/hoa-kim-o/) — 82 lần, chương 369–4125
 - [Thiên Thịnh Quân (thế lực)](/wiki/thien-thinh-quan/) — 81 lần, chương 3445–3498
-- [Tả Lệ (nhân vật)](/wiki/ta-le/) — 81 lần, chương 2040–2058
 - [Thất Bộ Thánh Vương (nhân vật)](/wiki/that-bo-thanh-vuong/) — 81 lần, chương 1499–2088
-- [Man Tượng (nhân vật)](/wiki/man-tuong/) — 81 lần, chương 5–1932
 - [Gian Hỗn Độn Trùng (cảnh giới)](/wiki/gian-hon-don-trung/) — 81 lần, chương 2441–4209
+- [Trì Ngọc Đường (thế lực)](/wiki/tri-ngoc-duong/) — 81 lần, chương 1013–1085
+- [Tả Lệ (nhân vật)](/wiki/ta-le/) — 81 lần, chương 2040–2058
 - [Nhị Thập Chư Thiên (địa danh)](/wiki/nhi-thap-chu-thien/) — 81 lần, chương 2354–4067
-- [Vĩnh Trú (nhân vật)](/wiki/vinh-tru/) — 80 lần, chương 29–4168
-- [Nhã Xá Thánh Giả (nhân vật)](/wiki/nha-xa-thanh-gia/) — 80 lần, chương 1213–1239
-- [Tịch Diệt Đại Đế (nhân vật)](/wiki/tich-diet-dai-de/) — 80 lần, chương 1416–2650
-- [Bát Hoang Lục Hợp (địa danh)](/wiki/bat-hoang-luc-hop/) — 80 lần, chương 99–3483
+- [Man Tượng (nhân vật)](/wiki/man-tuong/) — 81 lần, chương 5–1932
+- [Tứ Kiếm Huyết Thánh (nhân vật)](/wiki/tu-kiem-huyet-thanh/) — 81 lần, chương 1308–1337
 - [Vương Sư Kỳ (cảnh giới)](/wiki/vuong-su-ky/) — 80 lần, chương 731–2259
-- [Viên Khô Mộc Đan (bảo vật)](/wiki/vien-kho-moc-dan/) — 80 lần, chương 763–1214
-- [Hôn Vương (nhân vật)](/wiki/hon-vuong/) — 80 lần, chương 1538–1606
+- [Nhã Xá Thánh Giả (nhân vật)](/wiki/nha-xa-thanh-gia/) — 80 lần, chương 1213–1239
 - [Âm Vô Thường (nhân vật)](/wiki/am-vo-thuong/) — 80 lần, chương 520–635
-- [Ngũ Mục Kim Trùng (cảnh giới)](/wiki/ngu-muc-kim-trung/) — 79 lần, chương 3679–3870
-- [Tiếp Thiên Cảnh (cảnh giới)](/wiki/tiep-thien-canh/) — 79 lần, chương 1888–2142
-- [Phẩm Thánh Nguyên Đan (bảo vật)](/wiki/pham-thanh-nguyen-dan/) — 79 lần, chương 887–1833
-- [Sơ Quỷ Vương (nhân vật)](/wiki/so-quy-vuong/) — 79 lần, chương 802–1397
+- [Vĩnh Trú (nhân vật)](/wiki/vinh-tru/) — 80 lần, chương 29–4168
+- [Tịch Diệt Đại Đế (nhân vật)](/wiki/tich-diet-dai-de/) — 80 lần, chương 1416–2650
+- [Hôn Vương (nhân vật)](/wiki/hon-vuong/) — 80 lần, chương 1538–1606
+- [Bát Hoang Lục Hợp (địa danh)](/wiki/bat-hoang-luc-hop/) — 80 lần, chương 99–3483
+- [Viên Khô Mộc Đan (bảo vật)](/wiki/vien-kho-moc-dan/) — 80 lần, chương 763–1214
 - [Đức Bổ Thường (nhân vật)](/wiki/duc-bo-thuong/) — 79 lần, chương 1443–1518
-- [Lâm Anh (nhân vật)](/wiki/lam-anh/) — 79 lần, chương 2236–3045
-- [Tử Vong Tế (địa danh)](/wiki/tu-vong-te/) — 79 lần, chương 1927–2373
 - [Phệ Hồn Đăng (nhân vật)](/wiki/phe-hon-dang/) — 79 lần, chương 1976–4010
-- [Cổ Tân (nhân vật)](/wiki/co-tan/) — 79 lần, chương 3479–3535
 - [Sát Na Vô Ngân (nhân vật)](/wiki/sat-na-vo-ngan/) — 79 lần, chương 213–4182
-- [Trương Truyền Tông (thế lực)](/wiki/truong-truyen-tong/) — 78 lần, chương 2132–4199
-- [Triệt Địa Cảnh (cảnh giới)](/wiki/triet-dia-canh/) — 78 lần, chương 1178–1589
-- [Tuyết Trinh Yêu Cơ (nhân vật)](/wiki/tuyet-trinh-yeu-co/) — 78 lần, chương 1233–1253
-- [Thiên Mệnh Ti (địa danh)](/wiki/thien-menh-ti/) — 78 lần, chương 2432–3515
-- [Suất Thành (địa danh)](/wiki/suat-thanh/) — 78 lần, chương 610–4180
-- [Sư Đà Yêu Vương (nhân vật)](/wiki/su-da-yeu-vuong/) — 78 lần, chương 991–1584
+- [Phẩm Thánh Nguyên Đan (bảo vật)](/wiki/pham-thanh-nguyen-dan/) — 79 lần, chương 887–1833
+- [Ngũ Mục Kim Trùng (cảnh giới)](/wiki/ngu-muc-kim-trung/) — 79 lần, chương 3679–3870
+- [Cổ Tân (nhân vật)](/wiki/co-tan/) — 79 lần, chương 3479–3535
+- [Tử Vong Tế (địa danh)](/wiki/tu-vong-te/) — 79 lần, chương 1927–2373
+- [Lâm Anh (nhân vật)](/wiki/lam-anh/) — 79 lần, chương 2236–3045
+- [Tiếp Thiên Cảnh (cảnh giới)](/wiki/tiep-thien-canh/) — 79 lần, chương 1888–2142
+- [Sơ Quỷ Vương (nhân vật)](/wiki/so-quy-vuong/) — 79 lần, chương 802–1397
 - [Tề Tiếu Thiên (nhân vật)](/wiki/te-tieu-thien/) — 78 lần, chương 1794–1856
+- [Thiên Mệnh Ti (địa danh)](/wiki/thien-menh-ti/) — 78 lần, chương 2432–3515
 - [Lôi Tố Linh (nhân vật)](/wiki/loi-to-linh/) — 78 lần, chương 3278–3298
-- [Thanh Ti Tuyết (nhân vật)](/wiki/thanh-ti-tuyet/) — 78 lần, chương 2175–4210
+- [Trương Truyền Tông (thế lực)](/wiki/truong-truyen-tong/) — 78 lần, chương 2132–4199
+- [Suất Thành (địa danh)](/wiki/suat-thanh/) — 78 lần, chương 610–4180
+- [Tuyết Trinh Yêu Cơ (nhân vật)](/wiki/tuyet-trinh-yeu-co/) — 78 lần, chương 1233–1253
+- [Sư Đà Yêu Vương (nhân vật)](/wiki/su-da-yeu-vuong/) — 78 lần, chương 991–1584
 - [Thất Khiếu (nhân vật)](/wiki/that-khieu/) — 78 lần, chương 475–4142
+- [Thanh Ti Tuyết (nhân vật)](/wiki/thanh-ti-tuyet/) — 78 lần, chương 2175–4210
 - [Nguyên Tiên Tử (nhân vật)](/wiki/nguyen-tien-tu/) — 78 lần, chương 1926–4123
+- [Triệt Địa Cảnh (cảnh giới)](/wiki/triet-dia-canh/) — 78 lần, chương 1178–1589
 - [Khách Sạn (địa danh)](/wiki/khach-san/) — 77 lần, chương 588–4191
-- [Ngân Giáp Tuần Thiên (nhân vật)](/wiki/ngan-giap-tuan-thien/) — 77 lần, chương 160–4168
+- [Thánh Hồn Lĩnh (địa danh)](/wiki/thanh-hon-linh/) — 77 lần, chương 783–1621
+- [Tuyết Thanh Sam (nhân vật)](/wiki/tuyet-thanh-sam/) — 77 lần, chương 202–4171
+- [Ngọc Hoàng Đỉnh (bảo vật)](/wiki/ngoc-hoang-dinh/) — 77 lần, chương 1391–4140
+- [Phượng Tự (nhân vật)](/wiki/phuong-tu/) — 77 lần, chương 3309–4116
 - [Thanh Lê (địa danh)](/wiki/thanh-le/) — 77 lần, chương 860–2743
 - [Nghê Tuyên Thị (nhân vật)](/wiki/nghe-tuyen-thi/) — 77 lần, chương 2430–3164
 - [Thập Mạch Kiếm (bảo vật)](/wiki/thap-mach-kiem/) — 77 lần, chương 64–1082
-- [Tuyết Thanh Sam (nhân vật)](/wiki/tuyet-thanh-sam/) — 77 lần, chương 202–4171
-- [Ngọc Hoàng Đỉnh (bảo vật)](/wiki/ngoc-hoang-dinh/) — 77 lần, chương 1391–4140
-- [Thánh Hồn Lĩnh (địa danh)](/wiki/thanh-hon-linh/) — 77 lần, chương 783–1621
+- [Ngân Giáp Tuần Thiên (nhân vật)](/wiki/ngan-giap-tuan-thien/) — 77 lần, chương 160–4168
 - [Thiên Đô Thánh Thị (địa danh)](/wiki/thien-do-thanh-thi/) — 77 lần, chương 1572–4149
-- [Phượng Tự (nhân vật)](/wiki/phuong-tu/) — 77 lần, chương 3309–4116
-- [Đáy Sinh Tử Nhai (địa danh)](/wiki/day-sinh-tu-nhai/) — 76 lần, chương 1728–1973
-- [Trần Vũ Hóa (nhân vật)](/wiki/tran-vu-hoa/) — 76 lần, chương 365–2636
-- [Giáo Thánh Nữ (nhân vật)](/wiki/giao-thanh-nu/) — 76 lần, chương 308–1610
-- [Thánh Nhạc Sư (nhân vật)](/wiki/thanh-nhac-su/) — 76 lần, chương 3810–3866
-- [Nguyên Mạch Mạch (nhân vật)](/wiki/nguyen-mach-mach/) — 76 lần, chương 2426–3298
 - [Huyết Khấp (nhân vật)](/wiki/huyet-khap/) — 76 lần, chương 2221–3932
 - [Tượng Vô Hình (nhân vật)](/wiki/tuong-vo-hinh/) — 76 lần, chương 3673–4186
+- [Đáy Sinh Tử Nhai (địa danh)](/wiki/day-sinh-tu-nhai/) — 76 lần, chương 1728–1973
 - [Mật Điển (công pháp)](/wiki/mat-dien/) — 76 lần, chương 501–2491
+- [Giáo Thánh Nữ (nhân vật)](/wiki/giao-thanh-nu/) — 76 lần, chương 308–1610
+- [Nguyên Mạch Mạch (nhân vật)](/wiki/nguyen-mach-mach/) — 76 lần, chương 2426–3298
+- [Trần Vũ Hóa (nhân vật)](/wiki/tran-vu-hoa/) — 76 lần, chương 365–2636
+- [Thánh Nhạc Sư (nhân vật)](/wiki/thanh-nhac-su/) — 76 lần, chương 3810–3866
+- [Chú Thiên Châu (bảo vật)](/wiki/chu-thien-chau/) — 75 lần, chương 2332–3036
+- [Hỗn Độn Tộc (thế lực)](/wiki/hon-don-toc/) — 75 lần, chương 3563–4188
 - [Xi Thăng (nhân vật)](/wiki/xi-thang/) — 75 lần, chương 1989–2016
+- [Thiếu Âm (địa danh)](/wiki/thieu-am/) — 75 lần, chương 3080–4113
 - [Thiên Mệnh Tôn Giả (nhân vật)](/wiki/thien-menh-ton-gia/) — 75 lần, chương 3150–3954
-- [Kiện Bách Văn Thánh (địa danh)](/wiki/kien-bach-van-thanh/) — 75 lần, chương 454–1624
 - [Thắng Lợi (nhân vật)](/wiki/thang-loi/) — 75 lần, chương 44–4189
 - [Độc Chu Thiếu Chủ (nhân vật)](/wiki/doc-chu-thieu-chu/) — 75 lần, chương 204–269
 - [Tả Lãnh Huyền (nhân vật)](/wiki/ta-lanh-huyen/) — 75 lần, chương 181–229
-- [Hỗn Độn Tộc (thế lực)](/wiki/hon-don-toc/) — 75 lần, chương 3563–4188
-- [Thiếu Âm (địa danh)](/wiki/thieu-am/) — 75 lần, chương 3080–4113
-- [Chú Thiên Châu (bảo vật)](/wiki/chu-thien-chau/) — 75 lần, chương 2332–3036
-- [Thất Thánh Xà Mâu (nhân vật)](/wiki/that-thanh-xa-mau/) — 74 lần, chương 954–1421
-- [Tước Cửu (nhân vật)](/wiki/tuoc-cuu/) — 74 lần, chương 688–732
+- [Kiện Bách Văn Thánh (địa danh)](/wiki/kien-bach-van-thanh/) — 75 lần, chương 454–1624
+- [Giới Xếp (nhân vật)](/wiki/gioi-xep/) — 74 lần, chương 1416–4200
 - [Triệu Hàm Nhi (nhân vật)](/wiki/trieu-ham-nhi/) — 74 lần, chương 592–676
+- [Trung Doanh Vương (nhân vật)](/wiki/trung-doanh-vuong/) — 74 lần, chương 925–1938
 - [Bạch Vô Thường (địa danh)](/wiki/bach-vo-thuong/) — 74 lần, chương 3797–3844
+- [Phạm Văn (nhân vật)](/wiki/pham-van/) — 74 lần, chương 549–4123
+- [Tước Cửu (nhân vật)](/wiki/tuoc-cuu/) — 74 lần, chương 688–732
 - [Kiếm Hồn Đăng (địa danh)](/wiki/kiem-hon-dang/) — 74 lần, chương 3382–4028
 - [Nhiếp Tương Tử (nhân vật)](/wiki/nhiep-tuong-tu/) — 74 lần, chương 1703–2202
-- [Giới Xếp (nhân vật)](/wiki/gioi-xep/) — 74 lần, chương 1416–4200
-- [Phạm Văn (nhân vật)](/wiki/pham-van/) — 74 lần, chương 549–4123
-- [Trung Doanh Vương (nhân vật)](/wiki/trung-doanh-vuong/) — 74 lần, chương 925–1938
 - [Tuần Thiên Sứ Giả (nhân vật)](/wiki/tuan-thien-su-gia/) — 74 lần, chương 1853–2129
-- [Thiết Đà Bối (nhân vật)](/wiki/thiet-da-boi/) — 73 lần, chương 199–216
-- [Hoàng Thiên Bộ Tộc (thế lực)](/wiki/hoang-thien-bo-toc/) — 73 lần, chương 1107–4208
+- [Thất Thánh Xà Mâu (nhân vật)](/wiki/that-thanh-xa-mau/) — 74 lần, chương 954–1421
 - [Xích Hồn Quân Chủ (nhân vật)](/wiki/xich-hon-quan-chu/) — 73 lần, chương 2249–3374
-- [Tổ Phù (bảo vật)](/wiki/to-phu/) — 73 lần, chương 3682–4204
-- [Sinh Tử Lưỡng Trọng (nhân vật)](/wiki/sinh-tu-luong-trong/) — 73 lần, chương 3527–3959
-- [Hồng Hóa Đằng (nhân vật)](/wiki/hong-hoa-dang/) — 73 lần, chương 1507–3040
 - [Bạch Chu Tước (nhân vật)](/wiki/bach-chu-tuoc/) — 73 lần, chương 1792–1877
+- [Tổ Phù (bảo vật)](/wiki/to-phu/) — 73 lần, chương 3682–4204
+- [Hoàng Thiên Bộ Tộc (thế lực)](/wiki/hoang-thien-bo-toc/) — 73 lần, chương 1107–4208
+- [Thiết Đà Bối (nhân vật)](/wiki/thiet-da-boi/) — 73 lần, chương 199–216
+- [Hồng Hóa Đằng (nhân vật)](/wiki/hong-hoa-dang/) — 73 lần, chương 1507–3040
+- [Sinh Tử Lưỡng Trọng (nhân vật)](/wiki/sinh-tu-luong-trong/) — 73 lần, chương 3527–3959
 - [Vô Ảnh Tiên Tử (nhân vật)](/wiki/vo-anh-tien-tu/) — 72 lần, chương 1606–4024
+- [Phổ Đà Cổ Phật (nhân vật)](/wiki/pho-da-co-phat/) — 72 lần, chương 3179–3189
+- [Đại Dương Vương (nhân vật)](/wiki/dai-duong-vuong/) — 72 lần, chương 2093–3231
+- [Hồng Trần Quần Đảo (địa danh)](/wiki/hong-tran-quan-dao/) — 72 lần, chương 677–4102
+- [Vô Gian Lĩnh (địa danh)](/wiki/vo-gian-linh/) — 72 lần, chương 3550–4150
 - [Trường Khư Giới (địa danh)](/wiki/truong-khu-gioi/) — 72 lần, chương 404–2613
 - [Huyết Ảnh (địa danh)](/wiki/huyet-anh/) — 72 lần, chương 350–4127
 - [Thẩm Mộng Khê (nhân vật)](/wiki/tham-mong-khe/) — 72 lần, chương 72–75
-- [Đại Dương Vương (nhân vật)](/wiki/dai-duong-vuong/) — 72 lần, chương 2093–3231
-- [Phổ Đà Cổ Phật (nhân vật)](/wiki/pho-da-co-phat/) — 72 lần, chương 3179–3189
-- [Hồng Trần Quần Đảo (địa danh)](/wiki/hong-tran-quan-dao/) — 72 lần, chương 677–4102
-- [Vô Gian Lĩnh (địa danh)](/wiki/vo-gian-linh/) — 72 lần, chương 3550–4150
-- [Khỏi Hắc Ám (địa danh)](/wiki/khoi-hac-am/) — 71 lần, chương 2330–4203
-- [Tứ Tượng Đồ (nhân vật)](/wiki/tu-tuong-do/) — 71 lần, chương 3439–4182
-- [Địa Hỏa Kỳ Lân (nhân vật)](/wiki/dia-hoa-ky-lan/) — 71 lần, chương 291–2233
-- [Chư Hoàng (địa danh)](/wiki/chu-hoang/) — 71 lần, chương 2–3952
 - [Phượng Vũ (địa danh)](/wiki/phuong-vu/) — 71 lần, chương 1018–4069
-- [Lục Tổ Thích Thiền (địa danh)](/wiki/luc-to-thich-thien/) — 71 lần, chương 2617–3402
-- [Phương Đông (địa danh)](/wiki/phuong-dong/) — 71 lần, chương 405–4147
+- [Khỏi Hắc Ám (địa danh)](/wiki/khoi-hac-am/) — 71 lần, chương 2330–4203
 - [Thiên Kiếm Hồn (nhân vật)](/wiki/thien-kiem-hon/) — 71 lần, chương 1974–3388
+- [Phương Đông (địa danh)](/wiki/phuong-dong/) — 71 lần, chương 405–4147
+- [Chư Hoàng (địa danh)](/wiki/chu-hoang/) — 71 lần, chương 2–3952
+- [Địa Hỏa Kỳ Lân (nhân vật)](/wiki/dia-hoa-ky-lan/) — 71 lần, chương 291–2233
+- [Tứ Tượng Đồ (nhân vật)](/wiki/tu-tuong-do/) — 71 lần, chương 3439–4182
+- [Lục Tổ Thích Thiền (địa danh)](/wiki/luc-to-thich-thien/) — 71 lần, chương 2617–3402
 - [Ngô Bát (nhân vật)](/wiki/ngo-bat/) — 71 lần, chương 688–746
+- [Thái Bạch (địa danh)](/wiki/thai-bach/) — 70 lần, chương 1566–4128
+- [Phượng Hoàng Hồ (địa danh)](/wiki/phuong-hoang-ho/) — 70 lần, chương 1818–3963
 - [Nguyệt Thánh Quả (nhân vật)](/wiki/nguyet-thanh-qua/) — 70 lần, chương 1647–1664
+- [Cô Xạ Hoan Hoan (nhân vật)](/wiki/co-xa-hoan-hoan/) — 70 lần, chương 2728–3847
+- [Giả Thánh Vương (nhân vật)](/wiki/gia-thanh-vuong/) — 70 lần, chương 1541–3034
+- [Đẳng Khư Giới (địa danh)](/wiki/dang-khu-gioi/) — 70 lần, chương 397–3924
+- [Thạch Phủ (nhân vật)](/wiki/thach-phu/) — 70 lần, chương 2207–4176
+- [Văn Bích Thủy Kiếm (bảo vật)](/wiki/van-bich-thuy-kiem/) — 70 lần, chương 22–757
 - [Mộc Gia (thế lực)](/wiki/moc-gia/) — 70 lần, chương 498–3963
 - [Tề Thiên Bộ Tộc (thế lực)](/wiki/te-thien-bo-toc/) — 70 lần, chương 1004–4208
-- [Giả Thánh Vương (nhân vật)](/wiki/gia-thanh-vuong/) — 70 lần, chương 1541–3034
-- [Văn Bích Thủy Kiếm (bảo vật)](/wiki/van-bich-thuy-kiem/) — 70 lần, chương 22–757
-- [Thạch Phủ (nhân vật)](/wiki/thach-phu/) — 70 lần, chương 2207–4176
-- [Thái Bạch (địa danh)](/wiki/thai-bach/) — 70 lần, chương 1566–4128
-- [Đẳng Khư Giới (địa danh)](/wiki/dang-khu-gioi/) — 70 lần, chương 397–3924
-- [Phượng Hoàng Hồ (địa danh)](/wiki/phuong-hoang-ho/) — 70 lần, chương 1818–3963
-- [Cô Xạ Hoan Hoan (nhân vật)](/wiki/co-xa-hoan-hoan/) — 70 lần, chương 2728–3847
-- [Khương Vân Xung (nhân vật)](/wiki/khuong-van-xung/) — 69 lần, chương 1827–2641
-- [Hậu Thổ (địa danh)](/wiki/hau-tho/) — 69 lần, chương 1363–4210
-- [Thiên Xung Thiên Nữ (nhân vật)](/wiki/thien-xung-thien-nu/) — 69 lần, chương 1714–2101
 - [Phương Kiệt (nhân vật)](/wiki/phuong-kiet/) — 69 lần, chương 586–598
+- [Thiên Xung Thiên Nữ (nhân vật)](/wiki/thien-xung-thien-nu/) — 69 lần, chương 1714–2101
+- [Ngũ Trọng Hải (địa danh)](/wiki/ngu-trong-hai/) — 69 lần, chương 2851–4176
 - [Tuyết Vực Tinh Hải (địa danh)](/wiki/tuyet-vuc-tinh-hai/) — 69 lần, chương 2513–4153
+- [Thanh Tẫn (nhân vật)](/wiki/thanh-tan/) — 69 lần, chương 352–2090
 - [Hoàng Bảng (địa danh)](/wiki/hoang-bang/) — 69 lần, chương 42–659
 - [Thác Bạt Lâm Túc (nhân vật)](/wiki/thac-bat-lam-tuc/) — 69 lần, chương 143–154
-- [Đà Hằng Bạch Ngân (nhân vật)](/wiki/da-hang-bach-ngan/) — 69 lần, chương 206–4201
 - [Lượng Mục (nhân vật)](/wiki/luong-muc/) — 69 lần, chương 2807–3472
-- [Thanh Tẫn (nhân vật)](/wiki/thanh-tan/) — 69 lần, chương 352–2090
-- [Ngũ Trọng Hải (địa danh)](/wiki/ngu-trong-hai/) — 69 lần, chương 2851–4176
+- [Hậu Thổ (địa danh)](/wiki/hau-tho/) — 69 lần, chương 1363–4210
+- [Khương Vân Xung (nhân vật)](/wiki/khuong-van-xung/) — 69 lần, chương 1827–2641
+- [Đà Hằng Bạch Ngân (nhân vật)](/wiki/da-hang-bach-ngan/) — 69 lần, chương 206–4201
 - [Lâm Phụng Tiên (nhân vật)](/wiki/lam-phung-tien/) — 68 lần, chương 6–3638
-- [Phẩm Bổn Nguyên (địa danh)](/wiki/pham-bon-nguyen/) — 68 lần, chương 2444–2610
+- [Vực Thánh Vương Phủ (địa danh)](/wiki/vuc-thanh-vuong-phu/) — 68 lần, chương 400–1840
+- [Ưng Thú Vương (nhân vật)](/wiki/ung-thu-vuong/) — 68 lần, chương 1064–1080
+- [Trữ Quyển (nhân vật)](/wiki/tru-quyen/) — 68 lần, chương 2391–2826
+- [Bắc Lang Vương (nhân vật)](/wiki/bac-lang-vuong/) — 68 lần, chương 860–873
 - [Tuyệt Diệu (nhân vật)](/wiki/tuyet-dieu/) — 68 lần, chương 149–4195
 - [Bồ Tát (nhân vật)](/wiki/bo-tat/) — 68 lần, chương 339–4162
-- [Vực Thánh Vương Phủ (địa danh)](/wiki/vuc-thanh-vuong-phu/) — 68 lần, chương 400–1840
-- [Trữ Quyển (nhân vật)](/wiki/tru-quyen/) — 68 lần, chương 2391–2826
 - [Ngư Thái (nhân vật)](/wiki/ngu-thai/) — 68 lần, chương 2872–4014
-- [Bắc Lang Vương (nhân vật)](/wiki/bac-lang-vuong/) — 68 lần, chương 860–873
-- [Ưng Thú Vương (nhân vật)](/wiki/ung-thu-vuong/) — 68 lần, chương 1064–1080
-- [Đông Vực Vương (nhân vật)](/wiki/dong-vuc-vuong/) — 67 lần, chương 456–3929
-- [Cửu Tiên Mỹ Nhân (địa danh)](/wiki/cuu-tien-my-nhan/) — 67 lần, chương 1530–4123
-- [Cấp Trấn Huyết Phù (bảo vật)](/wiki/cap-tran-huyet-phu/) — 67 lần, chương 1160–2529
-- [Anh Chủ Phong (địa danh)](/wiki/anh-chu-phong/) — 67 lần, chương 1162–2627
-- [Tuyết Mộc (nhân vật)](/wiki/tuyet-moc/) — 67 lần, chương 3128–3995
-- [Ngư Thương Sinh (nhân vật)](/wiki/ngu-thuong-sinh/) — 67 lần, chương 3368–3910
-- [Bá Lĩnh (địa danh)](/wiki/ba-linh/) — 67 lần, chương 3549–4121
-- [Viêm Vương (nhân vật)](/wiki/viem-vuong/) — 67 lần, chương 1612–1987
-- [Đại Thánh Thiên Nô (nhân vật)](/wiki/dai-thanh-thien-no/) — 67 lần, chương 2286–2412
+- [Phẩm Bổn Nguyên (địa danh)](/wiki/pham-bon-nguyen/) — 68 lần, chương 2444–2610
 - [Cự Linh (địa danh)](/wiki/cu-linh/) — 67 lần, chương 433–3637
+- [Ngư Thương Sinh (nhân vật)](/wiki/ngu-thuong-sinh/) — 67 lần, chương 3368–3910
+- [Cấp Trấn Huyết Phù (bảo vật)](/wiki/cap-tran-huyet-phu/) — 67 lần, chương 1160–2529
+- [Bá Lĩnh (địa danh)](/wiki/ba-linh/) — 67 lần, chương 3549–4121
+- [Cửu Tiên Mỹ Nhân (địa danh)](/wiki/cuu-tien-my-nhan/) — 67 lần, chương 1530–4123
+- [Đại Thánh Thiên Nô (nhân vật)](/wiki/dai-thanh-thien-no/) — 67 lần, chương 2286–2412
+- [Viêm Vương (nhân vật)](/wiki/viem-vuong/) — 67 lần, chương 1612–1987
+- [Đông Vực Vương (nhân vật)](/wiki/dong-vuc-vuong/) — 67 lần, chương 456–3929
+- [Tuyết Mộc (nhân vật)](/wiki/tuyet-moc/) — 67 lần, chương 3128–3995
+- [Anh Chủ Phong (địa danh)](/wiki/anh-chu-phong/) — 67 lần, chương 1162–2627
+- [Giới Tửu Quán (địa danh)](/wiki/gioi-tuu-quan/) — 66 lần, chương 196–4160
+- [Tư Đồ Vân Lâm (nhân vật)](/wiki/tu-do-van-lam/) — 66 lần, chương 2814–2837
+- [Bổn Nguyên Áo Nghĩa (nhân vật)](/wiki/bon-nguyen-ao-nghia/) — 66 lần, chương 2522–3222
+- [Ôn Thư Thịnh (nhân vật)](/wiki/on-thu-thinh/) — 66 lần, chương 1418–1982
+- [Thử Thử (nhân vật)](/wiki/thu-thu-2/) — 66 lần, chương 728–1989
+- [Khỏi Vận Mệnh (địa danh)](/wiki/khoi-van-menh/) — 66 lần, chương 412–4150
 - [Trương Nhược Trần Nheo (nhân vật)](/wiki/truong-nhuoc-tran-nheo/) — 66 lần, chương 95–4088
 - [Bán Tổ Đỉnh (bảo vật)](/wiki/ban-to-dinh/) — 66 lần, chương 3978–4205
-- [Khỏi Vận Mệnh (địa danh)](/wiki/khoi-van-menh/) — 66 lần, chương 412–4150
-- [Giới Tửu Quán (địa danh)](/wiki/gioi-tuu-quan/) — 66 lần, chương 196–4160
-- [Thử Thử (nhân vật)](/wiki/thu-thu-2/) — 66 lần, chương 728–1989
-- [Bổn Nguyên Áo Nghĩa (nhân vật)](/wiki/bon-nguyen-ao-nghia/) — 66 lần, chương 2522–3222
 - [Chu Khất Quỷ Đế (nhân vật)](/wiki/chu-khat-quy-de/) — 66 lần, chương 3211–4165
 - [Trụ Thiên Đình (nhân vật)](/wiki/tru-thien-dinh/) — 66 lần, chương 2338–4210
-- [Tư Đồ Vân Lâm (nhân vật)](/wiki/tu-do-van-lam/) — 66 lần, chương 2814–2837
-- [Ôn Thư Thịnh (nhân vật)](/wiki/on-thu-thinh/) — 66 lần, chương 1418–1982
-- [Hồn Đan (bảo vật)](/wiki/hon-dan/) — 65 lần, chương 531–4097
-- [Thanh Hồng Các (thế lực)](/wiki/thanh-hong-cac/) — 65 lần, chương 1349–2260
-- [Sát Tận Vương (nhân vật)](/wiki/sat-tan-vuong/) — 65 lần, chương 1280–2124
-- [Tiên Cốc Cốc Chủ (nhân vật)](/wiki/tien-coc-coc-chu/) — 65 lần, chương 2945–4091
-- [Luân Hồi Kính (bảo vật)](/wiki/luan-hoi-kinh/) — 65 lần, chương 3856–4187
-- [Trường Thú Thiên (nhân vật)](/wiki/truong-thu-thien/) — 65 lần, chương 2279–3095
 - [Trưởng Lão Thích (nhân vật)](/wiki/truong-lao-thich/) — 65 lần, chương 1730–2048
-- [Sinh Đông Viện (thế lực)](/wiki/sinh-dong-vien/) — 65 lần, chương 74–181
+- [Hồn Đan (bảo vật)](/wiki/hon-dan/) — 65 lần, chương 531–4097
+- [Tiên Cốc Cốc Chủ (nhân vật)](/wiki/tien-coc-coc-chu/) — 65 lần, chương 2945–4091
 - [Trọng Uyên Cổ Kiếm (bảo vật)](/wiki/trong-uyen-co-kiem/) — 65 lần, chương 214–3779
-- [Tá Thiên Huyết Thánh (nhân vật)](/wiki/ta-thien-huyet-thanh/) — 65 lần, chương 794–1289
+- [Trường Thú Thiên (nhân vật)](/wiki/truong-thu-thien/) — 65 lần, chương 2279–3095
 - [Lý Sứ Giả (nhân vật)](/wiki/ly-su-gia/) — 65 lần, chương 1575–3233
+- [Tá Thiên Huyết Thánh (nhân vật)](/wiki/ta-thien-huyet-thanh/) — 65 lần, chương 794–1289
+- [Luân Hồi Kính (bảo vật)](/wiki/luan-hoi-kinh/) — 65 lần, chương 3856–4187
+- [Thanh Hồng Các (thế lực)](/wiki/thanh-hong-cac/) — 65 lần, chương 1349–2260
 - [Phó Viện (thế lực)](/wiki/pho-vien/) — 65 lần, chương 101–266
-- [Thời Gian Nguyên Châu (bảo vật)](/wiki/thoi-gian-nguyen-chau/) — 64 lần, chương 2619–3873
-- [Thanh Vân Khuyết (nhân vật)](/wiki/thanh-van-khuyet/) — 64 lần, chương 3125–3886
+- [Sát Tận Vương (nhân vật)](/wiki/sat-tan-vuong/) — 65 lần, chương 1280–2124
+- [Sinh Đông Viện (thế lực)](/wiki/sinh-dong-vien/) — 65 lần, chương 74–181
 - [Mỹ Lạp (nhân vật)](/wiki/my-lap/) — 64 lần, chương 3329–3907
-- [Khởi Nguyên Thái Thượng (nhân vật)](/wiki/khoi-nguyen-thai-thuong/) — 64 lần, chương 4200–4211
 - [Bàn Nhược Điện (địa danh)](/wiki/ban-nhuoc-dien/) — 64 lần, chương 2146–3797
-- [Thất Giai Bán Thánh (địa danh)](/wiki/that-giai-ban-thanh/) — 64 lần, chương 633–1126
-- [Huyền Hoàng Cảnh (cảnh giới)](/wiki/huyen-hoang-canh/) — 64 lần, chương 1178–1979
-- [Bộ Đông Vực (địa danh)](/wiki/bo-dong-vuc/) — 64 lần, chương 265–3926
 - [Hư Phong Tận (nhân vật)](/wiki/hu-phong-tan-2/) — 64 lần, chương 3100–4187
-- [Tiên Phi Tử (nhân vật)](/wiki/tien-phi-tu/) — 64 lần, chương 1245–4210
-- [Mặc Hàn Lâm (nhân vật)](/wiki/mac-han-lam/) — 64 lần, chương 12–585
-- [Thất Sát Tinh Sứ (địa danh)](/wiki/that-sat-tinh-su/) — 64 lần, chương 308–823
-- [Âm Dương Thái (địa danh)](/wiki/am-duong-thai/) — 64 lần, chương 1227–3268
-- [Bất Tử Điểu (nhân vật)](/wiki/bat-tu-dieu/) — 64 lần, chương 1278–4206
-- [Giáo Giáo Chủ (nhân vật)](/wiki/giao-giao-chu/) — 64 lần, chương 876–3716
 - [Tấn Nha (nhân vật)](/wiki/tan-nha-2/) — 64 lần, chương 1703–1770
-- [Hài Huyền Đế (nhân vật)](/wiki/hai-huyen-de/) — 64 lần, chương 4170–4197
+- [Thanh Vân Khuyết (nhân vật)](/wiki/thanh-van-khuyet/) — 64 lần, chương 3125–3886
+- [Huyền Hoàng Cảnh (cảnh giới)](/wiki/huyen-hoang-canh/) — 64 lần, chương 1178–1979
+- [Khởi Nguyên Thái Thượng (nhân vật)](/wiki/khoi-nguyen-thai-thuong/) — 64 lần, chương 4200–4211
 - [Giới Nhân Kiếm Hợp (địa danh)](/wiki/gioi-nhan-kiem-hop/) — 64 lần, chương 16–4201
+- [Bộ Đông Vực (địa danh)](/wiki/bo-dong-vuc/) — 64 lần, chương 265–3926
+- [Thời Gian Nguyên Châu (bảo vật)](/wiki/thoi-gian-nguyen-chau/) — 64 lần, chương 2619–3873
+- [Mặc Hàn Lâm (nhân vật)](/wiki/mac-han-lam/) — 64 lần, chương 12–585
+- [Bất Tử Điểu (nhân vật)](/wiki/bat-tu-dieu/) — 64 lần, chương 1278–4206
+- [Âm Dương Thái (địa danh)](/wiki/am-duong-thai/) — 64 lần, chương 1227–3268
+- [Thất Giai Bán Thánh (địa danh)](/wiki/that-giai-ban-thanh/) — 64 lần, chương 633–1126
+- [Hài Huyền Đế (nhân vật)](/wiki/hai-huyen-de/) — 64 lần, chương 4170–4197
+- [Thất Sát Tinh Sứ (địa danh)](/wiki/that-sat-tinh-su/) — 64 lần, chương 308–823
 - [Ngũ Hành Thổ (địa danh)](/wiki/ngu-hanh-tho/) — 64 lần, chương 1686–4159
-- [Yến Khinh Vũ (nhân vật)](/wiki/yen-khinh-vu/) — 63 lần, chương 280–306
-- [Mạnh Nhị Thập Bát (nhân vật)](/wiki/manh-nhi-thap-bat/) — 63 lần, chương 2483–4078
-- [Liễu Tín (nhân vật)](/wiki/lieu-tin/) — 63 lần, chương 143–249
-- [Thanh Vân Đài (nhân vật)](/wiki/thanh-van-dai/) — 63 lần, chương 3124–3161
-- [Suối Đại Đế (nhân vật)](/wiki/suoi-dai-de/) — 63 lần, chương 3526–3806
+- [Tiên Phi Tử (nhân vật)](/wiki/tien-phi-tu/) — 64 lần, chương 1245–4210
+- [Giáo Giáo Chủ (nhân vật)](/wiki/giao-giao-chu/) — 64 lần, chương 876–3716
 - [Thanh Vân Khư Giới (địa danh)](/wiki/thanh-van-khu-gioi/) — 63 lần, chương 1061–2125
-- [Phật Lâm (nhân vật)](/wiki/phat-lam/) — 63 lần, chương 2169–3952
-- [Tứ Tượng Tông (thế lực)](/wiki/tu-tuong-tong/) — 63 lần, chương 685–2642
-- [Tộc Đại Thánh (nhân vật)](/wiki/toc-dai-thanh/) — 63 lần, chương 883–3409
-- [Hùng Tiêu (địa danh)](/wiki/hung-tieu/) — 63 lần, chương 3857–4201
-- [Đoạt Mệnh Kiếm Khách (nhân vật)](/wiki/doat-menh-kiem-khach/) — 63 lần, chương 52–3434
-- [Việt Cổ Quân (thế lực)](/wiki/viet-co-quan/) — 63 lần, chương 3470–3495
-- [Tử Lôi Kiếm (bảo vật)](/wiki/tu-loi-kiem/) — 63 lần, chương 397–454
-- [Phương Mặc Phong (nhân vật)](/wiki/phuong-mac-phong/) — 63 lần, chương 2325–2982
+- [Yến Khinh Vũ (nhân vật)](/wiki/yen-khinh-vu/) — 63 lần, chương 280–306
+- [Suối Đại Đế (nhân vật)](/wiki/suoi-dai-de/) — 63 lần, chương 3526–3806
 - [Vân Tranh (nhân vật)](/wiki/van-tranh/) — 63 lần, chương 855–1982
-- [Cố Thiên Âm (nhân vật)](/wiki/co-thien-am/) — 63 lần, chương 1989–2172
-- [Thôn Tinh (địa danh)](/wiki/thon-tinh/) — 63 lần, chương 3188–4178
-- [Thánh Tiễn Hầu (nhân vật)](/wiki/thanh-tien-hau/) — 63 lần, chương 1443–1493
+- [Tử Lôi Kiếm (bảo vật)](/wiki/tu-loi-kiem/) — 63 lần, chương 397–454
+- [Phật Lâm (nhân vật)](/wiki/phat-lam/) — 63 lần, chương 2169–3952
+- [Hùng Tiêu (địa danh)](/wiki/hung-tieu/) — 63 lần, chương 3857–4201
+- [Liễu Tín (nhân vật)](/wiki/lieu-tin/) — 63 lần, chương 143–249
+- [Phương Mặc Phong (nhân vật)](/wiki/phuong-mac-phong/) — 63 lần, chương 2325–2982
+- [Việt Cổ Quân (thế lực)](/wiki/viet-co-quan/) — 63 lần, chương 3470–3495
+- [Tứ Tượng Tông (thế lực)](/wiki/tu-tuong-tong/) — 63 lần, chương 685–2642
+- [Nguyên Thiên Mạch (nhân vật)](/wiki/nguyen-thien-mach/) — 63 lần, chương 2464–2599
 - [Thiên Luân Ấn (công pháp)](/wiki/thien-luan-an/) — 63 lần, chương 404–3893
-- [Bạch Cốt Sơn (địa danh)](/wiki/bach-cot-son/) — 62 lần, chương 1881–3809
-- [Tiết Lý (nhân vật)](/wiki/tiet-ly/) — 62 lần, chương 3141–3322
-- [Sinh Tử Lão Nhân (nhân vật)](/wiki/sinh-tu-lao-nhan/) — 62 lần, chương 3887–4187
-- [Thắng Lợi Vương Quan (nhân vật)](/wiki/thang-loi-vuong-quan/) — 62 lần, chương 3851–4176
-- [Bách Nhẫn (nhân vật)](/wiki/bach-nhan/) — 62 lần, chương 328–2709
-- [Liên Châu Phủ (địa danh)](/wiki/lien-chau-phu/) — 62 lần, chương 1184–2259
-- [Nhân Hoàn Thiên Tôn (nhân vật)](/wiki/nhan-hoan-thien-ton/) — 62 lần, chương 3519–3828
-- [Họa Tông (thế lực)](/wiki/hoa-tong/) — 62 lần, chương 157–4111
-- [Bách Thánh Huyết Giáp (bảo vật)](/wiki/bach-thanh-huyet-giap/) — 62 lần, chương 754–3162
+- [Mạnh Nhị Thập Bát (nhân vật)](/wiki/manh-nhi-thap-bat/) — 63 lần, chương 2483–4078
+- [Thanh Vân Đài (nhân vật)](/wiki/thanh-van-dai/) — 63 lần, chương 3124–3161
+- [Đoạt Mệnh Kiếm Khách (nhân vật)](/wiki/doat-menh-kiem-khach/) — 63 lần, chương 52–3434
+- [Thánh Tiễn Hầu (nhân vật)](/wiki/thanh-tien-hau/) — 63 lần, chương 1443–1493
+- [Tộc Đại Thánh (nhân vật)](/wiki/toc-dai-thanh/) — 63 lần, chương 883–3409
+- [Thôn Tinh (địa danh)](/wiki/thon-tinh/) — 63 lần, chương 3188–4178
+- [Cố Thiên Âm (nhân vật)](/wiki/co-thien-am/) — 63 lần, chương 1989–2172
 - [Hắc Mộc Nguyên (địa danh)](/wiki/hac-moc-nguyen/) — 62 lần, chương 481–505
-- [Hoắc Ấn (công pháp)](/wiki/hoac-an/) — 62 lần, chương 879–986
-- [Thất Thập Nhị Trụ (địa danh)](/wiki/that-thap-nhi-tru/) — 62 lần, chương 2824–4198
+- [Nhân Hoàn Thiên Tôn (nhân vật)](/wiki/nhan-hoan-thien-ton/) — 62 lần, chương 3519–3828
+- [Liên Châu Phủ (địa danh)](/wiki/lien-chau-phu/) — 62 lần, chương 1184–2259
+- [Họa Tông (thế lực)](/wiki/hoa-tong/) — 62 lần, chương 157–4111
+- [Bách Nhẫn (nhân vật)](/wiki/bach-nhan/) — 62 lần, chương 328–2709
+- [Sinh Tử Lão Nhân (nhân vật)](/wiki/sinh-tu-lao-nhan/) — 62 lần, chương 3887–4187
+- [Bạch Cốt Sơn (địa danh)](/wiki/bach-cot-son/) — 62 lần, chương 1881–3809
 - [Linh Xu Bán Thánh (nhân vật)](/wiki/linh-xu-ban-thanh/) — 62 lần, chương 384–787
+- [Thắng Lợi Vương Quan (nhân vật)](/wiki/thang-loi-vuong-quan/) — 62 lần, chương 3851–4176
+- [Thất Thập Nhị Trụ (địa danh)](/wiki/that-thap-nhi-tru/) — 62 lần, chương 2824–4198
+- [Hoắc Ấn (công pháp)](/wiki/hoac-an/) — 62 lần, chương 879–986
+- [Bách Thánh Huyết Giáp (bảo vật)](/wiki/bach-thanh-huyet-giap/) — 62 lần, chương 754–3162
 - [Chiến Hồn Tinh (địa danh)](/wiki/chien-hon-tinh/) — 62 lần, chương 1862–1880
-- [Xích Hải Tà Tăng (nhân vật)](/wiki/xich-hai-ta-tang/) — 61 lần, chương 495–3717
-- [Võ Thị Dịch Quán (địa danh)](/wiki/vo-thi-dich-quan/) — 61 lần, chương 376–717
-- [Đằng Cốc (địa danh)](/wiki/dang-coc/) — 61 lần, chương 2038–2737
-- [Mã Nhĩ (địa danh)](/wiki/ma-nhi/) — 61 lần, chương 3643–4121
+- [Tiết Lý (nhân vật)](/wiki/tiet-ly/) — 62 lần, chương 3141–3322
 - [Việt Thúc Tử (nhân vật)](/wiki/viet-thuc-tu/) — 61 lần, chương 1196–1467
-- [Thánh Nguyên Linh Dịch (nhân vật)](/wiki/thanh-nguyen-linh-dich/) — 61 lần, chương 63–1210
-- [Bệnh Sư Đà (nhân vật)](/wiki/benh-su-da/) — 61 lần, chương 951–4071
+- [Đông Vực Tà Thổ (địa danh)](/wiki/dong-vuc-ta-tho/) — 61 lần, chương 583–2530
+- [Xích Hải Tà Tăng (nhân vật)](/wiki/xich-hai-ta-tang/) — 61 lần, chương 495–3717
 - [Phó Các (thế lực)](/wiki/pho-cac/) — 61 lần, chương 538–2198
+- [Đằng Cốc (địa danh)](/wiki/dang-coc/) — 61 lần, chương 2038–2737
 - [Quách Lỗ (nhân vật)](/wiki/quach-lo/) — 61 lần, chương 1017–1032
 - [Ngữ Thiên Thừa (nhân vật)](/wiki/ngu-thien-thua/) — 61 lần, chương 2884–3893
-- [Hắc Hổ Đường (thế lực)](/wiki/hac-ho-duong/) — 61 lần, chương 197–216
-- [Diệu Ly (nhân vật)](/wiki/dieu-ly/) — 61 lần, chương 3275–4180
 - [Thánh Bản Nguyên (địa danh)](/wiki/thanh-ban-nguyen/) — 61 lần, chương 557–3201
+- [Võ Thị Dịch Quán (địa danh)](/wiki/vo-thi-dich-quan/) — 61 lần, chương 376–717
+- [Diệu Ly (nhân vật)](/wiki/dieu-ly/) — 61 lần, chương 3275–4180
+- [Mã Nhĩ (địa danh)](/wiki/ma-nhi/) — 61 lần, chương 3643–4121
+- [Hắc Hổ Đường (thế lực)](/wiki/hac-ho-duong/) — 61 lần, chương 197–216
+- [Bệnh Sư Đà (nhân vật)](/wiki/benh-su-da/) — 61 lần, chương 951–4071
+- [Thánh Nguyên Linh Dịch (nhân vật)](/wiki/thanh-nguyen-linh-dich/) — 61 lần, chương 63–1210
 - [Triệu Nghĩa Bính (nhân vật)](/wiki/trieu-nghia-binh/) — 61 lần, chương 641–648
-- [Đông Vực Tà Thổ (địa danh)](/wiki/dong-vuc-ta-tho/) — 61 lần, chương 583–2530
-- [Thiên Hoang Ấn (công pháp)](/wiki/thien-hoang-an/) — 60 lần, chương 2715–4073
-- [Phi Vũ Kiếm Thánh (nhân vật)](/wiki/phi-vu-kiem-thanh/) — 60 lần, chương 890–2628
-- [Quỷ Cốc Thánh Tướng (nhân vật)](/wiki/quy-coc-thanh-tuong/) — 60 lần, chương 986–1026
-- [Bạch Vũ Khổng Tước (địa danh)](/wiki/bach-vu-khong-tuoc/) — 60 lần, chương 1677–3103
-- [Quân Thiên Đình (nhân vật)](/wiki/quan-thien-dinh/) — 60 lần, chương 2172–4188
-- [Quy Vương Gia (thế lực)](/wiki/quy-vuong-gia/) — 60 lần, chương 2442–3731
-- [Sinh Tử Bát Tử (nhân vật)](/wiki/sinh-tu-bat-tu/) — 60 lần, chương 2349–2428
-- [Thiên Đình Địa Ngục (địa danh)](/wiki/thien-dinh-dia-nguc/) — 60 lần, chương 2130–4149
-- [Kim Cương Nguyệt Luân (nhân vật)](/wiki/kim-cuong-nguyet-luan/) — 60 lần, chương 2685–2933
-- [Thanh Dực Thiền (nhân vật)](/wiki/thanh-duc-thien/) — 60 lần, chương 1028–1032
-- [Đồ Phu (nhân vật)](/wiki/do-phu/) — 60 lần, chương 470–2139
-- [Áo Nho (nhân vật)](/wiki/ao-nho/) — 60 lần, chương 506–4144
-- [Tòa Cửu Cửu Quy (địa danh)](/wiki/toa-cuu-cuu-quy/) — 60 lần, chương 907–2002
 - [Sĩ Quảng Hàn Giới (địa danh)](/wiki/si-quang-han-gioi/) — 60 lần, chương 1415–2650
 - [Lỗ Hữu Tài (nhân vật)](/wiki/lo-huu-tai/) — 60 lần, chương 437–454
+- [Thanh Dực Thiền (nhân vật)](/wiki/thanh-duc-thien/) — 60 lần, chương 1028–1032
+- [Bạch Vũ Khổng Tước (địa danh)](/wiki/bach-vu-khong-tuoc/) — 60 lần, chương 1677–3103
+- [Áo Nho (nhân vật)](/wiki/ao-nho/) — 60 lần, chương 506–4144
+- [Quân Thiên Đình (nhân vật)](/wiki/quan-thien-dinh/) — 60 lần, chương 2172–4188
+- [Sinh Tử Bát Tử (nhân vật)](/wiki/sinh-tu-bat-tu/) — 60 lần, chương 2349–2428
 - [Thất Giai (nhân vật)](/wiki/that-giai/) — 60 lần, chương 13–3540
-- [Luyện Tháp (bảo vật)](/wiki/luyen-thap/) — 59 lần, chương 1758–4096
+- [Quỷ Cốc Thánh Tướng (nhân vật)](/wiki/quy-coc-thanh-tuong/) — 60 lần, chương 986–1026
+- [Thiên Hoang Ấn (công pháp)](/wiki/thien-hoang-an/) — 60 lần, chương 2715–4073
+- [Kim Cương Nguyệt Luân (nhân vật)](/wiki/kim-cuong-nguyet-luan/) — 60 lần, chương 2685–2933
+- [Tòa Cửu Cửu Quy (địa danh)](/wiki/toa-cuu-cuu-quy/) — 60 lần, chương 907–2002
+- [Đồ Phu (nhân vật)](/wiki/do-phu/) — 60 lần, chương 470–2139
+- [Quy Vương Gia (thế lực)](/wiki/quy-vuong-gia/) — 60 lần, chương 2442–3731
+- [Thiên Đình Địa Ngục (địa danh)](/wiki/thien-dinh-dia-nguc/) — 60 lần, chương 2130–4149
+- [Phi Vũ Kiếm Thánh (nhân vật)](/wiki/phi-vu-kiem-thanh/) — 60 lần, chương 890–2628
+- [Trác Phóng (nhân vật)](/wiki/trac-phong/) — 59 lần, chương 3598–4129
 - [Tà Đế (nhân vật)](/wiki/ta-de/) — 59 lần, chương 580–4067
 - [Thất Thải (địa danh)](/wiki/that-thai/) — 59 lần, chương 180–4202
-- [Tư Đồ Lâm Giang (nhân vật)](/wiki/tu-do-lam-giang/) — 59 lần, chương 20–31
-- [Trác Phóng (nhân vật)](/wiki/trac-phong/) — 59 lần, chương 3598–4129
-- [Chiến Tướng (nhân vật)](/wiki/chien-tuong/) — 59 lần, chương 624–3244
 - [Lâm Tố Tiên (nhân vật)](/wiki/lam-to-tien/) — 59 lần, chương 714–4192
 - [Tích Thâm Hải (địa danh)](/wiki/tich-tham-hai/) — 59 lần, chương 1111–2845
-- [Nghiệt Chiến (nhân vật)](/wiki/nghiet-chien/) — 59 lần, chương 1653–1667
+- [Luyện Tháp (bảo vật)](/wiki/luyen-thap/) — 59 lần, chương 1758–4096
 - [Thiên Hồ Bà Bà (nhân vật)](/wiki/thien-ho-ba-ba/) — 59 lần, chương 3002–3721
+- [Tư Đồ Lâm Giang (nhân vật)](/wiki/tu-do-lam-giang/) — 59 lần, chương 20–31
+- [Chiến Tướng (nhân vật)](/wiki/chien-tuong/) — 59 lần, chương 624–3244
+- [Nghiệt Chiến (nhân vật)](/wiki/nghiet-chien/) — 59 lần, chương 1653–1667
 - [Triệu Thịnh Ngự (nhân vật)](/wiki/trieu-thinh-ngu/) — 59 lần, chương 860–870
 - [Ảnh Đan Kiếm (bảo vật)](/wiki/anh-dan-kiem/) — 59 lần, chương 2358–3975
-- [Mũi Kinh Lôi Tiễn (nhân vật)](/wiki/mui-kinh-loi-tien/) — 58 lần, chương 20–123
-- [Tắc Đan (bảo vật)](/wiki/tac-dan/) — 58 lần, chương 831–4045
+- [Lôi Tộc Thủy Tổ (địa danh)](/wiki/loi-toc-thuy-to/) — 58 lần, chương 3698–4004
+- [Nghiêu Cơ (nhân vật)](/wiki/nghieu-co/) — 58 lần, chương 1000–1195
+- [Kim Cương Tuyết Hải (địa danh)](/wiki/kim-cuong-tuyet-hai/) — 58 lần, chương 616–3479
+- [Tàm Đông (nhân vật)](/wiki/tam-dong/) — 58 lần, chương 659–778
 - [Vương Đại Tôn Để (nhân vật)](/wiki/vuong-dai-ton-de/) — 58 lần, chương 1391–4020
+- [Tử Bất Hưu (nhân vật)](/wiki/tu-bat-huu/) — 58 lần, chương 2076–2708
+- [Chú Ấn (công pháp)](/wiki/chu-an/) — 58 lần, chương 2029–4016
+- [Tộc Thái Cổ (nhân vật)](/wiki/toc-thai-co/) — 58 lần, chương 1330–4202
+- [Mũi Kinh Lôi Tiễn (nhân vật)](/wiki/mui-kinh-loi-tien/) — 58 lần, chương 20–123
 - [Kim Nghê (nhân vật)](/wiki/kim-nghe/) — 58 lần, chương 1011–4128
 - [Tô Vận (nhân vật)](/wiki/to-van/) — 58 lần, chương 3437–3456
-- [Tàm Đông (nhân vật)](/wiki/tam-dong/) — 58 lần, chương 659–778
-- [Nghiêu Cơ (nhân vật)](/wiki/nghieu-co/) — 58 lần, chương 1000–1195
+- [Vương Hiệt (nhân vật)](/wiki/vuong-hiet/) — 58 lần, chương 889–902
+- [Tắc Đan (bảo vật)](/wiki/tac-dan/) — 58 lần, chương 831–4045
+- [Diêm Trích Tiên (nhân vật)](/wiki/diem-trich-tien/) — 58 lần, chương 517–4135
+- [Yến Khải Hoàn (nhân vật)](/wiki/yen-khai-hoan/) — 58 lần, chương 785–4182
 - [Thiên Bồng (địa danh)](/wiki/thien-bong/) — 58 lần, chương 2184–3879
 - [Ngụy Gia (thế lực)](/wiki/nguy-gia/) — 58 lần, chương 473–475
-- [Tộc Thái Cổ (nhân vật)](/wiki/toc-thai-co/) — 58 lần, chương 1330–4202
-- [Chú Ấn (công pháp)](/wiki/chu-an/) — 58 lần, chương 2029–4016
 - [Thiên Cơ Tộc (thế lực)](/wiki/thien-co-toc/) — 58 lần, chương 3563–4147
-- [Yến Khải Hoàn (nhân vật)](/wiki/yen-khai-hoan/) — 58 lần, chương 785–4182
-- [Kim Cương Tuyết Hải (địa danh)](/wiki/kim-cuong-tuyet-hai/) — 58 lần, chương 616–3479
-- [Diêm Trích Tiên (nhân vật)](/wiki/diem-trich-tien/) — 58 lần, chương 517–4135
-- [Tử Bất Hưu (nhân vật)](/wiki/tu-bat-huu/) — 58 lần, chương 2076–2708
-- [Lôi Tộc Thủy Tổ (địa danh)](/wiki/loi-toc-thuy-to/) — 58 lần, chương 3698–4004
-- [Nguyên Mạch (nhân vật)](/wiki/nguyen-mach/) — 57 lần, chương 2534–2608
+- [Sử Gia (thế lực)](/wiki/su-gia-2/) — 57 lần, chương 885–1900
+- [Thiên Tôn Điện (địa danh)](/wiki/thien-ton-dien/) — 57 lần, chương 2946–4151
 - [Phạn Âm (nhân vật)](/wiki/phan-am/) — 57 lần, chương 233–4126
-- [Si Lâm Uyên (địa danh)](/wiki/si-lam-uyen/) — 57 lần, chương 1157–2626
-- [Trưởng Huyết Tuyệt (nhân vật)](/wiki/truong-huyet-tuyet/) — 57 lần, chương 2950–4210
-- [Định Tổ Sơn (địa danh)](/wiki/dinh-to-son/) — 57 lần, chương 3468–3491
+- [Triều Thánh Thiên Thê (nhân vật)](/wiki/trieu-thanh-thien-the/) — 57 lần, chương 382–2145
+- [Trì Độc Phượng (nhân vật)](/wiki/tri-doc-phuong/) — 57 lần, chương 1381–1388
+- [Nguyên Mạch (nhân vật)](/wiki/nguyen-mach/) — 57 lần, chương 2534–2608
 - [Thiên Thủy Vô (nhân vật)](/wiki/thien-thuy-vo/) — 57 lần, chương 4170–4203
 - [Bát Bộ Thánh Vương (địa danh)](/wiki/bat-bo-thanh-vuong/) — 57 lần, chương 1588–2626
-- [Trì Độc Phượng (nhân vật)](/wiki/tri-doc-phuong/) — 57 lần, chương 1381–1388
-- [Tiểu Thánh Nữ (nhân vật)](/wiki/tieu-thanh-nu/) — 57 lần, chương 136–1989
-- [Thiên Tôn Điện (địa danh)](/wiki/thien-ton-dien/) — 57 lần, chương 2946–4151
-- [Nhập Địa Ngục Giới (địa danh)](/wiki/nhap-dia-nguc-gioi/) — 57 lần, chương 1630–3853
-- [Triều Thánh Thiên Thê (nhân vật)](/wiki/trieu-thanh-thien-the/) — 57 lần, chương 382–2145
-- [Sử Gia (thế lực)](/wiki/su-gia-2/) — 57 lần, chương 885–1900
 - [A Mộc Nhĩ (nhân vật)](/wiki/a-moc-nhi/) — 57 lần, chương 3038–3396
-- [Thư Huynh (nhân vật)](/wiki/thu-huynh/) — 56 lần, chương 2654–2707
-- [Giới Bất Hủ (nhân vật)](/wiki/gioi-bat-hu/) — 56 lần, chương 1864–3201
-- [Bồ Đề (nhân vật)](/wiki/bo-de/) — 56 lần, chương 359–4207
-- [Ninh Quy Hải (địa danh)](/wiki/ninh-quy-hai/) — 56 lần, chương 939–972
+- [Định Tổ Sơn (địa danh)](/wiki/dinh-to-son/) — 57 lần, chương 3468–3491
+- [Tiểu Thánh Nữ (nhân vật)](/wiki/tieu-thanh-nu/) — 57 lần, chương 136–1989
+- [Nhập Địa Ngục Giới (địa danh)](/wiki/nhap-dia-nguc-gioi/) — 57 lần, chương 1630–3853
+- [Trưởng Huyết Tuyệt (nhân vật)](/wiki/truong-huyet-tuyet/) — 57 lần, chương 2950–4210
+- [Si Lâm Uyên (địa danh)](/wiki/si-lam-uyen/) — 57 lần, chương 1157–2626
+- [Dao Dao (nhân vật)](/wiki/dao-dao/) — 56 lần, chương 1359–4195
 - [Thái Ất Cảnh (cảnh giới)](/wiki/thai-at-canh/) — 56 lần, chương 2930–3782
 - [Thanh Hà Bảo (địa danh)](/wiki/thanh-ha-bao/) — 56 lần, chương 234–245
-- [Tây Ngưu Hạ Châu (bảo vật)](/wiki/tay-nguu-ha-chau/) — 56 lần, chương 1531–4110
-- [Hồn Đài (nhân vật)](/wiki/hon-dai/) — 56 lần, chương 1976–3877
-- [Hoa Tạng Ảnh (nhân vật)](/wiki/hoa-tang-anh/) — 56 lần, chương 1822–1830
-- [Lượng Cô (nhân vật)](/wiki/luong-co/) — 56 lần, chương 3091–3333
-- [Dao Dao (nhân vật)](/wiki/dao-dao/) — 56 lần, chương 1359–4195
-- [Sóc Thiên Hải (địa danh)](/wiki/soc-thien-hai/) — 56 lần, chương 2910–2984
-- [Biện Trang (nhân vật)](/wiki/bien-trang/) — 56 lần, chương 2185–4168
-- [Phá Quân (thế lực)](/wiki/pha-quan/) — 56 lần, chương 146–2956
-- [Phượng Hoàng Tộc (thế lực)](/wiki/phuong-hoang-toc/) — 56 lần, chương 1561–3972
+- [Bồ Đề (nhân vật)](/wiki/bo-de/) — 56 lần, chương 359–4207
 - [Hỏa Mị Âm Cơ (nhân vật)](/wiki/hoa-mi-am-co/) — 56 lần, chương 2272–3008
+- [Tây Ngưu Hạ Châu (bảo vật)](/wiki/tay-nguu-ha-chau/) — 56 lần, chương 1531–4110
+- [Phá Quân (thế lực)](/wiki/pha-quan/) — 56 lần, chương 146–2956
 - [Bạch Lê Hoàng Tử (nhân vật)](/wiki/bach-le-hoang-tu/) — 56 lần, chương 1254–1610
-- [Phượng Tê (nhân vật)](/wiki/phuong-te/) — 55 lần, chương 1485–4205
-- [Mãn Đại Thánh (nhân vật)](/wiki/man-dai-thanh/) — 55 lần, chương 2159–2408
-- [Phượng Tế (nhân vật)](/wiki/phuong-te-2/) — 55 lần, chương 3282–3958
-- [Dực Quỷ Hoàng (nhân vật)](/wiki/duc-quy-hoang/) — 55 lần, chương 2301–2325
-- [Cổ Trà Thụ (nhân vật)](/wiki/co-tra-thu/) — 55 lần, chương 1003–4111
-- [Triển Ngự (nhân vật)](/wiki/trien-ngu/) — 55 lần, chương 1592–1727
+- [Giới Bất Hủ (nhân vật)](/wiki/gioi-bat-hu/) — 56 lần, chương 1864–3201
+- [Hoa Tạng Ảnh (nhân vật)](/wiki/hoa-tang-anh/) — 56 lần, chương 1822–1830
+- [Biện Trang (nhân vật)](/wiki/bien-trang/) — 56 lần, chương 2185–4168
+- [Ninh Quy Hải (địa danh)](/wiki/ninh-quy-hai/) — 56 lần, chương 939–972
+- [Hồn Đài (nhân vật)](/wiki/hon-dai/) — 56 lần, chương 1976–3877
+- [Thư Huynh (nhân vật)](/wiki/thu-huynh/) — 56 lần, chương 2654–2707
+- [Phượng Hoàng Tộc (thế lực)](/wiki/phuong-hoang-toc/) — 56 lần, chương 1561–3972
+- [Sóc Thiên Hải (địa danh)](/wiki/soc-thien-hai/) — 56 lần, chương 2910–2984
+- [Lượng Cô (nhân vật)](/wiki/luong-co/) — 56 lần, chương 3091–3333
+- [Bích Lạc Tử (nhân vật)](/wiki/bich-lac-tu/) — 55 lần, chương 1749–4030
+- [Nhở Trương Nhược Trần (nhân vật)](/wiki/nho-truong-nhuoc-tran/) — 55 lần, chương 109–3932
+- [Tây Viện Viện (thế lực)](/wiki/tay-vien-vien/) — 55 lần, chương 74–132
+- [Tần Khai (nhân vật)](/wiki/tan-khai/) — 55 lần, chương 1729–1735
 - [Huyền Vũ Thánh Điển (công pháp)](/wiki/huyen-vu-thanh-dien/) — 55 lần, chương 232–2057
 - [Cổ Na Tiên Tử (nhân vật)](/wiki/co-na-tien-tu/) — 55 lần, chương 1918–4146
-- [Tây Viện Viện (thế lực)](/wiki/tay-vien-vien/) — 55 lần, chương 74–132
-- [Phương Thốn Đại Sư (nhân vật)](/wiki/phuong-thon-dai-su/) — 55 lần, chương 2200–3907
-- [Nhở Trương Nhược Trần (nhân vật)](/wiki/nho-truong-nhuoc-tran/) — 55 lần, chương 109–3932
-- [Bích Lạc Tử (nhân vật)](/wiki/bich-lac-tu/) — 55 lần, chương 1749–4030
+- [Phượng Tế (nhân vật)](/wiki/phuong-te-2/) — 55 lần, chương 3282–3958
 - [Hậu Thổ Giá (địa danh)](/wiki/hau-tho-gia/) — 55 lần, chương 3919–4184
-- [Túc Mệnh Trì (địa danh)](/wiki/tuc-menh-tri/) — 55 lần, chương 2148–4027
+- [Cổ Trà Thụ (nhân vật)](/wiki/co-tra-thu/) — 55 lần, chương 1003–4111
+- [Mãn Đại Thánh (nhân vật)](/wiki/man-dai-thanh/) — 55 lần, chương 2159–2408
+- [Triển Ngự (nhân vật)](/wiki/trien-ngu/) — 55 lần, chương 1592–1727
+- [Phượng Tê (nhân vật)](/wiki/phuong-te/) — 55 lần, chương 1485–4205
 - [Triệu Kỳ Lân (nhân vật)](/wiki/trieu-ky-lan/) — 55 lần, chương 1323–1349
-- [Ti Ti (nhân vật)](/wiki/ti-ti/) — 55 lần, chương 15–4039
 - [Hồng Phù Đồ (nhân vật)](/wiki/hong-phu-do/) — 55 lần, chương 2235–2395
-- [Tần Khai (nhân vật)](/wiki/tan-khai/) — 55 lần, chương 1729–1735
 - [Tịch Diệt (địa danh)](/wiki/tich-diet/) — 55 lần, chương 899–4190
-- [Phỉ Lợi (nhân vật)](/wiki/phi-loi/) — 54 lần, chương 2880–3020
+- [Dực Quỷ Hoàng (nhân vật)](/wiki/duc-quy-hoang/) — 55 lần, chương 2301–2325
+- [Phương Thốn Đại Sư (nhân vật)](/wiki/phuong-thon-dai-su/) — 55 lần, chương 2200–3907
+- [Ti Ti (nhân vật)](/wiki/ti-ti/) — 55 lần, chương 15–4039
+- [Túc Mệnh Trì (địa danh)](/wiki/tuc-menh-tri/) — 55 lần, chương 2148–4027
+- [Bách Túc Đế Lăng (địa danh)](/wiki/bach-tuc-de-lang/) — 54 lần, chương 1404–3448
 - [Băng Mạch Đan (bảo vật)](/wiki/bang-mach-dan/) — 54 lần, chương 93–1321
-- [Cỗ Bán Thánh (nhân vật)](/wiki/co-ban-thanh/) — 54 lần, chương 363–1350
-- [Thiên Thủy Kỷ (địa danh)](/wiki/thien-thuy-ky/) — 54 lần, chương 4140–4201
-- [Nguyên Tố Ân (nhân vật)](/wiki/nguyen-to-an/) — 54 lần, chương 3562–3865
-- [Lục Phương Thiên Tôn (địa danh)](/wiki/luc-phuong-thien-ton/) — 54 lần, chương 2341–4026
-- [Thư Đãi Tử (nhân vật)](/wiki/thu-dai-tu/) — 54 lần, chương 2200–2201
-- [Huyết Hoàng Phong (nhân vật)](/wiki/huyet-hoang-phong/) — 54 lần, chương 1856–1876
-- [Kim Diệp Vân (nhân vật)](/wiki/kim-diep-van/) — 54 lần, chương 306–4025
-- [Bát Tí Chu Vương (nhân vật)](/wiki/bat-ti-chu-vuong/) — 54 lần, chương 1647–1665
-- [Tổ Giới Giới Tôn (nhân vật)](/wiki/to-gioi-gioi-ton/) — 54 lần, chương 3045–3394
-- [Đồ Tiến (nhân vật)](/wiki/do-tien/) — 54 lần, chương 276–278
-- [Tài Nguyên Hội (thế lực)](/wiki/tai-nguyen-hoi/) — 54 lần, chương 2257–3884
 - [Trường Sinh Huyết Thụ (địa danh)](/wiki/truong-sinh-huyet-thu/) — 54 lần, chương 2222–4178
 - [Bà Bà (nhân vật)](/wiki/ba-ba/) — 54 lần, chương 774–4207
-- [Thú Thiên Chiến (địa danh)](/wiki/thu-thien-chien/) — 54 lần, chương 2302–3465
-- [Thập Nhị Gia (thế lực)](/wiki/thap-nhi-gia/) — 54 lần, chương 1023–4097
+- [Cỗ Bán Thánh (nhân vật)](/wiki/co-ban-thanh/) — 54 lần, chương 363–1350
+- [Phỉ Lợi (nhân vật)](/wiki/phi-loi/) — 54 lần, chương 2880–3020
+- [Thư Đãi Tử (nhân vật)](/wiki/thu-dai-tu/) — 54 lần, chương 2200–2201
+- [Bát Tí Chu Vương (nhân vật)](/wiki/bat-ti-chu-vuong/) — 54 lần, chương 1647–1665
+- [Thiên Thủy Kỷ (địa danh)](/wiki/thien-thuy-ky/) — 54 lần, chương 4140–4201
 - [Hàn Phủ (nhân vật)](/wiki/han-phu/) — 54 lần, chương 44–52
-- [Tạ Vân Phàm (nhân vật)](/wiki/ta-van-pham/) — 54 lần, chương 668–2911
-- [Bách Túc Đế Lăng (địa danh)](/wiki/bach-tuc-de-lang/) — 54 lần, chương 1404–3448
+- [Tài Nguyên Hội (thế lực)](/wiki/tai-nguyen-hoi/) — 54 lần, chương 2257–3884
+- [Huyết Hoàng Phong (nhân vật)](/wiki/huyet-hoang-phong/) — 54 lần, chương 1856–1876
 - [Liễu Hi (nhân vật)](/wiki/lieu-hi/) — 54 lần, chương 2259–4189
+- [Thú Thiên Chiến (địa danh)](/wiki/thu-thien-chien/) — 54 lần, chương 2302–3465
+- [Kim Diệp Vân (nhân vật)](/wiki/kim-diep-van/) — 54 lần, chương 306–4025
+- [Lục Phương Thiên Tôn (địa danh)](/wiki/luc-phuong-thien-ton/) — 54 lần, chương 2341–4026
+- [Đồ Tiến (nhân vật)](/wiki/do-tien/) — 54 lần, chương 276–278
+- [Thập Nhị Gia (thế lực)](/wiki/thap-nhi-gia/) — 54 lần, chương 1023–4097
+- [Tạ Vân Phàm (nhân vật)](/wiki/ta-van-pham/) — 54 lần, chương 668–2911
+- [Nguyên Tố Ân (nhân vật)](/wiki/nguyen-to-an/) — 54 lần, chương 3562–3865
+- [Tổ Giới Giới Tôn (nhân vật)](/wiki/to-gioi-gioi-ton/) — 54 lần, chương 3045–3394
+- [Vận Mệnh Thập Nhị (địa danh)](/wiki/van-menh-thap-nhi/) — 53 lần, chương 3520–4153
+- [Tích Huyết (nhân vật)](/wiki/tich-huyet/) — 53 lần, chương 335–4179
+- [Lập Địa (nhân vật)](/wiki/lap-dia/) — 53 lần, chương 458–4206
+- [Khỏi Thiên Đình (địa danh)](/wiki/khoi-thien-dinh/) — 53 lần, chương 1557–4174
+- [Tà Giáo (nhân vật)](/wiki/ta-giao/) — 53 lần, chương 1695–4007
+- [Tề Càn Khôn (nhân vật)](/wiki/te-can-khon/) — 53 lần, chương 708–715
+- [Thủ Hắc Thị (nhân vật)](/wiki/thu-hac-thi/) — 53 lần, chương 138–987
+- [Lượng Nan (nhân vật)](/wiki/luong-nan/) — 53 lần, chương 3263–3270
+- [Trần Mở Thiên Nhãn (nhân vật)](/wiki/tran-mo-thien-nhan/) — 53 lần, chương 366–2179
+- [Hồng Nha Vương (nhân vật)](/wiki/hong-nha-vuong/) — 53 lần, chương 3982–4203
+- [Mạc Ưu Cốc (địa danh)](/wiki/mac-uu-coc/) — 53 lần, chương 1180–2023
+- [Thiên Mệnh Đại Đế (nhân vật)](/wiki/thien-menh-dai-de/) — 53 lần, chương 883–2529
 - [Bào Đại Tế Sĩ (nhân vật)](/wiki/bao-dai-te-si/) — 53 lần, chương 585–3298
 - [Lỗ Hoài Ngọc (nhân vật)](/wiki/lo-hoai-ngoc/) — 53 lần, chương 378–2021
-- [Trần Mở Thiên Nhãn (nhân vật)](/wiki/tran-mo-thien-nhan/) — 53 lần, chương 366–2179
-- [Tân Hỏa Tháp (bảo vật)](/wiki/tan-hoa-thap/) — 53 lần, chương 1839–2188
-- [Thiếu Đường (thế lực)](/wiki/thieu-duong-2/) — 53 lần, chương 879–2462
-- [Lập Địa (nhân vật)](/wiki/lap-dia/) — 53 lần, chương 458–4206
-- [Lượng Nan (nhân vật)](/wiki/luong-nan/) — 53 lần, chương 3263–3270
-- [Thiên Mệnh Đại Đế (nhân vật)](/wiki/thien-menh-dai-de/) — 53 lần, chương 883–2529
-- [Hàn Lệ (nhân vật)](/wiki/han-le/) — 53 lần, chương 287–718
-- [Thủ Hắc Thị (nhân vật)](/wiki/thu-hac-thi/) — 53 lần, chương 138–987
-- [Tề Càn Khôn (nhân vật)](/wiki/te-can-khon/) — 53 lần, chương 708–715
-- [Hồng Trần Đại Hội (thế lực)](/wiki/hong-tran-dai-hoi/) — 53 lần, chương 2628–4000
-- [Hồng Nha Vương (nhân vật)](/wiki/hong-nha-vuong/) — 53 lần, chương 3982–4203
-- [Vận Mệnh Thập Nhị (địa danh)](/wiki/van-menh-thap-nhi/) — 53 lần, chương 3520–4153
-- [Mạc Ưu Cốc (địa danh)](/wiki/mac-uu-coc/) — 53 lần, chương 1180–2023
-- [Tà Giáo (nhân vật)](/wiki/ta-giao/) — 53 lần, chương 1695–4007
-- [Thiên Vận Ti (địa danh)](/wiki/thien-van-ti/) — 53 lần, chương 2435–3518
-- [Cửu Thủ Cốt Xà (nhân vật)](/wiki/cuu-thu-cot-xa/) — 53 lần, chương 3352–3380
-- [Khỏi Thiên Đình (địa danh)](/wiki/khoi-thien-dinh/) — 53 lần, chương 1557–4174
-- [Huyết Phù Đại Thánh (nhân vật)](/wiki/huyet-phu-dai-thanh/) — 53 lần, chương 2065–2073
-- [Tích Huyết (nhân vật)](/wiki/tich-huyet/) — 53 lần, chương 335–4179
 - [Giả Huyền Bảng (nhân vật)](/wiki/gia-huyen-bang/) — 53 lần, chương 84–197
-- [Linh Toàn Thiếu Quân (thế lực)](/wiki/linh-toan-thieu-quan/) — 52 lần, chương 1462–1702
-- [Vật Thái Cổ (nhân vật)](/wiki/vat-thai-co/) — 52 lần, chương 1695–4202
-- [Huyết Nê Nhân (nhân vật)](/wiki/huyet-ne-nhan/) — 52 lần, chương 3064–4188
-- [Hồng Nhật (địa danh)](/wiki/hong-nhat/) — 52 lần, chương 1207–2776
-- [Tử Linh Lung (nhân vật)](/wiki/tu-linh-lung/) — 52 lần, chương 1989–2029
-- [Liêu Khoát (nhân vật)](/wiki/lieu-khoat/) — 52 lần, chương 2207–4002
-- [Bào Trưởng Lão Các (thế lực)](/wiki/bao-truong-lao-cac/) — 52 lần, chương 193–2026
-- [Phương Thiên Họa Kích (nhân vật)](/wiki/phuong-thien-hoa-kich/) — 52 lần, chương 577–4185
-- [Giới Thiên Vấn (nhân vật)](/wiki/gioi-thien-van/) — 52 lần, chương 2222–3522
-- [Thái Bạch Cảnh (cảnh giới)](/wiki/thai-bach-canh/) — 52 lần, chương 2905–3701
+- [Huyết Phù Đại Thánh (nhân vật)](/wiki/huyet-phu-dai-thanh/) — 53 lần, chương 2065–2073
+- [Thiên Vận Ti (địa danh)](/wiki/thien-van-ti/) — 53 lần, chương 2435–3518
+- [Thiếu Đường (thế lực)](/wiki/thieu-duong-2/) — 53 lần, chương 879–2462
+- [Hồng Trần Đại Hội (thế lực)](/wiki/hong-tran-dai-hoi/) — 53 lần, chương 2628–4000
+- [Cửu Thủ Cốt Xà (nhân vật)](/wiki/cuu-thu-cot-xa/) — 53 lần, chương 3352–3380
+- [Hàn Lệ (nhân vật)](/wiki/han-le/) — 53 lần, chương 287–718
+- [Tân Hỏa Tháp (bảo vật)](/wiki/tan-hoa-thap/) — 53 lần, chương 1839–2188
 - [Tuyết Thanh (nhân vật)](/wiki/tuyet-thanh/) — 52 lần, chương 18–3618
-- [Tào Lâm (nhân vật)](/wiki/tao-lam/) — 51 lần, chương 306–317
-- [Huyết Tuyền Hải Câu (địa danh)](/wiki/huyet-tuyen-hai-cau/) — 51 lần, chương 533–2475
-- [Nguyên Thiên Mạch (nhân vật)](/wiki/nguyen-thien-mach/) — 51 lần, chương 2489–2599
-- [Huyền Hoàng Kích (nhân vật)](/wiki/huyen-hoang-kich/) — 51 lần, chương 3696–4204
-- [Dạ Tiêu Tiêu (nhân vật)](/wiki/da-tieu-tieu/) — 51 lần, chương 1323–3898
-- [Tuyết Nhân Vương (địa danh)](/wiki/tuyet-nhan-vuong/) — 51 lần, chương 625–626
-- [Thiên Tôn Mộ (địa danh)](/wiki/thien-ton-mo/) — 51 lần, chương 2874–3928
-- [Thiên Quyền Đại (địa danh)](/wiki/thien-quyen-dai/) — 51 lần, chương 2152–3777
-- [Yến Tộc (thế lực)](/wiki/yen-toc/) — 51 lần, chương 280–301
-- [Huyết Nô (nhân vật)](/wiki/huyet-no/) — 51 lần, chương 884–2530
-- [Thủy Tổ Huyết Dực (địa danh)](/wiki/thuy-to-huyet-duc/) — 51 lần, chương 3922–4176
-- [Thiên Nguyệt Lâu (địa danh)](/wiki/thien-nguyet-lau/) — 51 lần, chương 178–4026
+- [Phương Thiên Họa Kích (nhân vật)](/wiki/phuong-thien-hoa-kich/) — 52 lần, chương 577–4185
+- [Vật Thái Cổ (nhân vật)](/wiki/vat-thai-co/) — 52 lần, chương 1695–4202
+- [Thái Bạch Cảnh (cảnh giới)](/wiki/thai-bach-canh/) — 52 lần, chương 2905–3701
+- [Hồng Nhật (địa danh)](/wiki/hong-nhat/) — 52 lần, chương 1207–2776
+- [Linh Toàn Thiếu Quân (thế lực)](/wiki/linh-toan-thieu-quan/) — 52 lần, chương 1462–1702
+- [Giới Thiên Vấn (nhân vật)](/wiki/gioi-thien-van/) — 52 lần, chương 2222–3522
+- [Liêu Khoát (nhân vật)](/wiki/lieu-khoat/) — 52 lần, chương 2207–4002
+- [Huyết Nê Nhân (nhân vật)](/wiki/huyet-ne-nhan/) — 52 lần, chương 3064–4188
+- [Tử Linh Lung (nhân vật)](/wiki/tu-linh-lung/) — 52 lần, chương 1989–2029
+- [Bào Trưởng Lão Các (thế lực)](/wiki/bao-truong-lao-cac/) — 52 lần, chương 193–2026
 - [Bàn Đào Thụ (địa danh)](/wiki/ban-dao-thu/) — 51 lần, chương 1394–3880
+- [Huyết Nô (nhân vật)](/wiki/huyet-no/) — 51 lần, chương 884–2530
+- [Thiên Tôn Mộ (địa danh)](/wiki/thien-ton-mo/) — 51 lần, chương 2874–3928
+- [Tào Lâm (nhân vật)](/wiki/tao-lam/) — 51 lần, chương 306–317
+- [Tuyết Nhân Vương (địa danh)](/wiki/tuyet-nhan-vuong/) — 51 lần, chương 625–626
+- [Yến Tộc (thế lực)](/wiki/yen-toc/) — 51 lần, chương 280–301
+- [Thiên Nguyệt Lâu (địa danh)](/wiki/thien-nguyet-lau/) — 51 lần, chương 178–4026
+- [Thủy Tổ Huyết Dực (địa danh)](/wiki/thuy-to-huyet-duc/) — 51 lần, chương 3922–4176
+- [Dạ Tiêu Tiêu (nhân vật)](/wiki/da-tieu-tieu/) — 51 lần, chương 1323–3898
+- [Thiên Quyền Đại (địa danh)](/wiki/thien-quyen-dai/) — 51 lần, chương 2152–3777
+- [Huyền Hoàng Kích (nhân vật)](/wiki/huyen-hoang-kich/) — 51 lần, chương 3696–4204
 - [Lâm Kính Nghiệp (nhân vật)](/wiki/lam-kinh-nghiep/) — 51 lần, chương 49–1784
-- [Đan Lô (nhân vật)](/wiki/dan-lo/) — 50 lần, chương 1108–2287
+- [Huyết Tuyền Hải Câu (địa danh)](/wiki/huyet-tuyen-hai-cau/) — 51 lần, chương 533–2475
 - [Bát Bộ Giới (địa danh)](/wiki/bat-bo-gioi/) — 50 lần, chương 1426–1530
-- [Vô Sắc Giới (địa danh)](/wiki/vo-sac-gioi/) — 50 lần, chương 3110–4141
-- [Lỗ Huyên (nhân vật)](/wiki/lo-huyen/) — 50 lần, chương 377–458
-- [Nhiếp Chính Hàn (nhân vật)](/wiki/nhiep-chinh-han/) — 50 lần, chương 197–200
 - [Táng Thiên Kiếm (bảo vật)](/wiki/tang-thien-kiem/) — 50 lần, chương 892–2212
-- [Thái Nguyên Tịch (nhân vật)](/wiki/thai-nguyen-tich/) — 50 lần, chương 1996–2591
 - [Phái Thiên Đình (nhân vật)](/wiki/phai-thien-dinh/) — 50 lần, chương 1716–4124
-- [Tây Phương (địa danh)](/wiki/tay-phuong/) — 50 lần, chương 1412–4146
-- [Đức Côn Lôn Giới (địa danh)](/wiki/duc-con-lon-gioi/) — 50 lần, chương 1459–3908
-- [Hư Tận Hải (địa danh)](/wiki/hu-tan-hai/) — 50 lần, chương 3957–4178
 - [Địa Mẫu (nhân vật)](/wiki/dia-mau/) — 50 lần, chương 2608–3484
+- [Bố Oa Oa (nhân vật)](/wiki/bo-oa-oa/) — 50 lần, chương 3056–3117
+- [Đan Lô (nhân vật)](/wiki/dan-lo/) — 50 lần, chương 1108–2287
+- [Tây Phương (địa danh)](/wiki/tay-phuong/) — 50 lần, chương 1412–4146
+- [Hư Tận Hải (địa danh)](/wiki/hu-tan-hai/) — 50 lần, chương 3957–4178
+- [Thái Nguyên Tịch (nhân vật)](/wiki/thai-nguyen-tich/) — 50 lần, chương 1996–2591
+- [Đức Côn Lôn Giới (địa danh)](/wiki/duc-con-lon-gioi/) — 50 lần, chương 1459–3908
+- [Vô Sắc Giới (địa danh)](/wiki/vo-sac-gioi/) — 50 lần, chương 3110–4141
+- [Nhiếp Chính Hàn (nhân vật)](/wiki/nhiep-chinh-han/) — 50 lần, chương 197–200
+- [Lỗ Huyên (nhân vật)](/wiki/lo-huyen/) — 50 lần, chương 377–458
 
 ## Chương (4,211)
 - [Chương 1 — Bát Bách Niên Hậu](/chuong/1/)
