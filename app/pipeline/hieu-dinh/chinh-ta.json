@@ -17,7 +17,8 @@
     "2026-11-27: tên bị dịch nghĩa dò bằng âm tiết không phải Hán-Việt (pipeline/do_ten_nghi.py, am_la), duyệt tay.",
     "2026-11-27 thuật ngữ cảnh giới bị dịch nghĩa: 半圣 Bán Thánh, 半神 Bán Thần, 半祖 Bán Tổ, 半步圣王 Bán Bộ Thánh Vương (bỏ qua 'một nửa thánh huyết/thần hồn...').",
     "2026-11-27 đợt 2: tên dịch nghĩa (do_ten_nghi.py am_la, cả bản tóm tắt): Thiên Cốt Nữ Đế, Trầm Uyên Cổ Kiếm, Nhật Quỹ, Thú Thiên, Thiên Vấn Cảnh, Tài Quyết Ty (裁决司), Thần Nữ Lâu (神女楼), Thời Không Nhân Tổ (时空人祖)...",
-    "2026-11-27: Tranh Nguyệt, Hồng Dục (Tinh Sứ), Trương Thiên Khuê; 'Tinh Sử' -> 'Tinh Sứ'."
+    "2026-11-27: Tranh Nguyệt, Hồng Dục (Tinh Sứ), Trương Thiên Khuê; 'Tinh Sử' -> 'Tinh Sứ'.",
+    "2026-11-27 (wiki Baidu Baike): 蒙戈 Mông Qua; 潋曦 Liễm Hi; 神妭 Thần Bạt; 人皮灯笼 Nhân Bì Đăng Lung; 镇狱古族 Trấn Ngục Cổ Tộc; 紫玲珑 Tử Linh Lung; Quy Dư Thần Quân; Khải La Ma Sư."
   ],
   "ten_dich_nghia": {
     "hoàng suối đại đế": "hoàng tuyền đại đế",
@@ -181,7 +182,21 @@
     "Chôm Nguyệt": "Tranh Nguyệt",
     "Hồng Yếu": "Hồng Dục",
     "Trương Trương Nhược Trần": "Trương Nhược Trần",
-    "Trương Thiên Khi": "Trương Thiên Khuê"
+    "Trương Thiên Khi": "Trương Thiên Khuê",
+    "Mông Ge": "Mông Qua",
+    "Mông Gô": "Mông Qua",
+    "Lệnh Xi": "Liễm Hi",
+    "Liễm Xi": "Liễm Hi",
+    "Thần Sỏa": "Thần Bạt",
+    "Thần Sú": "Thần Bạt",
+    "Nhân Bì Đăng Lông": "Nhân Bì Đăng Lung",
+    "Trấn Hục Cổ": "Trấn Ngục Cổ",
+    "Trấn Hục": "Trấn Ngục",
+    "Tử Lung Linh": "Tử Linh Lung",
+    "Quổ Dư Thần Quân": "Quy Dư Thần Quân",
+    "Khai Lưới Ma Sư": "Khải La Ma Sư",
+    "Khải Lưới Ma Sư": "Khải La Ma Sư",
+    "Lưới Ma Sư": "La Ma Sư"
   },
   "ten_dich_nghia_moi_kieu": {
     "rừng phi": "lâm phi",
