@@ -24,7 +24,8 @@
     "2026-11-27 (nguyên văn piaotia qua trình duyệt): 原阡陌 Nguyên Thiên Mạch, 无影 Vô Ảnh, 蒙生 Mông Sinh, 埋尸人 Mai Thi Nhân, 潋曦 Liễm Hi; 蚩昇 Xi Thăng là đúng.",
     "2026-11-27: đối chiếu nguyên văn piaotia: 伽罗空 Già La Không, 煵灵龙火 Nạn Linh Long Hỏa, 王颉 Vương Hiệt, 图卷世界 Đồ Quyển Thế Giới, 测神石 Trắc Thần Thạch, 蔺云 Lận Vân, 织伤 Chức Thương, 噬神虫 Phệ Thần Trùng, 雾隐 Vụ Ẩn, 实字卷 Thực Tự Quyển, 红蛛 Hồng Chu, 食圣 Thực Thánh.",
     "2026-11-27: đối chiếu nguyên văn piaotia: 湟恶神君, 刑千, 雨澪血刀, 赤鱬, 沙陀七界, 大头布娃娃, 太真通天神丹, 破杀令, 血犼神子, 塔罗, 天初文明, 黄泉大帝.",
-    "2026-11-27: piaotia: 白苍星, 盖灭, 裁决尊者, 南天生死墟, 逆神碑, 原阡陌 (bị dịch nghĩa thành 'Bờ Ruộng Dọc Ngang')."
+    "2026-11-27: piaotia: 白苍星, 盖灭, 裁决尊者, 南天生死墟, 逆神碑, 原阡陌 (bị dịch nghĩa thành 'Bờ Ruộng Dọc Ngang').",
+    "2026-11-27: piaotia: 弥连山, 胥燎, 真实神宫/世界, 张霓彩, 阴阳交替, 镇血符, 绛澜草, 穆托战神, 摩犁尸祖."
   ],
   "ten_dich_nghia": {
     "hoàng suối đại đế": "hoàng tuyền đại đế",
@@ -263,7 +264,18 @@
     "Nghịch Của Thần Bi": "Nghịch Thần Bi",
     "Nguyên Phu Dọc Ngang": "Nguyên Thiên Mạch",
     "Nguyên bản Bờ Ruộng Dọc Ngang": "Nguyên Thiên Mạch",
-    "Bờ Ruộng Dọc Ngang": "Thiên Mạch"
+    "Bờ Ruộng Dọc Ngang": "Thiên Mạch",
+    "Mì Liên Sơn": "Di Liên Sơn",
+    "Mì Thiên Chiến Thần": "Di Thiên Chiến Thần",
+    "Tư Xát": "Tư Liệu",
+    "Chân Thật Thần Cung": "Chân Thực Thần Cung",
+    "Chân Thật Thế Giới": "Chân Thực Thế Giới",
+    "Trương Nghê Màu": "Trương Nghê Thái",
+    "Âm Dương Giao Thay": "Âm Dương Giao Thế",
+    "Trấn Huyết Hụt": "Trấn Huyết Phù",
+    "Giáng Làn": "Giáng Lan",
+    "Môtô Chiến Thần": "Mục Thác Chiến Thần",
+    "Ma Cày Thi Tổ": "Ma Lê Thi Tổ"
   },
   "ten_dich_nghia_moi_kieu": {
     "rừng phi": "lâm phi",
