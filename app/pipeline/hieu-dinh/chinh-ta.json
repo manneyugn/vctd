@@ -19,7 +19,8 @@
     "2026-11-27 đợt 2: tên dịch nghĩa (do_ten_nghi.py am_la, cả bản tóm tắt): Thiên Cốt Nữ Đế, Trầm Uyên Cổ Kiếm, Nhật Quỹ, Thú Thiên, Thiên Vấn Cảnh, Tài Quyết Ty (裁决司), Thần Nữ Lâu (神女楼), Thời Không Nhân Tổ (时空人祖)...",
     "2026-11-27: Tranh Nguyệt, Hồng Dục (Tinh Sứ), Trương Thiên Khuê; 'Tinh Sử' -> 'Tinh Sứ'.",
     "2026-11-27 (wiki Baidu Baike): 蒙戈 Mông Qua; 潋曦 Liễm Hi; 神妭 Thần Bạt; 人皮灯笼 Nhân Bì Đăng Lung; 镇狱古族 Trấn Ngục Cổ Tộc; 紫玲珑 Tử Linh Lung; Quy Dư Thần Quân; Khải La Ma Sư.",
-    "2026-11-27 (wiki): Xi Hình Thiên (蚩刑天), Bối Hi (贝希), Thần Bạt (神妭)."
+    "2026-11-27 (wiki): Xi Hình Thiên (蚩刑天), Bối Hi (贝希), Thần Bạt (神妭).",
+    "2026-11-27 (mục lục piaotia): 犰余 Cừu Dư Thần Quân (c3005 '对决犰余'); 青萍子 Thanh Bình Tử (c3001); 罗刹 La Sát (c1458 '三大世界对战罗刹大军')."
   ],
   "ten_dich_nghia": {
     "hoàng suối đại đế": "hoàng tuyền đại đế",
@@ -194,7 +195,6 @@
     "Trấn Hục Cổ": "Trấn Ngục Cổ",
     "Trấn Hục": "Trấn Ngục",
     "Tử Lung Linh": "Tử Linh Lung",
-    "Quổ Dư Thần Quân": "Quy Dư Thần Quân",
     "Khai Lưới Ma Sư": "Khải La Ma Sư",
     "Khải Lưới Ma Sư": "Khải La Ma Sư",
     "Lưới Ma Sư": "La Ma Sư",
@@ -202,7 +202,13 @@
     "Xi Hình Tinh": "Xi Hình Thiên",
     "Bê Hi": "Bối Hi",
     "Thần Sác": "Thần Bạt",
-    "Thần Sái": "Thần Bạt"
+    "Thần Sái": "Thần Bạt",
+    "Quổ Dư Thần Quân": "Cừu Dư Thần Quân",
+    "Quy Dư Thần Quân": "Cừu Dư Thần Quân",
+    "Quy Dư": "Cừu Dư",
+    "Bèo Tấm Tử": "Thanh Bình Tử",
+    "Bèo Tấm Kiếm": "Thanh Bình Kiếm",
+    "La Bát Mách": "La Sát"
   },
   "ten_dich_nghia_moi_kieu": {
     "rừng phi": "lâm phi",
