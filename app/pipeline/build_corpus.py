@@ -21,6 +21,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import hieu_dinh
+import loi_tac_gia
 
 ROOT = Path(__file__).resolve().parents[2]
 SRC = ROOT / "output" / "van-co-than-de-xtruyen"
@@ -158,6 +159,7 @@ def main():
         print(f"hieu dinh   : xong  ({time.time() - t0:.0f}s)")
         sua, lech = ap_dich_lai(noi_dung)
         print(f"dich lai    : {sua} doan  (khong khop: {lech})")
+        print(f"loi tac gia : bo {loi_tac_gia.ap(noi_dung)} doan")
 
     for old in OUT.glob("shard-*.json.gz"):
         old.unlink()
