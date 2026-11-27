@@ -10068,6 +10068,28 @@
         183
       ],
       "ghi_chu": "2026-11-27: Trương Thiếu Sơ bị viết sai."
+    },
+    {
+      "sai": "Mũ Tổ",
+      "dung": "Mẫu Tổ",
+      "chuong": [
+        2122
+      ],
+      "ghi_chu": "2026-11-27: 姆祖 Mẫu Tổ (nguyên văn c2108 bản Trung)."
+    },
+    {
+      "sai": "Mỗ Tổ",
+      "dung": "Mẫu Tổ",
+      "chuong": [
+        2092,
+        2099,
+        2115,
+        2119,
+        2120,
+        2121,
+        2130
+      ],
+      "ghi_chu": "2026-11-27: 姆祖 Mẫu Tổ (nguyên văn c2108 bản Trung)."
     }
   ]
 }
