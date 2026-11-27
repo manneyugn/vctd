@@ -34,6 +34,12 @@ for fn in sorted(glob.glob(str(APP / 'web/data/shard-*.json.gz'))):
             vd.setdefault(m.group(), f'c{n}: …{s[max(0, m.start()-60):m.end()+40]}…'.replace('\n', ' '))
 tong = Counter()
 for c in day.values(): tong.update(c)
+# bản tóm tắt chương cũng quét (A): ghi chương dạng "t<n>"
+for k, s in json.load(gzip.open(APP / 'web/data/summaries.json.gz', 'rt')).items():
+    if not isinstance(s, str): continue
+    for m in GIUA.finditer(s):
+        giua[m.group()]['t' + k] += 1
+        vd.setdefault(m.group(), f't{k}: …{s[max(0, m.start()-60):m.end()+40]}…')
 
 # (A)
 am_la = []
@@ -41,7 +47,7 @@ for X, ch in giua.items():
     ws = X.split(); la = [w for w in ws if chuan(w) not in HV]
     if not la or len(la) == len(ws) or X in BO: continue
     # gợi ý: tên thường gặp cùng độ dài, trùng mọi âm tiết Hán-Việt của X
-    am_la.append(dict(cum=X, lan=sum(ch.values()), chuong=sorted(ch), am_la=la, vd=vd[X]))
+    am_la.append(dict(cum=X, lan=sum(ch.values()), chuong=sorted(ch, key=str), am_la=la, vd=vd[X]))
 am_la.sort(key=lambda x: -x['lan'])
 
 # (B)

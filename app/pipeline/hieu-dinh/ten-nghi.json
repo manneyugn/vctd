@@ -2,7 +2,7 @@
 "am_la": [
 {
 "cum": "Xi Thăng",
-"lan": 58,
+"lan": 68,
 "chuong": [
 1989,
 1991,
@@ -15,7 +15,14 @@
 2001,
 2002,
 2014,
-2016
+2016,
+"t1991",
+"t1992",
+"t1993",
+"t1994",
+"t1997",
+"t2000",
+"t2001"
 ],
 "am_la": [
 "Xi"
@@ -24,9 +31,10 @@
 },
 {
 "cum": "Mũ Tổ",
-"lan": 49,
+"lan": 52,
 "chuong": [
-2122
+2122,
+"t2122"
 ],
 "am_la": [
 "Mũ"
@@ -35,7 +43,7 @@
 },
 {
 "cum": "Mông Ge",
-"lan": 30,
+"lan": 33,
 "chuong": [
 3658,
 3691,
@@ -47,7 +55,9 @@
 3993,
 4023,
 4197,
-4201
+4201,
+"t3691",
+"t4201"
 ],
 "am_la": [
 "Ge"
@@ -55,21 +65,11 @@
 "vd": "c3658: …ng vọng? Tuy rằng có Vẫn Thần Đảo Chủ, Hiên Viên Thái Chân, Mông Ge những sự tồn tại đặc biệt này, thực lực…"
 },
 {
-"cum": "Trương Hầm",
-"lan": 29,
-"chuong": [
-1007
-],
-"am_la": [
-"Hầm"
-],
-"vd": "c1007: … chiếc thuyền gỗ màu xanh, kể tình hình cho Lạc Thủy Hàn và Trương Hầm nghe, đồng thời cũng dài dằng dặc thở d…"
-},
-{
 "cum": "La Bát Mách",
-"lan": 28,
+"lan": 30,
 "chuong": [
-1458
+1458,
+"t1458"
 ],
 "am_la": [
 "Mách"
@@ -78,10 +78,11 @@
 },
 {
 "cum": "Lệnh Xi",
-"lan": 27,
+"lan": 29,
 "chuong": [
 2658,
-3320
+3320,
+"t3320"
 ],
 "am_la": [
 "Xi"
@@ -90,7 +91,7 @@
 },
 {
 "cum": "Bê Hi",
-"lan": 26,
+"lan": 29,
 "chuong": [
 3337,
 3339,
@@ -105,7 +106,10 @@
 3793,
 3814,
 3825,
-3854
+3854,
+"t3350",
+"t3366",
+"t3792"
 ],
 "am_la": [
 "Bê"
@@ -113,22 +117,13 @@
 "vd": "c3337: … lại chứ? Thực ra, nguyên nhân thực sự chính là tàn hồn của Bê Hi đã tiến vào phạm vi mười tám trượng xun…"
 },
 {
-"cum": "Già La Hông",
-"lan": 23,
-"chuong": [
-813
-],
-"am_la": [
-"Hông"
-],
-"vd": "c813: …anh lao vụt ra ngoài, tiên hạ thủ vi cường tấn công về phía Già La Hông. \"Tốc độ nhanh thật.\" Già La Hông thầm …"
-},
-{
 "cum": "Nguyên Bịch",
-"lan": 23,
+"lan": 27,
 "chuong": [
 2489,
-2541
+2541,
+"t2489",
+"t2541"
 ],
 "am_la": [
 "Bịch"
@@ -136,21 +131,11 @@
 "vd": "c2489: …Vốn dĩ Nguyên Bịch là tu vi cảnh giới Vạn Tử Thức Sinh, tr…"
 },
 {
-"cum": "Quổ Dư Thần Quân",
-"lan": 23,
-"chuong": [
-3024
-],
-"am_la": [
-"Quổ"
-],
-"vd": "c3024: … đại thành. Nhưng mà, thần thông Thái Chân cấp huyễn đạo mà Quổ Dư Thần Quân thi triển, không chỉ đạt đến đại thành,…"
-},
-{
 "cum": "Vô Hảnh",
-"lan": 23,
+"lan": 26,
 "chuong": [
-3955
+3955,
+"t3955"
 ],
 "am_la": [
 "Hảnh"
@@ -158,22 +143,35 @@
 "vd": "c3955: … Thần Vực, chính là tội chết.\" Huyết Đồ không dám trêu chọc Vô Hảnh, chẳng lẽ còn không dám lấy Quỷ Chủ ra …"
 },
 {
-"cum": "Ngàn Nhụy",
-"lan": 22,
+"cum": "Già La Hông",
+"lan": 25,
 "chuong": [
-2977,
-4015
+813,
+"t813"
 ],
 "am_la": [
-"Ngàn"
+"Hông"
 ],
-"vd": "c2977: …ành giống như sớm đoán được Trương Nhược Trần sẽ hỏi chuyện Ngàn Nhụy giới, đáp: \"Tu sĩ Ngàn Nhụy giới phạm p…"
+"vd": "c813: …anh lao vụt ra ngoài, tiên hạ thủ vi cường tấn công về phía Già La Hông. \"Tốc độ nhanh thật.\" Già La Hông thầm …"
+},
+{
+"cum": "Quổ Dư Thần Quân",
+"lan": 24,
+"chuong": [
+3024,
+"t3024"
+],
+"am_la": [
+"Quổ"
+],
+"vd": "c3024: … đại thành. Nhưng mà, thần thông Thái Chân cấp huyễn đạo mà Quổ Dư Thần Quân thi triển, không chỉ đạt đến đại thành,…"
 },
 {
 "cum": "Sánh Linh Long Hỏa",
-"lan": 21,
+"lan": 23,
 "chuong": [
-1254
+1254,
+"t1254"
 ],
 "am_la": [
 "Sánh"
@@ -182,11 +180,13 @@
 },
 {
 "cum": "Luyện Xi",
-"lan": 17,
+"lan": 21,
 "chuong": [
 2279,
 2693,
-3066
+3066,
+"t2279",
+"t3066"
 ],
 "am_la": [
 "Xi"
@@ -194,22 +194,12 @@
 "vd": "c2279: …Yến, không thể mang đi. Ánh mắt Trương Nhược Trần liếc sang Luyện Xi bên cạnh. Sắc mặt nàng mặc dù bình tĩnh…"
 },
 {
-"cum": "Giê Sinh",
-"lan": 17,
-"chuong": [
-2866
-],
-"am_la": [
-"Giê"
-],
-"vd": "c2866: … hình đầu lâu. Mà chiếc nhẫn kia, đã rơi vào tay Dạ Xoa tộc Giê Sinh.\" Dạ Mạn Mạn đáp. Trương Nhược Trần nhắ…"
-},
-{
 "cum": "Vương Hệt",
-"lan": 16,
+"lan": 19,
 "chuong": [
 890,
-902
+902,
+"t890"
 ],
 "am_la": [
 "Hệt"
@@ -217,26 +207,27 @@
 "vd": "c890: …Ánh mắt uy nghiêm kia lần lượt nhìn chăm chú vào Sử Nhân và Vương Hệt, lạnh giọng hừ một tiếng. Ngay sau đó, …"
 },
 {
-"cum": "Đồ Giấy Thế Giới",
-"lan": 15,
+"cum": "Giê Sinh",
+"lan": 19,
 "chuong": [
-633,
-827,
-837
+2866,
+"t2866"
 ],
 "am_la": [
-"Giấy"
+"Giê"
 ],
-"vd": "c633: …hối Thánh Bản Nguyên, lại thêm thời gian gấp mười lần trong Đồ Giấy Thế Giới, nàng tuyệt đối có lòng tin khiến tu vi…"
+"vd": "c2866: … hình đầu lâu. Mà chiếc nhẫn kia, đã rơi vào tay Dạ Xoa tộc Giê Sinh.\" Dạ Mạn Mạn đáp. Trương Nhược Trần nhắ…"
 },
 {
 "cum": "Thần Sỏa",
-"lan": 15,
+"lan": 19,
 "chuong": [
 3328,
 3351,
 3400,
-3964
+3964,
+"t3351",
+"t3964"
 ],
 "am_la": [
 "Sỏa"
@@ -245,15 +236,109 @@
 },
 {
 "cum": "Chôn Thi Nhân",
-"lan": 15,
+"lan": 19,
 "chuong": [
 3749,
-3750
+3750,
+"t3749",
+"t3750"
 ],
 "am_la": [
 "Chôn"
 ],
 "vd": "c3749: …ợng Hoàng trước tiên bị Đế Phù phù quang kích trúng, lại bị Chôn Thi Nhân một thương đâm rách thần tâm. Thọ nguyê…"
+},
+{
+"cum": "Đồ Giấy Thế Giới",
+"lan": 17,
+"chuong": [
+633,
+827,
+837,
+"t633",
+"t837"
+],
+"am_la": [
+"Giấy"
+],
+"vd": "c633: …hối Thánh Bản Nguyên, lại thêm thời gian gấp mười lần trong Đồ Giấy Thế Giới, nàng tuyệt đối có lòng tin khiến tu vi…"
+},
+{
+"cum": "Đo Sần Thạch",
+"lan": 15,
+"chuong": [
+113,
+"t113"
+],
+"am_la": [
+"Đo",
+"Sần"
+],
+"vd": "c113: …i ánh mắt chăm chú của mọi người, Lạc Thủy Hàn đi đến trước Đo Sần Thạch, vươn một bàn tay ngọc thon dài, ấn lên…"
+},
+{
+"cum": "Lẫn Vân",
+"lan": 15,
+"chuong": [
+1354,
+"t1354"
+],
+"am_la": [
+"Lẫn"
+],
+"vd": "c1354: …thành vực. Thống lĩnh cấm quân của đệ thất thành vực tên là Lẫn Vân, tu vi đạt đến đỉnh phong của Thông Thi…"
+},
+{
+"cum": "Thiên Rủi Giới",
+"lan": 15,
+"chuong": [
+1584,
+"t1584"
+],
+"am_la": [
+"Rủi"
+],
+"vd": "c1584: …hách hàng tới đây đã tăng hơn gấp đôi, xem ra đã đến lúc để Thiên Rủi Giới phái thêm mấy người thủ hạ tới, nếu khô…"
+},
+{
+"cum": "Dệt Thương",
+"lan": 15,
+"chuong": [
+2319,
+"t2319"
+],
+"am_la": [
+"Dệt"
+],
+"vd": "c2319: …hược Trần chính là nhân tuyển tốt nhất.\" Tên lùn này tên là Dệt Thương, chính là vị Bách Gia Cảnh đại viên mãn…"
+},
+{
+"cum": "La Ỏt",
+"lan": 15,
+"chuong": [
+2415,
+"t2415"
+],
+"am_la": [
+"Ỏt"
+],
+"vd": "c2415: …thăng tiến. La Sinh Thiên nhếch mép, hạ giọng truyền âm cho La Ỏt đang đứng ở bên cạnh, nói: \"Thần Tôn tự…"
+},
+{
+"cum": "Nhân Bì Đăng Lông",
+"lan": 15,
+"chuong": [
+3062,
+3072,
+3118,
+3129,
+"t3062",
+"t3118"
+],
+"am_la": [
+"Lông"
+],
+"vd": "c3062: …Sương Thành Ma cùng Nhân Bì Đăng Lông hiển nhiên cũng phát giác được phe mình…"
 },
 {
 "cum": "Âm Luo",
@@ -267,45 +352,12 @@
 "vd": "c3772: …ài lòng chưa, ngươi xé rách miếng vải che mặt cuối cùng của Âm Luo tộc... Ha ha, cái gì chí cao nhất tộc, …"
 },
 {
-"cum": "Đo Sần Thạch",
-"lan": 14,
-"chuong": [
-113
-],
-"am_la": [
-"Đo",
-"Sần"
-],
-"vd": "c113: …i ánh mắt chăm chú của mọi người, Lạc Thủy Hàn đi đến trước Đo Sần Thạch, vươn một bàn tay ngọc thon dài, ấn lên…"
-},
-{
-"cum": "Thiên Rủi Giới",
-"lan": 14,
-"chuong": [
-1584
-],
-"am_la": [
-"Rủi"
-],
-"vd": "c1584: …hách hàng tới đây đã tăng hơn gấp đôi, xem ra đã đến lúc để Thiên Rủi Giới phái thêm mấy người thủ hạ tới, nếu khô…"
-},
-{
-"cum": "La Ỏt",
-"lan": 14,
-"chuong": [
-2415
-],
-"am_la": [
-"Ỏt"
-],
-"vd": "c2415: …thăng tiến. La Sinh Thiên nhếch mép, hạ giọng truyền âm cho La Ỏt đang đứng ở bên cạnh, nói: \"Thần Tôn tự…"
-},
-{
 "cum": "Dài Thời Gian",
-"lan": 14,
+"lan": 15,
 "chuong": [
 3986,
-4060
+4060,
+"t3986"
 ],
 "am_la": [
 "Dài"
@@ -313,24 +365,11 @@
 "vd": "c3986: …\"Không Mệt Pháp Nhất!\" Trên sông Dài Thời Gian, xuất hiện mười hai đạo Mệnh Vận Chi Mô…"
 },
 {
-"cum": "Trấn Hục Cổ",
-"lan": 13,
-"chuong": [
-864,
-896,
-902,
-3409
-],
-"am_la": [
-"Hục"
-],
-"vd": "c864: …ền lại lập tức bổ sung thêm một câu: \"Chiếu theo quy củ của Trấn Hục Cổ tộc, chỉ có thế hệ Trì Kiếm Nhân trước …"
-},
-{
 "cum": "Sánh Linh",
-"lan": 13,
+"lan": 14,
 "chuong": [
-1250
+1250,
+"t1250"
 ],
 "am_la": [
 "Sánh"
@@ -338,45 +377,47 @@
 "vd": "c1250: …hộ thể, tiếp tục ra tay, ngăn cản Trương Nhược Trần thu lấy Sánh Linh long hỏa. Cánh tay độc lập của Man Long…"
 },
 {
-"cum": "Lẫn Vân",
-"lan": 13,
+"cum": "Phệ Thần Cọp",
+"lan": 14,
 "chuong": [
-1354
+2259,
+"t2259"
 ],
 "am_la": [
-"Lẫn"
+"Cọp"
 ],
-"vd": "c1354: …thành vực. Thống lĩnh cấm quân của đệ thất thành vực tên là Lẫn Vân, tu vi đạt đến đỉnh phong của Thông Thi…"
+"vd": "c2259: …lùi lại phía sau vài bước. Trương Nhược Trần gọi ra một con Phệ Thần Cọp lớn bằng móng tay, ném nó vào trong qua…"
 },
 {
-"cum": "Dệt Thương",
-"lan": 13,
+"cum": "Nguyên Sách Mơ",
+"lan": 14,
 "chuong": [
-2319
+2533,
+"t2533"
 ],
 "am_la": [
-"Dệt"
+"Mơ"
 ],
-"vd": "c2319: …hược Trần chính là nhân tuyển tốt nhất.\" Tên lùn này tên là Dệt Thương, chính là vị Bách Gia Cảnh đại viên mãn…"
+"vd": "c2533: …ầm giọng nói: \"Đừng qua đây! Ta thế nhưng đã truyền tin cho Nguyên Sách Mơ đại nhân, hắn lập tức có thể chạy đến.\"…"
 },
 {
-"cum": "Sắp Thiên Chi Chiến",
-"lan": 13,
+"cum": "Vụ Hẩn",
+"lan": 14,
 "chuong": [
-2338,
-2339,
-2488
+3232,
+"t3232"
 ],
 "am_la": [
-"Sắp"
+"Hẩn"
 ],
-"vd": "c2338: … Xinh khải giáp là trân khí của Vận Xinh Thần Điện, đối với Sắp Thiên Chi Chiến lần này của ta lại càng có tác dụng trọ…"
+"vd": "c3232: …t gấu, dám xông vào Quỷ Đế Phủ?\" Triệu Ngộ đi đến trước mặt Vụ Hẩn, cười nói: \"Quỷ Đế Phủ cứ giao cho Cung…"
 },
 {
 "cum": "Đế Cơn",
-"lan": 13,
+"lan": 14,
 "chuong": [
-3803
+3803,
+"t3803"
 ],
 "am_la": [
 "Cơn"
@@ -385,14 +426,97 @@
 },
 {
 "cum": "Hắc Cò",
-"lan": 13,
+"lan": 14,
 "chuong": [
-3817
+3817,
+"t3817"
 ],
 "am_la": [
 "Cò"
 ],
 "vd": "c3817: …ông?\" Hắc Cò lắc đầu. Trương Nhược Trần rút từ trong cơ thể Hắc Cò ra một sợi thần hồn, châm lửa đốt nó, d…"
+},
+{
+"cum": "Trấn Hục Cổ",
+"lan": 13,
+"chuong": [
+3409,
+864,
+896,
+902
+],
+"am_la": [
+"Hục"
+],
+"vd": "c864: …ền lại lập tức bổ sung thêm một câu: \"Chiếu theo quy củ của Trấn Hục Cổ tộc, chỉ có thế hệ Trì Kiếm Nhân trước …"
+},
+{
+"cum": "Thật Tự Quyển",
+"lan": 13,
+"chuong": [
+2376,
+2407,
+"t2407"
+],
+"am_la": [
+"Thật"
+],
+"vd": "c2376: …Tử tộc chỉ còn trơ lại một cánh tay và một cái đầu lâu. \"Hư Thật Tự Quyển!\" Ngay từ thời điểm đầu tiên, Yêu Phi đ…"
+},
+{
+"cum": "Bản Vợ Thần Điện",
+"lan": 13,
+"chuong": [
+2596,
+2598,
+2706,
+4009,
+"t2596",
+"t4009"
+],
+"am_la": [
+"Vợ"
+],
+"vd": "c2596: …hục quỳ rạp trên mặt đất. Thiên Đường Giới cực kỳ coi trọng Bản Vợ Thần Điện, cho nên, trong tình huống vốn đã vô cù…"
+},
+{
+"cum": "Hải Dưa",
+"lan": 13,
+"chuong": [
+2787,
+"t2787"
+],
+"am_la": [
+"Dưa"
+],
+"vd": "c2787: …àng. Cho nên, sư tôn không thể đi vào bên trong.\" Nói đoạn, Hải Dưa lại nói: \"Sư tôn đi tới sâu trong Hắc Á…"
+},
+{
+"cum": "Mông Gô",
+"lan": 13,
+"chuong": [
+4021,
+4198,
+"t4198"
+],
+"am_la": [
+"Gô"
+],
+"vd": "c4021: …sào huyệt Thần Mộc, ngưng hóa thành một thân ảnh vạm vỡ. Là Mông Gô, đứng thứ năm trong bảy mươi hai trụ ma…"
+},
+{
+"cum": "Hồng Nhện",
+"lan": 12,
+"chuong": [
+204,
+242,
+253,
+"t242"
+],
+"am_la": [
+"Nhện"
+],
+"vd": "c204: … Thành nữa.\" \"Có lẽ vậy!\" Trương Nhược Trần nói. Uy thế của Hồng Nhện cự hạm đích xác kinh người, thế nhưng c…"
 },
 {
 "cum": "Thật Thánh",
@@ -407,102 +531,55 @@
 "vd": "c1244: … hắn. Trừ phi thực lực của Thực Thánh Hoa bước vào tầng thứ Thật Thánh, mới có thể phản phệ Trương Nhược Trần,…"
 },
 {
-"cum": "Phệ Thần Cọp",
+"cum": "Hoáng Ác Thần Quân",
 "lan": 12,
 "chuong": [
-2259
+3257,
+"t3257"
 ],
 "am_la": [
-"Cọp"
+"Hoáng"
 ],
-"vd": "c2259: …lùi lại phía sau vài bước. Trương Nhược Trần gọi ra một con Phệ Thần Cọp lớn bằng móng tay, ném nó vào trong qua…"
+"vd": "c3257: …\"Bẩm báo Phượng Thiên, bản thần muốn mượn Dương Họa Thi của Hoáng Ác Thần Quân một dùng, để tiêu diệt Lượng Tổ Chức, t…"
 },
 {
-"cum": "Thật Tự Quyển",
+"cum": "Sông Thời Gian",
 "lan": 12,
 "chuong": [
-2376,
-2407
+4022,
+4176,
+"t4176"
 ],
 "am_la": [
-"Thật"
+"Sông"
 ],
-"vd": "c2376: …Tử tộc chỉ còn trơ lại một cánh tay và một cái đầu lâu. \"Hư Thật Tự Quyển!\" Ngay từ thời điểm đầu tiên, Yêu Phi đ…"
+"vd": "c4022: …ng có nghĩa nhất định là bút tích của Minh Tổ. Ngươi ở trên Sông Thời Gian, đặt câu hỏi cho Linh Yến Tử, nàng khôn…"
 },
 {
-"cum": "Nguyên Sách Mơ",
-"lan": 12,
-"chuong": [
-2533
-],
-"am_la": [
-"Mơ"
-],
-"vd": "c2533: …ầm giọng nói: \"Đừng qua đây! Ta thế nhưng đã truyền tin cho Nguyên Sách Mơ đại nhân, hắn lập tức có thể chạy đến.\"…"
-},
-{
-"cum": "Hải Dưa",
-"lan": 12,
-"chuong": [
-2787
-],
-"am_la": [
-"Dưa"
-],
-"vd": "c2787: …àng. Cho nên, sư tôn không thể đi vào bên trong.\" Nói đoạn, Hải Dưa lại nói: \"Sư tôn đi tới sâu trong Hắc Á…"
-},
-{
-"cum": "Nhân Bì Đăng Lông",
-"lan": 12,
-"chuong": [
-3062,
-3072,
-3118,
-3129
-],
-"am_la": [
-"Lông"
-],
-"vd": "c3062: …Sương Thành Ma cùng Nhân Bì Đăng Lông hiển nhiên cũng phát giác được phe mình…"
-},
-{
-"cum": "Mông Gô",
-"lan": 12,
-"chuong": [
-4021,
-4198
-],
-"am_la": [
-"Gô"
-],
-"vd": "c4021: …sào huyệt Thần Mộc, ngưng hóa thành một thân ảnh vạm vỡ. Là Mông Gô, đứng thứ năm trong bảy mươi hai trụ ma…"
-},
-{
-"cum": "Hồng Nhện",
+"cum": "Thư Mọt Sách",
 "lan": 11,
 "chuong": [
-204,
-242,
-253
+2204,
+2205,
+"t2204",
+"t2205"
 ],
 "am_la": [
-"Nhện"
+"Mọt"
 ],
-"vd": "c204: … Thành nữa.\" \"Có lẽ vậy!\" Trương Nhược Trần nói. Uy thế của Hồng Nhện cự hạm đích xác kinh người, thế nhưng c…"
+"vd": "c2204: …iả bảy tộc của Địa Ngục Giới, ba tộc còn lại đang công kích Thư Mọt Sách và Bách Si, vẫn chưa thể rút tay ra đượ…"
 },
 {
-"cum": "Cánh Cửa Vận Mệnh",
+"cum": "La Xấu",
 "lan": 11,
 "chuong": [
-2069,
-2307,
-2330,
-2717
+2380,
+"t2380"
 ],
 "am_la": [
-"Cửa"
+"Xấu"
 ],
-"vd": "c2069: …ện quét về phía Bàn Nhược. Bàn Nhược đứng vững ở phía trước Cánh Cửa Vận Mệnh, hai tay kết ấn cực kỳ nhanh chóng và h…"
+"vd": "c2380: …uyết tộc chôn cùng.\" Quang màng huyết văn trận pháp vỡ vụn, La Xấu đi đầu, bay đến phía trên Trương Nhược …"
 },
 {
 "cum": "Hình Ngàn",
@@ -519,89 +596,18 @@
 "vd": "c2441: … đại thánh Càn Vấn cảnh đại diện cho Tu La Thần Điện tên là Hình Ngàn, nghe vậy trong lòng không khỏi thấp th…"
 },
 {
-"cum": "Bản Vợ Thần Điện",
-"lan": 11,
-"chuong": [
-2596,
-2598,
-2706,
-4009
-],
-"am_la": [
-"Vợ"
-],
-"vd": "c2596: …hục quỳ rạp trên mặt đất. Thiên Đường Giới cực kỳ coi trọng Bản Vợ Thần Điện, cho nên, trong tình huống vốn đã vô cù…"
-},
-{
-"cum": "Vụ Hẩn",
-"lan": 11,
-"chuong": [
-3232
-],
-"am_la": [
-"Hẩn"
-],
-"vd": "c3232: …t gấu, dám xông vào Quỷ Đế Phủ?\" Triệu Ngộ đi đến trước mặt Vụ Hẩn, cười nói: \"Quỷ Đế Phủ cứ giao cho Cung…"
-},
-{
-"cum": "Hoáng Ác Thần Quân",
-"lan": 11,
-"chuong": [
-3257
-],
-"am_la": [
-"Hoáng"
-],
-"vd": "c3257: …\"Bẩm báo Phượng Thiên, bản thần muốn mượn Dương Họa Thi của Hoáng Ác Thần Quân một dùng, để tiêu diệt Lượng Tổ Chức, t…"
-},
-{
-"cum": "Sông Thời Gian",
-"lan": 11,
-"chuong": [
-4022,
-4176
-],
-"am_la": [
-"Sông"
-],
-"vd": "c4022: …ng có nghĩa nhất định là bút tích của Minh Tổ. Ngươi ở trên Sông Thời Gian, đặt câu hỏi cho Linh Yến Tử, nàng khôn…"
-},
-{
-"cum": "Thời Cổng Nhân",
-"lan": 11,
-"chuong": [
-4177
-],
-"am_la": [
-"Cổng"
-],
-"vd": "c4177: … kinh ngạc, cảm thấy không thể tưởng tượng nổi. Thủ đoạn mà Thời Cổng Nhân tổ để lại không thể gọi là không mạnh, …"
-},
-{
-"cum": "Chợ Đế Nhất Phẩm Đường",
+"cum": "Vũ Mí Huyết Đao",
 "lan": 10,
 "chuong": [
-301,
-517,
-611,
-734,
-1120
+944,
+947,
+970,
+"t944"
 ],
 "am_la": [
-"Chợ"
+"Mí"
 ],
-"vd": "c301: … tức chấn động khác chiếm lấy: Cao thủ trẻ tuổi thần bí của Chợ Đế Nhất Phẩm Đường chỉ dùng ba kiếm đã đánh bại đứng đầu \"…"
-},
-{
-"cum": "Đạp Đất Đại Sư",
-"lan": 10,
-"chuong": [
-1120
-],
-"am_la": [
-"Đất"
-],
-"vd": "c1120: …hạm kinh thiên động địa. Vốn tưởng rằng người chủ đạo sẽ là Đạp Đất Đại Sư cùng Thôn Thiên Ma Long, lại không nghĩ…"
+"vd": "c944: … nóng bỏng, nói: \"Chiến binh Yến Không Minh sử dụng, lại là Vũ Mí Huyết Đao đứng thứ một trăm năm mươi hai trên 'Bá…"
 },
 {
 "cum": "Chí Thật Chi Ảnh",
@@ -615,30 +621,6 @@
 "vd": "c1548: …c thánh đạo từ trong cơ thể tuôn ra, ngưng tụ thành một tôn Chí Thật Chi Ảnh cao mấy trượng. Sau khi Chí Thật Chi Ản…"
 },
 {
-"cum": "Thiên Hỏi",
-"lan": 10,
-"chuong": [
-2355,
-2368,
-2503
-],
-"am_la": [
-"Hỏi"
-],
-"vd": "c2355: …dính vào người, vội vàng triển khai thánh thuật cao cấp cấp Thiên Hỏi, lớn tiếng quát: \"Vạn Long Triều Tông.\"…"
-},
-{
-"cum": "La Xấu",
-"lan": 10,
-"chuong": [
-2380
-],
-"am_la": [
-"Xấu"
-],
-"vd": "c2380: …uyết tộc chôn cùng.\" Quang màng huyết văn trận pháp vỡ vụn, La Xấu đi đầu, bay đến phía trên Trương Nhược …"
-},
-{
 "cum": "Sách Mơ",
 "lan": 10,
 "chuong": [
@@ -650,17 +632,55 @@
 "vd": "c2533: …ân Hoàng và Lam Anh. Đan Thu thở phào một hơi, nói: \"Nguyên Sách Mơ đại nhân sắp đến rồi, thân phận của Tư …"
 },
 {
-"cum": "Vũ Mí Huyết Đao",
-"lan": 9,
+"cum": "Bèo Tấm Tử",
+"lan": 10,
 "chuong": [
-944,
-947,
-970
+3049,
+3057,
+3185,
+"t3049"
 ],
 "am_la": [
-"Mí"
+"Bèo",
+"Tấm"
 ],
-"vd": "c944: … nóng bỏng, nói: \"Chiến binh Yến Không Minh sử dụng, lại là Vũ Mí Huyết Đao đứng thứ một trăm năm mươi hai trên 'Bá…"
+"vd": "c3049: …t gia Phong Huyền của Phong tộc lộ ra vẻ vui mừng, nói: \"Là Bèo Tấm Tử của Côn Lôn Giới!\" \"Đi!\" Phong Huyền ba…"
+},
+{
+"cum": "Lùn Tộc",
+"lan": 10,
+"chuong": [
+3329,
+"t3329"
+],
+"am_la": [
+"Lùn"
+],
+"vd": "c3329: … trận pháp viên ấn có đường kính vạn dặm, bay thẳng về phía Lùn Tộc. Độc Nhãn Cự Nhân và Hỏa Tinh Linh Mỹ L…"
+},
+{
+"cum": "Ve Sầu Minh Nhã",
+"lan": 10,
+"chuong": [
+3509,
+"t3509"
+],
+"am_la": [
+"Ve"
+],
+"vd": "c3509: …ạnh triệt cốt tủy. Trương Nhược Trần thấy được đuổi kịp đến Ve Sầu Minh Nhã, ở trong nước, trên người nàng màu sa s…"
+},
+{
+"cum": "Xích Xư",
+"lan": 9,
+"chuong": [
+542,
+"t542"
+],
+"am_la": [
+"Xư"
+],
+"vd": "c542: …ột khoảnh khắc thời gian, Trương Nhược Trần mới đem bốn đầu Xích Xư thú còn lại đánh giết. Hoàng Yên Trần l…"
 },
 {
 "cum": "Man Ki Đảo",
@@ -699,63 +719,29 @@
 "vd": "c1729: …\"'Thưởng Kim Xếp Hạng Bảng' trên vì sao không có Đại Thánh?\" Trươn…"
 },
 {
-"cum": "Ngàn Cốt Nữ Đế",
+"cum": "Đi Lại Nhân",
 "lan": 9,
 "chuong": [
-2019,
-3341,
-3616,
-3734
+1871,
+"t1871"
 ],
 "am_la": [
-"Ngàn"
+"Đi"
 ],
-"vd": "c2019: … một mặt, quan trọng hơn là, nó muốn đi tìm kiếm tin tức về Ngàn Cốt Nữ Đế. Chỉ là rất tiếc, nó không dò thăm được…"
+"vd": "c1871: …ương Nhược Trần chìm xuống đáy cốc. Phía trước, Hành Giả và Đi Lại Nhân nhìn thấy thân ảnh xinh đẹp của Thiên S…"
 },
 {
-"cum": "Michael Đại Thiên Sứ Vương",
+"cum": "Mikaela Đại Thiên Sứ Vương",
 "lan": 9,
 "chuong": [
-2175
+2197,
+2198,
+"t2197"
 ],
 "am_la": [
-"Michael"
+"Mikaela"
 ],
-"vd": "c2175: …n Chân Lý Thiên Vực lại vô tình chạm mặt. Từ trước tới nay, Michael Đại Thiên Sứ Vương vẫn luôn tỏ ra vô cùng bí ẩn, khiến rất…"
-},
-{
-"cum": "Sạp Thiên",
-"lan": 9,
-"chuong": [
-2233,
-2394
-],
-"am_la": [
-"Sạp"
-],
-"vd": "c2233: …gươi có thể góp một sức lực để cứu vị cự phách kia. Đại yến Sạp Thiên lần này cực kỳ quan trọng, vi sư hy vọn…"
-},
-{
-"cum": "Vận Xinh Thần Điện",
-"lan": 9,
-"chuong": [
-2338
-],
-"am_la": [
-"Xinh"
-],
-"vd": "c2338: …, nói: \"Đa tạ Nhược Trần đại thánh ra tay tiêu diệt phản đồ Vận Xinh Thần Điện.\" \"Hắn bị Vận Mệnh Thần Điện bắt giữ, t…"
-},
-{
-"cum": "Thần Nữ Thập Nhị Lầu",
-"lan": 9,
-"chuong": [
-2490
-],
-"am_la": [
-"Lầu"
-],
-"vd": "c2490: …người tu luyện, cũng không có chút phong trần nào của nữ tử Thần Nữ Thập Nhị Lầu. Thế nhưng, khí chất yếu đuối, văn tĩnh…"
+"vd": "c2197: …n, chém ra một kiếm vô địch. \"Bụp.\" Kiếm mang rơi lên người Mikaela Đại Thiên Sứ Vương, chém hắn bay ngược ra ngoài, trên ngườ…"
 },
 {
 "cum": "Lưới Ma Sư",
@@ -770,206 +756,11 @@
 "vd": "c2535: … có lợi ích gì.\" Trương Nhược Trần đạo. Tinh Lạc đạo: \"Khai Lưới Ma Sư sử dụng Thiên Đạo Chi Tiễn bắn ngươi ở …"
 },
 {
-"cum": "Lùn Tộc",
-"lan": 9,
-"chuong": [
-3329
-],
-"am_la": [
-"Lùn"
-],
-"vd": "c3329: … trận pháp viên ấn có đường kính vạn dặm, bay thẳng về phía Lùn Tộc. Độc Nhãn Cự Nhân và Hỏa Tinh Linh Mỹ L…"
-},
-{
-"cum": "Li Thần Vương",
-"lan": 9,
-"chuong": [
-3439,
-3524
-],
-"am_la": [
-"Li"
-],
-"vd": "c3439: …t quá, Trương Nhược Trần sao lại cho hắn cơ hội đó chứ? Cửu Li Thần Vương, Bạch Tôn, Xích Mục Thần Vương đã chạy …"
-},
-{
-"cum": "Diệt Thế Chuông",
-"lan": 9,
-"chuong": [
-3588,
-3986,
-4087
-],
-"am_la": [
-"Chuông"
-],
-"vd": "c3588: …h âm lạnh lùng êm tai, từ xa phiêu tới: \"Chuông này, tên là Diệt Thế Chuông, đứng hàng chương thứ nhất trong 'Thái …"
-},
-{
-"cum": "Nhật Hểu",
-"lan": 9,
-"chuong": [
-3594,
-3665,
-3894
-],
-"am_la": [
-"Hểu"
-],
-"vd": "c3594: …ối không thể là sự trùng hợp. Tu Thần Thiên thần bước ra từ Nhật Hểu, mang tâm trạng kích động nhìn mặt sông…"
-},
-{
-"cum": "Cổng Nhân",
-"lan": 9,
-"chuong": [
-4177
-],
-"am_la": [
-"Cổng"
-],
-"vd": "c4177: … tay, để hắn đi đối quyết với Thời Cổng Nhân tổ trước. Thời Cổng Nhân tổ một tay mở ra, hóa thành tiểu thiên …"
-},
-{
-"cum": "Xích Xư",
-"lan": 8,
-"chuong": [
-542
-],
-"am_la": [
-"Xư"
-],
-"vd": "c542: …ột khoảnh khắc thời gian, Trương Nhược Trần mới đem bốn đầu Xích Xư thú còn lại đánh giết. Hoàng Yên Trần l…"
-},
-{
-"cum": "Ngập Trời Kiếm",
-"lan": 8,
-"chuong": [
-770,
-847,
-885,
-1000,
-1003
-],
-"am_la": [
-"Trời"
-],
-"vd": "c770: …iếp theo cầm kiếm Ngập Trời, hãy dẫn thi thể của vi sư cùng Ngập Trời Kiếm đến Minh Vương Kiếm Mộ ở Trung Vực, chô…"
-},
-{
-"cum": "Nhiếp Hồn Thánh Cỗ",
-"lan": 8,
-"chuong": [
-845
-],
-"am_la": [
-"Cỗ"
-],
-"vd": "c845: …u trong bóng tối cũng vô cùng kinh ngạc. \"Chẳng lẽ... đó là Nhiếp Hồn Thánh Cỗ trong truyền thuyết?\" \"Rất có khả năng,…"
-},
-{
-"cum": "Đất Hòa Thượng",
-"lan": 8,
-"chuong": [
-1120,
-3407
-],
-"am_la": [
-"Đất"
-],
-"vd": "c1120: …t bụi trần, cứ thế đi thẳng lên sườn núi mới dừng bước. Đạp Đất Hòa Thượng dáng người cao lớn uy mãnh, đeo một hộp…"
-},
-{
-"cum": "Đi Lại Nhân",
-"lan": 8,
-"chuong": [
-1871
-],
-"am_la": [
-"Đi"
-],
-"vd": "c1871: …ương Nhược Trần chìm xuống đáy cốc. Phía trước, Hành Giả và Đi Lại Nhân nhìn thấy thân ảnh xinh đẹp của Thiên S…"
-},
-{
-"cum": "Mikaela Đại Thiên Sứ Vương",
-"lan": 8,
-"chuong": [
-2197,
-2198
-],
-"am_la": [
-"Mikaela"
-],
-"vd": "c2197: …n, chém ra một kiếm vô địch. \"Bụp.\" Kiếm mang rơi lên người Mikaela Đại Thiên Sứ Vương, chém hắn bay ngược ra ngoài, trên ngườ…"
-},
-{
-"cum": "Đại Thánh Trăm Gông",
-"lan": 8,
-"chuong": [
-2258,
-2425
-],
-"am_la": [
-"Trăm",
-"Gông"
-],
-"vd": "c2258: …tuyệt đối không có khả năng lay chuyển được ý chí của ba vị Đại Thánh Trăm Gông cảnh. Trải qua trận giao thủ vừa rồi, L…"
-},
-{
-"cum": "Bách Sạo Cảnh Thiên Nô",
-"lan": 8,
-"chuong": [
-2320
-],
-"am_la": [
-"Sạo"
-],
-"vd": "c2320: …Bảy vị Bách Sạo Cảnh Thiên Nô còn lại tuy vẫn giữ được tính mạng, như…"
-},
-{
-"cum": "Bách Kia Cảnh",
-"lan": 8,
-"chuong": [
-2458,
-2470,
-2542
-],
-"am_la": [
-"Kia"
-],
-"vd": "c2458: … tay kẻ địch.\" \"Kẻ địch? Hạ Du sao? Tu vi của Hạ Du mới chỉ Bách Kia Cảnh đại viên mãn, làm sao có thể là đối thủ…"
-},
-{
-"cum": "Thần Nữ Lầu",
-"lan": 8,
-"chuong": [
-2458,
-2504,
-2540,
-2776,
-3123,
-3766
-],
-"am_la": [
-"Lầu"
-],
-"vd": "c2458: … nhu, nói: \"Ngươi đi làm đi! Các tu sĩ còn lại, theo ta đến Thần Nữ Lầu ở Băng Vương Tinh. Muốn tìm Trương Nhượ…"
-},
-{
-"cum": "Sói Tổ",
-"lan": 8,
-"chuong": [
-2554
-],
-"am_la": [
-"Sói"
-],
-"vd": "c2554: …thần linh trấn thủ Bách Tộc Vương Thành. \"Hắn là tôn tử của Sói Tổ, là một vị thần linh.\" A Lạc nói. Lão g…"
-},
-{
 "cum": "Tuyền Nước Sự Sống",
-"lan": 8,
+"lan": 9,
 "chuong": [
-2570
+2570,
+"t2570"
 ],
 "am_la": [
 "Nước",
@@ -979,9 +770,10 @@
 },
 {
 "cum": "A Giết",
-"lan": 8,
+"lan": 9,
 "chuong": [
-2902
+2902,
+"t2902"
 ],
 "am_la": [
 "Giết"
@@ -990,9 +782,10 @@
 },
 {
 "cum": "Tấm Lồ Tinh Không",
-"lan": 8,
+"lan": 9,
 "chuong": [
-3005
+3005,
+"t3005"
 ],
 "am_la": [
 "Tấm",
@@ -1001,43 +794,159 @@
 "vd": "c3005: …y tới chỉ có thể ở lại trên chiến thuyền, bị ngăn lại ngoài Tấm Lồ Tinh Không, không thể đến được tuyến phòng thủ tin…"
 },
 {
-"cum": "Bèo Tấm Tử",
-"lan": 8,
+"cum": "Đại Đầu Búp Bê Vải",
+"lan": 9,
 "chuong": [
-3049,
 3057,
-3185
+"t3057"
 ],
 "am_la": [
-"Bèo",
-"Tấm"
+"Búp",
+"Bê",
+"Vải"
 ],
-"vd": "c3049: …t gia Phong Huyền của Phong tộc lộ ra vẻ vui mừng, nói: \"Là Bèo Tấm Tử của Côn Lôn Giới!\" \"Đi!\" Phong Huyền ba…"
+"vd": "c3057: …ào tiếp tục thúc giục công kích thần trận, vô cùng kiêng dè Đại Đầu Búp Bê Vải, đành phải toàn lực ứng phó khống chế h…"
 },
 {
-"cum": "Đả Hồn Roi",
-"lan": 8,
+"cum": "Thần Sú",
+"lan": 9,
 "chuong": [
-3094,
-3096,
-3099,
-3387
+3320,
+3343,
+"t3320",
+"t3343"
 ],
 "am_la": [
-"Roi"
+"Sú"
 ],
-"vd": "c3094: …ột tiếng chủ nhân! Còn dám hung dữ như vậy, trước tiên dùng Đả Hồn Roi, quất ngươi mấy trăm roi. Trừng cái gì …"
+"vd": "c3320: … thấy, nếu như chúng ta dùng tính mạng của Si Hình Thiên và Thần Sú công chúa làm mồi nhử, có thể đem hắn d…"
 },
 {
 "cum": "Thái Trơn Thông Thiên Thần",
-"lan": 8,
+"lan": 9,
 "chuong": [
-3385
+3385,
+"t3385"
 ],
 "am_la": [
 "Trơn"
 ],
 "vd": "c3385: …g đầu lóe lên một đạo linh quang, kế tiếp liền mỉm cười. Lò Thái Trơn Thông Thiên Thần Đan thứ hai, bởi vì từng được bảy sắc đ…"
+},
+{
+"cum": "Ngỗng Nhị",
+"lan": 9,
+"chuong": [
+4169,
+4206,
+"t4169",
+"t4206"
+],
+"am_la": [
+"Ngỗng"
+],
+"vd": "c4169: … thể cử động, đứng ngay cách Nhân Tổ không xa. Ngỗng Đại và Ngỗng Nhị vẫn luôn tu luyện bên cạnh Thời Không N…"
+},
+{
+"cum": "Phợ Sát Lệnh",
+"lan": 8,
+"chuong": [
+920,
+"t920"
+],
+"am_la": [
+"Phợ"
+],
+"vd": "c920: …liền không nói thêm lời vô nghĩa nữa, trực tiếp ra tay, đem Phợ Sát Lệnh đánh xuống dưới. Binh Bộ mỗi một vị vươ…"
+},
+{
+"cum": "Đại Thánh Chết",
+"lan": 8,
+"chuong": [
+2405,
+"t2405"
+],
+"am_la": [
+"Chết"
+],
+"vd": "c2405: … phải Đại Thánh dám đuổi giết Ly Đế chính là vì có đông đảo Đại Thánh Chết tộc làm hậu thuẫn. Ly Đế sở dĩ phải trố…"
+},
+{
+"cum": "Huyết Hạu Thần Tử",
+"lan": 8,
+"chuong": [
+2874,
+"t2874"
+],
+"am_la": [
+"Hạu"
+],
+"vd": "c2874: …ng, tiến về phía đài cao. Kẻ vừa lên tiếng nãy giờ chính là Huyết Hạu Thần Tử. Trên đài cao, nho bào lão giả khựng lạ…"
+},
+{
+"cum": "Thạo La",
+"lan": 8,
+"chuong": [
+2895,
+"t2895"
+],
+"am_la": [
+"Thạo"
+],
+"vd": "c2895: … hai tay dâng cao Trầm Uyên Cổ Kiếm, nói: \"Hắc Ám thần điện Thạo La, bái kiến Đại Đồ Chiến Thần Hoàng.\" Huy…"
+},
+{
+"cum": "Trì Yoá",
+"lan": 8,
+"chuong": [
+3025,
+3872,
+"t3025"
+],
+"am_la": [
+"Yoá"
+],
+"vd": "c3025: …văn minh tất có mưu đồ, mau bắt hắn lại.\" \"Soạt!\" Trong mắt Trì Yoá một tia khẩn trương xẹt qua, nhìn về ph…"
+},
+{
+"cum": "Thiên Chữ",
+"lan": 8,
+"chuong": [
+3029,
+"t3029"
+],
+"am_la": [
+"Chữ"
+],
+"vd": "c3029: …nên tĩnh tâm tu luyện, vì sao lại cùng La Sát công chúa đến Thiên Chữ văn minh? Ngươi vốn phải biết, việc này…"
+},
+{
+"cum": "Bèo Tấm Kiếm",
+"lan": 8,
+"chuong": [
+3049,
+3100,
+3146,
+"t3100"
+],
+"am_la": [
+"Bèo",
+"Tấm"
+],
+"vd": "c3049: …i tinh vực vậy?\" Trương Nhược Trần trầm ngưng chốc lát, thu Bèo Tấm Kiếm lại, hàm súc nói: \"Bần đạo cũng là nghe…"
+},
+{
+"cum": "Quá Thật Thông Thiên Thần",
+"lan": 8,
+"chuong": [
+3383,
+3384,
+"t3384"
+],
+"am_la": [
+"Thật"
+],
+"vd": "c3383: …ên cuối cùng, chính là lục thải giai nhân cao nhất phẩm cấp Quá Thật Thông Thiên Thần Đan, Trương Nhược Trần chuẩn bị cho Huy…"
 },
 {
 "cum": "Hoàng Quê Đại Đế",
@@ -1052,64 +961,84 @@
 "vd": "c3387: …Vương cười âm trầm: \"Hoàng Quê Về Chưa Nhân!\" Thần thông do Hoàng Quê Đại Đế sáng tạo ra được triển khai, đánh thức …"
 },
 {
-"cum": "Ve Sầu Minh Nhã",
+"cum": "Bạch Y Cụt",
 "lan": 8,
 "chuong": [
-3509
+3535,
+"t3535"
 ],
 "am_la": [
-"Ve"
+"Cụt"
 ],
-"vd": "c3509: …ạnh triệt cốt tủy. Trương Nhược Trần thấy được đuổi kịp đến Ve Sầu Minh Nhã, ở trong nước, trên người nàng màu sa s…"
+"vd": "c3535: …hục khỏa thần tọa tinh cầu kia vốn thuộc về các vị thần của Bạch Y Cụt, nhưng lại bị Phi Mã Vương, Sưởng Hợp c…"
 },
 {
-"cum": "Nhật Mũi",
+"cum": "Trắng Thương Tinh",
 "lan": 8,
 "chuong": [
-3587
+3735,
+3949,
+"t3735"
 ],
 "am_la": [
-"Mũi"
+"Trắng"
 ],
-"vd": "c3587: …ột chút, nói: \"Chủ nhân, nếu ta khôi phục tu vi ngày trước, Nhật Mũi có thể phát huy tác dụng lớn hơn nữa, đ…"
+"vd": "c3735: …ết.\" Chư thần lại đáp. \"Các ngươi đương nhiên sẽ không biết Trắng Thương Tinh ở đâu!\" Trong lòng Hư Thiên cực kỳ bực …"
 },
 {
-"cum": "Kiếm Nhị Mươi Sáu",
+"cum": "Che Diệt",
 "lan": 8,
 "chuong": [
-3990,
-4121,
-4125,
-4127,
-4199
+4200,
+"t3527",
+"t3804",
+"t3805",
+"t3806",
+"t3932",
+"t4109"
 ],
 "am_la": [
-"Mươi",
-"Sáu"
+"Che"
 ],
-"vd": "c3990: …à Kiếm Lăng Hằng Cổ, là để chừa lại một chút không gian cho Kiếm Nhị Mươi Sáu.\" \"Kiếm Lăng Hằng Cổ, vượt lên trên Hằn…"
+"vd": "c4200: …người phụ nữ này rất đặc biệt, thuộc về ta!\" Tiếng cười của Che Diệt vang dội Tinh Hải, tay cầm Ma Tổ Tý Ngọ…"
 },
 {
-"cum": "Phợ Sát Lệnh",
+"cum": "Vực Lòng",
 "lan": 7,
 "chuong": [
-920
+678,
+"t678"
 ],
 "am_la": [
-"Phợ"
+"Lòng"
 ],
-"vd": "c920: …liền không nói thêm lời vô nghĩa nữa, trực tiếp ra tay, đem Phợ Sát Lệnh đánh xuống dưới. Binh Bộ mỗi một vị vươ…"
+"vd": "c678: …Nữ Hoàng tự mình lựa chọn.\" \"Nếu như hắn có thể ở cảnh giới Vực Lòng, đem Kiếm Nhị tu luyện đến đại viên mãn…"
 },
 {
-"cum": "Sinh Diệt Chùa",
+"cum": "Mười Hai Lông Trắng",
 "lan": 7,
 "chuong": [
-1287
+1294,
+"t1294"
 ],
 "am_la": [
-"Chùa"
+"Mười",
+"Lông",
+"Trắng"
 ],
-"vd": "c1287: …số tu sĩ hưởng ứng. Tây Vực, Vạn Phật Đạo tam đại chi nhánh Sinh Diệt Chùa một vị thánh tăng, hiện thân Thiên Phật…"
+"vd": "c1294: …ng lựa chọn cứng đối cứng, mà là lập tức thối lui, dẫn theo Mười Hai Lông Trắng xông thẳng vào Tiên Cơ Sơn. \"Bản thánh …"
+},
+{
+"cum": "Tử Hẻo Điên",
+"lan": 7,
+"chuong": [
+1363,
+"t1363"
+],
+"am_la": [
+"Hẻo"
+],
+"vd": "c1363: …ánh Tâm Thảo của lão phu ra đây, nếu không phải cái mũi của Tử Hẻo Điên lợi hại, ngửi được mùi vị của ngươi, su…"
 },
 {
 "cum": "Thiên Ki",
@@ -1125,29 +1054,42 @@
 "vd": "c1457: …ường giả cảnh giới Chân Thánh. \"Ầm ầm.\" Phương Ất chống lên Thiên Ki, tạo thành một vòng văn ấn tròn, chống …"
 },
 {
-"cum": "Tu M",
+"cum": "Thiên Goa Hầu",
 "lan": 7,
 "chuong": [
-1723,
-3985
+1469,
+"t1469"
 ],
 "am_la": [
-"M"
+"Goa"
 ],
-"vd": "c1723: …y Nữ Hoàng truyền đến thần dụ, nói cho chúng ta biết, trong Tu MDi đạo tràng có một thứ do Tu Mật Thánh …"
+"vd": "c1469: …Phủ trong tay Bạch Vân Hầu và Lâm Thiên Chiến Goa trong tay Thiên Goa Hầu, lôi điện và kiếm khí rơi lên người bọn…"
 },
 {
-"cum": "Cửu Bước Thánh Vương",
+"cum": "Lưới Ất",
 "lan": 7,
 "chuong": [
-2002,
-2202,
-2631
+1848,
+1926,
+"t1831",
+"t1926"
 ],
 "am_la": [
-"Bước"
+"Lưới"
 ],
-"vd": "c2002: … trăm vị cường giả Thánh Vương cảnh, những kẻ đạt cảnh giới Cửu Bước Thánh Vương có gần trăm người, về số lượng chiếm ưu…"
+"vd": "c1848: …ắt Trương Nhược Trần nhìn ra xa xa, nhìn thấy bóng dáng của Lưới Ất. Vị này tự xưng là tu sĩ Thượng Nguyên …"
+},
+{
+"cum": "Hồng Thiên Ki",
+"lan": 7,
+"chuong": [
+1960,
+"t1960"
+],
+"am_la": [
+"Ki"
+],
+"vd": "c1960: …, ta quả thực là người sống sót của Tiên Cơ Tông, ta tên là Hồng Thiên Ki. Trương Nhược Trần, Thời Không Truyền N…"
 },
 {
 "cum": "Nghịch Của Thần Bi",
@@ -1167,43 +1109,16 @@
 "vd": "c2106: … nhiều cổ tự, không biết thuộc về thời đại nào. Nó chính là Nghịch Của Thần Bi mà Trương Nhược Trần thu được ở Lạc Thủ…"
 },
 {
-"cum": "Thư Mọt Sách",
+"cum": "Phu Dọc Ngang",
 "lan": 7,
 "chuong": [
-2204,
-2205
+2464,
+"t2464"
 ],
 "am_la": [
-"Mọt"
+"Dọc"
 ],
-"vd": "c2204: …iả bảy tộc của Địa Ngục Giới, ba tộc còn lại đang công kích Thư Mọt Sách và Bách Si, vẫn chưa thể rút tay ra đượ…"
-},
-{
-"cum": "Thanh Luan Thú Hoàng",
-"lan": 7,
-"chuong": [
-2227,
-2237,
-2699
-],
-"am_la": [
-"Luan"
-],
-"vd": "c2227: …n một thân hình khổng lồ che kín cả bầu trời. Đó là một đầu Thanh Luan Thú Hoàng, thân hình vô cùng to lớn, đôi cánh tri…"
-},
-{
-"cum": "Lưới Diễn Đại Đế",
-"lan": 7,
-"chuong": [
-2395,
-2477,
-3140,
-3145
-],
-"am_la": [
-"Lưới"
-],
-"vd": "c2395: …c Vận Mệnh Thần Sơn do Phúc Lộc Thần Linh chủ trì, lại thêm Lưới Diễn Đại Đế đứng ra chống lưng, nên những ảnh hưởng…"
+"vd": "c2464: …mới có thể ngưng tụ ra càng nhiều thần tọa tinh cầu. Nguyên Phu Dọc Ngang là một nam tử có tài tình cực cao, từng…"
 },
 {
 "cum": "Titan Quỷ Phủ",
@@ -1220,15 +1135,18 @@
 "vd": "c2484: …\"Titan Quỷ Phủ, hay lắm, chính là nó!\" Tiểu Hắc đè lên thân Titan Quỷ Phủ, giống như đang ôm một vị tuyệt thế mỹ …"
 },
 {
-"cum": "Hai Mươi Chư Thiên",
+"cum": "Bờ Ruộng Dọc Ngang",
 "lan": 7,
 "chuong": [
-2527
+2535,
+"t2535"
 ],
 "am_la": [
-"Mươi"
+"Bờ",
+"Ruộng",
+"Dọc"
 ],
-"vd": "c2527: …u cường giả, trong đó hai mươi người mạnh nhất, được gọi là Hai Mươi Chư Thiên.\" \"Hai Mươi Chư Thiên, duy trì trật tự …"
+"vd": "c2535: …ông có, là trước mắt cao nhất xử lý phương thức. Nguyên bản Bờ Ruộng Dọc Ngang đương nhiên không thể tiếp nhận kết quả…"
 },
 {
 "cum": "Lệnh Xi Đại Cung Chủ",
@@ -1264,77 +1182,40 @@
 "vd": "c2848: … một vị tân thần dung cũng không dung nổi?\" Uy hiếp lực của Nam Thiên Sinh Tử Xư quá đáng sợ, ngoại trừ Ngũ Thanh Tông, …"
 },
 {
-"cum": "Nhật Cỗi",
+"cum": "Hạu Thần Tử",
 "lan": 7,
 "chuong": [
-2934
+2874,
+"t2874"
 ],
 "am_la": [
-"Cỗi"
+"Hạu"
 ],
-"vd": "c2934: …ầu với Đại thần Hắc Tâm Ma Chủ. Trương Nhược Trần khởi động Nhật Cỗi, muốn giúp Trì Dao và Bạch Khanh Nhi kh…"
+"vd": "c2874: … Nhược Trần bị Trì Dao Nữ Hoàng thôn tính tu vi chứ?\" Huyết Hạu Thần Tử đứng trên đài cao, cất cao giọng cười l…"
 },
 {
-"cum": "Trì Yoá",
+"cum": "Mì Liên Sơn",
 "lan": 7,
 "chuong": [
-3025,
-3872
+2922,
+"t2922"
 ],
 "am_la": [
-"Yoá"
+"Mì"
 ],
-"vd": "c3025: …văn minh tất có mưu đồ, mau bắt hắn lại.\" \"Soạt!\" Trong mắt Trì Yoá một tia khẩn trương xẹt qua, nhìn về ph…"
+"vd": "c2922: … này chính là con trai của Diêm La tộc Mì Thiên Chiến Thần, Mì Liên Sơn. Chính là một tôn thượng vị thần chí cư…"
 },
 {
-"cum": "Thiên Chữ",
+"cum": "Tư Xát",
 "lan": 7,
 "chuong": [
-3029
+3137,
+"t3137"
 ],
 "am_la": [
-"Chữ"
+"Xát"
 ],
-"vd": "c3029: …nên tĩnh tâm tu luyện, vì sao lại cùng La Sát công chúa đến Thiên Chữ văn minh? Ngươi vốn phải biết, việc này…"
-},
-{
-"cum": "Bèo Tấm Kiếm",
-"lan": 7,
-"chuong": [
-3049,
-3100,
-3146
-],
-"am_la": [
-"Bèo",
-"Tấm"
-],
-"vd": "c3049: …i tinh vực vậy?\" Trương Nhược Trần trầm ngưng chốc lát, thu Bèo Tấm Kiếm lại, hàm súc nói: \"Bần đạo cũng là nghe…"
-},
-{
-"cum": "Đại Đầu Búp Bê Vải",
-"lan": 7,
-"chuong": [
-3057
-],
-"am_la": [
-"Búp",
-"Bê",
-"Vải"
-],
-"vd": "c3057: …ào tiếp tục thúc giục công kích thần trận, vô cùng kiêng dè Đại Đầu Búp Bê Vải, đành phải toàn lực ứng phó khống chế h…"
-},
-{
-"cum": "Huyết Vết",
-"lan": 7,
-"chuong": [
-3122,
-4208
-],
-"am_la": [
-"Vết"
-],
-"vd": "c3122: …c tìm nơi ẩn nấp đi, đợi qua cơn gió này rồi hãy về gia tộc Huyết Vết.\" Trương Nhược Trần ném Huyết Ngưng Tiê…"
+"vd": "c3137: … hết!\" Khiến ai cũng có thể nhìn ra, Trương Nhược Trần cùng Tư Xát chênh lệch không phải bình thường cực l…"
 },
 {
 "cum": "Chân Thật Thần Cung",
@@ -1351,84 +1232,16 @@
 "vd": "c3151: … không nói ra. Tới Hiện Thực Giới tức là đã tới địa bàn của Chân Thật Thần Cung. Đi tiếp về phía trước chính là Hư Thực…"
 },
 {
-"cum": "Vải Lan Chân Quân",
+"cum": "Xi Hình Tinh",
 "lan": 7,
 "chuong": [
-3191
+3454,
+"t3454"
 ],
 "am_la": [
-"Vải"
+"Xi"
 ],
-"vd": "c3191: …tôn của hắn - Vải Lan Chân Quân. Bản công tử ra tay trấn áp Vải Lan Chân Quân, muốn sưu hồn, đoạt lấy ký ức của hắn, …"
-},
-{
-"cum": "Chân Lí Chi Đỉnh",
-"lan": 7,
-"chuong": [
-3235
-],
-"am_la": [
-"Lí"
-],
-"vd": "c3235: …hú ý hơn đặt lên người Trương Nhược Trần. Chính là lúc này, Chân Lí Chi Đỉnh của Trương Nhược Trần đằng không bay lê…"
-},
-{
-"cum": "Thần Sú",
-"lan": 7,
-"chuong": [
-3320,
-3343
-],
-"am_la": [
-"Sú"
-],
-"vd": "c3320: … thấy, nếu như chúng ta dùng tính mạng của Si Hình Thiên và Thần Sú công chúa làm mồi nhử, có thể đem hắn d…"
-},
-{
-"cum": "Quá Thật Thông Thiên Thần",
-"lan": 7,
-"chuong": [
-3383,
-3384
-],
-"am_la": [
-"Thật"
-],
-"vd": "c3383: …ên cuối cùng, chính là lục thải giai nhân cao nhất phẩm cấp Quá Thật Thông Thiên Thần Đan, Trương Nhược Trần chuẩn bị cho Huy…"
-},
-{
-"cum": "Phệ Hồn Đèn",
-"lan": 7,
-"chuong": [
-3509
-],
-"am_la": [
-"Đèn"
-],
-"vd": "c3509: …ng thanh âm vang lên, đầy đặn tự ngạo: \"Bản tọa tên tự, gọi Phệ Hồn Đèn. Hiểu biết ngươi nhất định không có ngh…"
-},
-{
-"cum": "Bạch Y Cụt",
-"lan": 7,
-"chuong": [
-3535
-],
-"am_la": [
-"Cụt"
-],
-"vd": "c3535: …hục khỏa thần tọa tinh cầu kia vốn thuộc về các vị thần của Bạch Y Cụt, nhưng lại bị Phi Mã Vương, Sưởng Hợp c…"
-},
-{
-"cum": "Trắng Thương Tinh",
-"lan": 7,
-"chuong": [
-3735,
-3949
-],
-"am_la": [
-"Trắng"
-],
-"vd": "c3735: …ết.\" Chư thần lại đáp. \"Các ngươi đương nhiên sẽ không biết Trắng Thương Tinh ở đâu!\" Trong lòng Hư Thiên cực kỳ bực …"
+"vd": "c3454: …n tay này, Trương Nhược Trần, Hoang Thiên, Thiên Cốt Nữ Đế, Xi Hình Tinh, Ngư Dao dốc hết toàn lực, mỗi người th…"
 },
 {
 "cum": "Âm Luo Thái Thượng",
@@ -1442,16 +1255,16 @@
 "vd": "c3772: …xá, ngay cả Diêm Hoàng Đồ cũng biết, Nhân Hoàn Thiên Tôn và Âm Luo Thái Thượng làm sao có thể không biết? Nhưng bọn hắ…"
 },
 {
-"cum": "Ngỗng Nhị",
+"cum": "Trương Nghê Màu",
 "lan": 7,
 "chuong": [
-4169,
-4206
+3910,
+"t3910"
 ],
 "am_la": [
-"Ngỗng"
+"Màu"
 ],
-"vd": "c4169: … thể cử động, đứng ngay cách Nhân Tổ không xa. Ngỗng Đại và Ngỗng Nhị vẫn luôn tu luyện bên cạnh Thời Không N…"
+"vd": "c3910: …hân!\" Nam tử tuấn mỹ ba mắt vươn tay tóm tới, cũng túm luôn Trương Nghê Màu vào tay... Ngư Thần Tĩnh đã kế thừa vị …"
 },
 {
 "cum": "Chữ Hoàng",
@@ -1465,38 +1278,28 @@
 "vd": "c107: …nh mắt băng lãnh nói: \"Chẳng lẽ ngươi không định mời ta vào Chữ Hoàng đệ nhất hào ngồi một chút sao?\" Trương …"
 },
 {
-"cum": "Ngư Lông",
+"cum": "Dương Giao Thay",
 "lan": 6,
 "chuong": [
-504
+695,
+"t695"
 ],
 "am_la": [
-"Lông"
+"Thay"
 ],
-"vd": "c504: …có thể rõ ràng cảm nhận được tu vi của người này đã đạt đến Ngư Lông đệ tứ biến. Thế nhưng, thực lực của hắn…"
+"vd": "c695: … Kiếm Nhị, đạt tới cảnh giới tầng thứ nhất của Kiếm Nhị 'Âm Dương Giao Thay'. Bây giờ, ta sẽ giảng giải cho các ngư…"
 },
 {
-"cum": "Vực Lòng",
+"cum": "Trấn Huyết Hụt",
 "lan": 6,
 "chuong": [
-678
+1192,
+"t1192"
 ],
 "am_la": [
-"Lòng"
+"Hụt"
 ],
-"vd": "c678: …Nữ Hoàng tự mình lựa chọn.\" \"Nếu như hắn có thể ở cảnh giới Vực Lòng, đem Kiếm Nhị tu luyện đến đại viên mãn…"
-},
-{
-"cum": "Châu Quang Gác",
-"lan": 6,
-"chuong": [
-988,
-4160
-],
-"am_la": [
-"Gác"
-],
-"vd": "c988: … xuất hiện của Bộ Thiên Phàm khiến cho đông đảo tu sĩ trong Châu Quang Gác càng thêm sôi trào. Đêm nay có thể gọi …"
+"vd": "c1192: …ng tỏa, Tiểu Hắc từ bên trong đi ra, giao hai tấm Thánh cấp Trấn Huyết Hụt cho Trương Nhược Trần, nói: \"Bổn hoàng …"
 },
 {
 "cum": "Xhúc Linh Long Hỏa",
@@ -1510,17 +1313,16 @@
 "vd": "c1259: … Trần tự nhiên cũng không thể chần chừ. \"Trước tiên sử dụng Xhúc Linh Long Hỏa rèn luyện hai cái Thánh Nguyên trong cơ…"
 },
 {
-"cum": "Mười Hai Lông Trắng",
+"cum": "Cửa Địa Ngục",
 "lan": 6,
 "chuong": [
-1294
+1365,
+"t1365"
 ],
 "am_la": [
-"Mười",
-"Lông",
-"Trắng"
+"Cửa"
 ],
-"vd": "c1294: …ng lựa chọn cứng đối cứng, mà là lập tức thối lui, dẫn theo Mười Hai Lông Trắng xông thẳng vào Tiên Cơ Sơn. \"Bản thánh …"
+"vd": "c1365: … từ xa cũng khiến người ta sinh lòng kính sợ. \"Đây chính là Cửa Địa Ngục mà Địa Ngục Giới mở ra năm xưa? Bất Tử …"
 },
 {
 "cum": "Bát Mách",
@@ -1534,85 +1336,52 @@
 "vd": "c1458: …Ba Đại Thế Giới Dư La Bát Mách tộc đại chiến, kinh động đến toàn bộ th…"
 },
 {
-"cum": "Thiên Goa Hầu",
+"cum": "Giáng Làn",
 "lan": 6,
 "chuong": [
-1469
+1663,
+"t1663"
 ],
 "am_la": [
-"Goa"
+"Làn"
 ],
-"vd": "c1469: …Phủ trong tay Bạch Vân Hầu và Lâm Thiên Chiến Goa trong tay Thiên Goa Hầu, lôi điện và kiếm khí rơi lên người bọn…"
+"vd": "c1663: …ng Nhược Trần và Hạng Chu Nam đều rất động tâm. Tỷ như, gốc Giáng Làn thảo có thể tăng cường nhục thân lực lư…"
 },
 {
-"cum": "Hồng Thiên Ki",
+"cum": "Ph Sướng",
 "lan": 6,
 "chuong": [
-1960
+1683,
+"t1683"
 ],
 "am_la": [
-"Ki"
+"Ph"
 ],
-"vd": "c1960: …, ta quả thực là người sống sót của Tiên Cơ Tông, ta tên là Hồng Thiên Ki. Trương Nhược Trần, Thời Không Truyền N…"
+"vd": "c1683: …của không gian bích chướng trong không gian gấp khúc, nhưng Ph Sướng đại sư và Cừu Cốt đại sư bọn họ đã tiêu…"
 },
 {
-"cum": "Nhật Mí",
+"cum": "Nưu Khanh Ngục Giới",
 "lan": 6,
 "chuong": [
-2053,
-2502,
-2741,
-3193
+1886,
+"t1886"
 ],
 "am_la": [
-"Mí"
+"Nưu"
 ],
-"vd": "c2053: …c lại nhìn về phía Huyết Thần Giáo, dù cho trước đó nhờ vào Nhật Mí, tất cả giáo chúng đều có thể tiềm tu m…"
+"vd": "c1886: …t tiếng hỏi: \"Sao lại có nhiều sinh linh cường đại tụ tập ở Nưu Khanh Ngục Giới như vậy, bọn chúng dựa vào cái gì để đề…"
 },
 {
-"cum": "Vận Mệnh Thần Vức",
+"cum": "Đại Tịch Mệt Yến",
 "lan": 6,
 "chuong": [
-2245,
-2419
+2237,
+"t2237"
 ],
 "am_la": [
-"Vức"
+"Mệt"
 ],
-"vd": "c2245: …Nhược Trần, ngươi muốn làm gì? Nơi này là Địa Ngục Giới, là Vận Mệnh Thần Vức, có thần linh tọa trấn, có đại thánh ch…"
-},
-{
-"cum": "Càn Hỏi",
-"lan": 6,
-"chuong": [
-2323
-],
-"am_la": [
-"Hỏi"
-],
-"vd": "c2323: … cùng Hồng Phấn Đại Thánh chi bối, đủ để giao thủ với tu sĩ Càn Hỏi cảnh trung kỳ. Nhưng Trái Mục Thánh Quâ…"
-},
-{
-"cum": "Đại Thánh Chết",
-"lan": 6,
-"chuong": [
-2405
-],
-"am_la": [
-"Chết"
-],
-"vd": "c2405: … phải Đại Thánh dám đuổi giết Ly Đế chính là vì có đông đảo Đại Thánh Chết tộc làm hậu thuẫn. Ly Đế sở dĩ phải trố…"
-},
-{
-"cum": "Phu Dọc Ngang",
-"lan": 6,
-"chuong": [
-2464
-],
-"am_la": [
-"Dọc"
-],
-"vd": "c2464: …mới có thể ngưng tụ ra càng nhiều thần tọa tinh cầu. Nguyên Phu Dọc Ngang là một nam tử có tài tình cực cao, từng…"
+"vd": "c2237: …\" Huyết Chủ và Huyết Tuyệt Chiến Thần có thù oán không nhỏ, Đại Tịch Mệt Yến lần này chắc chắn sẽ nhằm vào Huyết Thi…"
 },
 {
 "cum": "Đo Đoạn Lăng Phong",
@@ -1628,87 +1397,28 @@
 "vd": "c2500: …Đầu lâu của Đo Đoạn Lăng Phong ngưng tụ trở lại, khiến Trương Nhược Tr…"
 },
 {
-"cum": "Bờ Ruộng Dọc Ngang",
+"cum": "Khai Lưới Ma Sư",
 "lan": 6,
 "chuong": [
-2535
+2535,
+"t2535"
 ],
 "am_la": [
-"Bờ",
-"Ruộng",
-"Dọc"
+"Lưới"
 ],
-"vd": "c2535: …ông có, là trước mắt cao nhất xử lý phương thức. Nguyên bản Bờ Ruộng Dọc Ngang đương nhiên không thể tiếp nhận kết quả…"
+"vd": "c2535: …n mắt nhìn thấy một đám tu sĩ Thiên Đường Giới đứng đầu bởi Khai Lưới Ma Sư cùng Carat Fillin, xuất hiện tại Thần N…"
 },
 {
-"cum": "Nhật Hược",
+"cum": "Ma Yệt",
 "lan": 6,
 "chuong": [
-2745
+2931,
+"t2931"
 ],
 "am_la": [
-"Hược"
+"Yệt"
 ],
-"vd": "c2745: …ốn thần thạch, mua sắm lượng lớn tài nguyên tu luyện, mở ra Nhật Hược, tu luyện trong Huyết Tragia tộc. Hắn c…"
-},
-{
-"cum": "Huyết Hạu Thần Tử",
-"lan": 6,
-"chuong": [
-2874
-],
-"am_la": [
-"Hạu"
-],
-"vd": "c2874: …ng, tiến về phía đài cao. Kẻ vừa lên tiếng nãy giờ chính là Huyết Hạu Thần Tử. Trên đài cao, nho bào lão giả khựng lạ…"
-},
-{
-"cum": "Hạu Thần Tử",
-"lan": 6,
-"chuong": [
-2874
-],
-"am_la": [
-"Hạu"
-],
-"vd": "c2874: … Nhược Trần bị Trì Dao Nữ Hoàng thôn tính tu vi chứ?\" Huyết Hạu Thần Tử đứng trên đài cao, cất cao giọng cười l…"
-},
-{
-"cum": "Thạo La",
-"lan": 6,
-"chuong": [
-2895
-],
-"am_la": [
-"Thạo"
-],
-"vd": "c2895: … hai tay dâng cao Trầm Uyên Cổ Kiếm, nói: \"Hắc Ám thần điện Thạo La, bái kiến Đại Đồ Chiến Thần Hoàng.\" Huy…"
-},
-{
-"cum": "Kiếm Nhị Mươi Ba",
-"lan": 6,
-"chuong": [
-3076,
-3077,
-3426,
-3753,
-3807
-],
-"am_la": [
-"Mươi"
-],
-"vd": "c3076: …ều. Hơn nữa lúc đó trong lòng đã phác thảo ra hình dáng của Kiếm Nhị Mươi Ba, tự cho rằng, một khi tu thành Kiếm Nhị…"
-},
-{
-"cum": "Giận Kiếm",
-"lan": 6,
-"chuong": [
-3137
-],
-"am_la": [
-"Giận"
-],
-"vd": "c3137: …ại đề thăng một mảng lớn. Bây giờ, phóng thích ra, chính là Giận Kiếm. Trương Nhược Trần giận khí cảm xúc cũn…"
+"vd": "c2931: …ng biết chỉ cần kéo dài thêm chốc lát nữa, Thiên Mô Tang và Ma Yệt sẽ tới. Đến lúc đó, kẻ phải chạy trốn s…"
 },
 {
 "cum": "Lượng Ki",
@@ -1722,16 +1432,16 @@
 "vd": "c3264: …ợng Cô nói: \"Địa Ngục Giới vừa xảy ra đại sự, Lượng Sách và Lượng Ki lại vội vã chạy đến, ngộ nhỡ bị người t…"
 },
 {
-"cum": "Mani Châu",
+"cum": "Môtô Chiến Thần",
 "lan": 6,
 "chuong": [
-3272,
-3983
+3361,
+"t3361"
 ],
 "am_la": [
-"Mani"
+"Môtô"
 ],
-"vd": "c3272: …ời đi, Tuyệt Diệu Thiền Nữ đã chặn đường lui của hắn. Trong Mani Châu trào ra phạm hỏa, thiêu đốt mấy chục vạ…"
+"vd": "c3361: …ùng Quan Tinh. Phía trên tầng khí quyển của Hùng Quan Tinh, Môtô Chiến Thần từ hư không bước ra. Hắn chính là cường…"
 },
 {
 "cum": "Chân Thật Thế Giới",
@@ -1746,26 +1456,42 @@
 "vd": "c3429: …i: \"Trận chiến hôm nay đã không thể làm được nữa, hay là về Chân Thật Thế Giới đi! Nếu chư thiên của Thiên Đình không …"
 },
 {
-"cum": "Xi Hình Tinh",
+"cum": "Mệnh Suối",
 "lan": 6,
 "chuong": [
-3454
+3509,
+"t3509"
 ],
 "am_la": [
-"Xi"
+"Suối"
 ],
-"vd": "c3454: …n tay này, Trương Nhược Trần, Hoang Thiên, Thiên Cốt Nữ Đế, Xi Hình Tinh, Ngư Dao dốc hết toàn lực, mỗi người th…"
+"vd": "c3509: … cửa sổ, biến mất ở bầu trời... Trương Nhược Trần đã đi tới Mệnh Suối tận đầu, ánh mắt chỉ là hướng tinh thiê…"
 },
 {
-"cum": "Kiếm Của Thần Điện",
+"cum": "Mặt Sương Tinh Vân",
 "lan": 6,
 "chuong": [
-3785
+3754,
+"t3754"
 ],
 "am_la": [
-"Của"
+"Mặt"
 ],
-"vd": "c3785: …ơng Nhược Trần, ngươi đã đến ngày tận thế, nơi này chính là Kiếm Của Thần Điện!\" Có hồn niệm ngưng hóa thành thân thể …"
+"vd": "c3754: … ở phía trước, nói: \"Đó là nơi nào?\" Băng Hoàng nói: \"Đó là Mặt Sương Tinh Vân, bên trong có hơn ba trăm hằng tinh, hơ…"
+},
+{
+"cum": "Ma Cày Thi Tổ",
+"lan": 6,
+"chuong": [
+3810,
+"t3805",
+"t3806",
+"t3810"
+],
+"am_la": [
+"Cày"
+],
+"vd": "c3810: …vô duyên vô cớ. Thứ nhất, ngươi phải giúp hôm nay luyện hóa Ma Cày Thi Tổ cùng quỷ dị huyết tuyền trong Vô Thường…"
 },
 {
 "cum": "Thái Cổ Thập Bửu",
@@ -1780,39 +1506,6 @@
 "vd": "c3868: …giao cho ngươi?\" \"Quá trình không quan trọng, quan trọng là Thái Cổ Thập Bửu tộc trong thời gian ngắn đã không còn s…"
 },
 {
-"cum": "Ngô Đồng Thần X",
-"lan": 6,
-"chuong": [
-3891
-],
-"am_la": [
-"X"
-],
-"vd": "c3891: …Diêm vô thần đứng trên chiếc lá tận cùng đỉnh của Ngô Đồng Thần X thụ, cảm nhận nồng đậm thiên địa chi kh…"
-},
-{
-"cum": "Trương Nghê Màu",
-"lan": 6,
-"chuong": [
-3910
-],
-"am_la": [
-"Màu"
-],
-"vd": "c3910: …hân!\" Nam tử tuấn mỹ ba mắt vươn tay tóm tới, cũng túm luôn Trương Nghê Màu vào tay... Ngư Thần Tĩnh đã kế thừa vị …"
-},
-{
-"cum": "Tám Bộ Chúng",
-"lan": 6,
-"chuong": [
-4050
-],
-"am_la": [
-"Tám"
-],
-"vd": "c4050: …ọng nói: \"Đâu đơn giản như vậy! Người biết Bích Lạc Quan và Tám Bộ Chúng rất ít, nhưng Thần Giới chắc chắn có tê…"
-},
-{
 "cum": "Thánh Tưởng Nhớ",
 "lan": 6,
 "chuong": [
@@ -1822,6 +1515,20 @@
 "Nhớ"
 ],
 "vd": "c4050: … \"Bảy sợi thần liên cấm cố trên người Hoang Thiên đều đã bị Thánh Tưởng Nhớ đạo sĩ rút ra, tu vi của hắn đã khôi ph…"
+},
+{
+"cum": "Ngỗng Đại",
+"lan": 6,
+"chuong": [
+4169,
+4206,
+"t4169",
+"t4206"
+],
+"am_la": [
+"Ngỗng"
+],
+"vd": "c4169: …hoàng bất tử sao?\" Đại Tư Không đưa tay vuốt ve bộ lông của Ngỗng Đại nhưng bị thần diễm làm bỏng. Tuy nhiên,…"
 },
 {
 "cum": "Di Hỗn Nguyên Túi",
@@ -1835,61 +1542,43 @@
 "vd": "c39: …rương Nhược Trần từng thấy qua một loại bảo vật, tên là \"Tu Di Hỗn Nguyên Túi\", nhìn như chỉ là một cái lớn chừng bàn…"
 },
 {
-"cum": "Hoàng Cực Cảnh Đại Luyên",
+"cum": "Đo Mệnh Liêm Đao",
 "lan": 5,
 "chuong": [
-66
+95,
+"t95"
 ],
 "am_la": [
-"Luyên"
+"Đo"
 ],
-"vd": "c66: …\"Hoàng Cực Cảnh Đại Luyên Mãn thì thế nào? Ta cũng là Hoàng Cực Cảnh Đại Luyên Mãn đây thôi!\" Khóe môi Cửu Quận Chủ nh…"
+"vd": "c95: …ấy từ nội không gian của Tinh Không Tinh Thạch ra một thanh Đo Mệnh Liêm Đao dài một thước. Cánh tay hắn vung lên, Đ…"
 },
 {
-"cum": "Huyền Cực Vường",
+"cum": "Ngư Long Đám",
 "lan": 5,
 "chuong": [
-168
+432,
+"t432"
 ],
 "am_la": [
-"Vường"
+"Đám"
 ],
-"vd": "c168: …uyết định tạm thời ở lại nơi này, đem võ đạo tu vi nâng lên Huyền Cực Vường đại viên mãn, rồi đi ra cũng không muộn…"
+"vd": "c432: …Đối với việc xung kích Ngư Long Đám biến, Lôi Cảnh kỳ thực cũng không ôm qu…"
 },
 {
-"cum": "Khói Trần",
+"cum": "Không Gian Đóng Băng",
 "lan": 5,
 "chuong": [
-179,
-204,
-846
+2361,
+486,
+777,
+"t486",
+"t777"
 ],
 "am_la": [
-"Khói"
+"Đóng"
 ],
-"vd": "c179: …h San căn bản không đáng để ngươi si tình như thế. Hơn nữa, Khói Trần quận chúa ưu tú hơn nàng gấp trăm lần, …"
-},
-{
-"cum": "Đánh Hồn Chung",
-"lan": 5,
-"chuong": [
-362
-],
-"am_la": [
-"Đánh"
-],
-"vd": "c362: …xông vào cấm địa nào sao?\" Hoa Thanh Diệp nhíu mày, thu hồi Đánh Hồn Chung, siết chặt trong lòng bàn tay, tùy thời…"
-},
-{
-"cum": "Võ Mĩ",
-"lan": 5,
-"chuong": [
-365
-],
-"am_la": [
-"Mĩ"
-],
-"vd": "c365: …Ngay ba ngày trước, một người bí ẩn đã đưa Lão phu nhân đến Võ Mĩ học cung.\" Trương Nhược Trần hỏi: \"Là v…"
+"vd": "c486: …trăm chiêu. Chỉ tiếc, Trương Nhược Trần thi triển một chiêu Không Gian Đóng Băng, khiến cho chiêu thức của Bùi Kỷ khựng …"
 },
 {
 "cum": "Không Gian Di Dời",
@@ -1914,17 +1603,6 @@
 "vd": "c554: … thứ hai, trong miệng Ô Hài Giao Vương khạc ra một ngọn lửa Kim Huyển, ngưng tụ thành một trụ lửa khổng lồ, c…"
 },
 {
-"cum": "Dương Giao Thay",
-"lan": 5,
-"chuong": [
-695
-],
-"am_la": [
-"Thay"
-],
-"vd": "c695: … Kiếm Nhị, đạt tới cảnh giới tầng thứ nhất của Kiếm Nhị 'Âm Dương Giao Thay'. Bây giờ, ta sẽ giảng giải cho các ngư…"
-},
-{
 "cum": "Trấn Hục",
 "lan": 5,
 "chuong": [
@@ -1947,94 +1625,28 @@
 "vd": "c1085: …thời khắc rạng sáng, ở bầu trời phía đông, ánh sáng của sao Trường Gương đang nhanh chóng lu mờ, xung quanh lại …"
 },
 {
-"cum": "Trấn Huyết Hụt",
+"cum": "Tam Vức Thánh Huyết Đan",
 "lan": 5,
 "chuong": [
-1192
+1256,
+"t1256"
 ],
 "am_la": [
-"Hụt"
+"Vức"
 ],
-"vd": "c1192: …ng tỏa, Tiểu Hắc từ bên trong đi ra, giao hai tấm Thánh cấp Trấn Huyết Hụt cho Trương Nhược Trần, nói: \"Bổn hoàng …"
+"vd": "c1256: …hướng chiếc cổ thuyền vong linh màu bạc biến mất, nói: \"Đưa Tam Vức Thánh Huyết Đan cho ta, cho ta thêm một vạn giọt thần h…"
 },
 {
-"cum": "Trung Ynh Vương",
+"cum": "Trử Tâm",
 "lan": 5,
 "chuong": [
-1286
+1397,
+"t1397"
 ],
 "am_la": [
-"Ynh"
+"Trử"
 ],
-"vd": "c1286: … nhất Côn Lôn Giới, đồng thời, tin tức Trương Nhược Trần bị Trung Ynh Vương phế đi ba mạch, cũng tạo thành oanh độn…"
-},
-{
-"cum": "Tử Hẻo Điên",
-"lan": 5,
-"chuong": [
-1363
-],
-"am_la": [
-"Hẻo"
-],
-"vd": "c1363: …ánh Tâm Thảo của lão phu ra đây, nếu không phải cái mũi của Tử Hẻo Điên lợi hại, ngửi được mùi vị của ngươi, su…"
-},
-{
-"cum": "Cửa Địa Ngục",
-"lan": 5,
-"chuong": [
-1365
-],
-"am_la": [
-"Cửa"
-],
-"vd": "c1365: … từ xa cũng khiến người ta sinh lòng kính sợ. \"Đây chính là Cửa Địa Ngục mà Địa Ngục Giới mở ra năm xưa? Bất Tử …"
-},
-{
-"cum": "Nặng Uyên",
-"lan": 5,
-"chuong": [
-1429,
-3949,
-3951
-],
-"am_la": [
-"Nặng"
-],
-"vd": "c1429: …: \"Chưa kích hoạt minh đạo văn bên trong mà trọng lượng của Nặng Uyên đã vượt qua mười vạn cân. Thật sự có ch…"
-},
-{
-"cum": "Hoồng Hóa Đằng",
-"lan": 5,
-"chuong": [
-1586
-],
-"am_la": [
-"Hoồng"
-],
-"vd": "c1586: …ớc khi lĩnh hội, Trương Nhược Trần trước tiên châm một đoạn Hoồng Hóa Đằng. Ngay sau đó, hắn lại phóng thích thánh…"
-},
-{
-"cum": "Giáng Làn",
-"lan": 5,
-"chuong": [
-1663
-],
-"am_la": [
-"Làn"
-],
-"vd": "c1663: …ng Nhược Trần và Hạng Chu Nam đều rất động tâm. Tỷ như, gốc Giáng Làn thảo có thể tăng cường nhục thân lực lư…"
-},
-{
-"cum": "Ph Sướng",
-"lan": 5,
-"chuong": [
-1683
-],
-"am_la": [
-"Ph"
-],
-"vd": "c1683: …của không gian bích chướng trong không gian gấp khúc, nhưng Ph Sướng đại sư và Cừu Cốt đại sư bọn họ đã tiêu…"
+"vd": "c1397: …. Khoanh chân ngồi dưới núi, trông coi thần Sơ Quỷ Vương là Trử Tâm trưởng lão và Trử Hư trưởng lão, liếc n…"
 },
 {
 "cum": "Minh Cổ Chiếu Của Thần",
@@ -2052,29 +1664,6 @@
 "vd": "c1726: …Trần. Trương Nhược Trần cười nói: \"Lợi hại! Quả không hổ là Minh Cổ Chiếu Của Thần Liên, muốn qua mặt đôi tiên mâu của ngư…"
 },
 {
-"cum": "Lưới Ất",
-"lan": 5,
-"chuong": [
-1848,
-1926
-],
-"am_la": [
-"Lưới"
-],
-"vd": "c1848: …ắt Trương Nhược Trần nhìn ra xa xa, nhìn thấy bóng dáng của Lưới Ất. Vị này tự xưng là tu sĩ Thượng Nguyên …"
-},
-{
-"cum": "Nưu Khanh Ngục Giới",
-"lan": 5,
-"chuong": [
-1886
-],
-"am_la": [
-"Nưu"
-],
-"vd": "c1886: …t tiếng hỏi: \"Sao lại có nhiều sinh linh cường đại tụ tập ở Nưu Khanh Ngục Giới như vậy, bọn chúng dựa vào cái gì để đề…"
-},
-{
 "cum": "Công Đức Trị Đổi Đại",
 "lan": 5,
 "chuong": [
@@ -2087,26 +1676,16 @@
 "vd": "c1915: …g gian truyền tống trận, Trương Nhược Trần đi thẳng về phía Công Đức Trị Đổi Đại Điện. Ở đó, vừa có thể đổi công đức trị…"
 },
 {
-"cum": "Bốn Đại Cổ Văn Minh",
+"cum": "Thử Xấu",
 "lan": 5,
 "chuong": [
-2084
+1978,
+"t1978"
 ],
 "am_la": [
-"Bốn"
+"Xấu"
 ],
-"vd": "c2084: …nh tro bụi. \"Hít.\" Cách xa vạn dặm, rất nhiều cường giả của Bốn Đại Cổ Văn Minh và Thiên Long Giới đều không nhịn được …"
-},
-{
-"cum": "Hắc Ám Thánh Chuông",
-"lan": 5,
-"chuong": [
-2144
-],
-"am_la": [
-"Chuông"
-],
-"vd": "c2144: …a hắc ám thần lực cướp được từ tay Hắc Ám Chi Tử. Nhìn thấy Hắc Ám Thánh Chuông, ánh mắt Hàn Thu lập tức sáng lên, hắc …"
+"vd": "c1978: …iền bối, đừng đánh nữa, ngài cứ để cửu đệ vào đi!\" Lúc này, Thử Xấu cũng đi theo vào, vội vàng vươn tay kéo…"
 },
 {
 "cum": "Không Gian Thật Vực",
@@ -2133,63 +1712,6 @@
 "vd": "c2204: … Thư Mọt Sách và Bách Si, vẫn chưa thể rút tay ra được. Thư Mọt Sách và Bách Si đứng sừng sững trước trận ph…"
 },
 {
-"cum": "Đại Tịch Mệt Yến",
-"lan": 5,
-"chuong": [
-2237
-],
-"am_la": [
-"Mệt"
-],
-"vd": "c2237: …\" Huyết Chủ và Huyết Tuyệt Chiến Thần có thù oán không nhỏ, Đại Tịch Mệt Yến lần này chắc chắn sẽ nhằm vào Huyết Thi…"
-},
-{
-"cum": "Tu Mì Thánh Tăng",
-"lan": 5,
-"chuong": [
-2262,
-3955,
-4199
-],
-"am_la": [
-"Mì"
-],
-"vd": "c2262: … quyết tâm của ngươi thế nào. Cũng muốn xem truyền nhân của Tu Mì Thánh Tăng, đệ tử Tuyền Cơ, sư tôn của Hàn Tuyết r…"
-},
-{
-"cum": "Bách Kia Cảnh Đại Viên",
-"lan": 5,
-"chuong": [
-2316
-],
-"am_la": [
-"Kia"
-],
-"vd": "c2316: … trọng, mỗi một kích đều ra tay độc ác. Đổi lại là những vị Bách Kia Cảnh Đại Viên Mãn Đại Thánh khác, bị Trương Nhược Trầ…"
-},
-{
-"cum": "Bách Sạo Cảnh",
-"lan": 5,
-"chuong": [
-2320
-],
-"am_la": [
-"Sạo"
-],
-"vd": "c2320: … một gốc Thực Thánh Hoa, sao lại đáng sợ thế này? Với tu vi Bách Sạo Cảnh của chúng ta mà lại không đấu lại nó. -…"
-},
-{
-"cum": "Chết Linh",
-"lan": 5,
-"chuong": [
-2374
-],
-"am_la": [
-"Chết"
-],
-"vd": "c2374: …m Địa Ngục Giới ngàn năm tới nay kỳ tài tung hoành nhất cấp Chết Linh sư, tinh thần lực của Diễn Quang đã đạt…"
-},
-{
 "cum": "Tài Giấu Ti",
 "lan": 5,
 "chuong": [
@@ -2205,38 +1727,16 @@
 "vd": "c2419: … trường mâu. Hai người bọn họ chính là Địa Tài Quân Chủ của Tài Giấu Ti, tu vi đều đạt đến đỉnh phong Thiên Vấn…"
 },
 {
-"cum": "Khai Lưới Ma Sư",
+"cum": "Khải Lưới Ma Sư",
 "lan": 5,
 "chuong": [
-2535
+2555,
+"t2555"
 ],
 "am_la": [
 "Lưới"
 ],
-"vd": "c2535: …n mắt nhìn thấy một đám tu sĩ Thiên Đường Giới đứng đầu bởi Khai Lưới Ma Sư cùng Carat Fillin, xuất hiện tại Thần N…"
-},
-{
-"cum": "Huyết Giệt",
-"lan": 5,
-"chuong": [
-2557,
-4082
-],
-"am_la": [
-"Giệt"
-],
-"vd": "c2557: …un, không liên thủ với Bất Tử Thần Điện, lẽ nào chỉ dựa vào Huyết Giệt (Giết)... Huyết Tuyệt Gia Tộc... Huyết …"
-},
-{
-"cum": "Thẩm Ván Thần Sứ",
-"lan": 5,
-"chuong": [
-2690
-],
-"am_la": [
-"Ván"
-],
-"vd": "c2690: … liệt. Trong chớp mắt, Trương Nhược Trần xông đến trước mặt Thẩm Ván Thần Sứ, liên tiếp đánh ra mười ba chưởng, chưở…"
+"vd": "c2555: …c cho càng đục hơn. Mục đích thứ hai, tự nhiên là để dẫn dụ Khải Lưới Ma Sư và Carat Fillin đang tiềm ẩn trong Ma L…"
 },
 {
 "cum": "Liễm Xi",
@@ -2251,108 +1751,42 @@
 "vd": "c2709: …ràng, muốn phá tâm cảnh của Thương Tử Hằng, sử dụng chủ bài Liễm Xi là tốt nhất. Nhưng, hắn không muốn kéo …"
 },
 {
-"cum": "Mì Liên Sơn",
+"cum": "Hải Suối",
 "lan": 5,
 "chuong": [
-2922
-],
-"am_la": [
-"Mì"
-],
-"vd": "c2922: … này chính là con trai của Diêm La tộc Mì Thiên Chiến Thần, Mì Liên Sơn. Chính là một tôn thượng vị thần chí cư…"
-},
-{
-"cum": "Tư Xát",
-"lan": 5,
-"chuong": [
-3137
-],
-"am_la": [
-"Xát"
-],
-"vd": "c3137: … hết!\" Khiến ai cũng có thể nhìn ra, Trương Nhược Trần cùng Tư Xát chênh lệch không phải bình thường cực l…"
-},
-{
-"cum": "Mưa Sư",
-"lan": 5,
-"chuong": [
-3155,
-3734,
-3735
-],
-"am_la": [
-"Mưa"
-],
-"vd": "c3155: …y ra, trong lòng bàn tay xuất hiện gợn sóng không gian, thả Mưa Sư và Hắc Ám Thần Nữ ra. \"Bái kiến sư tôn.…"
-},
-{
-"cum": "Vân Sênh",
-"lan": 5,
-"chuong": [
-3239
-],
-"am_la": [
-"Sênh"
-],
-"vd": "c3239: …ần Điện sao có thể tin vào lời nói một phía của nàng? Thính Vân Sênh phía sau hiển hóa Vận Mệnh Chi Môn, thậ…"
-},
-{
-"cum": "Thương Giuyết",
-"lan": 5,
-"chuong": [
-3356,
-3374,
-3811,
-3856
-],
-"am_la": [
-"Giuyết"
-],
-"vd": "c3356: …ư kiếm, nói: \"Truyền tin về Tinh Hoàn Thiên, bảo Trì Dao và Thương Giuyết dẫn tất cả thần linh có thể ra tay, bao…"
-},
-{
-"cum": "Môtô Chiến Thần",
-"lan": 5,
-"chuong": [
-3361
-],
-"am_la": [
-"Môtô"
-],
-"vd": "c3361: …ùng Quan Tinh. Phía trên tầng khí quyển của Hùng Quan Tinh, Môtô Chiến Thần từ hư không bước ra. Hắn chính là cường…"
-},
-{
-"cum": "Phán Xét Cung",
-"lan": 5,
-"chuong": [
-3398
-],
-"am_la": [
-"Xét"
-],
-"vd": "c3398: …nhân tộc một trong những người là Đới Phỉ, phó cung chủ của Phán Xét Cung. Tiền bối hiền nhân như ngươi, vốn tưởn…"
-},
-{
-"cum": "Địa Ngực",
-"lan": 5,
-"chuong": [
-3430
-],
-"am_la": [
-"Ngực"
-],
-"vd": "c3430: …t ra, liên tiếp đỡ được năm đợt công phạt của vô lượng giới Địa Ngực. Thế nhưng, đến đợt thứ sáu, rốt cuộc c…"
-},
-{
-"cum": "Mệnh Suối",
-"lan": 5,
-"chuong": [
-3509
+2800,
+"t2800"
 ],
 "am_la": [
 "Suối"
 ],
-"vd": "c3509: … cửa sổ, biến mất ở bầu trời... Trương Nhược Trần đã đi tới Mệnh Suối tận đầu, ánh mắt chỉ là hướng tinh thiê…"
+"vd": "c2800: … uy lực mạnh hơn. Trương Nhược Trần kiểm tra thương thế của Hải Suối, nàng có kim thân hộ thể, thương thế co…"
+},
+{
+"cum": "Tam Giác Tinh Vực Bóng",
+"lan": 5,
+"chuong": [
+2996,
+"t2996"
+],
+"am_la": [
+"Bóng"
+],
+"vd": "c2996: …hần linh của Thiên Đình trấn áp mới là chuyện lạ. \"Ngươi đi Tam Giác Tinh Vực Bóng Tối đợi ta, chuẩn bị trước mọi thứ, sau…"
+},
+{
+"cum": "Trì Yông",
+"lan": 5,
+"chuong": [
+3064,
+3183,
+3969,
+"t3969"
+],
+"am_la": [
+"Yông"
+],
+"vd": "c3064: …\"Điều này sao có thể?\" Trong mắt Trì Yông tràn ngập sự khó tin. Lăng Phi Vũ cũng …"
 },
 {
 "cum": "Chết Héo Tuyệt",
@@ -2379,39 +1813,28 @@
 "vd": "c3747: …của ngươi, vì nó trọng tân khai nhận.\" Thương Thiên đánh ra Ma Tổ Tử Mưa Việt, tốc độ phi hành của kiện ma khí này, t…"
 },
 {
-"cum": "Mặt Sương Tinh Vân",
+"cum": "Thếp Bà Lô Đại Đế",
 "lan": 5,
 "chuong": [
-3754
+3808,
+"t3808"
 ],
 "am_la": [
-"Mặt"
+"Thếp"
 ],
-"vd": "c3754: … ở phía trước, nói: \"Đó là nơi nào?\" Băng Hoàng nói: \"Đó là Mặt Sương Tinh Vân, bên trong có hơn ba trăm hằng tinh, hơ…"
+"vd": "c3808: …Đế trở về, giải nguy cấp cho Phượng Thiên. Phượng Thiên cần Thếp Bà Lô Đại Đế ổn định cục diện của Thi tộc, Thếp Bà L…"
 },
 {
-"cum": "Bất Hụt Vô Lượng",
+"cum": "La Thộc Mông",
 "lan": 5,
 "chuong": [
-3912
+3825,
+"t3825"
 ],
 "am_la": [
-"Hụt"
+"Thộc"
 ],
-"vd": "c3912: …ân, sa đọa thành công cụ tự bạo thần nguyên. Cũng từng thấy Bất Hụt Vô Lượng bị khống chế, thiếu chút nữa thần nguyê…"
-},
-{
-"cum": "Mười Tám Tầng U Minh",
-"lan": 5,
-"chuong": [
-3931,
-3987
-],
-"am_la": [
-"Mười",
-"Tám"
-],
-"vd": "c3931: …t phá từ Thất Thập Nhị Tầng Tháp! Mười Tám Tầng Kiếm Các và Mười Tám Tầng U Minh Địa Lao, đều nằm trong tay chúng ta. Ch…"
+"vd": "c3825: … tốt nhất, nếu không phải ngươi cứ khăng khăng muốn đối phó La Thộc Mông, chúng ta bây giờ đã đến Cốt Diêm La Th…"
 },
 {
 "cum": "Hà Mồ",
@@ -2425,27 +1848,31 @@
 "vd": "c4021: …ng cho là như vậy. Cho nên ta buộc phải chờ ở nơi này, nuôi Hà Mồ, ngự Hà Mồ, bắc lên một tòa Nhật Trường…"
 },
 {
-"cum": "Đo Mệnh Liêm Đao",
-"lan": 4,
+"cum": "Chân Miao",
+"lan": 5,
 "chuong": [
-95
+"t1687",
+"t1698",
+"t1746"
 ],
 "am_la": [
-"Đo"
+"Miao"
 ],
-"vd": "c95: …ấy từ nội không gian của Tinh Không Tinh Thạch ra một thanh Đo Mệnh Liêm Đao dài một thước. Cánh tay hắn vung lên, Đ…"
+"vd": "t1687: …Trương Nhược Trần và Chân Miao tiểu đạo nhân đối phó huyết thổ cự nhân…"
 },
 {
-"cum": "Thiên Cực Vường",
-"lan": 4,
+"cum": "Bạch Y Đáy Vực",
+"lan": 5,
 "chuong": [
-168,
-295
+"t3527",
+"t3528",
+"t3934",
+"t3938"
 ],
 "am_la": [
-"Vường"
+"Đáy"
 ],
-"vd": "c168: …ử dụng một số bí pháp đặc biệt. Nói chung, chỉ có cường giả Thiên Cực Vường mới có thể mượn nhờ Bán Thánh huyết dịc…"
+"vd": "t3528: …Trương Nhược Trần cùng Bạch Tôn đến Bạch Y Đáy Vực, nơi Niết Tàng tôn giả, Tuyệt Diệu Thiệ…"
 },
 {
 "cum": "Phích Phong Toách Hồn Trận",
@@ -2459,15 +1886,16 @@
 "vd": "c174: … lát cũng đành chịu thua ngươi.\" \"Ngươi muốn thử uy lực của Phích Phong Toách Hồn Trận sao?\" Hoàng Yên Trần đứng ở trung tâm t…"
 },
 {
-"cum": "Ngư Long Đám",
+"cum": "Hoồng Nguyên",
 "lan": 4,
 "chuong": [
-432
+194,
+"t194"
 ],
 "am_la": [
-"Đám"
+"Hoồng"
 ],
-"vd": "c432: …Đối với việc xung kích Ngư Long Đám biến, Lôi Cảnh kỳ thực cũng không ôm qu…"
+"vd": "c194: …Đoan Mộc Tinh Linh nói: \"Đi tới Hoồng Nguyên sơ cấp di tích, liệp sát ba giai man th…"
 },
 {
 "cum": "Võ Thị Đấu Trường Của",
@@ -2484,64 +1912,16 @@
 "vd": "c456: … một lúc lâu, không nói thêm gì nữa. \"Ầm!\" Đột nhiên, trong Võ Thị Đấu Trường Của vang lên tiếng hô như sơn băng địa liệt…"
 },
 {
-"cum": "Nặng Uyên Cổ Kiếm",
+"cum": "Tinh Vân Đại Thảnh",
 "lan": 4,
 "chuong": [
-469,
-1822,
-2815
+472,
+"t472"
 ],
 "am_la": [
-"Nặng"
+"Thảnh"
 ],
-"vd": "c469: …g Nhược Trần tỏ ra thong dong trấn định, tiện tay vung lên, Nặng Uyên Cổ Kiếm liền chém ra ngoài. \"Hoa!\" Nhìn như một…"
-},
-{
-"cum": "Nhất Phẩm Đường Chợ Đen",
-"lan": 4,
-"chuong": [
-498,
-936,
-4209
-],
-"am_la": [
-"Chợ",
-"Đen"
-],
-"vd": "c498: …c mỉm cười nói: \"Đây chẳng phải là Tranh Nguyệt Tinh Sứ của Nhất Phẩm Đường Chợ Đen sao, sao lại biến thành tù nhân rồi? Nó…"
-},
-{
-"cum": "Hình Vô Phụng Ba Mươi",
-"lan": 4,
-"chuong": [
-583
-],
-"am_la": [
-"Mươi"
-],
-"vd": "c583: …với Trương Nhược Trần: \"Loại võ kỹ này thực chất gọi là 'Vô Hình Vô Phụng Ba Mươi Sáu Biến', xuất phát từ chí cao bí điển…"
-},
-{
-"cum": "Sáu Biến",
-"lan": 4,
-"chuong": [
-583
-],
-"am_la": [
-"Sáu"
-],
-"vd": "c583: … \"Loại võ kỹ này thực chất gọi là 'Vô Hình Vô Phụng Ba Mươi Sáu Biến', xuất phát từ chí cao bí điển của Trần…"
-},
-{
-"cum": "Tìm Bảo La Bàn",
-"lan": 4,
-"chuong": [
-643
-],
-"am_la": [
-"Tìm"
-],
-"vd": "c643: …xuống cầu xin tha thứ. Hơn nữa, nếu không phải ngươi làm lộ Tìm Bảo La Bàn, Tìm Bảo La Bàn cũng sẽ không bị Tà Đạo…"
+"vd": "c472: …ói. \"Những võ giả muốn đi Mộc Tinh Khư Giới đều tập trung ở Tinh Vân Đại Thảnh. Tối nay Tề quản sự sẽ đến đó thống kê …"
 },
 {
 "cum": "La Hông",
@@ -2566,83 +1946,40 @@
 "vd": "c971: …u luyện đứng dậy nói: \"Ngươi đã khống chế được khí linh của Thất Sát Quyền Trợt chưa?\" \"Đối với ta mà nói, việc luyện h…"
 },
 {
-"cum": "Thượng Quan Lung Lanh",
+"cum": "Phí Hản",
 "lan": 4,
 "chuong": [
-1042
+1129,
+"t1129"
 ],
 "am_la": [
-"Lanh"
+"Hản"
 ],
-"vd": "c1042: … còn lại lại là một đôi tỷ muội sinh đôi trẻ tuổi xinh đẹp, Thượng Quan Lung Lanh và Thượng Quan Nghê Hồng. Có thể ngồi ở…"
+"vd": "c1129: … linh mạch.\" Cho dù là Chu Tước tiên tử, hoàng tử Kình tộc, Phí Hản thiên vương những thái cổ cự hung này, …"
 },
 {
-"cum": "Đạp Đất Hòa Thượng",
+"cum": "Trử Hư",
 "lan": 4,
 "chuong": [
-1120
-],
-"am_la": [
-"Đất"
-],
-"vd": "c1120: …hông?\" Trương Nhược Trần tự nhiên biết mục đích đến đây của Đạp Đất Hòa Thượng và Tuyết Vô Dạ, chỉ có điều tế phẩm cần…"
-},
-{
-"cum": "Tam Vức Thánh Huyết Đan",
-"lan": 4,
-"chuong": [
-1256
-],
-"am_la": [
-"Vức"
-],
-"vd": "c1256: …hướng chiếc cổ thuyền vong linh màu bạc biến mất, nói: \"Đưa Tam Vức Thánh Huyết Đan cho ta, cho ta thêm một vạn giọt thần h…"
-},
-{
-"cum": "Tiên Ki Cơ Sơn",
-"lan": 4,
-"chuong": [
-1361,
-1366,
-1959
-],
-"am_la": [
-"Ki"
-],
-"vd": "c1361: … Trương Nhược Trần cũng không phải kẻ gian ác tột cùng, tại Tiên Ki Cơ Sơn, hắn từng ra tay cứu thuộc hạ cùng sáu …"
-},
-{
-"cum": "Quang Nghinh Khách Kiếm",
-"lan": 4,
-"chuong": [
-1374
-],
-"am_la": [
-"Nghinh"
-],
-"vd": "c1374: …nên chiêu thức đầu tiên tung ra chính là dốc toàn lực. \"Hàn Quang Nghinh Khách Kiếm.\" \"Mộc Kình Thiên quả nhiên cẩn thận ch…"
-},
-{
-"cum": "Trử Tâm",
-"lan": 4,
-"chuong": [
-1397
+1397,
+"t1397"
 ],
 "am_la": [
 "Trử"
 ],
-"vd": "c1397: …. Khoanh chân ngồi dưới núi, trông coi thần Sơ Quỷ Vương là Trử Tâm trưởng lão và Trử Hư trưởng lão, liếc n…"
+"vd": "c1397: …i núi, trông coi thần Sơ Quỷ Vương là Trử Tâm trưởng lão và Trử Hư trưởng lão, liếc nhìn nhau, đều lộ ra t…"
 },
 {
-"cum": "Ngàn Xu",
+"cum": "Kim Bụ Long Liễn",
 "lan": 4,
 "chuong": [
-1522
+1547,
+"t1547"
 ],
 "am_la": [
-"Ngàn"
+"Bụ"
 ],
-"vd": "c1522: … công chúa cười nói. Vũ Thu lại nói: \"Ta hy vọng Ngàn Du và Ngàn Xu hai vị Nhất đẳng hầu tước dưới quyền cô…"
+"vd": "c1547: …giấy, lật cuộn lên, phát ra tiếng \"ào ào\", đè ngược về phía Kim Bụ Long Liễn. Thoáng chốc, tốc độ cực nhanh mà long …"
 },
 {
 "cum": "Thủy Nguyệt Thánh Bếp",
@@ -2667,26 +2004,17 @@
 "vd": "c1934: …uỷ kế đa đoan, hợp tác với nàng ta quá mức mạo hiểm.\" Trong Cửu Long Rản, Phong Nham lộ vẻ lo lắng. Hạng Sở Nam …"
 },
 {
-"cum": "Thử Xấu",
+"cum": "Nguồn Ma Thần Tử",
 "lan": 4,
 "chuong": [
-1978
+1957,
+2263,
+"t1957"
 ],
 "am_la": [
-"Xấu"
+"Nguồn"
 ],
-"vd": "c1978: …iền bối, đừng đánh nữa, ngài cứ để cửu đệ vào đi!\" Lúc này, Thử Xấu cũng đi theo vào, vội vàng vươn tay kéo…"
-},
-{
-"cum": "Yến Li Dân",
-"lan": 4,
-"chuong": [
-2198
-],
-"am_la": [
-"Li"
-],
-"vd": "c2198: …i. Kẻ khống chế Thánh Đàn chính là Các chủ Thiên Cương Các, Yến Li Dân. Đương nhiên, Yến Li Dân này chỉ là một…"
+"vd": "c1957: …ần Trùng to bằng nắm tay. Cùng là đệ tử Vận Mệnh Thần Điện, Nguồn Ma Thần Tử lại không hề nắm giữ loại thủ đoạn nô d…"
 },
 {
 "cum": "Tử V",
@@ -2712,19 +2040,6 @@
 "vd": "c2257: …ta đi!\" Thân Đồ Vân Không gầm lên trong sự nhục nhã. Một vị Đại Thánh Trăm Cung Cảnh dùng hai tay nâng giữa không trung, vận…"
 },
 {
-"cum": "Li Đế",
-"lan": 4,
-"chuong": [
-2286,
-2343,
-2402
-],
-"am_la": [
-"Li"
-],
-"vd": "c2286: …Thánh vận động cổ tay, cười nói: \"Chỉ cần tiêu diệt được vị Li Đế kia, là có thể nhận được một ngàn vạn đ…"
-},
-{
 "cum": "Bách Kia",
 "lan": 4,
 "chuong": [
@@ -2737,17 +2052,6 @@
 "vd": "c2316: … vậy? Trong tay không kiếm, kiếm hồn lại cường đại như thế, Bách Kia cấp cao giai thánh thuật Huyết Nguyệt S…"
 },
 {
-"cum": "Bách Sạo Cảnh Đại Thánh",
-"lan": 4,
-"chuong": [
-2320
-],
-"am_la": [
-"Sạo"
-],
-"vd": "c2320: …Hỏa, hóa thành một mảnh đại dương điện hỏa, giam cầm bảy vị Bách Sạo Cảnh Đại Thánh vào bên trong, thế nào cũng không trốn …"
-},
-{
 "cum": "Sắp Thiên",
 "lan": 4,
 "chuong": [
@@ -2758,17 +2062,6 @@
 "Sắp"
 ],
 "vd": "c2338: …gập sự tự tin. Trương Nhược Trần nói: \"Ngươi nếu như chết ở Sắp Thiên chiến trường, ta đi tìm ai đòi nợ đây?\"…"
-},
-{
-"cum": "Vạn Chữ Thiên Châu",
-"lan": 4,
-"chuong": [
-2376
-],
-"am_la": [
-"Chữ"
-],
-"vd": "c2376: …trong lòng bàn tay, hóa thành từng đạo quang trụ truyền vào Vạn Chữ Thiên Châu. Trong nháy mắt. Vạn Chữ Thiên Châu bùn…"
 },
 {
 "cum": "Cuộc Chiến Săn Trời",
@@ -2785,17 +2078,40 @@
 "vd": "c2419: …n Hội vẫn lạc, nghĩ thôi đã thấy hưng phấn rồi đây!\" Bởi vì Cuộc Chiến Săn Trời, rất nhiều tu sĩ trẻ tuổi của mười tộc …"
 },
 {
-"cum": "Ngàn Hỏi Cảnh",
+"cum": "Được Thần",
 "lan": 4,
 "chuong": [
-2436,
-2535
+2438,
+"t2438"
 ],
 "am_la": [
-"Ngàn",
-"Hỏi"
+"Được"
 ],
-"vd": "c2436: …ơng Nhược Trần có thể nhìn ra, Lịch Sân Tung đã đột phá đến Ngàn Hỏi Cảnh, tu vi cùng chiến lực đều tăng vọt mấy …"
+"vd": "c2438: …ợc cả thần linh, hầu như chưa từng thua bao giờ. Tài phú mà Được Thần sở hữu, cho dù là thần, cũng chưa chắc …"
+},
+{
+"cum": "Vốn Dĩ Tịch",
+"lan": 4,
+"chuong": [
+2540,
+"t2540"
+],
+"am_la": [
+"Vốn"
+],
+"vd": "c2540: …người nên bắt tay giảng hòa.\" Ngay sau đó, hắn nhìn về phía Vốn Dĩ Tịch trên thánh lâu đằng xa, lên tiếng: \"Ngu…"
+},
+{
+"cum": "Huyết Giệt",
+"lan": 4,
+"chuong": [
+2557,
+4082
+],
+"am_la": [
+"Giệt"
+],
+"vd": "c2557: …, lẽ nào chỉ dựa vào Huyết Tuyệt Gia Tộc... Huyết Giệt nhầm Huyết Giệt... hừm, Huyết Tuyệt Gia Tộc... Ơ hay, H…"
 },
 {
 "cum": "Tây Âo Luân Triết",
@@ -2822,6 +2138,30 @@
 "vd": "c2588: …cảnh thiên kiêu tiến vào trong đó, bao gồm Diêm Vô Uyên của Diêm Lưới tộc, Nguyên Phù của Tử Thần Điện, Tinh …"
 },
 {
+"cum": "Biển Xanh Tứ Tú",
+"lan": 4,
+"chuong": [
+2668,
+"t2668"
+],
+"am_la": [
+"Xanh"
+],
+"vd": "c2668: …a sớm đã trải qua bị Nho Giới thần linh giết chết. Thư giới Biển Xanh Tứ Tú, đã sớm rơi vào Công Dương Mục bắt bên …"
+},
+{
+"cum": "Trử Kiên",
+"lan": 4,
+"chuong": [
+2677,
+"t2677"
+],
+"am_la": [
+"Trử"
+],
+"vd": "c2677: …a tay sờ cằm, lộ ra thần sắc trầm ngâm. Trong phòng, chỉ có Trử Kiên một mình ngồi trên ghế. Hắn mọc một đôi…"
+},
+{
 "cum": "Thiên Nam Sinh Tử Xư",
 "lan": 4,
 "chuong": [
@@ -2833,17 +2173,6 @@
 "Xư"
 ],
 "vd": "c2731: …n cỏn con thì tính là gì? Nam Thánh xưng là truyền nhân của Thiên Nam Sinh Tử Xư, thực ra chẳng qua chỉ là đệ tử của Thấ…"
-},
-{
-"cum": "Xai Quyết Ty",
-"lan": 4,
-"chuong": [
-2734
-],
-"am_la": [
-"Xai"
-],
-"vd": "c2734: …ngươi mà nói, uy hiếp lớn nhất đến từ hai nơi. Thứ nhất, là Xai Quyết Ty của Vận Mệnh Thần Điện.\" \"Thứ hai, là T…"
 },
 {
 "cum": "Trì Yoa Nữ Hoàng",
@@ -2867,17 +2196,6 @@
 "Oãn"
 ],
 "vd": "c2766: …nh động không ít, thế nhưng, chỉ có rất ít kẻ chạy về hướng Thất Oãn Thánh thành. ... Ánh mắt Vô Cương dữ tợn, biế…"
-},
-{
-"cum": "Hải Suối",
-"lan": 4,
-"chuong": [
-2800
-],
-"am_la": [
-"Suối"
-],
-"vd": "c2800: … uy lực mạnh hơn. Trương Nhược Trần kiểm tra thương thế của Hải Suối, nàng có kim thân hộ thể, thương thế co…"
 },
 {
 "cum": "Ngư Quá Thật",
@@ -2915,26 +2233,28 @@
 "vd": "c2918: …, trảm nhân quả.\" \"Vị Thần sư đó, có quan hệ thân thiết với Thần Nữ Mười Hai Thường.\" \"Bản thần sớm đã đoán được, Thần Nữ M…"
 },
 {
-"cum": "Ma Yệt",
+"cum": "Hư Vêm Hải",
 "lan": 4,
 "chuong": [
-2931
+3041,
+"t3041"
 ],
 "am_la": [
-"Yệt"
+"Vêm"
 ],
-"vd": "c2931: …ng biết chỉ cần kéo dài thêm chốc lát nữa, Thiên Mô Tang và Ma Yệt sẽ tới. Đến lúc đó, kẻ phải chạy trốn s…"
+"vd": "c3041: …hổng Tước thánh xe chạy thẳng về hướng Dạ Xoa tộc thánh địa Hư Vêm Hải. Trương Nhược Trần ra lệnh, sáu vị tu s…"
 },
 {
-"cum": "Tam Giác Tinh Vực Bóng",
+"cum": "Tam Giác Đen",
 "lan": 4,
 "chuong": [
-2996
+3053,
+"t3053"
 ],
 "am_la": [
-"Bóng"
+"Đen"
 ],
-"vd": "c2996: …hần linh của Thiên Đình trấn áp mới là chuyện lạ. \"Ngươi đi Tam Giác Tinh Vực Bóng Tối đợi ta, chuẩn bị trước mọi thứ, sau…"
+"vd": "c3053: … ra lựa chọn gì đi nữa, bản tọa nhất định sẽ ở lại tinh vực Tam Giác Đen, đấu một trận với Hắc Ám thần điện, dẫu…"
 },
 {
 "cum": "Đầu Búp Bê Vải",
@@ -2948,19 +2268,6 @@
 "Vải"
 ],
 "vd": "c3057: … xé rách thành mảnh vụn, hóa thành từng luồng khói đen. Đại Đầu Búp Bê Vải vạch một cái trước người, thì thầm: \"Th…"
-},
-{
-"cum": "Trì Yông",
-"lan": 4,
-"chuong": [
-3064,
-3183,
-3969
-],
-"am_la": [
-"Yông"
-],
-"vd": "c3064: …\"Điều này sao có thể?\" Trong mắt Trì Yông tràn ngập sự khó tin. Lăng Phi Vũ cũng …"
 },
 {
 "cum": "Thái Ất Thần Dan",
@@ -2982,30 +2289,19 @@
 "am_la": [
 "Xát"
 ],
-"vd": "c3137: … phi ra. Kiếm mang càng thắng Giận Kiếm, trọng trọng bổ vào Tư Xát Thần Cảnh thế giới trên người. Một tiếng bạo vang…"
+"vd": "c3137: …ếm phi ra. Kiếm mang càng thắng Nộ Kiếm, trọng trọng bổ vào Tư Xát Thần Cảnh thế giới trên người. Một tiếng bạo vang…"
 },
 {
-"cum": "Xạ Thần Nỏ",
+"cum": "Mốt Thác Chiến Thần",
 "lan": 4,
 "chuong": [
-3138
+3143,
+"t3143"
 ],
 "am_la": [
-"Nỏ"
+"Mốt"
 ],
-"vd": "c3138: … hắn ngưng tụ lại thần khu, gầm thét lên: \"Trên thần hạm có Xạ Thần Nỏ, thần linh dưới Thái Hỏa cảnh, lập tức …"
-},
-{
-"cum": "Thính Vân Sênh",
-"lan": 4,
-"chuong": [
-3145,
-3239
-],
-"am_la": [
-"Sênh"
-],
-"vd": "c3145: …rong đại điện, hắn nhìn thấy Quỷ Chủ, Mông Thác Chiến Thần, Thính Vân Sênh, Kim Giác Thiên Thần... cùng hơn một tr…"
+"vd": "c3143: … ra. Trong thiên nhãn, bắn ra một đạo thần công, đánh trúng Mốt Thác Chiến Thần đang tấn công tới. Thần thông \"Hắc Ám T…"
 },
 {
 "cum": "Đại Hắc Ám Tinh Vức",
@@ -3017,6 +2313,19 @@
 "Vức"
 ],
 "vd": "c3146: …\"Tất nhiên không dám quên Địa Ngục Giới chi ân, nhưng tại Đại Hắc Ám Tinh Vức, vì sao ngươi lại cùng Phong tộc cùng H…"
+},
+{
+"cum": "Chẳng Lẽ Đại Thần",
+"lan": 4,
+"chuong": [
+3185,
+"t3185"
+],
+"am_la": [
+"Chẳng",
+"Lẽ"
+],
+"vd": "c3185: … Trương Nhược Trần bước vào \"Lục Tổ Thích Thiện Đồ\", thả vị Chẳng Lẽ Đại Thần đang bị trấn áp dưới cây Bồ Đề ra. Tu v…"
 },
 {
 "cum": "Bơ Lãn Chân Quân",
@@ -3064,28 +2373,6 @@
 "Mắt"
 ],
 "vd": "c3333: …Chương 3337: Ly Hận Thiên trật tự Khắc Luật Tát, Mỹ Lạp, Độc Mắt cự nhân đều đã lui đến chỗ xa, ngưng tr…"
-},
-{
-"cum": "Quỷ Đế Đả Hồn Roi",
-"lan": 4,
-"chuong": [
-3387
-],
-"am_la": [
-"Roi"
-],
-"vd": "c3387: …c tiếp ngã rạp xuống đất, không thể gượng đứng dậy nổi. \"Là Quỷ Đế Đả Hồn Roi, ẩn chứa tàn lực của Quỷ Đế!\" Một vị Th…"
-},
-{
-"cum": "Tòn Thần Đảo Chủ",
-"lan": 4,
-"chuong": [
-3458
-],
-"am_la": [
-"Tòn"
-],
-"vd": "c3458: …ấy Quỷ Môn Quan làm trung tâm, kết hợp đại trận tinh vực do Tòn Thần Đảo Chủ để lại mười vạn năm trước, xây dựng tuy…"
 },
 {
 "cum": "Tấm Hòa Đại Tế Ti",
@@ -3159,6 +2446,18 @@
 "vd": "c3663: …hủy từ mười vạn năm trước, hóa thành phế tích, bị tà tu của Đác Giới chiếm cứ. \"Thiên Đình không được bình y…"
 },
 {
+"cum": "Stodhadhāra Hoàng Kim Xử",
+"lan": 4,
+"chuong": [
+3713,
+"t3713"
+],
+"am_la": [
+"Stodhadhāra"
+],
+"vd": "c3713: …y lên, tâm trận bàn bắn ra quang trụ, oanh kích đối đầu với Stodhadhāra Hoàng Kim Xử. Một tiếng động lớn vang lên, toàn bộ r…"
+},
+{
 "cum": "Mông Go",
 "lan": 4,
 "chuong": [
@@ -3172,26 +2471,28 @@
 "vd": "c3719: … từ khi Lôi Phạt Thiên Tôn bị Hạo Thiên, Nộ Thiên Thần Tôn, Mông Go, Hư Thiên liên thủ phân thây thành bốn …"
 },
 {
-"cum": "Thếp Bà Lô Đại Đế",
+"cum": "Âm Luo Thiên Ngoại Thiên",
 "lan": 4,
 "chuong": [
-3808
+3772,
+"t3772"
 ],
 "am_la": [
-"Thếp"
+"Luo"
 ],
-"vd": "c3808: …Đế trở về, giải nguy cấp cho Phượng Thiên. Phượng Thiên cần Thếp Bà Lô Đại Đế ổn định cục diện của Thi tộc, Thếp Bà L…"
+"vd": "c3772: …g Nhược Trần nhắm hai mắt lại, bằng Chân Lý Chi Tâm cảm ứng Âm Luo Thiên Ngoại Thiên, lắng nghe đối thoại của từng tôn tu sĩ…"
 },
 {
-"cum": "La Thộc Mông",
+"cum": "Diểm Địa",
 "lan": 4,
 "chuong": [
-3825
+3792,
+"t3792"
 ],
 "am_la": [
-"Thộc"
+"Diểm"
 ],
-"vd": "c3825: … tốt nhất, nếu không phải ngươi cứ khăng khăng muốn đối phó La Thộc Mông, chúng ta bây giờ đã đến Cốt Diêm La Th…"
+"vd": "c3792: …gì?\" Trương Nhược Trần nói: \"Hai câu hỏi! Câu hỏi thứ nhất, Diểm Địa bị Cốt Diêm La mang đi đâu rồi?\" Hiện t…"
 },
 {
 "cum": "Cửa Tử",
@@ -3206,6 +2507,30 @@
 "vd": "c3832: …Phượng Thiên dù sao cũng giao Cửa Tử cho Trương Nhược Trần, tuy thần hồn cườ…"
 },
 {
+"cum": "Đầu Bảy Kiếm Hoàng",
+"lan": 4,
+"chuong": [
+3866,
+"t3866"
+],
+"am_la": [
+"Bảy"
+],
+"vd": "c3866: …: \"Ngươi trở về một chuyến Bá Lĩnh, truyền ta pháp lệnh, để Đầu Bảy Kiếm Hoàng, Thật Nhất Tộc Hoàng, Đồ Đằng Tộc Hoàng…"
+},
+{
+"cum": "Thật Nhất Tộc Hoàng",
+"lan": 4,
+"chuong": [
+3866,
+"t3866"
+],
+"am_la": [
+"Thật"
+],
+"vd": "c3866: …chuyến Bá Lĩnh, truyền ta pháp lệnh, để Đầu Bảy Kiếm Hoàng, Thật Nhất Tộc Hoàng, Đồ Đằng Tộc Hoàng, Hỏa tộc Tộc Hoàng l…"
+},
+{
 "cum": "Nghê Màu",
 "lan": 4,
 "chuong": [
@@ -3215,6 +2540,19 @@
 "Màu"
 ],
 "vd": "c3910: …m: \"Đều tại muội, ai kêu muội dùng lôi pháp làm gì?\" Trương Nghê Màu bĩu môi nhỏ, nói: \"Còn không phải tại h…"
+},
+{
+"cum": "Thạch Ki",
+"lan": 4,
+"chuong": [
+3939,
+3947,
+"t3939"
+],
+"am_la": [
+"Ki"
+],
+"vd": "c3939: …iên trong mắt không giấu được vẻ hâm mộ ghen tị, nói: \"Cưới Thạch Ki, ngươi cũng thật to gan lớn mật. Quên đ…"
 },
 {
 "cum": "Thật Nhất Lão",
@@ -3253,12 +2591,13 @@
 "cum": "Hồng A Vua",
 "lan": 4,
 "chuong": [
-4084
+4084,
+"t4084"
 ],
 "am_la": [
 "Vua"
 ],
-"vd": "c4084: …Đỉnh điểm Năm trăm năm trước, tin tức Hồng A Vua (Hongya Wang) ám sát Huyết Tuyệt tộc tr…"
+"vd": "c4084: …m chí, Trương Nhược Trần còn cảm thấy, lúc Hư Thiên trấn áp Hồng A Vua, Thiên Ma rất có khả năng đang có mặt. …"
 },
 {
 "cum": "Tháp Bảy Mươi Hai Tầng",
@@ -3273,39 +2612,41 @@
 "vd": "c4105: … thể mạo muội xuất kích?\" \"Vị trường sinh bất tử điều khiển Tháp Bảy Mươi Hai Tầng đã xuất hiện chưa? Đệ Nhị Nho Tổ thực s…"
 },
 {
-"cum": "Ngỗng Đại",
+"cum": "Đạo Nhân Giếng",
 "lan": 4,
 "chuong": [
-4169,
-4206
+4185,
+"t4185"
 ],
 "am_la": [
-"Ngỗng"
+"Giếng"
 ],
-"vd": "c4169: …hoàng bất tử sao?\" Đại Tư Không đưa tay vuốt ve bộ lông của Ngỗng Đại nhưng bị thần diễm làm bỏng. Tuy nhiên,…"
+"vd": "c4185: …n quay lại kề vai chiến đấu với Bất Tử Chiến Thần, nhưng bị Đạo Nhân Giếng kéo lại. \"Hắn rõ ràng là muốn tự bạo th…"
 },
 {
-"cum": "Hoồng Nguyên",
-"lan": 3,
+"cum": "Chân Miao Tiểu Đạo Nhân",
+"lan": 4,
 "chuong": [
-194
+"t1708",
+"t1854",
+"t1856"
 ],
 "am_la": [
-"Hoồng"
+"Miao"
 ],
-"vd": "c194: …Đoan Mộc Tinh Linh nói: \"Đi tới Hoồng Nguyên sơ cấp di tích, liệp sát ba giai man th…"
+"vd": "t1708: …Trương Nhược Trần, Tiểu Hắc và Chân Miao Tiểu Đạo Nhân xuất hiện; Tiểu Hắc bố trí bát phẩm trậ…"
 },
 {
-"cum": "Hoàng Khói Trần",
+"cum": "Hổ Khiếu Pô",
 "lan": 3,
 "chuong": [
-204,
-1167
+22,
+"t22"
 ],
 "am_la": [
-"Khói"
+"Pô"
 ],
-"vd": "c204: …ại, nhưng Trương Nhược Trần không thể không đi theo, ai bảo Hoàng Khói Trần hiện tại là vị hôn thê của hắn chứ? Cho…"
+"vd": "c22: …ực hoạt động đại khái của đám man thú. \"Phía trước chính là Hổ Khiếu Pô, lúc trước ta đi ngang qua nơi đó, từng…"
 },
 {
 "cum": "Sát Thần Nỏ",
@@ -3335,9 +2676,9 @@
 "cum": "Nếu Đã Trương Nhược Trần",
 "lan": 3,
 "chuong": [
-275,
 2189,
-2712
+2712,
+275
 ],
 "am_la": [
 "Nếu",
@@ -3360,9 +2701,9 @@
 "cum": "Tết Dương",
 "lan": 3,
 "chuong": [
-365,
 3540,
-3541
+3541,
+365
 ],
 "am_la": [
 "Tết"
@@ -3381,52 +2722,41 @@
 "vd": "c445: … phòng ngự cũng không cản nổi.\" ... Tiếng chuông bùng nổ từ Lang Hoàn Kim Chuông giống như tiếng hàng triệu đại quân ác …"
 },
 {
-"cum": "Thiên Hực Cảnh",
+"cum": "Hi Vân Ny",
 "lan": 3,
 "chuong": [
-446,
-461,
-483
+469,
+"t469"
 ],
 "am_la": [
-"Hực"
+"Ny"
 ],
-"vd": "c446: … vào trong đống đổ nát. \"Lợi hại quá, rõ ràng đều là võ giả Thiên Hực Cảnh, tại sao khoảng cách lại lớn như vậy? V…"
+"vd": "c469: …miệng Tư Hải thốt ra. Trương Nhược Trần liếc nhìn Tư Hải và Hi Vân Ny bốn người, nói: \"Thực lực của ta thế nà…"
 },
 {
-"cum": "Tinh Vân Đại Thảnh",
+"cum": "Long Tượng Nhược Trơn Chưởng",
 "lan": 3,
 "chuong": [
-472
+609,
+"t609"
 ],
 "am_la": [
-"Thảnh"
+"Trơn"
 ],
-"vd": "c472: …ói. \"Những võ giả muốn đi Mộc Tinh Khư Giới đều tập trung ở Tinh Vân Đại Thảnh. Tối nay Tề quản sự sẽ đến đó thống kê …"
+"vd": "c609: …ốt toàn thân như nối liền thành một thể, bắt đầu triển khai Long Tượng Nhược Trơn Chưởng. Thông qua việc luyện chưởng, không ngừ…"
 },
 {
-"cum": "Không Gian Đóng Băng",
+"cum": "Không Gian Sụp Đổ",
 "lan": 3,
 "chuong": [
-486,
-777,
-2361
+630,
+"t482",
+"t630"
 ],
 "am_la": [
-"Đóng"
+"Sụp"
 ],
-"vd": "c486: …trăm chiêu. Chỉ tiếc, Trương Nhược Trần thi triển một chiêu Không Gian Đóng Băng, khiến cho chiêu thức của Bùi Kỷ khựng …"
-},
-{
-"cum": "Chỏm Nguyệt",
-"lan": 3,
-"chuong": [
-545
-],
-"am_la": [
-"Chỏm"
-],
-"vd": "c545: …ng Nhược Trần cường đại, hai mắt như đuốc, nhìn rõ ràng hơn Chỏm Nguyệt tinh sử rất nhiều. Vừa rồi, lúc Ô Hài G…"
+"vd": "c630: … cơ thể của nó hoàn toàn biến thành một vũng máu. Một chiêu Không Gian Sụp Đổ đã cuốn hơn ba trăm con Xích Sí Nha vào…"
 },
 {
 "cum": "Không Sườn Núi",
@@ -3441,23 +2771,12 @@
 "vd": "c719: …c. Trương Nhược Trần lập tức đuổi theo, hỏi: \"Đi đâu?\" \"Vạn Không Sườn Núi.\" Hoàng Yên Trần đáp. Vạn Không Sườn Nú…"
 },
 {
-"cum": "Bằng Sáu",
-"lan": 3,
-"chuong": [
-744
-],
-"am_la": [
-"Sáu"
-],
-"vd": "c744: …tuyết lớn lông ngỗng, bao trùm toàn bộ Thư Sơn. Bản thể của Bằng Sáu lại là một con Kim Sí Đại Bằng. Đôi cán…"
-},
-{
 "cum": "Man Ki",
 "lan": 3,
 "chuong": [
+1004,
 755,
-790,
-1004
+790
 ],
 "am_la": [
 "Ki"
@@ -3487,15 +2806,17 @@
 "vd": "c1001: …n không thể so sánh với trước kia. Nhiếp tiên sinh vung gậy Tĩnh Tâm Thánh Chượng lên trên, tuôn ra một cỗ lực lượng thuộ…"
 },
 {
-"cum": "Phí Hản",
+"cum": "Chớ Ưu Đáy Vực",
 "lan": 3,
 "chuong": [
-1129
+1181,
+"t1181"
 ],
 "am_la": [
-"Hản"
+"Chớ",
+"Đáy"
 ],
-"vd": "c1129: … linh mạch.\" Cho dù là Chu Tước tiên tử, hoàng tử Kình tộc, Phí Hản thiên vương những thái cổ cự hung này, …"
+"vd": "c1181: … sau khi thương thế hồi phục, nhất định phải lại đi thăm dò Chớ Ưu Đáy Vực một lần. Nguyên Tru Trưởng Lão thần sắc…"
 },
 {
 "cum": "Tịnh Mệt",
@@ -3511,26 +2832,40 @@
 "vd": "c1277: … đến bên cạnh băng sơn, song chưởng ấn mạnh xuống. Hai đoàn Tịnh Mệt thần hỏa từ lòng bàn tay trào ra, khiến…"
 },
 {
-"cum": "Thiên Cương Tử Hỏa Bùa",
+"cum": "Vạn Tâm Giếng",
 "lan": 3,
 "chuong": [
-1324
+1288,
+"t1288"
 ],
 "am_la": [
-"Bùa"
+"Giếng"
 ],
-"vd": "c1324: …i, lần lượt đánh về phía Dạ Tiêu Tiêu và Tiêu Diệt. Hai tấm Thiên Cương Tử Hỏa Bùa đánh ra lần này, so với tấm vừa rồi, kh…"
+"vd": "c1288: …ợc Trần qua. \"Người nhân loại ở đâu ra, vậy mà dám xông vào Vạn Tâm Giếng, chẳng lẽ không biết đây là cấm địa sao…"
 },
 {
-"cum": "Trử Hư",
+"cum": "Vương Bi Thệt",
 "lan": 3,
 "chuong": [
-1397
+1292,
+"t1292"
 ],
 "am_la": [
-"Trử"
+"Thệt"
 ],
-"vd": "c1397: …i núi, trông coi thần Sơ Quỷ Vương là Trử Tâm trưởng lão và Trử Hư trưởng lão, liếc nhìn nhau, đều lộ ra t…"
+"vd": "c1292: …iệc cho Thanh Thiên bộ tộc. Vốn tưởng rằng với thực lực của Vương Bi Thệt, dư sức trảm sát Bùi Vũ Điền, lại không…"
+},
+{
+"cum": "Yến Li Nhan",
+"lan": 3,
+"chuong": [
+1380,
+"t1380"
+],
+"am_la": [
+"Li"
+],
+"vd": "c1380: …Phó các chủ nói. \"< >... Các chủ... Thái Thượng trưởng lão, Yến Li Nhan. Ông ấy chính là các chủ Hộ Long Các?\" …"
 },
 {
 "cum": "Trì Yô",
@@ -3566,6 +2901,19 @@
 "vd": "c1469: …Một kích va chạm mãnh liệt, khí linh của Lâm Thiên Chiến Goa và Cự Kình Phủ bị dòng lũ lôi điện xé n…"
 },
 {
+"cum": "Cốt Cung Long Lưng Vàng",
+"lan": 3,
+"chuong": [
+1490,
+"t1490"
+],
+"am_la": [
+"Lưng",
+"Vàng"
+],
+"vd": "c1490: … ra thủ đoạn không gian na di.\" Thánh Tiễn Hầu lại kéo căng Cốt Cung Long Lưng Vàng dài ba mét, lập tức có từng đạo cương p…"
+},
+{
 "cum": "Luyên Hầu",
 "lan": 3,
 "chuong": [
@@ -3575,28 +2923,6 @@
 "Luyên"
 ],
 "vd": "c1501: …g Hầu tước mạnh nhất dưới quyền Linh Tuyền Thiếu quân. Tiên Luyên Hầu và Trình Hiên Hầu. Tiên Luyên Hầu là mộ…"
-},
-{
-"cum": "Ngàn Du",
-"lan": 3,
-"chuong": [
-1522
-],
-"am_la": [
-"Ngàn"
-],
-"vd": "c1522: …ng.\" La Sát công chúa cười nói. Vũ Thu lại nói: \"Ta hy vọng Ngàn Du và Ngàn Xu hai vị Nhất đẳng hầu tước dư…"
-},
-{
-"cum": "Kim Bụ Long Liễn",
-"lan": 3,
-"chuong": [
-1547
-],
-"am_la": [
-"Bụ"
-],
-"vd": "c1547: …giấy, lật cuộn lên, phát ra tiếng \"ào ào\", đè ngược về phía Kim Bụ Long Liễn. Thoáng chốc, tốc độ cực nhanh mà long …"
 },
 {
 "cum": "Bạch Cợt",
@@ -3688,6 +3014,42 @@
 "vd": "c1800: … nổi vận, thiên địa thánh khí giống như đang sôi trào. \"Ban Làn Tuyệt Ấn.\" Cánh tay độc lập của Tạng Tâm Tôn Giả…"
 },
 {
+"cum": "Đi Hành Giả",
+"lan": 3,
+"chuong": [
+1820,
+"t1820"
+],
+"am_la": [
+"Đi"
+],
+"vd": "c1820: …ắt Hoa Ảnh lộ ra vẻ chợt hiểu, chắp tay nói: \"Nguyên lai là Đi Hành Giả tiền bối, thất kính, thất kính.\" \"Hoa t…"
+},
+{
+"cum": "Cửu Quẻ Trận Kỳ",
+"lan": 3,
+"chuong": [
+1849,
+"t1849"
+],
+"am_la": [
+"Quẻ"
+],
+"vd": "c1849: … Vực Thánh Thành. Thần Nhai tiên sinh tuy trốn thoát, nhưng Cửu Quẻ Trận Kỳ cùng bảy khỏa Thần Tọa Tinh Cầu của hắn…"
+},
+{
+"cum": "Huyết Hoàng Ong",
+"lan": 3,
+"chuong": [
+1870,
+"t1870"
+],
+"am_la": [
+"Ong"
+],
+"vd": "c1870: …ượng. Lộc lão đang điều khiển đại trận phẩm thứ tám trấn áp Huyết Hoàng Ong, sắc mặt bỗng thay đổi. Sư Thanh Thần T…"
+},
+{
 "cum": "Mục Tươi Nam",
 "lan": 3,
 "chuong": [
@@ -3697,6 +3059,18 @@
 "Tươi"
 ],
 "vd": "c1912: … Không biết lúc nào, La Ất xuất hiện trong đội ngũ, giúp đỡ Mục Tươi Nam, Mộ Dung Mệnh cùng nhau công kích Bất T…"
+},
+{
+"cum": "Vô Hỳnh Thiên Y",
+"lan": 3,
+"chuong": [
+1917,
+"t1917"
+],
+"am_la": [
+"Hỳnh"
+],
+"vd": "c1917: …hớ nhung, lần trước tiên tử đi quá vội vàng, lại để quên bộ Vô Hỳnh Thiên Y này ở đây, bây giờ vật về nguyên chủ.\" …"
 },
 {
 "cum": "Thiên Hà Thần Khuyền",
@@ -3710,16 +3084,28 @@
 "vd": "c1918: …ựng thần lực của Lạc Thần, bên trong mang theo thần vận của Thiên Hà Thần Khuyền, Thiên Sơ Tiên Tử nhận được truyền thừa…"
 },
 {
-"cum": "Nguồn Ma Thần Tử",
+"cum": "Trăm Biến Tiếu Tiếu Sinh",
 "lan": 3,
 "chuong": [
-1957,
-2263
+1926,
+"t1926"
 ],
 "am_la": [
-"Nguồn"
+"Trăm"
 ],
-"vd": "c1957: …ần Trùng to bằng nắm tay. Cùng là đệ tử Vận Mệnh Thần Điện, Nguồn Ma Thần Tử lại không hề nắm giữ loại thủ đoạn nô d…"
+"vd": "c1926: …n. Hắn cũng là một trong Lục Tuyệt của Vu Thần Điện, tên là Trăm Biến Tiếu Tiếu Sinh, hình thái dung mạo thay đổi khôn lường…"
+},
+{
+"cum": "Đại Nhật Bỏ Thân Quyết",
+"lan": 3,
+"chuong": [
+2097,
+"t2097"
+],
+"am_la": [
+"Bỏ"
+],
+"vd": "c2097: …im Dương, nhìn thế nào cũng thấy không bình thường. \"Lại là Đại Nhật Bỏ Thân Quyết, Đại Dương Vương muốn ngọc đá cùng vỡ s…"
 },
 {
 "cum": "Minh Cổ Chú Nguyền",
@@ -3766,6 +3152,18 @@
 "vd": "c2202: …ây!!\" Hai tôn không chết cấp cương thi vương của Thi tộc là Đem Lâm và Thiên Tuyển đồng thời đằng không bay…"
 },
 {
+"cum": "Hủ Thánh Xưa",
+"lan": 3,
+"chuong": [
+2209,
+"t2209"
+],
+"am_la": [
+"Xưa"
+],
+"vd": "c2209: …ục thân triệt để bất hủ hóa, đúc thành Ngũ Hành Hỗn Độn Bất Hủ Thánh Xưa. \"Trương Nhược Trần đột phá đến Đại Thá…"
+},
+{
 "cum": "Tịch Mệt Yến",
 "lan": 3,
 "chuong": [
@@ -3799,6 +3197,18 @@
 "Trăm"
 ],
 "vd": "c2257: …Có thể uy hiếp được những Đại Thánh xếp hạng top mười trong Trăm Cung Cảnh đại viên mãn không?\" \"Bọn họ ư? Mỗi ngư…"
+},
+{
+"cum": "Dễn Đạo Thánh Quả",
+"lan": 3,
+"chuong": [
+2297,
+"t2297"
+],
+"am_la": [
+"Dễn"
+],
+"vd": "c2297: …hai Thập Nhị Đóa\", mới xuất hiện dấu hiệu tan rã. Thôn phục Dễn Đạo Thánh Quả đã được một canh giờ, Trương Nhược Trần…"
 },
 {
 "cum": "Thử Thiên Chi Vến",
@@ -3859,17 +3269,6 @@
 "vd": "c2426: …rõ. Huyết Ma tu luyện ngàn năm thế mà lại có thể dùng tu vi Bách Thề Cảnh để chiếm giữ thứ hạng cao như vậy trên …"
 },
 {
-"cum": "Được Thần",
-"lan": 3,
-"chuong": [
-2438
-],
-"am_la": [
-"Được"
-],
-"vd": "c2438: …ợc cả thần linh, hầu như chưa từng thua bao giờ. Tài phú mà Được Thần sở hữu, cho dù là thần, cũng chưa chắc …"
-},
-{
 "cum": "Nguyên Phu Dọc Ngang",
 "lan": 3,
 "chuong": [
@@ -3908,15 +3307,28 @@
 "vd": "c2521: …biến hóa thành thì thế nào?\" \"To gan! Một nữ tử ti tiện của Thần Nữ Mười Hai Lầu, cũng dám làm mưa làm gió ở Địa Ngục Gi…"
 },
 {
-"cum": "Vốn Dĩ Tịch",
+"cum": "Lục Trắng Đầu",
 "lan": 3,
 "chuong": [
-2540
+2535,
+"t2535"
 ],
 "am_la": [
-"Vốn"
+"Trắng"
 ],
-"vd": "c2540: …người nên bắt tay giảng hòa.\" Ngay sau đó, hắn nhìn về phía Vốn Dĩ Tịch trên thánh lâu đằng xa, lên tiếng: \"Ngu…"
+"vd": "c2535: …\"Tất nhiên sự tình đã tinh tường, là Kỷ Phạn Tâm giết Lục Trắng Đầu cùng Đơn Thu, Tử Thần Điện cùng Thanh L…"
+},
+{
+"cum": "Côn Lầu",
+"lan": 3,
+"chuong": [
+2540,
+"t2540"
+],
+"am_la": [
+"Lầu"
+],
+"vd": "c2540: …hàm là tu sĩ đến Bách Tộc Vương Thành, đa số đều sẽ ghé qua Côn Lầu một chuyến, chiêm ngưỡng danh thắng, ho…"
 },
 {
 "cum": "Huyền Thanh Yêng",
@@ -3930,17 +3342,6 @@
 "vd": "c2541: …Diêm Hoàng Đồ, Diêm Chiết Tiên, Bàn Nhược, Huyền Trạch Hải, Huyền Thanh Yêng trên Côn Lâu đều nín thở, đăm đăm nhìn …"
 },
 {
-"cum": "Khải Lưới Ma Sư",
-"lan": 3,
-"chuong": [
-2555
-],
-"am_la": [
-"Lưới"
-],
-"vd": "c2555: …c cho càng đục hơn. Mục đích thứ hai, tự nhiên là để dẫn dụ Khải Lưới Ma Sư và Carat Fillin đang tiềm ẩn trong Ma L…"
-},
-{
 "cum": "Vạn Chết Nhất Sinh Cảnh",
 "lan": 3,
 "chuong": [
@@ -3952,15 +3353,52 @@
 "vd": "c2560: …ặc tăng bào, chẳng lẽ thật sự muốn quy y phật môn?\" \"Năm vị Vạn Chết Nhất Sinh Cảnh đại thánh của Tử thần điện biến thành h…"
 },
 {
-"cum": "Biển Xanh Tứ Tú",
+"cum": "Bùn Bồn Trạch",
 "lan": 3,
 "chuong": [
-2668
+2560,
+"t2560"
 ],
 "am_la": [
-"Xanh"
+"Bùn"
 ],
-"vd": "c2668: …a sớm đã trải qua bị Nho Giới thần linh giết chết. Thư giới Biển Xanh Tứ Tú, đã sớm rơi vào Công Dương Mục bắt bên …"
+"vd": "c2560: …Thất Tinh Đế Cung để vây xem. Mục nát tộc thánh địa, tên là Bùn Bồn Trạch. Là một đầm bùn đen rộng tròn trăm dặm,…"
+},
+{
+"cum": "Cửu Hủ Thi Mực",
+"lan": 3,
+"chuong": [
+2591,
+"t2591"
+],
+"am_la": [
+"Mực"
+],
+"vd": "c2591: …ên, mí mắt giật giật, nói: \"Không ổn, là Ô Toại Thần Bút và Cửu Hủ Thi Mực.\" \"Thần khí?\" Trương Nhược Trần nói. \"K…"
+},
+{
+"cum": "Đệ Giô Nho Tổ",
+"lan": 3,
+"chuong": [
+2621,
+"t2621"
+],
+"am_la": [
+"Giô"
+],
+"vd": "c2621: …cây trà, nhìn thấy một vị lão giả mặc áo nho. Rất giống với Đệ Giô Nho Tổ của Côn Lôn Giới, Trương Nhược Trần từn…"
+},
+{
+"cum": "Xi Đại Cung Chủ",
+"lan": 3,
+"chuong": [
+2658,
+"t2658"
+],
+"am_la": [
+"Xi"
+],
+"vd": "c2658: …Lệnh Xi Đại Cung Chủ ngồi trên lưng một con kỳ lân, mình mặc…"
 },
 {
 "cum": "Chân Lý Của Thần Điện",
@@ -3976,17 +3414,6 @@
 "vd": "c2671: … nói: \"Đêm nay không phải muốn chiến sao? Ta đi đem cao thủ Chân Lý Của Thần Điện, điều động tới.\" \"Đệ muội sẽ đồng ý chứ…"
 },
 {
-"cum": "Trử Kiên",
-"lan": 3,
-"chuong": [
-2677
-],
-"am_la": [
-"Trử"
-],
-"vd": "c2677: …a tay sờ cằm, lộ ra thần sắc trầm ngâm. Trong phòng, chỉ có Trử Kiên một mình ngồi trên ghế. Hắn mọc một đôi…"
-},
-{
 "cum": "Thẩm Ván Cung",
 "lan": 3,
 "chuong": [
@@ -3998,6 +3425,18 @@
 "Ván"
 ],
 "vd": "c2690: …c Chân Thượng Sư\", đang cùng hai mươi bốn vị trưởng lão của Thẩm Ván Cung tạo thành kiếm trận, vây công Hạng Sức …"
+},
+{
+"cum": "Giấu Tôn Giả",
+"lan": 3,
+"chuong": [
+2712,
+"t2712"
+],
+"am_la": [
+"Giấu"
+],
+"vd": "c2712: … huyết vụ, vừa thét lớn: \"Ngươi là ngậm máu phun người! Tài Giấu Tôn Giả ở đây, ngươi đừng hòng muốn làm gì thì …"
 },
 {
 "cum": "Huyết G",
@@ -4025,6 +3464,18 @@
 "vd": "c2714: …nào lại dung hợp từ bảy loại thánh ý trở lên chứ?\" Quỷ Chủ, Thanh Lộc Của Thần Vương v.v... những thần linh này đều lén l lắ…"
 },
 {
+"cum": "Thiên Sinh Tử Xư",
+"lan": 3,
+"chuong": [
+2848,
+"t2848"
+],
+"am_la": [
+"Xư"
+],
+"vd": "c2848: … cần gan dạ, mà còn cần tu vi cường đại. \"Thật lợi hại! Nam Thiên Sinh Tử Xư quả không hổ danh là tồn tại cấp độ chú…"
+},
+{
 "cum": "Thần Tỉ",
 "lan": 3,
 "chuong": [
@@ -4034,6 +3485,18 @@
 "Tỉ"
 ],
 "vd": "c2917: …Đoạt Thiên Thần Hoàng thứ nhất nâng Đại Thương Thần Tỉ lên, Thần Tỉ giống như một tòa cổ lão Thần Thành, ti…"
+},
+{
+"cum": "Trụ Phồn Vòng",
+"lan": 3,
+"chuong": [
+2948,
+"t2948"
+],
+"am_la": [
+"Vòng"
+],
+"vd": "c2948: …Trần lấy ra một chiếc vòng tay, nói: \"Chiếc vòng này tên là Trụ Phồn Vòng, vốn là được luyện chế từ sức mạnh của …"
 },
 {
 "cum": "Kinh Chữ Động",
@@ -4048,17 +3511,6 @@
 "vd": "c2976: …i cho ngài vô số cảm ngộ chưa từng có. Đôi khi ngài lại đến Kinh Chữ Động, lật xem những bộ điển tịch nhiều như n…"
 },
 {
-"cum": "Hư Vêm Hải",
-"lan": 3,
-"chuong": [
-3041
-],
-"am_la": [
-"Vêm"
-],
-"vd": "c3041: …hổng Tước thánh xe chạy thẳng về hướng Dạ Xoa tộc thánh địa Hư Vêm Hải. Trương Nhược Trần ra lệnh, sáu vị tu s…"
-},
-{
 "cum": "Tấm Tử",
 "lan": 3,
 "chuong": [
@@ -4070,17 +3522,6 @@
 "Tấm"
 ],
 "vd": "c3049: …y, nguyên nhân lớn nhất chính là Bèo Tấm Kiếm xuất thế. Bèo Tấm Tử xuất hiện ở đây, quá đỗi bình thường!..…"
-},
-{
-"cum": "Tam Giác Đen",
-"lan": 3,
-"chuong": [
-3053
-],
-"am_la": [
-"Đen"
-],
-"vd": "c3053: … ra lựa chọn gì đi nữa, bản tọa nhất định sẽ ở lại tinh vực Tam Giác Đen, đấu một trận với Hắc Ám thần điện, dẫu…"
 },
 {
 "cum": "Kiếm Nhị Mươi Mốt",
@@ -4143,17 +3584,6 @@
 "vd": "c3103: …chặt lấy cánh tay Tu Thần bên cạnh, nói: \"Cùng là cảnh giới Thái Hươu, ngươi chạy trốn chắc là vẫn có vài phầ…"
 },
 {
-"cum": "Mốt Thác Chiến Thần",
-"lan": 3,
-"chuong": [
-3143
-],
-"am_la": [
-"Mốt"
-],
-"vd": "c3143: … ra. Trong thiên nhãn, bắn ra một đạo thần công, đánh trúng Mốt Thác Chiến Thần đang tấn công tới. Thần thông \"Hắc Ám T…"
-},
-{
 "cum": "Tinh Thiên Sườn Núi",
 "lan": 3,
 "chuong": [
@@ -4178,16 +3608,28 @@
 "vd": "c3146: … cho một kiếm, Nhược Trần e rằng đã ngã xuống dưới kiếm của Tên Kiếm thần. Đây là đại ân cứu mạng.\" \"Nói ra …"
 },
 {
-"cum": "Chẳng Lẽ Đại Thần",
+"cum": "Lưới Khai",
 "lan": 3,
 "chuong": [
-3185
+3174,
+"t3174"
 ],
 "am_la": [
-"Chẳng",
-"Lẽ"
+"Lưới"
 ],
-"vd": "c3185: … Trương Nhược Trần bước vào \"Lục Tổ Thích Thiện Đồ\", thả vị Chẳng Lẽ Đại Thần đang bị trấn áp dưới cây Bồ Đề ra. Tu v…"
+"vd": "c3174: …h tới gần. Còn không tới gần tàn phá thành tường, đột nhiên Lưới Khai quỷ dị biến mất không thấy. Sau một khắ…"
+},
+{
+"cum": "Thương Nệt",
+"lan": 3,
+"chuong": [
+3240,
+"t3240"
+],
+"am_la": [
+"Nệt"
+],
+"vd": "c3240: … với Bất Động Minh Vương Đại Tôn năm xưa?\" \"Bẩm Phượng Tôn, Thương Nệt hiểu biết về chủ nhân không nhiều lắm, …"
 },
 {
 "cum": "Ngũ Phương Giết Đề Phật",
@@ -4201,6 +3643,18 @@
 "vd": "c3273: …hần tăng Tây Thiên Phật Giới bước ra từ hư không, kết thành Ngũ Phương Giết Đề Phật Trận, mỗi người kết một loại thủ ấn huy…"
 },
 {
+"cum": "Vạn Dặm Sơn Hà Trận",
+"lan": 3,
+"chuong": [
+3280,
+"t3280"
+],
+"am_la": [
+"Dặm"
+],
+"vd": "c3280: …ích. Một tòa tiểu thế giới vạn dặm, chắn trước mặt nàng. Là Vạn Dặm Sơn Hà Trận Đồ, bốn vị lão đạo Thái Hư Cảnh của Thi…"
+},
+{
 "cum": "Vô Cực Của Thần Đạo",
 "lan": 3,
 "chuong": [
@@ -4212,17 +3666,6 @@
 "Của"
 ],
 "vd": "c3281: … chúng ta kiến thức thủ đoạn của Thiên Thần sao? Ta đều lấy Vô Cực Của Thần Đạo điều động thiên địa chi lực toàn lực gi…"
-},
-{
-"cum": "Thương Giết",
-"lan": 3,
-"chuong": [
-3282
-],
-"am_la": [
-"Giết"
-],
-"vd": "c3282: …tâm. Bốn vị Thái Hư Cảnh lão đạo của Thiên Thường văn minh, Thương Giết, Tu Thần Thiên Thần đều là dốc hết toàn…"
 },
 {
 "cum": "Thiên Quê",
@@ -4260,6 +3703,30 @@
 "vd": "c3450: …y viết ra khoảng cách trong một số vũ trụ. Khoảng cách giữa Trái Đất và mặt trăng, đại khái hơn bảy mươi vạn…"
 },
 {
+"cum": "Kỳ Vất Đạt Mẫu Thần",
+"lan": 3,
+"chuong": [
+3525,
+"t3525"
+],
+"am_la": [
+"Vất"
+],
+"vd": "c3525: …nhìn qua, có đầu của Tam Sát Đế Quân, cũng có móng vuốt của Kỳ Vất Đạt Mẫu Thần, tổng cộng hơn mười khối huyết nhục, đề…"
+},
+{
+"cum": "Cửa Tử Vong",
+"lan": 3,
+"chuong": [
+3677,
+"t3688"
+],
+"am_la": [
+"Cửa"
+],
+"vd": "c3677: …hạt về phía Thất Thập Nhị Phẩm Liên. Đồng thời, nàng ngự sử Cửa Tử Vong và sáu cuốn \"Mệnh Vận Thiên Thư\", tay c…"
+},
+{
 "cum": "Huyết Tỉ",
 "lan": 3,
 "chuong": [
@@ -4282,15 +3749,29 @@
 "vd": "c3702: …thuyết, rất có thể là một mặt trong ngàn mặt ngàn tướng của Ca Diếp Thủy Tổ.\" \"Tư Đà Hàm Hoàng Kim Xử mỗi cách một …"
 },
 {
-"cum": "Stodhadhāra Hoàng Kim Xử",
+"cum": "Con Sò Hi",
 "lan": 3,
 "chuong": [
-3713
+3735,
+"t3735"
 ],
 "am_la": [
-"Stodhadhāra"
+"Con",
+"Sò"
 ],
-"vd": "c3713: …y lên, tâm trận bàn bắn ra quang trụ, oanh kích đối đầu với Stodhadhāra Hoàng Kim Xử. Một tiếng động lớn vang lên, toàn bộ r…"
+"vd": "c3735: … Trương Nhược Trần đạo: \"Nếu như Cửu Tử Dị Thiên Hoàng cùng Con Sò Hi đã bắt đầu phòng bị, điều đó nói lên ch…"
+},
+{
+"cum": "Tứ Bất Khượng",
+"lan": 3,
+"chuong": [
+3751,
+"t3751"
+],
+"am_la": [
+"Khượng"
+],
+"vd": "c3751: …Tinh nữa, lần lượt cáo từ rời đi. Sau khi chúng yêu rời đi, Tứ Bất Khượng nói: \"Tinh thần lực của Vẫn Thần Đảo Ch…"
 },
 {
 "cum": "Tinh Vân Mặt Sa",
@@ -4302,28 +3783,6 @@
 "Mặt"
 ],
 "vd": "c3755: …Hoa!\" Theo đó, chân lý quang hoa nở rộ trong phiến tinh vực Tinh Vân Mặt Sa này, vô biên vô tận, chói lọi rực rỡ. Ả…"
-},
-{
-"cum": "Âm Luo Thiên Ngoại Thiên",
-"lan": 3,
-"chuong": [
-3772
-],
-"am_la": [
-"Luo"
-],
-"vd": "c3772: …g Nhược Trần nhắm hai mắt lại, bằng Chân Lý Chi Tâm cảm ứng Âm Luo Thiên Ngoại Thiên, lắng nghe đối thoại của từng tôn tu sĩ…"
-},
-{
-"cum": "Diểm Địa",
-"lan": 3,
-"chuong": [
-3792
-],
-"am_la": [
-"Diểm"
-],
-"vd": "c3792: …gì?\" Trương Nhược Trần nói: \"Hai câu hỏi! Câu hỏi thứ nhất, Diểm Địa bị Cốt Diêm La mang đi đâu rồi?\" Hiện t…"
 },
 {
 "cum": "Lưới Tham",
@@ -4346,28 +3805,6 @@
 "Gác"
 ],
 "vd": "c3850: …nhân! Lúc đầu khi chúng ta lần đầu tiên tới, nơi này gọi là Giang Sơn Gác, chủ nhân của nó mỗi tháng đều phải bìn…"
-},
-{
-"cum": "Đầu Bảy Kiếm Hoàng",
-"lan": 3,
-"chuong": [
-3866
-],
-"am_la": [
-"Bảy"
-],
-"vd": "c3866: …: \"Ngươi trở về một chuyến Bá Lĩnh, truyền ta pháp lệnh, để Đầu Bảy Kiếm Hoàng, Thật Nhất Tộc Hoàng, Đồ Đằng Tộc Hoàng…"
-},
-{
-"cum": "Thật Nhất Tộc Hoàng",
-"lan": 3,
-"chuong": [
-3866
-],
-"am_la": [
-"Thật"
-],
-"vd": "c3866: …chuyến Bá Lĩnh, truyền ta pháp lệnh, để Đầu Bảy Kiếm Hoàng, Thật Nhất Tộc Hoàng, Đồ Đằng Tộc Hoàng, Hỏa tộc Tộc Hoàng l…"
 },
 {
 "cum": "Thiên Đàng Giới",
@@ -4426,6 +3863,30 @@
 "vd": "c3985: … là bộ đồ hắn mặc khi Thái Thượng đưa Trương Nhược Trần đến Tu M Miếu tu luyện Nhất Phẩm Thần Đạo, lúc gặp đư…"
 },
 {
+"cum": "Rữu Tổ",
+"lan": 3,
+"chuong": [
+4011,
+"t4011"
+],
+"am_la": [
+"Rữu"
+],
+"vd": "c4011: …gay, hoặc từ chối, mà hỏi ngược lại một câu: \"Với tu vi của Rữu Tổ, nắm giữ Thất Thập Nhị Tầng Tháp, có nắ…"
+},
+{
+"cum": "Lan Ngãi",
+"lan": 3,
+"chuong": [
+4023,
+"t4023"
+],
+"am_la": [
+"Ngãi"
+],
+"vd": "c4023: …mù. Nhưng ngươi hoàn toàn có thể không công khai thần thông Lan Ngãi đồng phần này ra, như vậy há chẳng phải…"
+},
+{
 "cum": "Hồng Cầy Hắc Long",
 "lan": 3,
 "chuong": [
@@ -4435,19 +3896,6 @@
 "Cầy"
 ],
 "vd": "c4111: …sao nàng ta lại vội vã trở về Địa Ngục Giới như vậy, bởi vì Hồng Cầy Hắc Long bị trấn áp, Thái Cổ mười hai tộc tổn th…"
-},
-{
-"cum": "Nhị Mươi Sáu",
-"lan": 3,
-"chuong": [
-4127,
-4134
-],
-"am_la": [
-"Mươi",
-"Sáu"
-],
-"vd": "c4127: … Dung Đối Cực hiểu rõ Hư Tôn, kẻ tu thành Kiếm Vị Lai (Kiếm Nhị Mươi Sáu), lợi hại đến mức nào. Từ khoảnh khắc H…"
 },
 {
 "cum": "Vạn Đai Cửu Tổ",
@@ -4481,17 +3929,6 @@
 "Cुस्तान"
 ],
 "vd": "c4150: …nh ở bầu trời xa xa, nói: \"Cũng không cần phải lo lắng quá, Đế Cुस्तान định ở nơi nào đó đang chằm chằm nhìn v…"
-},
-{
-"cum": "Đạo Nhân Giếng",
-"lan": 3,
-"chuong": [
-4185
-],
-"am_la": [
-"Giếng"
-],
-"vd": "c4185: …n quay lại kề vai chiến đấu với Bất Tử Chiến Thần, nhưng bị Đạo Nhân Giếng kéo lại. \"Hắn rõ ràng là muốn tự bạo th…"
 },
 {
 "cum": "Văn Minh Cỗ Hoàn",
@@ -4538,27 +3975,40 @@
 "vd": "c4203: … mình.\" Thạch Cơ Nương Nương kể lại ngọn ngành: \"Chủ yếu là Nhe Hà nhớ nhung mẫu thân, đã đi theo con đườn…"
 },
 {
+"cum": "Giếng Đạo Nhân",
+"lan": 3,
+"chuong": [
+4209,
+"t3676"
+],
+"am_la": [
+"Giếng"
+],
+"vd": "c4209: …vào trước bụng, nhắm mắt dưỡng thần, chẳng thèm đếm xỉa đến Giếng Đạo Nhân. Vốn dĩ hắn không muốn đến, nhưng nghe …"
+},
+{
+"cum": "Mộ Dung Thái Đến",
+"lan": 3,
+"chuong": [
+"t3707",
+"t3708"
+],
+"am_la": [
+"Đến"
+],
+"vd": "t3707: …tiến vào cung thì bị Quang Minh Thần Tiễn trọng thương, còn Mộ Dung Thái Đến giao chiến với A Phù Nhã, Thanh Thành V…"
+},
+{
 "cum": "Hình Hượng Ảnh",
 "lan": 2,
 "chuong": [
-5,
-270
+270,
+5
 ],
 "am_la": [
 "Hượng"
 ],
 "vd": "c5: …g phẩm. Chưởng thứ tư của Long Tượng Nhược Bát Chưởng \"Long Hình Hượng Ảnh\", tu luyện thành công, uy lực sánh ngan…"
-},
-{
-"cum": "Hổ Khiếu Pô",
-"lan": 2,
-"chuong": [
-22
-],
-"am_la": [
-"Pô"
-],
-"vd": "c22: …ực hoạt động đại khái của đám man thú. \"Phía trước chính là Hổ Khiếu Pô, lúc trước ta đi ngang qua nơi đó, từng…"
 },
 {
 "cum": "Tu Di Hỗn Nguyên Túi",
@@ -4661,6 +4111,18 @@
 "vd": "c225: …ơng thật sự quá nặng, không thể không ngồi dưới đất. Mặc dù Tím Âm Dương và Độc Chu Thiếu Chủ bị nữ tử thần bí đ…"
 },
 {
+"cum": "Tuyền Ki Song Tuyệt",
+"lan": 2,
+"chuong": [
+264,
+"t264"
+],
+"am_la": [
+"Ki"
+],
+"vd": "c264: …lưng Thôn Vân Tước, mang theo Thường Ưu Tư, Hoàng Yên Trần, Tuyền Ki Song Tuyệt bay ra khỏi cổ thành tàn phá đó, dừng l…"
+},
+{
 "cum": "Thập Mạch Kiếm Sóng",
 "lan": 2,
 "chuong": [
@@ -4670,6 +4132,18 @@
 "Sóng"
 ],
 "vd": "c281: …ễn Kiếm Phá Ma Chỉ, đánh ra cũng là chỉ pháp kiếm khí, cùng Thập Mạch Kiếm Sóng có chút tương tự. Nhưng mà, Thập Mạch K…"
+},
+{
+"cum": "Chuyệt Nguyệt",
+"lan": 2,
+"chuong": [
+326,
+"t326"
+],
+"am_la": [
+"Chuyệt"
+],
+"vd": "c326: …tu vi võ đạo còn cao hơn cả Hồng Dục Tinh Sứ. Giọng nói của Chuyệt Nguyệt tinh sứ phiêu miểu, mềm mại động lòng n…"
 },
 {
 "cum": "Mạ Vàng",
@@ -4694,6 +4168,18 @@
 "vd": "c428: …Nhược Trần. Lại không ngờ rằng, Trương Nhược Trần đã trở về Thánh Uyện, Nhiếp Văn Long lại không thể quay về, …"
 },
 {
+"cum": "Lang Huyên Kim Chuông",
+"lan": 2,
+"chuong": [
+442,
+"t442"
+],
+"am_la": [
+"Chuông"
+],
+"vd": "c442: … nàng ta đã chậm một bước, sau khi Tử Phong Tinh Sứ đánh ra Lang Huyên Kim Chuông liền lập tức rút lui, biến mất không tă…"
+},
+{
 "cum": "Thiên Tâm Chỉ Ls",
 "lan": 2,
 "chuong": [
@@ -4708,8 +4194,8 @@
 "cum": "Càn Khôn Của Thần Mộc",
 "lan": 2,
 "chuong": [
-466,
-1178
+1178,
+466
 ],
 "am_la": [
 "Của"
@@ -4728,15 +4214,16 @@
 "vd": "c469: …ần lượt là Tư Thánh Môn Phiệt Tư Hải, Tư Thánh Môn Phiệt Hi Vân Ny, Tả Thánh Môn Phiệt Tả Khưu Lăng. Còn c…"
 },
 {
-"cum": "Hi Vân Ny",
+"cum": "Huyết Ma Pháp X",
 "lan": 2,
 "chuong": [
-469
+480,
+"t480"
 ],
 "am_la": [
-"Ny"
+"X"
 ],
-"vd": "c469: …miệng Tư Hải thốt ra. Trương Nhược Trần liếc nhìn Tư Hải và Hi Vân Ny bốn người, nói: \"Thực lực của ta thế nà…"
+"vd": "c480: …Trong mắt trương nhược trần và ngao tâm nhan, chưởng ấn của Huyết Ma Pháp X tựa như một đóa mây hình năm ngón tay m…"
 },
 {
 "cum": "Gian Vẹo Vọ",
@@ -4750,6 +4237,18 @@
 "Vọ"
 ],
 "vd": "c480: …c Trần phóng thích Không Gian Lĩnh Vực ra, thi triển \"Không Gian Vẹo Vọ\". Thấy quyền đầu của bùi kỷ sắp giáng l…"
+},
+{
+"cum": "Trúc Mây Sứ Giả",
+"lan": 2,
+"chuong": [
+530,
+"t530"
+],
+"am_la": [
+"Mây"
+],
+"vd": "c530: …sẽ để ngươi lại phía sau một đoạn rất xa.\" Ngao Tâm Nhan và Trúc Mây Sứ Giả đã tu luyện trong thế giới tranh được b…"
 },
 {
 "cum": "Tỏa Thánh Lên",
@@ -4776,17 +4275,6 @@
 "vd": "c591: … quá nguy hiểm, hơn nữa còn tổn hại tu vi. Ngươi vẫn nên về Cổ Nguyệt Sườn Nú một chuyến, để Đại Tế Tự giúp ngươi giả…"
 },
 {
-"cum": "Long Tượng Nhược Trơn Chưởng",
-"lan": 2,
-"chuong": [
-609
-],
-"am_la": [
-"Trơn"
-],
-"vd": "c609: …ốt toàn thân như nối liền thành một thể, bắt đầu triển khai Long Tượng Nhược Trơn Chưởng. Thông qua việc luyện chưởng, không ngừ…"
-},
-{
 "cum": "Hỏa Lốc Xoáy",
 "lan": 2,
 "chuong": [
@@ -4803,8 +4291,8 @@
 "cum": "Trọa Thần Sơn Lĩnh",
 "lan": 2,
 "chuong": [
-620,
-4162
+4162,
+620
 ],
 "am_la": [
 "Trọa"
@@ -4826,8 +4314,8 @@
 "cum": "Đệ Nhất Central Empire",
 "lan": 2,
 "chuong": [
-767,
-3409
+3409,
+767
 ],
 "am_la": [
 "Central",
@@ -4858,6 +4346,18 @@
 "vd": "c820: …Nhược Trần, bĩu môi uy hiếp: \"Ngươi mà dám gạt ta, rời khỏi Âm Giàm, ta liền đi mách Trần tỷ, để nàng trị n…"
 },
 {
+"cum": "Quả Thần Nặng",
+"lan": 2,
+"chuong": [
+825,
+"t825"
+],
+"am_la": [
+"Nặng"
+],
+"vd": "c825: … một phen, muốn xem thử ngươi có bản lĩnh gì mà đòi giữ lại Quả Thần Nặng.\" Đúng lúc này, từ đằng xa truyền đến t…"
+},
+{
 "cum": "Cắp Thi Mật Thuật",
 "lan": 2,
 "chuong": [
@@ -4867,17 +4367,6 @@
 "Cắp"
 ],
 "vd": "c827: …ểm tương thông.\" Sử Nhân nói: \"Tử Thiền Phật Pháp vốn là từ Cắp Thi Mật Thuật lột xác mà ra, hơn nữa còn dung nhập tr…"
-},
-{
-"cum": "Hồn Thánh Cỗ",
-"lan": 2,
-"chuong": [
-845
-],
-"am_la": [
-"Cỗ"
-],
-"vd": "c845: …ại Thánh mới có thể luyện chế ra Nhiếp Hồn Thánh Cỗ.\" Nhiếp Hồn Thánh Cỗ xếp thứ mười tám trong \"Thiên Văn Thánh…"
 },
 {
 "cum": "Long Tượng Broạh Nhược Chưởng",
@@ -4904,18 +4393,6 @@
 "vd": "c944: …g Nhược Trần đánh ra chấn cho đứt gãy, tuôn ra máu tươi. Vũ Mí Huyết Đao và Long Nha chủy thủ tự nhiên cũng bay …"
 },
 {
-"cum": "Trương Tấm",
-"lan": 2,
-"chuong": [
-994,
-3755
-],
-"am_la": [
-"Tấm"
-],
-"vd": "c994: …nh sống lưng, hai chân không kìm được mà run rẩy. \"Chẳng lẽ Trương Tấm (Trương Nhược Trần) đã sắp xếp nhân thủ…"
-},
-{
 "cum": "Huyễn Kim Mặt Nạ",
 "lan": 2,
 "chuong": [
@@ -4926,6 +4403,18 @@
 "Nạ"
 ],
 "vd": "c1037: …ành bộ dạng Cố Lâm Phong – Thần tử Huyết Thần Giáo. Còn tấm Huyễn Kim Mặt Nạ kia thì giao cho Hoàng Yên Trần, để nàn…"
+},
+{
+"cum": "Thái Trải Luân",
+"lan": 2,
+"chuong": [
+1041,
+"t1041"
+],
+"am_la": [
+"Trải"
+],
+"vd": "c1041: …iên đang đứng cùng hai vị nhân vật lãnh đạo của Thái gia là Thái Trải Luân và Thái Văn Cơ để bàn bạc điều gì đó, k…"
 },
 {
 "cum": "Thượng Quan Lung Lông",
@@ -4951,6 +4440,18 @@
 "vd": "c1055: …vết máu bên khóe miệng, sau đó vận chuyển Thánh khí rót vào Kỳ Lân Trường Sắp. Lập tức, vô số văn khắc dày đặc hiện l…"
 },
 {
+"cum": "Bùn Sa",
+"lan": 2,
+"chuong": [
+1076,
+"t1076"
+],
+"am_la": [
+"Bùn"
+],
+"vd": "c1076: …uya, Trương Nhược Trần và Hoàng Yên Trần mới đi tới bờ sông Bùn Sa, hội hợp với Tiểu Hắc, Đại Tư Không, Nh…"
+},
+{
 "cum": "Thanh Lông Vương Triều",
 "lan": 2,
 "chuong": [
@@ -4974,17 +4475,6 @@
 "vd": "c1159: … ngoài ý muốn, mà còn rất kinh ngạc. Xám y lão giả nói: \"Vô Hình Vô Phướng Tam Thập Lục Biến của ngươi có thể gạt được ngườ…"
 },
 {
-"cum": "Khói Trần Quận",
-"lan": 2,
-"chuong": [
-1167
-],
-"am_la": [
-"Khói"
-],
-"vd": "c1167: …hỏi. Trương Nhược Trần cười cười, đáp: \"Ngươi là thị nữ của Khói Trần Quận chúa, mà Khói Trần Quận chúa lại là thê…"
-},
-{
 "cum": "Hoa Cổng",
 "lan": 2,
 "chuong": [
@@ -4996,16 +4486,16 @@
 "vd": "c1172: …nhíu mày, nói: \"Nói như vậy, cung chủ Loạn Tự Thiên Cung Vũ Hoa Cổng, Địa Nguyên Pháp Vương Khổng Dịch, có t…"
 },
 {
-"cum": "Chớ Ưu Đáy Vực",
+"cum": "Vũ Hoa Cổng",
 "lan": 2,
 "chuong": [
-1181
+1172,
+"t1172"
 ],
 "am_la": [
-"Chớ",
-"Đáy"
+"Cổng"
 ],
-"vd": "c1181: … sau khi thương thế hồi phục, nhất định phải lại đi thăm dò Chớ Ưu Đáy Vực một lần. Nguyên Tru Trưởng Lão thần sắc…"
+"vd": "c1172: …ổng. Bất Tử Huyết tộc thật sự viết nên một ván cờ hay, phái Vũ Hoa Cổng ám sát Hải Minh Pháp Vương, lại lợi dụn…"
 },
 {
 "cum": "Ưu Đáy Vực",
@@ -5017,6 +4507,18 @@
 "Đáy"
 ],
 "vd": "c1181: …hân thanh tu.\" Trương Nhược Trần mặt không đổi sắc nói. Chớ Ưu Đáy Vực chính là địa bàn của giáo chủ phu nhân,…"
+},
+{
+"cum": "Chớ Ưu",
+"lan": 2,
+"chuong": [
+1185,
+"t1185"
+],
+"am_la": [
+"Chớ"
+],
+"vd": "c1185: …hương hay nội thương, đều đang nhanh chóng khôi phục. Ở lại Chớ Ưu đáy vực, bất cứ lúc nào cũng là huyễn t…"
 },
 {
 "cum": "Long Voi",
@@ -5042,17 +4544,6 @@
 "vd": "c1256: … trên lệnh bài vọt ra, hóa thành một cự thú chân chính. Tam Long Vương Thằn Lằn. Tam Long Vương Thằn Lằn là mãnh thú th…"
 },
 {
-"cum": "Vạn Tâm Giếng",
-"lan": 2,
-"chuong": [
-1288
-],
-"am_la": [
-"Giếng"
-],
-"vd": "c1288: …ợc Trần qua. \"Người nhân loại ở đâu ra, vậy mà dám xông vào Vạn Tâm Giếng, chẳng lẽ không biết đây là cấm địa sao…"
-},
-{
 "cum": "Hỏa Xoáy Vực",
 "lan": 2,
 "chuong": [
@@ -5062,17 +4553,6 @@
 "Xoáy"
 ],
 "vd": "c1289: …h, đi tới một vị trí có địa thế cao hơn ở rìa sơn cốc. \"Lôi Hỏa Xoáy Vực.\" Trương Nhược Trần triển khai một loại…"
-},
-{
-"cum": "Vương Bi Thệt",
-"lan": 2,
-"chuong": [
-1292
-],
-"am_la": [
-"Thệt"
-],
-"vd": "c1292: …iệc cho Thanh Thiên bộ tộc. Vốn tưởng rằng với thực lực của Vương Bi Thệt, dư sức trảm sát Bùi Vũ Điền, lại không…"
 },
 {
 "cum": "Tử Hóng Tử",
@@ -5096,6 +4576,19 @@
 "Giàng"
 ],
 "vd": "c1296: …a vào tòa không gian mê trận này, cho dù là nhân vật cấp độ Thông Thiên Huyết Giàng đến nơi này, cũng phải khiến hắn trả mộ…"
+},
+{
+"cum": "Không Gian Vẹo Vã",
+"lan": 2,
+"chuong": [
+1304,
+"t1304"
+],
+"am_la": [
+"Vẹo",
+"Vã"
+],
+"vd": "c1304: …uối cùng, hai tay hướng về phía trước vồ một cái, thi triển Không Gian Vẹo Vã.br/> Ngay sau đó, bốp một tiếng, Chúc K…"
 },
 {
 "cum": "Tiên Ki Hướng",
@@ -5143,17 +4636,6 @@
 "vd": "c1363: … khó hiểu. \"Vậy ngươi còn đợi gì nữa, mau cứu người đi.\" Tử Hẻo Điên giục một câu. Tử Hẻo Điên vươn một bàn …"
 },
 {
-"cum": "Yến Li Nhan",
-"lan": 2,
-"chuong": [
-1380
-],
-"am_la": [
-"Li"
-],
-"vd": "c1380: …Phó các chủ nói. \"< >... Các chủ... Thái Thượng trưởng lão, Yến Li Nhan. Ông ấy chính là các chủ Hộ Long Các?\" …"
-},
-{
 "cum": "Nền Tảng",
 "lan": 2,
 "chuong": [
@@ -5177,6 +4659,19 @@
 "vd": "c1439: … giới chỉ lấy ra một khối thịt rồng đông lạnh, một cái cánh Hỏa Luan, một miếng vây cá Minh Sa, đặt dưới đất…"
 },
 {
+"cum": "Lưỡng Cực Đầm Lầy",
+"lan": 2,
+"chuong": [
+1466,
+"t1466"
+],
+"am_la": [
+"Đầm",
+"Lầy"
+],
+"vd": "c1466: … ra, căn bản không đả thương được hắn. \"Chạy trốn vào trong Lưỡng Cực Đầm Lầy, là có thể tránh được tai mắt của La Sá…"
+},
+{
 "cum": "Goa Hầu",
 "lan": 2,
 "chuong": [
@@ -5186,18 +4681,6 @@
 "Goa"
 ],
 "vd": "c1469: …iếng bi thương, thụt lùi trở lại bên trong thánh khí. Thiên Goa Hầu và Bạch Vân Hầu đều hơi giật mình, vội …"
-},
-{
-"cum": "Cốt Cung Long Lưng Vàng",
-"lan": 2,
-"chuong": [
-1490
-],
-"am_la": [
-"Lưng",
-"Vàng"
-],
-"vd": "c1490: … ra thủ đoạn không gian na di.\" Thánh Tiễn Hầu lại kéo căng Cốt Cung Long Lưng Vàng dài ba mét, lập tức có từng đạo cương p…"
 },
 {
 "cum": "Trăm Năm Minh Đông",
@@ -5235,16 +4718,16 @@
 "vd": "c1545: … mươi vạn dặm. Cho dù là với tốc độ của Luyện Khí Địa Long, Lên Đường không ngủ không nghỉ cũng cần thời gian…"
 },
 {
-"cum": "Trương Rần",
+"cum": "Thiên Cương Tử Hỏa Hùy",
 "lan": 2,
 "chuong": [
-1558,
-3673
+1565,
+"t1565"
 ],
 "am_la": [
-"Rần"
+"Hùy"
 ],
-"vd": "c1558: …lượng, cho dù đi đến đâu cũng là tinh thần chói lọi. Mặc dù Trương Rần tung hoành bốn phương ở Tổ Linh Giới, n…"
+"vd": "c1565: …ần đứng dưới bậc thềm, không hề né tránh, mà lấy ra một tấm Thiên Cương Tử Hỏa Hùy, kích phát các vầng minh văn trên phù l…"
 },
 {
 "cum": "Triệu Ấc",
@@ -5279,6 +4762,42 @@
 "Là"
 ],
 "vd": "c1621: …ẽ ra tay cướp lại đầu của hơn một trăm vị tu sĩ tà đạo. Thế Chính Là, ngoài dự liệu của bọn họ, Hỏa Vương, L…"
+},
+{
+"cum": "Tam Túc Thực Thây Trùng",
+"lan": 2,
+"chuong": [
+1627,
+"t1627"
+],
+"am_la": [
+"Thây"
+],
+"vd": "c1627: …hì bay về phía La Nam hoàng tử và Doãn Bằng. \"A... Là... Là Tam Túc Thực Thây Trùng...\" Tiếng kêu thảm thiết của Doãn Bằng …"
+},
+{
+"cum": "Mười Tâm Chu Quả",
+"lan": 2,
+"chuong": [
+1667,
+"t1667"
+],
+"am_la": [
+"Mười"
+],
+"vd": "c1667: …m huynh, chúng ta chỉ muốn giao dịch với ngươi, đổi lấy quả Mười Tâm Chu Quả kia, căn bản không ngờ ngươi lại đột nh…"
+},
+{
+"cum": "Mười Hai Cung Thần Trận",
+"lan": 2,
+"chuong": [
+1689,
+"t1689"
+],
+"am_la": [
+"Mười"
+],
+"vd": "c1689: …Sao có thể như vậy? Không ngờ vẫn bị hắn đánh lùi.\" Nhờ vào Mười Hai Cung Thần Trận do mười hai khối thần cốt diễn hóa, Vũ …"
 },
 {
 "cum": "Long Dù",
@@ -5337,6 +4856,31 @@
 "vd": "c1752: … đã vẫn lạc, nếu như Vong Hư lại chết, vị thần linh kia của Thụy Ya Giới e rằng sẽ nổi giận đùng đùng, chuyện gì…"
 },
 {
+"cum": "Bát Long Dù",
+"lan": 2,
+"chuong": [
+1795,
+"t1719"
+],
+"am_la": [
+"Dù"
+],
+"vd": "c1795: …i. Lúc này, một tay hắn nắm Trầm Uyên Cổ Kiếm, một tay xách Bát Long Dù, chặn ngang Thạch Khai lại. Thạch Khai …"
+},
+{
+"cum": "Tử Kim Bát Quà Gương",
+"lan": 2,
+"chuong": [
+1800,
+"t1800"
+],
+"am_la": [
+"Quà",
+"Gương"
+],
+"vd": "c1800: … thánh khí đánh về phía Chân Diệu Tiểu Đạo Nhân. Đồng thời, Tử Kim Bát Quà Gương từ từ bay lên, lơ lửng giữa không trung…"
+},
+{
 "cum": "U Của Thần Điện",
 "lan": 2,
 "chuong": [
@@ -5347,17 +4891,6 @@
 "Của"
 ],
 "vd": "c1803: …g, nàng có thể giúp Trương Nhược Trần giải quyết phiền phức U Của Thần Điện. Trương Nhược Trần sử dụng truyền tấn q…"
-},
-{
-"cum": "Đi Hành Giả",
-"lan": 2,
-"chuong": [
-1820
-],
-"am_la": [
-"Đi"
-],
-"vd": "c1820: …ắt Hoa Ảnh lộ ra vẻ chợt hiểu, chắp tay nói: \"Nguyên lai là Đi Hành Giả tiền bối, thất kính, thất kính.\" \"Hoa t…"
 },
 {
 "cum": "Phược Thánh Sây",
@@ -5382,26 +4915,16 @@
 "vd": "c1848: …h Tân Hỏa Tháp không xa, Tuyệt Nham Hổ phá tan kiếm võng do Mưa Tơ Thần Kiếm hình thành, trong miệng phun ra thánh h…"
 },
 {
-"cum": "Cửu Quẻ Trận Kỳ",
+"cum": "Không Gian Thác Lộn Quyển",
 "lan": 2,
 "chuong": [
-1849
+1852,
+"t1852"
 ],
 "am_la": [
-"Quẻ"
+"Lộn"
 ],
-"vd": "c1849: … Vực Thánh Thành. Thần Nhai tiên sinh tuy trốn thoát, nhưng Cửu Quẻ Trận Kỳ cùng bảy khỏa Thần Tọa Tinh Cầu của hắn…"
-},
-{
-"cum": "Huyết Hoàng Ong",
-"lan": 2,
-"chuong": [
-1870
-],
-"am_la": [
-"Ong"
-],
-"vd": "c1870: …ượng. Lộc lão đang điều khiển đại trận phẩm thứ tám trấn áp Huyết Hoàng Ong, sắc mặt bỗng thay đổi. Sư Thanh Thần T…"
+"vd": "c1852: …ng hoang dã trống trải. Đột nhiên, Trương Nhược Trần lấy ra Không Gian Thác Lộn Quyển Chức, triển khai nó, vung tay đánh về p…"
 },
 {
 "cum": "Kẻ Ngốc",
@@ -5427,26 +4950,28 @@
 "vd": "c1887: …trúng. \"Rốt cuộc là quái vật gì?\" Trương Nhược Trần đánh ra Tịnh Vệt Thần Hỏa, ngưng thành một con Thần Hỏa Kỳ Lân, x…"
 },
 {
-"cum": "Vô Hỳnh Thiên Y",
+"cum": "Công Đức Vị Đổi Đại",
 "lan": 2,
 "chuong": [
-1917
+1917,
+"t1917"
 ],
 "am_la": [
-"Hỳnh"
+"Đổi"
 ],
-"vd": "c1917: …hớ nhung, lần trước tiên tử đi quá vội vàng, lại để quên bộ Vô Hỳnh Thiên Y này ở đây, bây giờ vật về nguyên chủ.\" …"
+"vd": "c1917: …ược Trần đang rời đi, Thương Tử Hằng xoay người đi ra ngoài Công Đức Vị Đổi Đại Điện. Hắn phải tiếp tục đi chiến trường…"
 },
 {
-"cum": "Trăm Biến Tiếu Tiếu Sinh",
+"cum": "Công Đức Bảo Vật Đổi",
 "lan": 2,
 "chuong": [
-1926
+1917,
+"t1917"
 ],
 "am_la": [
-"Trăm"
+"Đổi"
 ],
-"vd": "c1926: …n. Hắn cũng là một trong Lục Tuyệt của Vu Thần Điện, tên là Trăm Biến Tiếu Tiếu Sinh, hình thái dung mạo thay đổi khôn lường…"
+"vd": "c1917: …hương Tử Hằng và những người khác, Trương Nhược Trần đi đến Công Đức Bảo Vật Đổi Xử. Nơi này không có nhân viên, cần tự …"
 },
 {
 "cum": "Kim Bộ Long Rản",
@@ -5460,6 +4985,18 @@
 "vd": "c1934: … thẳng về phía Thương Ma. \"Ầm ầm ầm.\" Chín đạo long hồn kéo Kim Bộ Long Rản, như một cỗ chiến xa vô địch, lao thẳng…"
 },
 {
+"cum": "Hạc Vẩn",
+"lan": 2,
+"chuong": [
+1945,
+"t1945"
+],
+"am_la": [
+"Vẩn"
+],
+"vd": "c1945: …ử cường đại đến mức nào. Ánh mắt Trương Nhược Trần quét qua Hạc Vẩn thống lĩnh, sau đó quét sang mấy vị cườ…"
+},
+{
 "cum": "Trói Thánh",
 "lan": 2,
 "chuong": [
@@ -5469,6 +5006,30 @@
 "Trói"
 ],
 "vd": "c1967: …hương Long và đồng bọn. Lật tay một cái, hắn lấy ra một sợi Trói Thánh tác, trói chặt Nguyễn Linh lại. Hắn cũn…"
+},
+{
+"cum": "Rhea Giới",
+"lan": 2,
+"chuong": [
+1985,
+"t1620"
+],
+"am_la": [
+"Rhea"
+],
+"vd": "c1985: … đã hạ quyết tâm muốn tiêu diệt Thánh Minh Thành. Hồn Giới, Rhea Giới, Vân Giới, Sách Giới, Âm Dương Giới, Hồ…"
+},
+{
+"cum": "Hứa Hệt",
+"lan": 2,
+"chuong": [
+2025,
+"t2025"
+],
+"am_la": [
+"Hệt"
+],
+"vd": "c2025: … cái gì, liền đến cái đó. Cùng lúc đó, Hải Minh Pháp Vương, Hứa Hệt và Mặc Thiên Thu cũng sắc mặt đại biến,…"
 },
 {
 "cum": "Tiên Ki Sâm",
@@ -5493,15 +5054,17 @@
 "vd": "c2037: …Sơn Ma Kính tự động hồi phục, trên bề mặt nổi lên lượng lớn Chí Tôn Minh V văn, ma khí dày đặc tản mát ra, ngưng t…"
 },
 {
-"cum": "Đại Nhật Bỏ Thân Quyết",
+"cum": "Vòng Xoáy Không Gian",
 "lan": 2,
 "chuong": [
-2097
+2068,
+"t2068"
 ],
 "am_la": [
-"Bỏ"
+"Vòng",
+"Xoáy"
 ],
-"vd": "c2097: …im Dương, nhìn thế nào cũng thấy không bình thường. \"Lại là Đại Nhật Bỏ Thân Quyết, Đại Dương Vương muốn ngọc đá cùng vỡ s…"
+"vd": "c2068: …a, đã các ngươi muốn chơi, bản tọa liền phụng bồi đến cùng, Vòng Xoáy Không Gian.\" Diêm Vô Thần cười to, giơ tay điểm mộ…"
 },
 {
 "cum": "Thật Long Đảo",
@@ -5549,18 +5112,6 @@
 "vd": "c2182: …t nữa ngã nhào xuống đất. Ngay lập tức, hắn lấy ra một bình Sinh Vệnh Chi Tuyền, một hơi uống cạn sạch, tiếp theo vận c…"
 },
 {
-"cum": "Trương Rất Trần",
-"lan": 2,
-"chuong": [
-2185,
-3662
-],
-"am_la": [
-"Rất"
-],
-"vd": "c2185: …ng của Chân Lý Thần Điện, đúng như Chân Lý Điện Chủ đã nói, Trương Rất Trần thực sự là người phi phàm, tương lai ắt…"
-},
-{
 "cum": "Titan Lục Thần Tướng",
 "lan": 2,
 "chuong": [
@@ -5581,17 +5132,6 @@
 "Mười"
 ],
 "vd": "c2192: …ch thánh lực quang Minh bàng bạc, dốc hết sức lực thôi động Mười Hai Thẩm Phán Chi Kiếm, hơn một triệu đạo chí tôn văn nổi…"
-},
-{
-"cum": "Hủ Thánh Xưa",
-"lan": 2,
-"chuong": [
-2209
-],
-"am_la": [
-"Xưa"
-],
-"vd": "c2209: …ục thân triệt để bất hủ hóa, đúc thành Ngũ Hành Hỗn Độn Bất Hủ Thánh Xưa. \"Trương Nhược Trần đột phá đến Đại Thá…"
 },
 {
 "cum": "Bất Hủ Thánh Xưa",
@@ -5650,18 +5190,6 @@
 "vd": "c2241: …inh ra ảo giác. Ma La gia tộc Chiến đế, lại là lĩnh đội của Vô Entropy Thần quốc, thế mà bị một tên Đại Thánh Nhân …"
 },
 {
-"cum": "Mì Thánh Tăng",
-"lan": 2,
-"chuong": [
-2262,
-4199
-],
-"am_la": [
-"Mì"
-],
-"vd": "c2262: …nh Thiền đi tới, tỉ mỉ đánh giá Trương Nhược Trần, nói: \"Tư Mì Thánh Tăng có thể chọn ngươi làm người thừa kế, có…"
-},
-{
 "cum": "Thẩm Nam Sênh",
 "lan": 2,
 "chuong": [
@@ -5672,17 +5200,6 @@
 "Sênh"
 ],
 "vd": "c2270: … mời cho Trương Nhược Trần. Kể từ tin tức Du Hoàng đánh bại Thẩm Nam Sênh truyền đi, Trương Nhược Trần và Du Hoàn…"
-},
-{
-"cum": "Dễn Đạo Thánh Quả",
-"lan": 2,
-"chuong": [
-2297
-],
-"am_la": [
-"Dễn"
-],
-"vd": "c2297: …hai Thập Nhị Đóa\", mới xuất hiện dấu hiệu tan rã. Thôn phục Dễn Đạo Thánh Quả đã được một canh giờ, Trương Nhược Trần…"
 },
 {
 "cum": "Sợ Trời Đại Yến",
@@ -5720,6 +5237,18 @@
 "vd": "c2316: … Phấn Hồng Khô Lâu cơ hội thoát thân và định hồn, thi triển Không Gian Nơi Di, lại một lần nữa xuất hiện trước người …"
 },
 {
+"cum": "Huyết Nguyệt Sôi Trào",
+"lan": 2,
+"chuong": [
+2316,
+"t2316"
+],
+"am_la": [
+"Sôi"
+],
+"vd": "c2316: …ồn lại cường đại như thế, Bách Kia cấp cao giai thánh thuật Huyết Nguyệt Sôi Trào của ta vậy mà một kích liền tan rã.\" Mã…"
+},
+{
 "cum": "Đại Thánh Bách Xế Cảnh",
 "lan": 2,
 "chuong": [
@@ -5729,6 +5258,18 @@
 "Xế"
 ],
 "vd": "c2324: …ng lân cận Hắc Ám Tinh số ba. Trong đó, bao gồm mười hai vị Đại Thánh Bách Xế Cảnh đã bị chúng ta giết chết, còn có vị Đại…"
+},
+{
+"cum": "Vận Xinh Khải Giáp",
+"lan": 2,
+"chuong": [
+2338,
+"t2338"
+],
+"am_la": [
+"Xinh"
+],
+"vd": "c2338: …hí nhiều thời gian trên người hắn như vậy? Hơn nữa, còn đem Vận Xinh Khải Giáp trả lại cho hắn, chỉ đổi lấy hai câu hứ…"
 },
 {
 "cum": "Đại Thánh Bách Cỗ",
@@ -5742,27 +5283,16 @@
 "vd": "c2362: …t nguội. Lấy Diêm Chiết Tiên cùng Hích dẫn đầu, hơn mười vị Đại Thánh Bách Cỗ cảnh đỉnh cấp của Diêm Lịch tộc tụ tập …"
 },
 {
-"cum": "Đại Thánh Thiên Hỏi",
+"cum": "Vạn Dặm Băng Xuyên Huyễn",
 "lan": 2,
 "chuong": [
-2368,
-2503
+2364,
+"t2364"
 ],
 "am_la": [
-"Hỏi"
+"Dặm"
 ],
-"vd": "c2368: …g, Trương Nhược Trần có thể dùng một chưởng đánh cho một vị Đại Thánh Thiên Hỏi hồn phi phách tán, vẫn khiến bọn họ cảm…"
-},
-{
-"cum": "Chữ Thiên Châu",
-"lan": 2,
-"chuong": [
-2376
-],
-"am_la": [
-"Chữ"
-],
-"vd": "c2376: …Vạn Chữ Thiên Châu thoát khỏi lòng bàn tay của Vô Cương, l…"
+"vd": "c2364: … Diêm Chiết Tiên lập tức thôi động phù văn. Cho dù không có Vạn Dặm Băng Xuyên Huyễn Trận, nàng cũng có lòng tin, dựa vào Đị…"
 },
 {
 "cum": "Lưới Diễn",
@@ -5785,17 +5315,6 @@
 "Thợ"
 ],
 "vd": "c2422: …ày tỏ thiện ý. Là một trong những kẻ thua cuộc lớn nhất của Thợ Thiên Chi Trận, Quỷ Chủ tự nhiên là vô cùng ghen tị. H…"
-},
-{
-"cum": "Sạp Thiên Chi Trận",
-"lan": 2,
-"chuong": [
-2432
-],
-"am_la": [
-"Sạp"
-],
-"vd": "c2432: …t Tử Thần Điện đã công khai ra ngoài, tất cả tu sĩ tham gia Sạp Thiên Chi Trận, đều có suất vào thần điện tu luyện. Hơ…"
 },
 {
 "cum": "Vạn Chết Một Đời",
@@ -5929,17 +5448,6 @@
 "vd": "c2519: …Đường Bà Bà, một tay cầm Ô Kim Chiến Trụ Thiên, một tay cầm Giấu Sơn Ma Kính, trên người hiện lên chi chít quy tắc t…"
 },
 {
-"cum": "Mươi Chư Thiên",
-"lan": 2,
-"chuong": [
-2527
-],
-"am_la": [
-"Mươi"
-],
-"vd": "c2527: …mươi người mạnh nhất, được gọi là Hai Mươi Chư Thiên.\" \"Hai Mươi Chư Thiên, duy trì trật tự vạn giới, trấn nhiếp c…"
-},
-{
 "cum": "Tỉn Không",
 "lan": 2,
 "chuong": [
@@ -5960,28 +5468,6 @@
 "Sụ"
 ],
 "vd": "c2533: …àng quan, có Cung Nam Phong nhân chứng tuyệt vời này, tu sĩ Địa Sụ giới dứt khoát không thể nào hoài nghi …"
-},
-{
-"cum": "Lục Trắng Đầu",
-"lan": 2,
-"chuong": [
-2535
-],
-"am_la": [
-"Trắng"
-],
-"vd": "c2535: …\"Tất nhiên sự tình đã tinh tường, là Kỷ Phạn Tâm giết Lục Trắng Đầu cùng Đơn Thu, Tử Thần Điện cùng Thanh L…"
-},
-{
-"cum": "Côn Lầu",
-"lan": 2,
-"chuong": [
-2540
-],
-"am_la": [
-"Lầu"
-],
-"vd": "c2540: …hàm là tu sĩ đến Bách Tộc Vương Thành, đa số đều sẽ ghé qua Côn Lầu một chuyến, chiêm ngưỡng danh thắng, ho…"
 },
 {
 "cum": "Thiên Rấm Giới",
@@ -6017,17 +5503,6 @@
 "vd": "c2560: …chút, đừng có rề rà.\" Đại Tư Không vung trượng đập lên mông Thật Sắc một cái, Thật Sắc ngược lại cũng không …"
 },
 {
-"cum": "Bùn Bồn Trạch",
-"lan": 2,
-"chuong": [
-2560
-],
-"am_la": [
-"Bùn"
-],
-"vd": "c2560: …Thất Tinh Đế Cung để vây xem. Mục nát tộc thánh địa, tên là Bùn Bồn Trạch. Là một đầm bùn đen rộng tròn trăm dặm,…"
-},
-{
 "cum": "Nước Sự Sống",
 "lan": 2,
 "chuong": [
@@ -6052,17 +5527,6 @@
 "vd": "c2580: …Bạch Khanh Nhi đã dẫn dắt các tu sĩ của các đại thế lực đến Bản Vguồn Thần Điện (Bản Nguyên Thần Điện). Đại lượng thánh…"
 },
 {
-"cum": "Cửu Hủ Thi Mực",
-"lan": 2,
-"chuong": [
-2591
-],
-"am_la": [
-"Mực"
-],
-"vd": "c2591: …ên, mí mắt giật giật, nói: \"Không ổn, là Ô Toại Thần Bút và Cửu Hủ Thi Mực.\" \"Thần khí?\" Trương Nhược Trần nói. \"K…"
-},
-{
 "cum": "Huyết Sói",
 "lan": 2,
 "chuong": [
@@ -6074,15 +5538,28 @@
 "vd": "c2592: …òa. Thất Tinh Đế Cung bay vào tay Trương Nhược Trần, A Lạc, Huyết Sói, Khai La Địa Sư từ bên trong bước ra đứ…"
 },
 {
-"cum": "Đệ Giô Nho Tổ",
+"cum": "Châu Trò",
 "lan": 2,
 "chuong": [
-2621
+2610,
+"t2610"
 ],
 "am_la": [
-"Giô"
+"Trò"
 ],
-"vd": "c2621: …cây trà, nhìn thấy một vị lão giả mặc áo nho. Rất giống với Đệ Giô Nho Tổ của Côn Lôn Giới, Trương Nhược Trần từn…"
+"vd": "c2610: …ong một tòa cổ thành trống trải. Trương Nhược Trần cùng với Châu Trò, Thân Đồ Vân Không, Đại Sâm La Hoàng, đ…"
+},
+{
+"cum": "Trương Tám",
+"lan": 2,
+"chuong": [
+2630,
+"t2630"
+],
+"am_la": [
+"Tám"
+],
+"vd": "c2630: …ếu nữ áo đỏ cũng đi tới khu vực sơn môn. \"Tại hạ Minh tông, Trương Tám trăm chín mươi tư, không biết tiền đạo …"
 },
 {
 "cum": "Kim Sa Thánh Vức",
@@ -6106,17 +5583,6 @@
 "Vức"
 ],
 "vd": "c2646: …hi Vũ và Lăng Tu cùng những người khác, quay về phủ vực của Kim Thụ Thánh Vức. Ngoại trừ một vài vị Đại Thánh ra, nhữ…"
-},
-{
-"cum": "Xi Đại Cung Chủ",
-"lan": 2,
-"chuong": [
-2658
-],
-"am_la": [
-"Xi"
-],
-"vd": "c2658: …Lệnh Xi Đại Cung Chủ ngồi trên lưng một con kỳ lân, mình mặc…"
 },
 {
 "cum": "Bổn Vung Thần Điện",
@@ -6188,17 +5654,6 @@
 "vd": "c2706: …của hai mươi vị tu sĩ Thánh Cảnh nữa. Thiên Cung Chi Chủ và Mười Hai Thần Tôn của Vận Mệnh Thần Điện, đều đã ký tên t…"
 },
 {
-"cum": "Giấu Tôn Giả",
-"lan": 2,
-"chuong": [
-2712
-],
-"am_la": [
-"Giấu"
-],
-"vd": "c2712: … huyết vụ, vừa thét lớn: \"Ngươi là ngậm máu phun người! Tài Giấu Tôn Giả ở đây, ngươi đừng hòng muốn làm gì thì …"
-},
-{
 "cum": "Trận Chiến Săn Trời",
 "lan": 2,
 "chuong": [
@@ -6221,6 +5676,18 @@
 "Oãn"
 ],
 "vd": "c2766: …nh vì thế, thần linh đều không thể vượt qua, cho nên mới có Thất Oãn Độ. Đò ngang trên Thất Oãn Độ do Tinh Cung…"
+},
+{
+"cum": "Nam Sáu",
+"lan": 2,
+"chuong": [
+2771,
+"t2771"
+],
+"am_la": [
+"Sáu"
+],
+"vd": "c2771: … thật sự là ngu xuẩn đến cực điểm.\" Đối diện, trong ánh mắt Nam Sáu hiện lên nụ cười lạnh khinh bỉ: \"Bổn Tr…"
 },
 {
 "cum": "Lù Cốt",
@@ -6256,15 +5723,16 @@
 "vd": "c2796: …ến điều gì, nói: \"Lúc nãy chúng ta đã đụng độ thần linh của Chết Tộc.\" Bàn Nhược đáp: \"Trên đường đến Hoang …"
 },
 {
-"cum": "Thiên Sinh Tử Xư",
+"cum": "Đại Thách Băng Phách Thế",
 "lan": 2,
 "chuong": [
-2848
+2803,
+"t2803"
 ],
 "am_la": [
-"Xư"
+"Thách"
 ],
-"vd": "c2848: … cần gan dạ, mà còn cần tu vi cường đại. \"Thật lợi hại! Nam Thiên Sinh Tử Xư quả không hổ danh là tồn tại cấp độ chú…"
+"vd": "c2803: … màu trắng lạnh lẽo, điều động thần khí rót vào trong. \"Xem Đại Thách Băng Phách Thế Giới của bản hoàng đây!\" Trên hạt châu …"
 },
 {
 "cum": "Thật Quyển",
@@ -6314,17 +5782,6 @@
 "vd": "c2943: …o đối với Ma tổ, Kiếm đạo đối với Kiếm tổ, Phật đạo đối với Ca Diếp. Còn sát đạo, sẽ cùng với tên tuổi của …"
 },
 {
-"cum": "Trụ Phồn Vòng",
-"lan": 2,
-"chuong": [
-2948
-],
-"am_la": [
-"Vòng"
-],
-"vd": "c2948: …Trần lấy ra một chiếc vòng tay, nói: \"Chiếc vòng này tên là Trụ Phồn Vòng, vốn là được luyện chế từ sức mạnh của …"
-},
-{
 "cum": "Phi Hơi",
 "lan": 2,
 "chuong": [
@@ -6334,6 +5791,18 @@
 "Hơi"
 ],
 "vd": "c2961: …Cắt Quyết Ti chúng ta cứ thế mà bỏ qua cho hắn sao?\" \"Thanh Phi Hơi điện hạ, ngươi cảm thấy Tôn giả lần này…"
+},
+{
+"cum": "Thanh Phi Hơi",
+"lan": 2,
+"chuong": [
+2961,
+"t2961"
+],
+"am_la": [
+"Hơi"
+],
+"vd": "c2961: …ó thần linh chuyển hướng muốn rời khỏi nơi này, cất lời hỏi Thanh Phi Hơi. Thanh Phi Hơi dừng bước chân, cười cườ…"
 },
 {
 "cum": "Huyết L",
@@ -6473,6 +5942,18 @@
 "vd": "c3187: …i, hiểu rõ \"Hạng Sở Nam\" trước mắt này, tuyệt đối là một vị Thái Xhư cảnh đại thần có tu vi vượt xa nàng. \"Đ…"
 },
 {
+"cum": "Chân Lý Chi Mắt",
+"lan": 2,
+"chuong": [
+3201,
+"t3201"
+],
+"am_la": [
+"Mắt"
+],
+"vd": "c3201: …ắt đầu độ tâm ma kiếp hay chưa. Trương Nhược Trần thúc giục Chân Lý Chi Mắt, quét nhìn tứ phương. Thế nhưng hắc ám …"
+},
+{
 "cum": "Địa Hược",
 "lan": 2,
 "chuong": [
@@ -6494,17 +5975,6 @@
 "Sênh"
 ],
 "vd": "c3239: …ám?\" Đường Lan lớn tiếng nói. Kim Giác Thiên Thần nói: \"Vân Sênh Đại thần, hãy phong ấn tu vi của Lam Thần t…"
-},
-{
-"cum": "Thương Nệt",
-"lan": 2,
-"chuong": [
-3240
-],
-"am_la": [
-"Nệt"
-],
-"vd": "c3240: … với Bất Động Minh Vương Đại Tôn năm xưa?\" \"Bẩm Phượng Tôn, Thương Nệt hiểu biết về chủ nhân không nhiều lắm, …"
 },
 {
 "cum": "Ma Entropy Thần Quốc",
@@ -6561,17 +6031,6 @@
 "Dừng"
 ],
 "vd": "c3280: … nhốt bên trong, trở thành con tin. Thương Tuyệt mang tu vi Hồn Dừng Cảnh, vậy mà lại không phá nổi lồng giam sấm…"
-},
-{
-"cum": "Vạn Dặm Sơn Hà Trận",
-"lan": 2,
-"chuong": [
-3280
-],
-"am_la": [
-"Dặm"
-],
-"vd": "c3280: …ích. Một tòa tiểu thế giới vạn dặm, chắn trước mặt nàng. Là Vạn Dặm Sơn Hà Trận Đồ, bốn vị lão đạo Thái Hư Cảnh của Thi…"
 },
 {
 "cum": "Thái H",
@@ -6695,7 +6154,19 @@
 "am_la": [
 "Xét"
 ],
-"vd": "c3398: …iều thần lực. Đó là tuyệt thế thần thông của Phán Xét Cung, Phán Xét Chi Kiếm! Ánh sáng xua tan bóng tối, kiếm đạo qu…"
+"vd": "c3398: …ều thần lực. Đó là tuyệt thế thần thông của Thẩm Phán Cung, Phán Xét Chi Kiếm! Ánh sáng xua tan bóng tối, kiếm đạo qu…"
+},
+{
+"cum": "Trương Hồng Kh",
+"lan": 2,
+"chuong": [
+3410,
+"t3410"
+],
+"am_la": [
+"Kh"
+],
+"vd": "c3410: …ng Nhược Trần. Trương Nhược Trần chắp tay, nói: — Minh tông Trương Hồng Kh, bái kiến Diệp Phong Đại Thánh. Thanh T…"
 },
 {
 "cum": "Khình Tôn",
@@ -6731,6 +6202,18 @@
 "vd": "c3470: …a ngoài cửa ngục thứ nhất của Đại La Thần Cung, đứng đầu là Tấm Hỏa đại tế ti, đông đảo tế ti của La Sát Th…"
 },
 {
+"cum": "Thả Mát Thần Linh",
+"lan": 2,
+"chuong": [
+3481,
+"t3481"
+],
+"am_la": [
+"Mát"
+],
+"vd": "c3481: …át vũ trụ, đánh xuyên qua cổ kim. \"Vút!\" \"Vút!\" Tề Lâm cùng Thả Mát Thần Linh giống như hai đạo quang tiễn, từ Định T…"
+},
+{
 "cum": "Mát Thần Linh",
 "lan": 2,
 "chuong": [
@@ -6742,15 +6225,28 @@
 "vd": "c3481: …quy tắc, khiến cả Thần Thành đều theo đó chấn động nhẹ. Thả Mát Thần Linh sắc mặt âm trầm, nói: \"Đáng chết, tất c…"
 },
 {
-"cum": "Kỳ Vất Đạt Mẫu Thần",
+"cum": "Thả Mát",
 "lan": 2,
 "chuong": [
-3525
+3491,
+"t3491"
 ],
 "am_la": [
-"Vất"
+"Mát"
 ],
-"vd": "c3525: …nhìn qua, có đầu của Tam Sát Đế Quân, cũng có móng vuốt của Kỳ Vất Đạt Mẫu Thần, tổng cộng hơn mười khối huyết nhục, đề…"
+"vd": "c3491: … Đồ Quỷ Đế, hai đại Nhân, Cổ Tân, Sư Trí thần linh, Tề Lâm, Thả Mát thần linh hội tụ cùng một chỗ, đứng tại…"
+},
+{
+"cum": "Mệnh Vận Thập Mười Pha",
+"lan": 2,
+"chuong": [
+3576,
+"t3576"
+],
+"am_la": [
+"Mười"
+],
+"vd": "c3576: …Bắt đầu tu luyện Mệnh Vận Thập Mười Pha, khí tức trên người Phượng Thiên thời k…"
 },
 {
 "cum": "Lôi Vạn C",
@@ -6863,17 +6359,6 @@
 "vd": "c3670: …có thể xác định rồi!\" Trương Nhược Trần tiếp tục nói: \"Ta ở Kinh Chuyện Động của Tinh Thiên Nhai, từng nhìn thấy ghi…"
 },
 {
-"cum": "Cửa Tử Vong",
-"lan": 2,
-"chuong": [
-3677
-],
-"am_la": [
-"Cửa"
-],
-"vd": "c3677: …hạt về phía Thất Thập Nhị Phẩm Liên. Đồng thời, nàng ngự sử Cửa Tử Vong và sáu cuốn \"Mệnh Vận Thiên Thư\", tay c…"
-},
-{
 "cum": "Trì Sen",
 "lan": 2,
 "chuong": [
@@ -6908,18 +6393,6 @@
 "vd": "c3734: … tâm phải đoạt cho bằng được. Cố Cố, Cửu Tử Dị Thiên Hoàng, Thất Mươi Hai Phẩm Liên, Bạt, Khôi Lượng Hoàng, thậm chí có thể…"
 },
 {
-"cum": "Con Sò Hi",
-"lan": 2,
-"chuong": [
-3735
-],
-"am_la": [
-"Con",
-"Sò"
-],
-"vd": "c3735: … Trương Nhược Trần đạo: \"Nếu như Cửu Tử Dị Thiên Hoàng cùng Con Sò Hi đã bắt đầu phòng bị, điều đó nói lên ch…"
-},
-{
 "cum": "Mưa Xuân Phù Các",
 "lan": 2,
 "chuong": [
@@ -6930,17 +6403,6 @@
 "Mưa"
 ],
 "vd": "c3750: …ấy năm nay càng lúc càng cổ quái, quanh năm giam mình trong Mưa Xuân Phù Các, một ngàn năm cũng khó thấy nàng một lầ…"
-},
-{
-"cum": "Tứ Bất Khượng",
-"lan": 2,
-"chuong": [
-3751
-],
-"am_la": [
-"Khượng"
-],
-"vd": "c3751: …Tinh nữa, lần lượt cáo từ rời đi. Sau khi chúng yêu rời đi, Tứ Bất Khượng nói: \"Tinh thần lực của Vẫn Thần Đảo Ch…"
 },
 {
 "cum": "Bé Hi",
@@ -6987,17 +6449,6 @@
 "vd": "c3798: …rương Nhược Trần lập tức thu hồi tinh thần lực, phóng thích Thái Cực Tứ Hượng Đồ Ấn bảo hộ hắn và Cung Nam Phong. \"Huyết…"
 },
 {
-"cum": "Ma Cày Thi Tổ",
-"lan": 2,
-"chuong": [
-3810
-],
-"am_la": [
-"Cày"
-],
-"vd": "c3810: …vô duyên vô cớ. Thứ nhất, ngươi phải giúp hôm nay luyện hóa Ma Cày Thi Tổ cùng quỷ dị huyết tuyền trong Vô Thường…"
-},
-{
 "cum": "Vất Thần Đảo Chủ",
 "lan": 2,
 "chuong": [
@@ -7007,6 +6458,18 @@
 "Vất"
 ],
 "vd": "c3810: … tâm hắn!\" Bóng người trong đèn nói: \"Nhưng năm xưa đối phó Vất Thần Đảo Chủ, ta đã từng tận mắt chứng kiến thực lực…"
+},
+{
+"cum": "Vô Ngã Đèn",
+"lan": 2,
+"chuong": [
+3817,
+"t3936"
+],
+"am_la": [
+"Đèn"
+],
+"vd": "c3817: …g với mười hai tướng vận mệnh. Hơn nữa hắn ta cầm trong tay Vô Ngã Đèn trong truyền thuyết, chỉ bị ánh sáng ch…"
 },
 {
 "cum": "Nhị Mươi Hai",
@@ -7054,6 +6517,54 @@
 "vd": "c3887: … là chính hắn, hoặc là có người giúp hắn chú luyện nó thành Thắng Lợi Vương Của. Dựa vào Thắng Lợi Vương Của, và Thần N…"
 },
 {
+"cum": "Đêm Du",
+"lan": 2,
+"chuong": [
+3897,
+"t3897"
+],
+"am_la": [
+"Đêm"
+],
+"vd": "c3897: …ì Côn Lôn là Bắc Cung Lam, cùng kiên định ủng hộ Trì Dao là Đêm Du đại sư, Diêm Ảnh Nhi, ai cũng không dám…"
+},
+{
+"cum": "Hiên Viên Quá Thật",
+"lan": 2,
+"chuong": [
+3897,
+"t4110"
+],
+"am_la": [
+"Thật"
+],
+"vd": "c3897: …ống như Chân lý điện chủ cùng Ngũ Hành Quan Chủ rời đi rồi, Hiên Viên Quá Thật cùng Xích Hà Phi Tiên Cốc cốc chủ làm s…"
+},
+{
+"cum": "Hư Hỏi Chi",
+"lan": 2,
+"chuong": [
+3905,
+"t3905"
+],
+"am_la": [
+"Hỏi"
+],
+"vd": "c3905: …n tại của hắn, dù có hành lễ thì Tinh Thiên sườn núi chủ và Hư Hỏi Chi cũng không dám nhận. Về mặt chiến lực, …"
+},
+{
+"cum": "Hoa Hỷ Thương Cuyết",
+"lan": 2,
+"chuong": [
+3911,
+"t3911"
+],
+"am_la": [
+"Cuyết"
+],
+"vd": "c3911: … không mau mở trận pháp ra, kẻ mà bản tọa muốn gặp chính là Hoa Hỷ Thương Cuyết và Trương Nhược Trần.\" Chư thần trong T…"
+},
+{
 "cum": "Thái Cỏ",
 "lan": 2,
 "chuong": [
@@ -7066,16 +6577,17 @@
 "vd": "c3930: …là một điểm đột phá. Có sự giúp đỡ của bốn vị lão tộc hoàng Thái Cỏ cùng Thiền Băng, Cải Diệt và Si Hình Th…"
 },
 {
-"cum": "Thạch Ki",
+"cum": "Dài Sông Thời Gian",
 "lan": 2,
 "chuong": [
-3939,
-3947
+3931,
+"t3931"
 ],
 "am_la": [
-"Ki"
+"Dài",
+"Sông"
 ],
-"vd": "c3939: …iên trong mắt không giấu được vẻ hâm mộ ghen tị, nói: \"Cưới Thạch Ki, ngươi cũng thật to gan lớn mật. Quên đ…"
+"vd": "c3931: …oán. Hơn nữa hắn nắm giữ Yêu Khảm, có thể ẩn mình vào trong Dài Sông Thời Gian, thậm chí giấu vào quá khứ vị lai, cho …"
 },
 {
 "cum": "Thập Bửu",
@@ -7133,17 +6645,6 @@
 "vd": "c4021: … Nguyên Nhân Cầm lại rơi vào tay ngươi?\" \"Linh Yến Tử tuy ở Hải Hà Mồ, nhưng lại là ở quá khứ, nằm tại chỗ đứ…"
 },
 {
-"cum": "Lan Ngãi",
-"lan": 2,
-"chuong": [
-4023
-],
-"am_la": [
-"Ngãi"
-],
-"vd": "c4023: …mù. Nhưng ngươi hoàn toàn có thể không công khai thần thông Lan Ngãi đồng phần này ra, như vậy há chẳng phải…"
-},
-{
 "cum": "Ti Phược Long Sây",
 "lan": 2,
 "chuong": [
@@ -7175,6 +6676,19 @@
 "Của"
 ],
 "vd": "c4073: …à vi lạp bổn nguyên bay tới, bao bọc toàn bộ tro tàn. Thanh Lộc Của Thần Vương đứng trong phế tích, lẳng lặng nhìn tất…"
+},
+{
+"cum": "Hư Nát Nguyên Bản Đèn",
+"lan": 2,
+"chuong": [
+4078,
+"t4078"
+],
+"am_la": [
+"Nát",
+"Đèn"
+],
+"vd": "c4078: …Huyền Hoàng Kích cùng Hư Nát Nguyên Bản Đèn, bị Trương Nhược Trần từ Hôi Hải trong …"
 },
 {
 "cum": "Bất Diệt Voo Lượng",
@@ -7276,15 +6790,141 @@
 "vd": "c4185: …ến bước này, rốt cuộc tính là thua, hay tính là thắng?\" Đạo Nhân Giếng có cơ thể như bảo thạch ngũ sắc, tỏ ra …"
 },
 {
-"cum": "Giếng Đạo Nhân",
+"cum": "Tư Thánh Môn Vả",
 "lan": 2,
 "chuong": [
-4209
+"t388"
 ],
 "am_la": [
-"Giếng"
+"Vả"
 ],
-"vd": "c4209: …vào trước bụng, nhắm mắt dưỡng thần, chẳng thèm đếm xỉa đến Giếng Đạo Nhân. Vốn dĩ hắn không muốn đến, nhưng nghe …"
+"vd": "t388: …Lạc Thủy Hàn cùng các học viên Thiên Ma Lĩnh giao chiến với Tư Thánh Môn Vả. Trương Nhược Trần đẩy Tư Thanh vào thế…"
+},
+{
+"cum": "Tím Lạnh Cát",
+"lan": 2,
+"chuong": [
+"t374"
+],
+"am_la": [
+"Tím"
+],
+"vd": "t374: …Trương Nhược Trần đánh bại Tím Lạnh Cát, nhưng Hạc Vân Lâu dùng chân khí ngăn T…"
+},
+{
+"cum": "Chân Miao Tiểu",
+"lan": 2,
+"chuong": [
+"t1753"
+],
+"am_la": [
+"Miao"
+],
+"vd": "t1753: …ương Nhược Trần, Công Tử Diễn, Cửu Thiên Huyền Nữ, Tấn Nha, Chân Miao Tiểu đạo nhân, Tà Thành Tử và Bạch Lê công c…"
+},
+{
+"cum": "A Vui Thích",
+"lan": 2,
+"chuong": [
+"t1941"
+],
+"am_la": [
+"Vui"
+],
+"vd": "t1941: …ồ Thiên ba huynh đệ, Kỷ Phạn Tâm, Hạng Sở Nam, Mộc Linh Hi, A Vui Thích và Phong Nham xuất hiện trong yến tiệc …"
+},
+{
+"cum": "Ngao Hư Khoảng Không",
+"lan": 2,
+"chuong": [
+"t2685",
+"t2687"
+],
+"am_la": [
+"Khoảng"
+],
+"vd": "t2687: …tiên tử xuất hiện, mở đạo vực giao chiến với hắn, trong khi Ngao Hư Khoảng Không, Linh Lung tiên tử và các cường giả phe…"
+},
+{
+"cum": "Quổ Dư",
+"lan": 2,
+"chuong": [
+"t3024"
+],
+"am_la": [
+"Quổ"
+],
+"vd": "t3024: …ắn vỡ vụn. Trương Nhược Trần đoạt được chân lý áo nghĩa của Quổ Dư, trong khi Trì Dao mang Tích Huyết Kiếm…"
+},
+{
+"cum": "Thiên Tiệu",
+"lan": 2,
+"chuong": [
+"t3388"
+],
+"am_la": [
+"Tiệu"
+],
+"vd": "t3388: …Nhân vật xuất hiện gồm Huyết Nê Nhân, Thiên Tiệu, Trương Nhược Trần, Quách Thần Vương, T…"
+},
+{
+"cum": "Trắng Tôn",
+"lan": 2,
+"chuong": [
+"t3527"
+],
+"am_la": [
+"Trắng"
+],
+"vd": "t3527: …Trương Nhược Trần, Hợi Tử Tù, Trắng Tôn, Huyết Diệp Ngô Đồng, Phượng Thiên và K…"
+},
+{
+"cum": "Dung Thái Đến",
+"lan": 2,
+"chuong": [
+"t3707",
+"t3708"
+],
+"am_la": [
+"Đến"
+],
+"vd": "t3707: …Mộ Dung Thái Đến, Sơn Hà Thần Vương, Băng Phù Thần Sư, A…"
+},
+{
+"cum": "Lưới Ôn",
+"lan": 2,
+"chuong": [
+"t3804"
+],
+"am_la": [
+"Lưới"
+],
+"vd": "t3804: …Quỷ chủ gặp Lưới Ôn, nghe báo Chu Xin Quỷ Đế, Chu Tước Hỏa …"
+},
+{
+"cum": "Chim Hạc Rõ Ràng",
+"lan": 2,
+"chuong": [
+"t3804"
+],
+"am_la": [
+"Chim",
+"Rõ",
+"Ràng"
+],
+"vd": "t3804: …h. Tại Bạch Vô Thường thần điện, Trương Nhược Trần dùng hồn Chim Hạc Rõ Ràng và thần hồn Cung Nam Phong để tìm phươn…"
+},
+{
+"cum": "Trác Uẩn Thật",
+"lan": 2,
+"chuong": [
+"t3954",
+"t4005"
+],
+"am_la": [
+"Thật"
+],
+"vd": "t3954: …Đồ và các sứ giả đến chúc mừng. Khi Không Ảnh, Quỷ Chủ cùng Trác Uẩn Thật bất ngờ từ thiên môn xuất hiện, Diêm Ho…"
 },
 {
 "cum": "Phấu Mãi Tràng",
@@ -7329,17 +6969,6 @@
 "Búa"
 ],
 "vd": "c47: …g nói: \"Cửu đệ, ngươi quá lợi hại! Hoàng Bảng võ giả đó! Cả Hàn Búa và Liễu Thừa Phong đều bị ngươi đánh bạ…"
-},
-{
-"cum": "Cực Cảnh Đại Luyên Mãn",
-"lan": 1,
-"chuong": [
-66
-],
-"am_la": [
-"Luyên"
-],
-"vd": "c66: …\"Hoàng Cực Cảnh Đại Luyên Mãn thì thế nào? Ta cũng là Hoàng Cực Cảnh …"
 },
 {
 "cum": "Gân Cốt Đoạn Tục Cao",
@@ -7497,17 +7126,6 @@
 "vd": "c252: … sau khi bị phong nhận do Hoắc Cảnh Thành đánh ra đánh bay, Băng Hỏa Kỳ Lin Giáp trên người bị đánh rách tả tơi, một kiệ…"
 },
 {
-"cum": "Tuyền Ki Song Tuyệt",
-"lan": 1,
-"chuong": [
-264
-],
-"am_la": [
-"Ki"
-],
-"vd": "c264: …lưng Thôn Vân Tước, mang theo Thường Ưu Tư, Hoàng Yên Trần, Tuyền Ki Song Tuyệt bay ra khỏi cổ thành tàn phá đó, dừng l…"
-},
-{
 "cum": "Nếu Đã Cừu Lâm",
 "lan": 1,
 "chuong": [
@@ -7564,17 +7182,6 @@
 "vd": "c281: … ngàn chiêu.\" Lúc trước, khi Trương Nhược Trần giao thủ với Vi Vô Ngấn, việc sử dụng cảnh giới Kiếm Tâm Thông …"
 },
 {
-"cum": "Rất Trần",
-"lan": 1,
-"chuong": [
-292
-],
-"am_la": [
-"Rất"
-],
-"vd": "c292: …ợn trừng như quả chuông đồng, vô cùng kích động nói. Trương Rất Trần cũng nhìn về phía nữ tử đó, ánh mắt khẽ…"
-},
-{
 "cum": "Tuyết Lưu Ly Bốt",
 "lan": 1,
 "chuong": [
@@ -7595,17 +7202,6 @@
 "Bốt"
 ],
 "vd": "c297: …ới vận tốc âm. Hơn nữa, cho dù chỉ là người bình thường mặc Ngân Tuyết Lưu Ly Bốt vào, cũng có thể đạt tới cảnh giới đạp …"
-},
-{
-"cum": "Chuyệt Nguyệt",
-"lan": 1,
-"chuong": [
-326
-],
-"am_la": [
-"Chuyệt"
-],
-"vd": "c326: …tu vi võ đạo còn cao hơn cả Hồng Dục Tinh Sứ. Giọng nói của Chuyệt Nguyệt tinh sứ phiêu miểu, mềm mại động lòng n…"
 },
 {
 "cum": "Thủy Đáy Long Cung",
@@ -7798,29 +7394,6 @@
 "vd": "c396: …ng cũng chỉ có hai vị bán thánh, cùng với Tư Hải đã đạt tới Ngư Long Đệ Nhất Vến, là nhìn ra được vài manh mối. \"Chẳng l…"
 },
 {
-"cum": "Vas Chấn",
-"lan": 1,
-"chuong": [
-423
-],
-"am_la": [
-"Vas"
-],
-"vd": "c423: …\"Trương Vas Chấn, ta muốn đem ngươi băm thây vạn đoạn, x…"
-},
-{
-"cum": "Trương Ruột Đất",
-"lan": 1,
-"chuong": [
-428
-],
-"am_la": [
-"Ruột",
-"Đất"
-],
-"vd": "c428: …ờng là một cao thủ 'Thiên Bảng', thế mà lại ngay cả một tên Trương Ruột Đất nhỏ bé cũng không giết nổi, ta muốn diệ…"
-},
-{
 "cum": "Hoàng Kim Của Thần Chi",
 "lan": 1,
 "chuong": [
@@ -7854,17 +7427,6 @@
 "Của"
 ],
 "vd": "c442: …i mang Long Châu. Cho nên, điều kiện thứ nhất, ta muốn mượn Chân Ý Của Phật Đế để quan duyệt ba ngày.\" \"Ta hiện tại đã…"
-},
-{
-"cum": "Lang Huyên Kim Chuông",
-"lan": 1,
-"chuong": [
-442
-],
-"am_la": [
-"Chuông"
-],
-"vd": "c442: … nàng ta đã chậm một bước, sau khi Tử Phong Tinh Sứ đánh ra Lang Huyên Kim Chuông liền lập tức rút lui, biến mất không tă…"
 },
 {
 "cum": "Thiên Cực Vế",
@@ -7977,17 +7539,6 @@
 "vd": "c480: …an, hắn vận đủ chân khí, toàn lực tung ra một chưởng. Huyết Ma Pháp X chịu sự chi phối từ sức mạnh của bùi kỷ…"
 },
 {
-"cum": "Huyết Ma Pháp X",
-"lan": 1,
-"chuong": [
-480
-],
-"am_la": [
-"X"
-],
-"vd": "c480: …Trong mắt trương nhược trần và ngao tâm nhan, chưởng ấn của Huyết Ma Pháp X tựa như một đóa mây hình năm ngón tay m…"
-},
-{
 "cum": "Tứ Chịu Giao Thế",
 "lan": 1,
 "chuong": [
@@ -8041,17 +7592,6 @@
 "V"
 ],
 "vd": "c523: …kiện Bách V văn Thánh khí, thậm chí có khả năng là một kiện Thiên V văn Thánh khí.\" Trương Nhược Trần liếc …"
-},
-{
-"cum": "Trúc Mây Sứ Giả",
-"lan": 1,
-"chuong": [
-530
-],
-"am_la": [
-"Mây"
-],
-"vd": "c530: …sẽ để ngươi lại phía sau một đoạn rất xa.\" Ngao Tâm Nhan và Trúc Mây Sứ Giả đã tu luyện trong thế giới tranh được b…"
 },
 {
 "cum": "Giao Kim Giáp Chiến Xua",
@@ -8197,17 +7737,6 @@
 "vd": "c630: …inh Hi, lập tức giơ một ngón tay điểm về phía trước. \"Không Gian Sụp Đổ.\" Không gian chấn động mãnh liệt, một t…"
 },
 {
-"cum": "Không Gian Sụp Đổ",
-"lan": 1,
-"chuong": [
-630
-],
-"am_la": [
-"Sụp"
-],
-"vd": "c630: … cơ thể của nó hoàn toàn biến thành một vũng máu. Một chiêu Không Gian Sụp Đổ đã cuốn hơn ba trăm con Xích Sí Nha vào…"
-},
-{
 "cum": "Tầm Bảo Lưới",
 "lan": 1,
 "chuong": [
@@ -8341,7 +7870,7 @@
 "am_la": [
 "Trời"
 ],
-"vd": "c770: …hạnh chiến bại bỏ mình, con chính là đời tiếp theo cầm kiếm Ngập Trời, hãy dẫn thi thể của vi sư cùng Ngập Tr…"
+"vd": "c770: …hạnh chiến bại bỏ mình, con chính là đời tiếp theo cầm kiếm Ngập Trời, hãy dẫn thi thể của vi sư cùng Thao Th…"
 },
 {
 "cum": "Tuyên Kiy Kiếm Thánh",
@@ -8375,17 +7904,6 @@
 "Đóng"
 ],
 "vd": "c777: … vô cùng kinh ngạc, nói: \"Vừa rồi ngươi thi triển là 'Không Gian Đóng Băng' trong không gian chi lực?\" \"Đúng vậy.\"…"
-},
-{
-"cum": "Quan Lung Lanh",
-"lan": 1,
-"chuong": [
-780
-],
-"am_la": [
-"Lanh"
-],
-"vd": "c780: …ực Tinh Quang Kiếm Trận, đánh với hắn một trận chứ?\" Thượng Quan Lung Lanh lắc đầu, nói: \"Thực lực của Thiệu Lân n…"
 },
 {
 "cum": "Tên Kiêu",
@@ -8498,17 +8016,6 @@
 "vd": "c825: …i chân hai người cũng nứt toác ra, san thành bình địa. \"Quả Thần Nặng này là do ta phát hiện trước, các hạ tố…"
 },
 {
-"cum": "Quả Thần Nặng",
-"lan": 1,
-"chuong": [
-825
-],
-"am_la": [
-"Nặng"
-],
-"vd": "c825: … một phen, muốn xem thử ngươi có bản lĩnh gì mà đòi giữ lại Quả Thần Nặng.\" Đúng lúc này, từ đằng xa truyền đến t…"
-},
-{
 "cum": "Chắp Thi Mật Thuật",
 "lan": 1,
 "chuong": [
@@ -8541,17 +8048,6 @@
 "Rằng"
 ],
 "vd": "c834: …g này cũng không đạt đến cảnh giới Tinh Thần Lực Đại Thánh, E Rằng Chỉnh Cá Côn Lôn Giới, cũng rất khó tìm ra một vị Ti…"
-},
-{
-"cum": "Trương Ngô Thơ",
-"lan": 1,
-"chuong": [
-835
-],
-"am_la": [
-"Thơ"
-],
-"vd": "c835: …người có thể đọc chậm một chút. ... Lại mười ngày trôi qua, Trương Ngô Thơ — Trương Nhược Trần — vẫn chưa tỉnh lại…"
 },
 {
 "cum": "Gia Tên",
@@ -8909,17 +8405,6 @@
 "vd": "c1040: …ong mười đại thống lĩnh, đồng thời cũng là huynh trưởng của Viêm Hồng Liệt Của, ở Thánh Minh Thành tự nhiên là đại nhâ…"
 },
 {
-"cum": "Thái Trải Luân",
-"lan": 1,
-"chuong": [
-1041
-],
-"am_la": [
-"Trải"
-],
-"vd": "c1041: …iên đang đứng cùng hai vị nhân vật lãnh đạo của Thái gia là Thái Trải Luân và Thái Văn Cơ để bàn bạc điều gì đó, k…"
-},
-{
 "cum": "Trì Ter Sơn",
 "lan": 1,
 "chuong": [
@@ -8940,17 +8425,6 @@
 "Đuổi"
 ],
 "vd": "c1057: …cũng không phải là không thể.\" Tử Vong đạo, Tà đạo, Ma đạo, Quỷ Đuổi Thi đạo, Dưỡng Quỷ đạo... Khoan đã, kỳ thật…"
-},
-{
-"cum": "Bùn Sa",
-"lan": 1,
-"chuong": [
-1076
-],
-"am_la": [
-"Bùn"
-],
-"vd": "c1076: …uya, Trương Nhược Trần và Hoàng Yên Trần mới đi tới bờ sông Bùn Sa, hội hợp với Tiểu Hắc, Đại Tư Không, Nh…"
 },
 {
 "cum": "Quan Lung Lông",
@@ -9009,17 +8483,6 @@
 "vd": "c1124: … Thiên Thần Mộc ở trung ương, Phù Tang Thần Thụ ở Đông Hải, Ngô Đồng Của Thần Thụ ở phương Nam, Bồ Đề Thần Thụ ở phương T…"
 },
 {
-"cum": "Trương Ruochen",
-"lan": 1,
-"chuong": [
-1144
-],
-"am_la": [
-"Ruochen"
-],
-"vd": "c1144: …vì thế mà vẫn lạc. \"Không Gian Kính Diện.\" Bàn tay phải của Trương Ruochen (Trương Nhược Trần) vươn ra, không gian…"
-},
-{
 "cum": "Tiy Di Đà Thánh Tăng",
 "lan": 1,
 "chuong": [
@@ -9051,28 +8514,6 @@
 "Hươu"
 ],
 "vd": "c1168: …đó còn có ba con thú vương, lần lượt là Tam Thủ Giao Vương, Cương Hươu Thú Vương, Hỗn Thiên Điệp Vương.\" Triệu Thế Kỳ đá…"
-},
-{
-"cum": "Vũ Hoa Cổng",
-"lan": 1,
-"chuong": [
-1172
-],
-"am_la": [
-"Cổng"
-],
-"vd": "c1172: …ổng. Bất Tử Huyết tộc thật sự viết nên một ván cờ hay, phái Vũ Hoa Cổng ám sát Hải Minh Pháp Vương, lại lợi dụn…"
-},
-{
-"cum": "Chớ Ưu",
-"lan": 1,
-"chuong": [
-1185
-],
-"am_la": [
-"Chớ"
-],
-"vd": "c1185: …hương hay nội thương, đều đang nhanh chóng khôi phục. Ở lại Chớ Ưu đáy vực, bất cứ lúc nào cũng là huyễn t…"
 },
 {
 "cum": "Tà Ác Chi Đều",
@@ -9252,29 +8693,6 @@
 "vd": "c1303: …liếc mắt nhìn một cái liền nhận ra nàng, chính là đệ tử của Trung Dõng Vương – Chúc Khinh Y. Cho dù là mặc trường bà…"
 },
 {
-"cum": "Không Gian Vẹo Vã",
-"lan": 1,
-"chuong": [
-1304
-],
-"am_la": [
-"Vẹo",
-"Vã"
-],
-"vd": "c1304: …uối cùng, hai tay hướng về phía trước vồ một cái, thi triển Không Gian Vẹo Vã.br/> Ngay sau đó, bốp một tiếng, Chúc K…"
-},
-{
-"cum": "Ki Cơ Sơn",
-"lan": 1,
-"chuong": [
-1305
-],
-"am_la": [
-"Ki"
-],
-"vd": "c1305: …gươi một cơ hội.\" Trương Nhược Trần nói: \"Cơ hội gì?\" \"Tiên Ki Cơ Sơn từng là tông môn của Tiên Cơ Tông - bá …"
-},
-{
 "cum": "Hắc Tỉ Nhất Phẩm Đường",
 "lan": 1,
 "chuong": [
@@ -9306,17 +8724,6 @@
 "Sáu"
 ],
 "vd": "c1311: …h Y, hơn nữa còn có thể thân thiết với Thương Lan Võ Thánh, Bạch Vũ Sáu Thánh như vậy? Chẳng lẽ là người tình của vị …"
-},
-{
-"cum": "Cương Tử Hỏa Bùa",
-"lan": 1,
-"chuong": [
-1324
-],
-"am_la": [
-"Bùa"
-],
-"vd": "c1324: …ma khí tiêu tan ra, căn bản không thể trói buộc hắn. \"Thiên Cương Tử Hỏa Bùa.\" \"Thủ đoạn của Khô trưởng lão, quả nhi…"
 },
 {
 "cum": "Vạn Dặm Tầm Tung",
@@ -9383,17 +8790,6 @@
 "Cuông"
 ],
 "vd": "c1367: …ứng ở đỉnh cao nhất mới cảm nhận được khí tức nguy hiểm. Tử Cuông Nhân và Cổ Tùng Tử nhìn huyết khí trên đỉnh …"
-},
-{
-"cum": "Hàn Quang Nghinh Khách Kiếm",
-"lan": 1,
-"chuong": [
-1374
-],
-"am_la": [
-"Nghinh"
-],
-"vd": "c1374: …g lồ. \"Kiếm quyết thật cường đại, chỉ một chiêu đã đánh nát Hàn Quang Nghinh Khách Kiếm.\" \"Thực lực của Trương Nhược Trần lại k…"
 },
 {
 "cum": "Kiếm Bảy",
@@ -9484,18 +8880,6 @@
 "Ấtằn"
 ],
 "vd": "c1451: …n bộ khí tức đều biến mất không tăm tích. \"Rống!\" Trong mắt Phương Ấtằn hằn tơ máu, giận đến phát cuồng, ngửa m…"
-},
-{
-"cum": "Lưỡng Cực Đầm Lầy",
-"lan": 1,
-"chuong": [
-1466
-],
-"am_la": [
-"Đầm",
-"Lầy"
-],
-"vd": "c1466: … ra, căn bản không đả thương được hắn. \"Chạy trốn vào trong Lưỡng Cực Đầm Lầy, là có thể tránh được tai mắt của La Sá…"
 },
 {
 "cum": "Ngưng Thật Thánh Lộ",
@@ -9676,17 +9060,6 @@
 "vd": "c1557: … \"Chân Lý thiên vực\". Chân Lý thiên vực không rộng lớn bằng Sa Mồ thiên vực, thế nhưng môi trường tu luyệ…"
 },
 {
-"cum": "Thiên Cương Tử Hỏa Hùy",
-"lan": 1,
-"chuong": [
-1565
-],
-"am_la": [
-"Hùy"
-],
-"vd": "c1565: …ần đứng dưới bậc thềm, không hề né tránh, mà lấy ra một tấm Thiên Cương Tử Hỏa Hùy, kích phát các vầng minh văn trên phù l…"
-},
-{
 "cum": "Thư Hương Lột Động Thiên",
 "lan": 1,
 "chuong": [
@@ -9763,17 +9136,6 @@
 "H́n"
 ],
 "vd": "c1625: …hiên hạ quả thực là chuyện không thể nào. Hơn nữa, phấn hoa Chiêu H́n Liên trong cơ thể hắn đã bị Phệ Thánh Hoa hấ…"
-},
-{
-"cum": "Tam Túc Thực Thây Trùng",
-"lan": 1,
-"chuong": [
-1627
-],
-"am_la": [
-"Thây"
-],
-"vd": "c1627: …hì bay về phía La Nam hoàng tử và Doãn Bằng. \"A... Là... Là Tam Túc Thực Thây Trùng...\" Tiếng kêu thảm thiết của Doãn Bằng …"
 },
 {
 "cum": "Dễ Hoàng Cốt Trượng",
@@ -9854,17 +9216,6 @@
 "vd": "c1665: …ng rồi, ta đã mất đi cảm ứng với Táng Phượng Chung.\" \"Thiên Ki Cơ Bàn... đã bị hắn thu đi rồi!\" Hơn mười vị T…"
 },
 {
-"cum": "Mười Tâm Chu Quả",
-"lan": 1,
-"chuong": [
-1667
-],
-"am_la": [
-"Mười"
-],
-"vd": "c1667: …m huynh, chúng ta chỉ muốn giao dịch với ngươi, đổi lấy quả Mười Tâm Chu Quả kia, căn bản không ngờ ngươi lại đột nh…"
-},
-{
 "cum": "Đạo Huyền Courses",
 "lan": 1,
 "chuong": [
@@ -9897,17 +9248,6 @@
 "Nấm"
 ],
 "vd": "c1679: …ược của Ma Tiểu Cô, Trương Nhược Trần áy náy nói: \"Thứ lỗi, Tiểu Nấm cô nương, trong thánh quả và thánh dược…"
-},
-{
-"cum": "Mười Hai Cung Thần Trận",
-"lan": 1,
-"chuong": [
-1689
-],
-"am_la": [
-"Mười"
-],
-"vd": "c1689: …Sao có thể như vậy? Không ngờ vẫn bị hắn đánh lùi.\" Nhờ vào Mười Hai Cung Thần Trận do mười hai khối thần cốt diễn hóa, Vũ …"
 },
 {
 "cum": "Tứ T Bước Thánh Vương",
@@ -10169,17 +9509,6 @@
 "vd": "c1793: …mời với Trương Nhược Trần, mỉm cười nói: \"Câm, ta có mỹ tửu Vạn Năm Kim Quang Bồ Tảo Nhưỡng, có muốn uống một chén không…"
 },
 {
-"cum": "Bát Long Dù",
-"lan": 1,
-"chuong": [
-1795
-],
-"am_la": [
-"Dù"
-],
-"vd": "c1795: …i. Lúc này, một tay hắn nắm Trầm Uyên Cổ Kiếm, một tay xách Bát Long Dù, chặn ngang Thạch Khai lại. Thạch Khai …"
-},
-{
 "cum": "Hoang Giảnh",
 "lan": 1,
 "chuong": [
@@ -10200,30 +9529,6 @@
 "Gương"
 ],
 "vd": "c1800: …đài lơ lửng giữa không trung, đang suy ngẫm xem có nên dùng Tử Kim Bát Trà Gương đánh sập nó xuống hay không. Trương Như…"
-},
-{
-"cum": "Tử Kim Bát Quà Gương",
-"lan": 1,
-"chuong": [
-1800
-],
-"am_la": [
-"Quà",
-"Gương"
-],
-"vd": "c1800: … thánh khí đánh về phía Chân Diệu Tiểu Đạo Nhân. Đồng thời, Tử Kim Bát Quà Gương từ từ bay lên, lơ lửng giữa không trung…"
-},
-{
-"cum": "Trương Ruốt Chén",
-"lan": 1,
-"chuong": [
-1807
-],
-"am_la": [
-"Ruốt",
-"Chén"
-],
-"vd": "c1807: …Vị kim giáp cự nhân kia, đứng ở trước mặt Trương Ruốt Chén và Kỷ Phạn Tâm, toàn thân tản ra uy thế…"
 },
 {
 "cum": "Huỳnh Hoược",
@@ -10270,17 +9575,6 @@
 "Sạo"
 ],
 "vd": "c1846: …ng. Cỗ hỏa diễm thánh khí đó được ngưng tụ bởi sức mạnh của Hỏa Thần Quyền Sạo, văn khắc đỏ rực trong Viêm Thần Thối, …"
-},
-{
-"cum": "Không Gian Thác Lộn Quyển",
-"lan": 1,
-"chuong": [
-1852
-],
-"am_la": [
-"Lộn"
-],
-"vd": "c1852: …ng hoang dã trống trải. Đột nhiên, Trương Nhược Trần lấy ra Không Gian Thác Lộn Quyển Chức, triển khai nó, vung tay đánh về p…"
 },
 {
 "cum": "Núi Lão Mẫu",
@@ -10360,28 +9654,6 @@
 "vd": "c1917: …Công Đức Vị Đổi Đại Điện trở nên vô cùng yên tĩnh, có thể nghe đ…"
 },
 {
-"cum": "Công Đức Vị Đổi Đại",
-"lan": 1,
-"chuong": [
-1917
-],
-"am_la": [
-"Đổi"
-],
-"vd": "c1917: …ược Trần đang rời đi, Thương Tử Hằng xoay người đi ra ngoài Công Đức Vị Đổi Đại Điện. Hắn phải tiếp tục đi chiến trường…"
-},
-{
-"cum": "Công Đức Bảo Vật Đổi",
-"lan": 1,
-"chuong": [
-1917
-],
-"am_la": [
-"Đổi"
-],
-"vd": "c1917: …hương Tử Hằng và những người khác, Trương Nhược Trần đi đến Công Đức Bảo Vật Đổi Xử. Nơi này không có nhân viên, cần tự …"
-},
-{
 "cum": "Ma Rút Đao Đồ",
 "lan": 1,
 "chuong": [
@@ -10404,17 +9676,6 @@
 "vd": "c1928: …một ai hiểu rõ Hắc Viêm Đại Tướng cường đại đến mức nào hơn Thạch Linh Kôn, bằng không, sao hắn lại có thể bại thả…"
 },
 {
-"cum": "Trương Hay",
-"lan": 1,
-"chuong": [
-1932
-],
-"am_la": [
-"Hay"
-],
-"vd": "c1932: …Không chút do dự, Trương Hay... Không, Trương Nhược Trần trực tiếp n…"
-},
-{
 "cum": "Nhật Diễu",
 "lan": 1,
 "chuong": [
@@ -10424,17 +9685,6 @@
 "Diễu"
 ],
 "vd": "c1937: …t chỉ là thời gian. Trương Nhược Trần khoanh chân ngồi dưới Nhật Diễu, thánh đạo quy tắc trong Thông Thiên Hà…"
-},
-{
-"cum": "Hạc Vẩn",
-"lan": 1,
-"chuong": [
-1945
-],
-"am_la": [
-"Vẩn"
-],
-"vd": "c1945: …ử cường đại đến mức nào. Ánh mắt Trương Nhược Trần quét qua Hạc Vẩn thống lĩnh, sau đó quét sang mấy vị cườ…"
 },
 {
 "cum": "Tiên Ki Thần Mộc",
@@ -10526,17 +9776,6 @@
 "vd": "c1984: …g ủ ra Phần Tâm Túy.\" \"Ta cũng có thể luyện chế thêm một ít Thông Thiên Thánh Dan.\" Cổ Tùng Tử cũng nở nụ cười. Việc luyệ…"
 },
 {
-"cum": "Rhea Giới",
-"lan": 1,
-"chuong": [
-1985
-],
-"am_la": [
-"Rhea"
-],
-"vd": "c1985: … đã hạ quyết tâm muốn tiêu diệt Thánh Minh Thành. Hồn Giới, Rhea Giới, Vân Giới, Sách Giới, Âm Dương Giới, Hồ…"
-},
-{
 "cum": "Thực Thánh Của Hoa",
 "lan": 1,
 "chuong": [
@@ -10570,17 +9809,6 @@
 "vd": "c1990: …hơn Thánh Minh Thành. \"Đã chết một tên Công Tử Diễn, xem ra Không Gian Của Thần Điện chưa vì thế mà rút ra bài học.\" Trương …"
 },
 {
-"cum": "Ruốt Trần",
-"lan": 1,
-"chuong": [
-2001
-],
-"am_la": [
-"Ruốt"
-],
-"vd": "c2001: …\"Trương Ruốt Trần, ngươi quả thực là không muốn chừa cho …"
-},
-{
 "cum": "Bếp Cổ Đạo",
 "lan": 1,
 "chuong": [
@@ -10592,17 +9820,6 @@
 "vd": "c2007: …ng đã rất lớn. Vốn dĩ hai mươi sáu vị Cửu Bộ Thánh Vương bị Bếp Cổ Đạo dùng Trì Hồn Đại Pháp khống chế, mỗi ng…"
 },
 {
-"cum": "Lần Trần",
-"lan": 1,
-"chuong": [
-2015
-],
-"am_la": [
-"Lần"
-],
-"vd": "c2015: …quang, đem ánh mắt phóng về phía trương nhược trần. \"Trương Lần Trần, lần này coi như ngươi vận khí tốt, như…"
-},
-{
 "cum": "Lưới Thần",
 "lan": 1,
 "chuong": [
@@ -10612,17 +9829,6 @@
 "Lưới"
 ],
 "vd": "c2021: …hạch đài ngồi xuống. Mộc Linh Hi, Minh Giang Vương, Kim Vũ, Lưới Thần và Báo Liệt cũng bước lên, tự tìm chỗ n…"
-},
-{
-"cum": "Hứa Hệt",
-"lan": 1,
-"chuong": [
-2025
-],
-"am_la": [
-"Hệt"
-],
-"vd": "c2025: … cái gì, liền đến cái đó. Cùng lúc đó, Hải Minh Pháp Vương, Hứa Hệt và Mặc Thiên Thu cũng sắc mặt đại biến,…"
 },
 {
 "cum": "Đằng Lệ Bĩu",
@@ -10689,18 +9895,6 @@
 "Của"
 ],
 "vd": "c2066: … chính là Ô Tư Đại Thánh của Thiên Đường Giới, xuất thân từ Quang Minh Của Thần Điện, là đại sư huynh của Trụ Vũ, đều xuất p…"
-},
-{
-"cum": "Vòng Xoáy Không Gian",
-"lan": 1,
-"chuong": [
-2068
-],
-"am_la": [
-"Vòng",
-"Xoáy"
-],
-"vd": "c2068: …a, đã các ngươi muốn chơi, bản tọa liền phụng bồi đến cùng, Vòng Xoáy Không Gian.\" Diêm Vô Thần cười to, giơ tay điểm mộ…"
 },
 {
 "cum": "Trấn V Văn Thạch",
@@ -10880,40 +10074,6 @@
 "Mặt"
 ],
 "vd": "c2143: …t của người sống lại nữa, cho nên, cũng không đưa nước suối Nhật Mặt Thần Long Tuyền cho hắn. Đúng như Khương Vân Xung đã nó…"
-},
-{
-"cum": "Ám Thánh Chuông",
-"lan": 1,
-"chuong": [
-2144
-],
-"am_la": [
-"Chuông"
-],
-"vd": "c2144: …òn ẩn chứa tri thức tàn dư của hắc ám thần linh. \"Ong.\" Hắc Ám Thánh Chuông khẽ chấn động, từng đạo hắc ám bí văn h…"
-},
-{
-"cum": "Trương Ru",
-"lan": 1,
-"chuong": [
-2148
-],
-"am_la": [
-"Ru"
-],
-"vd": "c2148: …ến Trương Nhược Trần quan tâm có rất nhiều, ví như Minh Đế, Trương Ru-Phi, Mộc Linh Hi, Khổng Lan Du vạn vạn …"
-},
-{
-"cum": "Mươi Sáu Biến",
-"lan": 1,
-"chuong": [
-2156
-],
-"am_la": [
-"Mươi",
-"Sáu"
-],
-"vd": "c2156: …hải ai khác, chính là Trương Nhược Trần sau khi thu hồi \"Ba Mươi Sáu Biến\", khôi phục diện mạo vốn có. Trì Khổng …"
 },
 {
 "cum": "Thôn Thiên Thỏ Nồi Nồi",
@@ -11191,18 +10351,7 @@
 "am_la": [
 "Lát"
 ],
-"vd": "c2251: …Cùng Quỷ Vương Ly Lát rời đi không lâu, Trương Ruyết Trần ở đ…"
-},
-{
-"cum": "Trương Ruyết Trần",
-"lan": 1,
-"chuong": [
-2251
-],
-"am_la": [
-"Ruyết"
-],
-"vd": "c2251: …Cùng Quỷ Vương Ly Lát rời đi không lâu, Trương Ruyết Trần ở đằng xa nhìn thấy tung tích của Huyết…"
+"vd": "c2251: …Cùng Quỷ Vương Ly Lát rời đi không lâu, Trương Nhược Trần ở đ…"
 },
 {
 "cum": "Thư Đại Nhân Dễ Gãy",
@@ -11248,6 +10397,17 @@
 "Cọp"
 ],
 "vd": "c2259: … Thần Cọp lớn bằng móng tay, ném nó vào trong quan tài. Phệ Thần Cọp là sinh linh được thai nghén bên trong …"
+},
+{
+"cum": "Mì Thánh Tăng",
+"lan": 1,
+"chuong": [
+2262
+],
+"am_la": [
+"Mì"
+],
+"vd": "c2262: …nh Thiền đi tới, tỉ mỉ đánh giá Trương Nhược Trần, nói: \"Tư Mì Thánh Tăng có thể chọn ngươi làm người thừa kế, có…"
 },
 {
 "cum": "Trời Buổi Ban Đầu",
@@ -11339,39 +10499,6 @@
 "vd": "c2310: … họ tưởng tượng rất nhiều. Thần tượng lại mở miệng nói: \"Sợ Trời Chi Chiến là một lần khảo nghiệm đối với Trương N…"
 },
 {
-"cum": "Huyết Nguyệt Sôi Trào",
-"lan": 1,
-"chuong": [
-2316
-],
-"am_la": [
-"Sôi"
-],
-"vd": "c2316: …ồn lại cường đại như thế, Bách Kia cấp cao giai thánh thuật Huyết Nguyệt Sôi Trào của ta vậy mà một kích liền tan rã.\" Mã…"
-},
-{
-"cum": "Đại Thánh Bách Kia Cảnh",
-"lan": 1,
-"chuong": [
-2316
-],
-"am_la": [
-"Kia"
-],
-"vd": "c2316: …ào thể xác để đối đầu với đòn tấn công mạnh nhất của một vị Đại Thánh Bách Kia Cảnh Đại Viên Mãn, nhất định sẽ chịu thiệt l…"
-},
-{
-"cum": "Thiên Nô Càn Hỏi",
-"lan": 1,
-"chuong": [
-2323
-],
-"am_la": [
-"Hỏi"
-],
-"vd": "c2323: …u tím công kích hai lần đã mất đi ý thức, lực công kích của Thiên Nô Càn Hỏi cảnh này mạnh hơn ta tưởng tượng nhiều.…"
-},
-{
 "cum": "Bách Xới Cảnh",
 "lan": 1,
 "chuong": [
@@ -11392,28 +10519,6 @@
 "Shengjun"
 ],
 "vd": "c2329: …n lĩnh vực, lập tức lại trào về phía Tả Mục Thánh Quân (Zuo Mu Shengjun) đang phóng nhanh tới. \"Xuy xuy.\" Không…"
-},
-{
-"cum": "Vận Xinh Khải Giáp",
-"lan": 1,
-"chuong": [
-2338
-],
-"am_la": [
-"Xinh"
-],
-"vd": "c2338: …hí nhiều thời gian trên người hắn như vậy? Hơn nữa, còn đem Vận Xinh Khải Giáp trả lại cho hắn, chỉ đổi lấy hai câu hứ…"
-},
-{
-"cum": "Xinh Thần Điện",
-"lan": 1,
-"chuong": [
-2338
-],
-"am_la": [
-"Xinh"
-],
-"vd": "c2338: …ới những nhân vật mạnh mẽ hơn, ví dụ như La Sinh Thiên. Vận Xinh Thần Điện trong hai mươi bốn thần điện của Tu La …"
 },
 {
 "cum": "Xinh Khải Giáp",
@@ -11526,17 +10631,6 @@
 "Dặm"
 ],
 "vd": "c2364: …o không gian hắn có thể hoạt động, càng ngày càng nhỏ. \"Vạn Dặm Băng Xuyên Huyễn Trận, cộng thêm Địa Tạng Thất Sát Phù, gần t…"
-},
-{
-"cum": "Vạn Dặm Băng Xuyên Huyễn",
-"lan": 1,
-"chuong": [
-2364
-],
-"am_la": [
-"Dặm"
-],
-"vd": "c2364: … Diêm Chiết Tiên lập tức thôi động phù văn. Cho dù không có Vạn Dặm Băng Xuyên Huyễn Trận, nàng cũng có lòng tin, dựa vào Đị…"
 },
 {
 "cum": "Bách Cùm Cảnh Đại Mãn",
@@ -11669,29 +10763,6 @@
 "Đ"
 ],
 "vd": "c2409: … một thể trên người thiêu đốt thần diễm bừng bừng nói: \"Ngũ Hành Hỗn ĐN Bất Hủ Thánh Thể của ta há lại chút sá…"
-},
-{
-"cum": "Trương Rục Chần",
-"lan": 1,
-"chuong": [
-2412
-],
-"am_la": [
-"Rục",
-"Chần"
-],
-"vd": "c2412: … không ai biết kết quả chiến đấu ở thời khắc cuối cùng giữa Trương Rục Chần và Diêm Vô Thần ra sao. Tất cả tu sĩ th…"
-},
-{
-"cum": "Mệnh Thần Vức",
-"lan": 1,
-"chuong": [
-2419
-],
-"am_la": [
-"Vức"
-],
-"vd": "c2419: …Vận Mệnh Thần Vức tuy được xây dựng trên những chiếc lá c…"
 },
 {
 "cum": "Thần Vức",
@@ -11916,17 +10987,6 @@
 "vd": "c2455: …ấn Võ ngẩn ra nhẹ nhàng, liên tục gật đầu nói: \"Chiến tranh Trận Săn bắn kết thúc không lâu, Du Hoàng liền đ…"
 },
 {
-"cum": "Bách Kia Cảnh Đại Thánh",
-"lan": 1,
-"chuong": [
-2460
-],
-"am_la": [
-"Kia"
-],
-"vd": "c2460: …giết hắn, cần gì phải mang hắn đi? Trong mắt Nữ Đế, một tên Bách Kia Cảnh Đại Thánh cỏn con chỉ là một con sâu cái kiến mạn…"
-},
-{
 "cum": "Thánh Bách Cồng Cảnh",
 "lan": 1,
 "chuong": [
@@ -12016,17 +11076,6 @@
 "Sù"
 ],
 "vd": "c2488: …iờ tranh cãi có ý nghĩa gì? Đợi Tư Không giá lâm, khởi động Thiên Sù Châm, đem Trương Nhược Trần bắt giữ, mọi thứ…"
-},
-{
-"cum": "Nữ Thập Nhị Lầu",
-"lan": 1,
-"chuong": [
-2490
-],
-"am_la": [
-"Lầu"
-],
-"vd": "c2490: …ưa chắc đã so được.\" Bạch Khanh Nhi khẽ thở dài, nói: \"Thần Nữ Thập Nhị Lầu có một trăm tám mươi lầu. Mỗi một tòa T…"
 },
 {
 "cum": "Kiếm Lầu",
@@ -12127,17 +11176,6 @@
 "Sỹ"
 ],
 "vd": "c2507: …êm gia, gả qua đó thì ít nhất cũng phải đứng ngang hàng với La Sỹ chứ.\" Ánh mắt Diêm Hoàng Đồ sắc bén, ng…"
-},
-{
-"cum": "Trương Rươ̂c Châu",
-"lan": 1,
-"chuong": [
-2513
-],
-"am_la": [
-"Rươ̂c"
-],
-"vd": "c2513: …iao thủ, hàng chục tòa Mệnh Vận Chi Môn treo lơ lửng, nhưng Trương Rươ̂c Châu ở cách xa vạn dặm, cho nên không có cảm…"
 },
 {
 "cum": "Tài Giết Chi Phủ",
@@ -12440,17 +11478,6 @@
 "vd": "c2579: …. Bọn họ tuyệt đối không tin Trương Nhược Trần vẫn là tu vi Bách Cỗ Giới, đều cảm thấy Trương Nhược Trần khẳng đ…"
 },
 {
-"cum": "Trương Ruốt",
-"lan": 1,
-"chuong": [
-2580
-],
-"am_la": [
-"Ruốt"
-],
-"vd": "c2580: …Nhị Tư Không vừa kể lại sự việc. Sự thật đúng là không khác Trương Ruốt (Trương Nhược Trần) suy đoán là mấy, ch…"
-},
-{
 "cum": "Dao Hiện Không Được Quang",
 "lan": 1,
 "chuong": [
@@ -12460,17 +11487,6 @@
 "Được"
 ],
 "vd": "c2607: …mà giao chiến, tuyệt đối không phải là minh trí chi cử. Trì Dao Hiện Không Được Quang, Bạch Khanh Nhi Diệc Nhu Yếu Ẩn Tàng Th…"
-},
-{
-"cum": "Châu Trò",
-"lan": 1,
-"chuong": [
-2610
-],
-"am_la": [
-"Trò"
-],
-"vd": "c2610: …ong một tòa cổ thành trống trải. Trương Nhược Trần cùng với Châu Trò, Thân Đồ Vân Không, Đại Sâm La Hoàng, đ…"
 },
 {
 "cum": "Hỗn Độn Vạn Giôn Sơn",
@@ -12537,17 +11553,6 @@
 "Cõi"
 ],
 "vd": "c2630: …ược Trần đem Sử Nhân – người vẫn luôn tu luyện phù đạo theo Cõi Tiếp Thiên Thần Mộc trong Càn Khôn Giới – đón ra, đưa trở v…"
-},
-{
-"cum": "Trương Tám",
-"lan": 1,
-"chuong": [
-2630
-],
-"am_la": [
-"Tám"
-],
-"vd": "c2630: …ếu nữ áo đỏ cũng đi tới khu vực sơn môn. \"Tại hạ Minh tông, Trương Tám trăm chín mươi tư, không biết tiền đạo …"
 },
 {
 "cum": "Thập Tam Tungs Thiên",
@@ -12773,17 +11778,6 @@
 "vd": "c2676: …?\" Trương Nhược Trần hỏi. Diêm Vô Thần đáp: \"Có.\" Hư Thịnh, Yến Của Thần Phi, Yến Tiểu Lý đều đưa mắt nhìn nhau, cảm…"
 },
 {
-"cum": "Ván Thần Sứ",
-"lan": 1,
-"chuong": [
-2690
-],
-"am_la": [
-"Ván"
-],
-"vd": "c2690: …gã rạp xuống đất. \"Cuối cùng... vẫn không địch lại...\" Thẩm Ván Thần Sứ cắn chặt răng, tràn đầy không cam lòng.…"
-},
-{
 "cum": "Nếu Đã Chân Thần",
 "lan": 1,
 "chuong": [
@@ -12927,7 +11921,7 @@
 "am_la": [
 "Tragia"
 ],
-"vd": "c2745: …ng lớn tài nguyên tu luyện, mở ra Nhật Hược, tu luyện trong Huyết Tragia tộc. Hắn có quá nhiều việc phải bận tâm…"
+"vd": "c2745: …ợng lớn tài nguyên tu luyện, mở ra Nhật Quỹ, tu luyện trong Huyết Tragia tộc. Hắn có quá nhiều việc phải bận tâm…"
 },
 {
 "cum": "Huyết Ảnh Của Thần Mẫu",
@@ -13017,17 +12011,6 @@
 "Thếp"
 ],
 "vd": "c2767: …phá thần cảnh mới được.\" Trương Nhược Trần nhớ tới những gì Thếp Tam Thiên từng nói, trong lòng sinh ra một cỗ cảm…"
-},
-{
-"cum": "Nam Sáu",
-"lan": 1,
-"chuong": [
-2771
-],
-"am_la": [
-"Sáu"
-],
-"vd": "c2771: … thật sự là ngu xuẩn đến cực điểm.\" Đối diện, trong ánh mắt Nam Sáu hiện lên nụ cười lạnh khinh bỉ: \"Bổn Tr…"
 },
 {
 "cum": "Kim Sí Đại Bưởng",
@@ -13237,17 +12220,6 @@
 "Của"
 ],
 "vd": "c2800: …này lai lịch không nhỏ đâu. Ngươi gặp rắc rối lớn rồi!\" \"Vô Sở Vị Của, dù sao cho dù ta không giết hắn, Thiên…"
-},
-{
-"cum": "Đại Thách Băng Phách Thế",
-"lan": 1,
-"chuong": [
-2803
-],
-"am_la": [
-"Thách"
-],
-"vd": "c2803: … màu trắng lạnh lẽo, điều động thần khí rót vào trong. \"Xem Đại Thách Băng Phách Thế Giới của bản hoàng đây!\" Trên hạt châu …"
 },
 {
 "cum": "Hỗn Đn Thời Không Liên",
@@ -13550,17 +12522,6 @@
 "vd": "c2960: …ổ lớn. Si Hình Thiên phá vỡ thế giới thần cảnh kiếm đạo của Danh Kiếm Sần, xông ra ngoài, thẳng tắp bay về phía m…"
 },
 {
-"cum": "Thanh Phi Hơi",
-"lan": 1,
-"chuong": [
-2961
-],
-"am_la": [
-"Hơi"
-],
-"vd": "c2961: …ó thần linh chuyển hướng muốn rời khỏi nơi này, cất lời hỏi Thanh Phi Hơi. Thanh Phi Hơi dừng bước chân, cười cườ…"
-},
-{
 "cum": "Long Sượng Bàn Nhược Chưởng",
 "lan": 1,
 "chuong": [
@@ -13713,17 +12674,6 @@
 "Bữu"
 ],
 "vd": "c3058: …ng, hạn nhận trong 1 ngày! Theo dõi công _ chúng _ hào [Thư Bữu Đại Bản Doanh], miễn phí lĩnh! Nhưng, đối với thần li…"
-},
-{
-"cum": "Mươi Chư Thiên Đồ",
-"lan": 1,
-"chuong": [
-3059
-],
-"am_la": [
-"Mươi"
-],
-"vd": "c3059: …kẻ dễ đối phó, còn có bảo vật cường hoành nào loại như 'Hai Mươi Chư Thiên Đồ' không, mau lấy ra đi!\" Trương Nhược Tr…"
 },
 {
 "cum": "Khắp Thiên",
@@ -14034,7 +12984,7 @@
 "am_la": [
 "Mười"
 ],
-"vd": "c3140: …g tay hắn. Mưa Sư bị hắn bắt, sống chết không rõ. Đường chủ Mười Hai Linh Thần Điện là Vô Nguyệt lại càng... bị hắn sỉ nhục…"
+"vd": "c3140: …ng tay hắn. Vũ Sư bị hắn bắt, sống chết không rõ. Đường chủ Mười Hai Linh Thần Điện là Vô Nguyệt lại càng... bị hắn sỉ nhục…"
 },
 {
 "cum": "A Mộc Ngươi",
@@ -14102,17 +13052,6 @@
 "Chữ"
 ],
 "vd": "c3174: …thành Địa Ngục Giới chí cao nhất tộc. Táng Kim Bạch Hổ cùng Chữ Vạn Thanh Long, thì là chân chính mới sinh với năm vạn…"
-},
-{
-"cum": "Lưới Khai",
-"lan": 1,
-"chuong": [
-3174
-],
-"am_la": [
-"Lưới"
-],
-"vd": "c3174: …h tới gần. Còn không tới gần tàn phá thành tường, đột nhiên Lưới Khai quỷ dị biến mất không thấy. Sau một khắ…"
 },
 {
 "cum": "Bốn Dương Thần Điện",
@@ -14213,17 +13152,6 @@
 "Và"
 ],
 "vd": "c3195: …hất nhật hậu. Tây Thiên Phật Giới, tẩy tướng trì bạn. Phong Hề Và Từ Hàng Tiên Tử Giai Xuyên Phật Y, Tương Đối Nhi Toạ…"
-},
-{
-"cum": "Chân Lý Chi Mắt",
-"lan": 1,
-"chuong": [
-3201
-],
-"am_la": [
-"Mắt"
-],
-"vd": "c3201: …ắt đầu độ tâm ma kiếp hay chưa. Trương Nhược Trần thúc giục Chân Lý Chi Mắt, quét nhìn tứ phương. Thế nhưng hắc ám …"
 },
 {
 "cum": "Thái Tank Cự Nhân",
@@ -14867,17 +13795,6 @@
 "vd": "c3410: …Vừa rồi, ta nhìn thấy hai vị đại thánh của Mộ Dung thế gia, Hồng Kh Súc không qua bái kiến sao? Trương Nhược Tr…"
 },
 {
-"cum": "Trương Hồng Kh",
-"lan": 1,
-"chuong": [
-3410
-],
-"am_la": [
-"Kh"
-],
-"vd": "c3410: …ng Nhược Trần. Trương Nhược Trần chắp tay, nói: — Minh tông Trương Hồng Kh, bái kiến Diệp Phong Đại Thánh. Thanh T…"
-},
-{
 "cum": "Hồng Kh Thánh",
 "lan": 1,
 "chuong": [
@@ -15087,17 +14004,6 @@
 "vd": "c3479: …ự \"Chủ nhiệm khoa hậu môn trực tràng\", cùng với Bình Đầu ca Mật Hoử, được xưng tụng là Ngọa Long Phượng Sồ.…"
 },
 {
-"cum": "Thả Mát Thần Linh",
-"lan": 1,
-"chuong": [
-3481
-],
-"am_la": [
-"Mát"
-],
-"vd": "c3481: …át vũ trụ, đánh xuyên qua cổ kim. \"Vút!\" \"Vút!\" Tề Lâm cùng Thả Mát Thần Linh giống như hai đạo quang tiễn, từ Định T…"
-},
-{
 "cum": "Tấm Hoà Đại Tế Ti",
 "lan": 1,
 "chuong": [
@@ -15118,17 +14024,6 @@
 "Tấm"
 ],
 "vd": "c3484: …ấy?\" \"Ngươi hưu nhược hỏa ngôn, bản tọa khi nào hạ lệnh cho Tấm Hoà... Khụ khụ...\" Nhiếp Thần Vương ho ra h…"
-},
-{
-"cum": "Thả Mát",
-"lan": 1,
-"chuong": [
-3491
-],
-"am_la": [
-"Mát"
-],
-"vd": "c3491: … Đồ Quỷ Đế, hai đại Nhân, Cổ Tân, Sư Trí thần linh, Tề Lâm, Thả Mát thần linh hội tụ cùng một chỗ, đứng tại…"
 },
 {
 "cum": "Lệt Thiên",
@@ -15219,17 +14114,6 @@
 "Rậm"
 ],
 "vd": "c3509: …ông thanh không hơi thở gian, truyền đến thiên ngoại. Cự ly Vô Quy Rừng Rậm này phiến tinh không đại khái năm ức dặ…"
-},
-{
-"cum": "Hồn Đèn",
-"lan": 1,
-"chuong": [
-3509
-],
-"am_la": [
-"Đèn"
-],
-"vd": "c3509: …a từng thấy nó xuất hiện qua. Cái kia lũ hỏa diễm đạo: \"Phệ Hồn Đèn đời trước khí linh, chính là bản tọa. B…"
 },
 {
 "cum": "Nhược Trần Và Thiền Minh",
@@ -15410,17 +14294,6 @@
 "vd": "c3574: …nàng ta, e là không dễ dàng thế đâu!\" ... Ngày mai chính là Ba Mươi Tết rồi, chúc mọi người năm mới vui vẻ trướ…"
 },
 {
-"cum": "Mệnh Vận Thập Mười Pha",
-"lan": 1,
-"chuong": [
-3576
-],
-"am_la": [
-"Mười"
-],
-"vd": "c3576: …Bắt đầu tu luyện Mệnh Vận Thập Mười Pha, khí tức trên người Phượng Thiên thời k…"
-},
-{
 "cum": "Phượng Phượng Xám",
 "lan": 1,
 "chuong": [
@@ -15596,17 +14469,6 @@
 "Đuổi"
 ],
 "vd": "c3677: …\"Bành! Bành!\" Kiếm và trụ va chạm liên tiếp mấy lần. Phượng Thiên Đuổi Chí, chém ra Cát Tường Như Ý, mệnh vận thần…"
-},
-{
-"cum": "Nhị Mươi Ba",
-"lan": 1,
-"chuong": [
-3677
-],
-"am_la": [
-"Mươi"
-],
-"vd": "c3677: … toàn lực vận chuyển thần khí trong cơ thể, quát lớn: \"Kiếm Nhị Mươi Ba, Kiếm Khai Hư Vô.\" Kiếm chiêu mạnh nhất…"
 },
 {
 "cum": "Thời Khùng Hỗn Độn Liên",
@@ -15987,17 +14849,6 @@
 "vd": "c3815: … bừng lên gấp bội, tay trái nâng lên, ngón tay thon dài kết Giàng Ma Ấn, vung tay hướng xuống, đánh mạnh vào hư…"
 },
 {
-"cum": "Vô Ngã Đèn",
-"lan": 1,
-"chuong": [
-3817
-],
-"am_la": [
-"Đèn"
-],
-"vd": "c3817: …g với mười hai tướng vận mệnh. Hơn nữa hắn ta cầm trong tay Vô Ngã Đèn trong truyền thuyết, chỉ bị ánh sáng ch…"
-},
-{
 "cum": "Ngọc Xិត Tình Sư",
 "lan": 1,
 "chuong": [
@@ -16187,17 +15038,6 @@
 "vd": "c3894: …trấn áp kiếm tu cấp Thiên Tôn và tàn khu của Hắc Ám Quỷ Dị, Tuỳ Thời Đều Đô Yếu chuẩn bị sẵn sàng hy sinh bản thân. Hai…"
 },
 {
-"cum": "Đêm Du",
-"lan": 1,
-"chuong": [
-3897
-],
-"am_la": [
-"Đêm"
-],
-"vd": "c3897: …ì Côn Lôn là Bắc Cung Lam, cùng kiên định ủng hộ Trì Dao là Đêm Du đại sư, Diêm Ảnh Nhi, ai cũng không dám…"
-},
-{
 "cum": "Viên Quá Thật",
 "lan": 1,
 "chuong": [
@@ -16209,28 +15049,6 @@
 "vd": "c3897: …bất luận như thế nào, trước tiên độ qua kiếp nạn này.\" Hiên Viên Quá Thật đạo: \"Thời cục nhiều gian, việc thiết l…"
 },
 {
-"cum": "Hiên Viên Quá Thật",
-"lan": 1,
-"chuong": [
-3897
-],
-"am_la": [
-"Thật"
-],
-"vd": "c3897: …ống như Chân lý điện chủ cùng Ngũ Hành Quan Chủ rời đi rồi, Hiên Viên Quá Thật cùng Xích Hà Phi Tiên Cốc cốc chủ làm s…"
-},
-{
-"cum": "Hư Hỏi Chi",
-"lan": 1,
-"chuong": [
-3905
-],
-"am_la": [
-"Hỏi"
-],
-"vd": "c3905: …n tại của hắn, dù có hành lễ thì Tinh Thiên sườn núi chủ và Hư Hỏi Chi cũng không dám nhận. Về mặt chiến lực, …"
-},
-{
 "cum": "Thất Tiễ",
 "lan": 1,
 "chuong": [
@@ -16240,17 +15058,6 @@
 "Tiễ"
 ],
 "vd": "c3906: …p tiễn đạo áo nghĩa. Ta nghe nói, quan chủ có giao tình với Thất Tiễ của thần tôn của Nguyên Giới, có thể gi…"
-},
-{
-"cum": "Hoa Hỷ Thương Cuyết",
-"lan": 1,
-"chuong": [
-3911
-],
-"am_la": [
-"Cuyết"
-],
-"vd": "c3911: … không mau mở trận pháp ra, kẻ mà bản tọa muốn gặp chính là Hoa Hỷ Thương Cuyết và Trương Nhược Trần.\" Chư thần trong T…"
 },
 {
 "cum": "Hoàng Vua",
@@ -16341,18 +15148,6 @@
 "vd": "c3930: …hất trí cho là thanh kiếm do Bất Động Minh Vương Đại Tôn và Tu Di Thánh Sng đúc nên, do đó, trở thành trận nhãn của…"
 },
 {
-"cum": "Dài Sông Thời Gian",
-"lan": 1,
-"chuong": [
-3931
-],
-"am_la": [
-"Dài",
-"Sông"
-],
-"vd": "c3931: …oán. Hơn nữa hắn nắm giữ Yêu Khảm, có thể ẩn mình vào trong Dài Sông Thời Gian, thậm chí giấu vào quá khứ vị lai, cho …"
-},
-{
 "cum": "Tám Tầng Kiếm Các",
 "lan": 1,
 "chuong": [
@@ -16361,7 +15156,7 @@
 "am_la": [
 "Tám"
 ],
-"vd": "c3931: …ho nên, chỉ có thể đột phá từ Thất Thập Nhị Tầng Tháp! Mười Tám Tầng Kiếm Các và Mười Tám Tầng U Minh Địa Lao, đều nằ…"
+"vd": "c3931: …ho nên, chỉ có thể đột phá từ Thất Thập Nhị Tầng Tháp! Mười Tám Tầng Kiếm Các và Thập Bát Tầng U Minh Địa Lao, đều nằ…"
 },
 {
 "cum": "Mười Tám Tầng Quỷ Môn",
@@ -16530,6 +15325,17 @@
 "vd": "c3973: … khí tức Thủy Tổ, tuần hoàn bay lượn; trong trận có trận là Nại Hơ Kiều, bên trên mọc đầy Hồng Á Thụ. Sức mạnh …"
 },
 {
+"cum": "Tu M",
+"lan": 1,
+"chuong": [
+3985
+],
+"am_la": [
+"M"
+],
+"vd": "c3985: …y là vì tò mò, rất muốn biết Bất Động Minh Vương Đại Tôn và Tu M rốt cuộc chuẩn bị hậu thủ gì cho Minh T…"
+},
+{
 "cum": "Mệt Pháp Nhất",
 "lan": 1,
 "chuong": [
@@ -16616,17 +15422,6 @@
 "Vợ"
 ],
 "vd": "c4009: …n và kiếm mang vỡ vụn, tiêu tan vào hư vô tựa sương mù. Bản Vợ Thần Điện kịch liệt chấn động, sóng xung kích trà…"
-},
-{
-"cum": "Rữu Tổ",
-"lan": 1,
-"chuong": [
-4011
-],
-"am_la": [
-"Rữu"
-],
-"vd": "c4011: …gay, hoặc từ chối, mà hỏi ngược lại một câu: \"Với tu vi của Rữu Tổ, nắm giữ Thất Thập Nhị Tầng Tháp, có nắ…"
 },
 {
 "cum": "Diệu Entropy",
@@ -17004,18 +15799,6 @@
 "Chạy"
 ],
 "vd": "c4068: …ại bốn chữ này, thân hình Thiên Mụ biến mất không thấy. Khi Thiên Mụ Chạy Chí Sinh Tử Giới Tinh, Phong Đô Đại Đế đã đến tr…"
-},
-{
-"cum": "Hư Nát Nguyên Bản Đèn",
-"lan": 1,
-"chuong": [
-4078
-],
-"am_la": [
-"Nát",
-"Đèn"
-],
-"vd": "c4078: …Huyền Hoàng Kích cùng Hư Nát Nguyên Bản Đèn, bị Trương Nhược Trần từ Hôi Hải trong …"
 },
 {
 "cum": "Mông Goa",
@@ -17592,17 +16375,6 @@
 "vd": "c4196: …uan, bước ra khỏi Thu Đường Viên của Hạo Nguyệt Cung. Thánh Thư Tài Nữếc nhìn vào khu vườn tràn ngập hoa hải đườ…"
 },
 {
-"cum": "Che Diệt",
-"lan": 1,
-"chuong": [
-4200
-],
-"am_la": [
-"Che"
-],
-"vd": "c4200: …người phụ nữ này rất đặc biệt, thuộc về ta!\" Tiếng cười của Che Diệt vang dội Tinh Hải, tay cầm Ma Tổ Tý Ngọ…"
-},
-{
 "cum": "Ki Cơ Sách",
 "lan": 1,
 "chuong": [
@@ -17724,6 +16496,693 @@
 "Mạng"
 ],
 "vd": "c4211: …ng chờ mong xem nó triển khai thế nào nhé. Lần này là \"Khởi Điểm Trung Văn Mạng\" độc quyền phát hành, mấy lão huynh đệ …"
+},
+{
+"cum": "Độc Cúy Thiếu",
+"lan": 1,
+"chuong": [
+"t236"
+],
+"am_la": [
+"Cúy"
+],
+"vd": "t236: …Trương Nhược Trần chém chết Độc Cúy Thiếu chủ, khiến Hoa Danh Công phẫn nộ tấn cô…"
+},
+{
+"cum": "Đầm Lầy Ẩm Ướt",
+"lan": 1,
+"chuong": [
+"t253"
+],
+"am_la": [
+"Đầm",
+"Lầy",
+"Ướt"
+],
+"vd": "t253: …và kết thúc trận chiến. Ở nơi khác, Hoắc Cảnh Thành bắt giữ Đầm Lầy Ẩm Ướt, nghe lời cảnh báo về Trương Nhược Trần…"
+},
+{
+"cum": "Long Hình Hượng Ảnh",
+"lan": 1,
+"chuong": [
+"t270"
+],
+"am_la": [
+"Hượng"
+],
+"vd": "t270: …ương Hình, còn Trương Nhược Trần né tránh và phản công bằng Long Hình Hượng Ảnh cùng Tượng Lực Cửu Điệp. Kết quả, Cừu L…"
+},
+{
+"cum": "Hoàn Kim Chuông",
+"lan": 1,
+"chuong": [
+"t445"
+],
+"am_la": [
+"Chuông"
+],
+"vd": "t445: …Lang Hoàn Kim Chuông phát âm sóng làm Ngân Không Dung Binh Đ…"
+},
+{
+"cum": "Địa Hỏa Kỳ Lín",
+"lan": 1,
+"chuong": [
+"t549"
+],
+"am_la": [
+"Lín"
+],
+"vd": "t549: …Địa dùng Bát Bộ Phục Ma Trận đỡ đòn mà không bị thương. Khi Địa Hỏa Kỳ Lín lao xuống làm biển bốc cháy, Trương Như…"
+},
+{
+"cum": "Kỳ Lín",
+"lan": 1,
+"chuong": [
+"t549"
+],
+"am_la": [
+"Lín"
+],
+"vd": "t549: …a thượng và Ô Hài Giao Vương đều lao xuống đáy hải câu, còn Kỳ Lín truy đuổi.…"
+},
+{
+"cum": "Điện Hỏa Lốc Xoáy",
+"lan": 1,
+"chuong": [
+"t617"
+],
+"am_la": [
+"Lốc",
+"Xoáy"
+],
+"vd": "t617: …ương Nhược Trần từ trên không giáng xuống, dùng Lôi Châu và Điện Hỏa Lốc Xoáy tàn sát các Tuyệt Nhân chiến sĩ, rồi tr…"
+},
+{
+"cum": "Vạn Không Sườn Núi",
+"lan": 1,
+"chuong": [
+"t719"
+],
+"am_la": [
+"Sườn",
+"Núi"
+],
+"vd": "t719: …ị nàng khinh thường rồi khiêu khích, khiến nàng dẫn hắn đến Vạn Không Sườn Núi. Tại hang động trung tâm, hai người cùn…"
+},
+{
+"cum": "Bài Chuột",
+"lan": 1,
+"chuong": [
+"t726"
+],
+"am_la": [
+"Chuột"
+],
+"vd": "t726: …Trương Nhược Trần (Lâm Nhạc) cùng Long Ba, Bài Chuột, Xà Nhị, Âu Dương Hoàn và Tiểu Hắc xuất…"
+},
+{
+"cum": "Hàn Chiu",
+"lan": 1,
+"chuong": [
+"t259"
+],
+"am_la": [
+"Chiu"
+],
+"vd": "t259: …Trương Nhược Trần và Hàn Chiu xuất hiện, kiểm tra hộ thành đại trận c…"
+},
+{
+"cum": "Lôi Goá Kiếm",
+"lan": 1,
+"chuong": [
+"t783"
+],
+"am_la": [
+"Goá"
+],
+"vd": "t783: …Hiên Long Bán Thánh rút Lôi Goá Kiếm giao phong với Trương Nhược Trần (Lâm N…"
+},
+{
+"cum": "Triệu Honh",
+"lan": 1,
+"chuong": [
+"t1015"
+],
+"am_la": [
+"Honh"
+],
+"vd": "t1015: …t lão đạo và nhóm thư sinh trẻ ngồi trên liên đài, rồi nghe Triệu Honh tiết lộ Bán Thánh Bảng mới: Nhân tộc ch…"
+},
+{
+"cum": "Huyền Vế",
+"lan": 1,
+"chuong": [
+"t1091"
+],
+"am_la": [
+"Vế"
+],
+"vd": "t1091: …Trương Nhược Trần bị bảy đại Thú Vương, trong đó có Huyền Vế, Khấu Lộc, Đằng Xà và Thôn Thiên Ma Lon…"
+},
+{
+"cum": "Thanh Lông",
+"lan": 1,
+"chuong": [
+"t1137"
+],
+"am_la": [
+"Lông"
+],
+"vd": "t1137: …ệnh Đại Đế và nhiều cường giả khác xuất hiện ngoài vương đô Thanh Lông. Họ thương lượng rồi liên thủ tấn công …"
+},
+{
+"cum": "Vô Vuyên Đảo",
+"lan": 1,
+"chuong": [
+"t1306"
+],
+"am_la": [
+"Vuyên"
+],
+"vd": "t1306: … Mãng rời đi sau khi nhắc về Thiên Diệp Thánh Sâm Thảo trên Vô Vuyên Đảo, còn Trương Nhược Trần, Thanh Mặc và Ch…"
+},
+{
+"cum": "Tử Cuông Nhân",
+"lan": 1,
+"chuong": [
+"t1367"
+],
+"am_la": [
+"Cuông"
+],
+"vd": "t1367: …Khi tử vong tà khí bao phủ Côn Lôn Giới dần tan đi, Tử Cuông Nhân, Cổ Tùng Tử, Khổng Lan Du, Trì Dao Nữ H…"
+},
+{
+"cum": "Tịnh Mệt Thần",
+"lan": 1,
+"chuong": [
+"t1478"
+],
+"am_la": [
+"Mệt"
+],
+"vd": "t1478: …ữ. Trương Nhược Trần uy hiếp kích nổ Phật Đế Xá Lợi tử bằng Tịnh Mệt Thần…"
+},
+{
+"cum": "Gương Thánh Kiếm",
+"lan": 1,
+"chuong": [
+"t1561"
+],
+"am_la": [
+"Gương"
+],
+"vd": "t1561: … trận chiến tại Cảnh Hương Nhai đạo trường. Bạch Nhiên dùng Gương Thánh Kiếm cùng Thập Sát Nguyên Đạo Kiếm truy kích…"
+},
+{
+"cum": "Chân Miao Thánh Quả",
+"lan": 1,
+"chuong": [
+"t1660"
+],
+"am_la": [
+"Miao"
+],
+"vd": "t1660: …và La Thiên Thân Quân xuất hiện; Trương Nhược Trần tịnh hóa Chân Miao Thánh Quả, cho Hạng Sở Nam luyện hóa, rồi dẫn Thô…"
+},
+{
+"cum": "Chân Miao Đạo Nhân",
+"lan": 1,
+"chuong": [
+"t1689"
+],
+"am_la": [
+"Miao"
+],
+"vd": "t1689: … quả là Vũ Văn Tĩnh và Thanh Liêu Nha đều bị tiêu diệt, còn Chân Miao Đạo Nhân từ xa xông đến muốn lấy mảnh mai rùa.…"
+},
+{
+"cum": "Chân Miao Quan",
+"lan": 1,
+"chuong": [
+"t1698"
+],
+"am_la": [
+"Miao"
+],
+"vd": "t1698: …Trương Nhược Trần cùng Chân Miao tiểu đạo nhân đến Chân Miao Quan, trong khi Ma Tiểu Cô, Vong Thiên và Di…"
+},
+{
+"cum": "Ban Làn Tuyệt Ấn",
+"lan": 1,
+"chuong": [
+"t1800"
+],
+"am_la": [
+"Làn"
+],
+"vd": "t1800: …Trương Nhược Trần đối đầu Tạng Tâm Tôn Giả, đỡ được Ban Làn Tuyệt Ấn bằng Bát Long Tán rồi dùng Trầm Uyên Cổ…"
+},
+{
+"cum": "Huyết Vù",
+"lan": 1,
+"chuong": [
+"t2067"
+],
+"am_la": [
+"Vù"
+],
+"vd": "t2067: …g do thần niệm của Huyết Thần, sau đó sáu Tuần Thiên Sứ gồm Huyết Vù, Hư Lăng, Ô Tư, Hắc Vũ, Tịch Diệt và Vă…"
+},
+{
+"cum": "Kim Yang Song Tử Vương",
+"lan": 1,
+"chuong": [
+"t2094"
+],
+"am_la": [
+"Yang"
+],
+"vd": "t2094: …yết. Trong khi đó, Đại Dương Vương, Ngũ Nguyên Thánh Vương, Kim Yang Song Tử Vương, Huyền Không Thánh Vương và các cường g…"
+},
+{
+"cum": "Thạch Giệt Tâm",
+"lan": 1,
+"chuong": [
+"t2206"
+],
+"am_la": [
+"Giệt"
+],
+"vd": "t2206: …Trương Nhược Trần, Diêm Vô Thần, Thạch Giệt Tâm, Ngọc Thiên Cốt Hoàng, Minh Ma và Cửu T…"
+},
+{
+"cum": "Nguồn Phi",
+"lan": 1,
+"chuong": [
+"t2303"
+],
+"am_la": [
+"Nguồn"
+],
+"vd": "t2303: … giao chiến trên Quỷ tộc bản tộc tinh, trong khi Bàn Nhược, Nguồn Phi, Đại Sâm La Hoàng, Hỏa Mị Âm Cơ, Bạch N…"
+},
+{
+"cum": "Tử Kim Hồ Lồ",
+"lan": 1,
+"chuong": [
+"t2308"
+],
+"am_la": [
+"Lồ"
+],
+"vd": "t2308: …ng Nhược Trần luyện hóa gần một nửa A Mô chú nguyền và dùng Tử Kim Hồ Lồ thi triển không gian đại trận để bao tr…"
+},
+{
+"cum": "Đo Đạm Lăng Phong",
+"lan": 1,
+"chuong": [
+"t2500"
+],
+"am_la": [
+"Đo"
+],
+"vd": "t2500: …Trương Nhược Trần, Đo Đạm Lăng Phong, Thương Nguyệt, Thiên Mục, Việt Lẫm Huy…"
+},
+{
+"cum": "Ngũ Yue Mệnh Hoàng",
+"lan": 1,
+"chuong": [
+"t2514"
+],
+"am_la": [
+"Yue"
+],
+"vd": "t2514: …Bạch Khanh Nhi (Kỷ Phạn Tâm), Ngũ Yue Mệnh Hoàng, Tinh Lạc, Thương Thánh cùng mười Vô Th…"
+},
+{
+"cum": "Ngũ Yue",
+"lan": 1,
+"chuong": [
+"t2514"
+],
+"am_la": [
+"Yue"
+],
+"vd": "t2514: …Khanh Nhi hấp thụ thánh ý Hỗn Độn Sơ Khai, sống sót sau khi Ngũ Yue tự bạo, rồi giáng Vạn Thanh Thiên Tuyền…"
+},
+{
+"cum": "Vốn Dĩ Tĩnh",
+"lan": 1,
+"chuong": [
+"t2597"
+],
+"am_la": [
+"Vốn"
+],
+"vd": "t2597: … hủy trong kiến trúc và Kiếm Đảo rung chìm, Tử Thần Điện do Vốn Dĩ Tĩnh và Đoan Lăng Phong dẫn đầu bao vây, ép …"
+},
+{
+"cum": "Thú Sumeragi",
+"lan": 1,
+"chuong": [
+"t2687"
+],
+"am_la": [
+"Sumeragi"
+],
+"vd": "t2687: …inh Linh tộc, Trật Tự Cung, Huyết Hải giấu Thiên Thần Điện, Thú Sumeragi điện, Rhea giới áp sát. Kết quả là thân…"
+},
+{
+"cum": "Đem Thanh",
+"lan": 1,
+"chuong": [
+"t2823"
+],
+"am_la": [
+"Đem"
+],
+"vd": "t2823: …Huyết Đồ, Tiểu Hắc, Trì Dao, Khúc U đại sư, Ma Ha Viêm, Đem Thanh và Diêm Vô Thần can thiệp vào trận chiế…"
+},
+{
+"cum": "Giọt Huyết Kiếm",
+"lan": 1,
+"chuong": [
+"t2841"
+],
+"am_la": [
+"Giọt"
+],
+"vd": "t2841: …Trương Nhược Trần và Trì Dao đối mặt khi Giọt Huyết Kiếm đâm vào ngực hắn, nhưng hắn dùng Phật q…"
+},
+{
+"cum": "Năm Cương Tông",
+"lan": 1,
+"chuong": [
+"t2846"
+],
+"am_la": [
+"Năm"
+],
+"vd": "t2846: …g Nhược Trần cùng Huyết Đồ, Diêm Đình, Tuyệt Diệu Thiền Nữ, Năm Cương Tông, Phúc Lộc Thần Linh và Hứa Như Lai chứn…"
+},
+{
+"cum": "Nga Nhì",
+"lan": 1,
+"chuong": [
+"t2980"
+],
+"am_la": [
+"Nhì"
+],
+"vd": "t2980: … Trang thỉnh giáo Tửu Quỷ, người đang huấn luyện Nga Đại và Nga Nhì. Tửu Quỷ khuyên dùng Bồ Đề Thụ và Minh …"
+},
+{
+"cum": "Thương Hoồng",
+"lan": 1,
+"chuong": [
+"t3059"
+],
+"am_la": [
+"Hoồng"
+],
+"vd": "t3059: …Trương Nhược Trần (Thanh Bình Tử), Thương Hoồng, Triệu Vô Diên, Tình Không Kiếm Vương, …"
+},
+{
+"cum": "Hoành Nhất S",
+"lan": 1,
+"chuong": [
+"t3088"
+],
+"am_la": [
+"S"
+],
+"vd": "t3088: …n nhận ra đây là cơ hội để xông vào Chư Thần Đại Lục. Thiên Hoành Nhất S phá Hộ Giới Thần Trận rồi giao chiến vớ…"
+},
+{
+"cum": "Vung Hi",
+"lan": 1,
+"chuong": [
+"t2685"
+],
+"am_la": [
+"Vung"
+],
+"vd": "t2685: …hael chứng kiến, sau đó Cổ Na tiên tử phái Khiếu Minh Quân, Vung Hi, Carat Fillin cùng hàng chục Không Thượ…"
+},
+{
+"cum": "Cày Ngấn Cổ Thần",
+"lan": 1,
+"chuong": [
+"t3395"
+],
+"am_la": [
+"Cày",
+"Ngấn"
+],
+"vd": "t3395: …ng cố nội tình, cùng Lạc Cơ đến càn khôn đại lục, trong khi Cày Ngấn Cổ Thần đã bị Thanh Thiên Kính trấn sát.…"
+},
+{
+"cum": "Lỗ Sườn Sơn Thành",
+"lan": 1,
+"chuong": [
+"t3406"
+],
+"am_la": [
+"Sườn"
+],
+"vd": "t3406: …ệnh từ Si Hình Thiên. Cả nhóm cùng uống rượu trên đường đến Lỗ Sườn Sơn Thành.…"
+},
+{
+"cum": "Tuyết Không Đêm",
+"lan": 1,
+"chuong": [
+"t3407"
+],
+"am_la": [
+"Đêm"
+],
+"vd": "t3407: … Trương Hồng Trần, Hàn Thấp Trũng Hồ, Phạm Thiên Đạo Chủ và Tuyết Không Đêm xuất hiện. Hai trưởng lão Ma giáo định …"
+},
+{
+"cum": "Đại Diễn Càn Kh",
+"lan": 1,
+"chuong": [
+"t3429"
+],
+"am_la": [
+"Kh"
+],
+"vd": "t3429: …g Trảm Thần Đao truy kích Hoang Tôn nhưng bị Hoang Tôn dùng Đại Diễn Càn Kh…"
+},
+{
+"cum": "Nói Thâu Thiện Sư",
+"lan": 1,
+"chuong": [
+"t3528"
+],
+"am_la": [
+"Nói"
+],
+"vd": "t3528: …Bạch Y Đáy Vực, nơi Niết Tàng tôn giả, Tuyệt Diệu Thiện Nữ, Nói Thâu Thiện Sư và Lang Tổ xuất hiện, rồi Trương Nhược …"
+},
+{
+"cum": "Thiên Viên Vô Khquet",
+"lan": 1,
+"chuong": [
+"t3593"
+],
+"am_la": [
+"Khquet"
+],
+"vd": "t3593: …đối mặt với thi thể không đầu của Trì Côn Lôn, bị cường giả Thiên Viên Vô Khquet sát hại để ép hắn rời Bạch Y Cốc. Trươn…"
+},
+{
+"cum": "Động Lưới",
+"lan": 1,
+"chuong": [
+"t3771"
+],
+"am_la": [
+"Lưới"
+],
+"vd": "t3771: …Lưới Động Lưới và Thanh lộc Thần Vương thống nhất liên…"
+},
+{
+"cum": "Diêm Lưới Thiên",
+"lan": 1,
+"chuong": [
+"t3771"
+],
+"am_la": [
+"Lưới"
+],
+"vd": "t3771: …sẽ chia Tu La thiên đạo áo nghĩa và Kiếm Nguyên Thần Thụ. Ở Diêm Lưới Thiên, Diêm Hoàng Đồ và Trì Lỗ Vui Thích phát…"
+},
+{
+"cum": "Trì Lỗ Vui Thích",
+"lan": 1,
+"chuong": [
+"t3771"
+],
+"am_la": [
+"Vui"
+],
+"vd": "t3771: …à Kiếm Nguyên Thần Thụ. Ở Diêm Lưới Thiên, Diêm Hoàng Đồ và Trì Lỗ Vui Thích phát hiện Đế thính Tôn giả bị phong ấn …"
+},
+{
+"cum": "Nhân Huan",
+"lan": 1,
+"chuong": [
+"t3788"
+],
+"am_la": [
+"Huan"
+],
+"vd": "t3788: …Diêm Nhân Huan, Diêm Quân, Trương Nhược Trần, Hư Thiên…"
+},
+{
+"cum": "Thủy Tổ Mắt",
+"lan": 1,
+"chuong": [
+"t3805"
+],
+"am_la": [
+"Mắt"
+],
+"vd": "t3805: … Nhược Trần tung Vạn Tượng Không Hình cùng Hắc Thủ, đập nát Thủy Tổ Mắt, rồi mượn Hồng Đỉnh và chân lý quang ho…"
+},
+{
+"cum": "Đỗng Lưới",
+"lan": 1,
+"chuong": [
+"t3806"
+],
+"am_la": [
+"Lưới"
+],
+"vd": "t3806: …được thắp sáng và Vận Mệnh Chi Môn áp chế hai đối thủ. Lưới Đỗng Lưới điều khiển Lạc Thủy cùng Tứ Phương Đại …"
+},
+{
+"cum": "Thếp Bà Lô",
+"lan": 1,
+"chuong": [
+"t3808"
+],
+"am_la": [
+"Thếp"
+],
+"vd": "t3808: …iện. Phượng Thiên cùng Thếp Bà Lô Đại Đế đạt thỏa thuận khi Thếp Bà Lô nhận mắt Ma Lê Thi Tổ và lời hứa thần h…"
+},
+{
+"cum": "Chu Xin Quỷ Đế",
+"lan": 1,
+"chuong": [
+"t3804"
+],
+"am_la": [
+"Xin"
+],
+"vd": "t3804: …Quỷ chủ gặp Lưới Ôn, nghe báo Chu Xin Quỷ Đế, Chu Tước Hỏa Vũ và Hồn Thất đang xây t…"
+},
+{
+"cum": "Chu Ki Quỷ Đế",
+"lan": 1,
+"chuong": [
+"t3819"
+],
+"am_la": [
+"Ki"
+],
+"vd": "t3819: …n chủ Quỷ Thần điện, Long Thi Kỵ Sĩ, Hắc Bạch Đạo Nhân cùng Chu Ki Quỷ Đế và Dương Vân Quỷ Đế vây ép, khiến La Th…"
+},
+{
+"cum": "La Thich La",
+"lan": 1,
+"chuong": [
+"t3867"
+],
+"am_la": [
+"Thich"
+],
+"vd": "t3867: …và các cường giả Địa Ngục giới bàn cách đối phó. Kết quả là La Thich La tạm bị áp chế, Nguyên Sênh tỉnh lại, và…"
+},
+{
+"cum": "Tàn Đèn",
+"lan": 1,
+"chuong": [
+"t3877"
+],
+"am_la": [
+"Đèn"
+],
+"vd": "t3877: …Trong lễ tế tại Thiên nhân thư viện, Trương Nhược Trần, Tàn Đèn, Hiên Viên Liên, Thiền Băng, Nguyên Sên…"
+},
+{
+"cum": "Có Tận Đan",
+"lan": 1,
+"chuong": [
+"t3937"
+],
+"am_la": [
+"Có"
+],
+"vd": "t3937: …h Thiên từ chối vì đang giúp Thạch Cơ Nương Nương luyện chế Có Tận Đan, nàng cùng Liễm Hi xuất hiện, đề nghị t…"
+},
+{
+"cum": "Năm Phá Minh Linh Thủ",
+"lan": 1,
+"chuong": [
+"t3941"
+],
+"am_la": [
+"Năm"
+],
+"vd": "t3941: …Vấn Thiên quân vào dị thời không chiến trường. Hắn ra chiêu Năm Phá Minh Linh Thủ, lần lượt phá nhục thân, thần hồn và qu…"
+},
+{
+"cum": "Trăm Kỳ Hỗn Độn Đồ",
+"lan": 1,
+"chuong": [
+"t3938"
+],
+"am_la": [
+"Trăm"
+],
+"vd": "t3938: …p vì các điều kiện liên quan đến Quỷ Môn Quan, Đế đầu lô và Trăm Kỳ Hỗn Độn Đồ. Lão Tửu Quỷ đề nghị mở Tử Thần Tế nhằm…"
+},
+{
+"cum": "Hỏi Thiên Quân",
+"lan": 1,
+"chuong": [
+"t3967"
+],
+"am_la": [
+"Hỏi"
+],
+"vd": "t3967: …ố trí trận pháp đưa Thanh Túc về Côn Lôn giao bức tranh cho Hỏi Thiên Quân. Tại Bắc Trạch Trường Thành, Phượng Thi…"
+},
+{
+"cum": "Trì Yổ",
+"lan": 1,
+"chuong": [
+"t4010"
+],
+"am_la": [
+"Yổ"
+],
+"vd": "t4010: …n đối diện Đệ Nhị Nho Tổ bên bờ Vô Định Thần Hải, trong khi Trì Yổ, Hư Vấn Chi, Hư Đình Đình và Huỳnh Hoặc…"
+},
+{
+"cum": "Ngũ Hành Xem",
+"lan": 1,
+"chuong": [
+"t4109"
+],
+"am_la": [
+"Xem"
+],
+"vd": "t4109: …c, hai Thiên Vương cùng Hiên Viên đệ nhị đã bị trấn áp. Tại Ngũ Hành Xem, Trấn Nguyên ngăn Hư Thiên và Hòa giếng…"
 }
 ],
 "the_cho": [
@@ -18016,18 +17475,6 @@
 [
 "Ma Viên",
 5
-]
-]
-},
-{
-"chuong": 755,
-"vang": "Trương Nhược Trần",
-"truoc": 11,
-"sau": 25,
-"the": [
-[
-"Ma Giáo",
-8
 ]
 ]
 },
@@ -18513,9 +17960,9 @@
 },
 {
 "chuong": 2385,
-"vang": "Diêm Hoàng Đồ",
-"truoc": 18,
-"sau": 39,
+"vang": "Phong Hậu",
+"truoc": 16,
+"sau": 29,
 "the": [
 [
 "Tam Thập Tam Tung Thiên",
@@ -18525,9 +17972,9 @@
 },
 {
 "chuong": 2385,
-"vang": "Phong Hậu",
-"truoc": 16,
-"sau": 29,
+"vang": "Diêm Hoàng Đồ",
+"truoc": 18,
+"sau": 39,
 "the": [
 [
 "Tam Thập Tam Tung Thiên",
@@ -18701,9 +18148,9 @@
 },
 {
 "chuong": 2588,
-"vang": "Cô Xạ Tĩnh",
-"truoc": 29,
-"sau": 20,
+"vang": "Thất Thủ Lão Nhân",
+"truoc": 17,
+"sau": 8,
 "the": [
 [
 "Ngọc Linh Thần",
@@ -18721,9 +18168,9 @@
 },
 {
 "chuong": 2588,
-"vang": "Thất Thủ Lão Nhân",
-"truoc": 17,
-"sau": 8,
+"vang": "Cô Xạ Tĩnh",
+"truoc": 29,
+"sau": 20,
 "the": [
 [
 "Ngọc Linh Thần",
@@ -18982,16 +18429,16 @@
 "sau": 18,
 "the": [
 [
-"Bố Lan Chân Quân",
-37
-],
-[
 "Lượng Tổ",
 10
 ],
 [
 "Huyết Hải Tạng Thiên Thần",
 6
+],
+[
+"Bạch Lưu Ngân",
+5
 ]
 ]
 },
@@ -19104,6 +18551,22 @@
 ]
 },
 {
+"chuong": 3476,
+"vang": "La Diễn Đại Đế",
+"truoc": 21,
+"sau": 9,
+"the": [
+[
+"Nộ Thiên",
+18
+],
+[
+"Phượng Mâu",
+6
+]
+]
+},
+{
 "chuong": 3617,
 "vang": "Trì Dao",
 "truoc": 18,
@@ -19173,9 +18636,9 @@
 },
 {
 "chuong": 3942,
-"vang": "Bán Tổ",
-"truoc": 14,
-"sau": 15,
+"vang": "Thủy Tổ",
+"truoc": 12,
+"sau": 16,
 "the": [
 [
 "Thập Bát Tầng U Minh",
@@ -19193,9 +18656,9 @@
 },
 {
 "chuong": 3942,
-"vang": "Thủy Tổ",
-"truoc": 12,
-"sau": 16,
+"vang": "Bán Tổ",
+"truoc": 14,
+"sau": 15,
 "the": [
 [
 "Thập Bát Tầng U Minh",
@@ -19340,34 +18803,10 @@
 ]
 },
 {
-"chuong": 4120,
-"vang": "Thiên Tôn",
-"truoc": 12,
-"sau": 10,
-"the": [
-[
-"Kiếm Nhị Thập Lục",
-11
-]
-]
-},
-{
-"chuong": 4120,
-"vang": "Sinh Tử Thiên Tôn",
-"truoc": 13,
-"sau": 12,
-"the": [
-[
-"Kiếm Nhị Thập Lục",
-11
-]
-]
-},
-{
 "chuong": 4127,
-"vang": "Trương Nhược Trần",
-"truoc": 15,
-"sau": 15,
+"vang": "Thủy Tổ",
+"truoc": 10,
+"sau": 52,
 "the": [
 [
 "Hư Tôn",
@@ -19381,9 +18820,9 @@
 },
 {
 "chuong": 4127,
-"vang": "Thủy Tổ",
-"truoc": 10,
-"sau": 52,
+"vang": "Trương Nhược Trần",
+"truoc": 15,
+"sau": 15,
 "the": [
 [
 "Hư Tôn",
@@ -19449,9 +18888,9 @@
 },
 {
 "chuong": 4154,
-"vang": "Thạch Cơ Nương Nương",
-"truoc": 8,
-"sau": 8,
+"vang": "Thủy Tổ",
+"truoc": 16,
+"sau": 21,
 "the": [
 [
 "Hắc Ám Tôn Đỉnh",
@@ -19461,9 +18900,9 @@
 },
 {
 "chuong": 4154,
-"vang": "Thủy Tổ",
-"truoc": 16,
-"sau": 21,
+"vang": "Thạch Cơ Nương Nương",
+"truoc": 8,
+"sau": 8,
 "the": [
 [
 "Hắc Ám Tôn Đỉnh",
@@ -19541,9 +18980,9 @@
 },
 {
 "chuong": 4203,
-"vang": "Vô Nguyệt",
-"truoc": 11,
-"sau": 11,
+"vang": "Hư Thiên",
+"truoc": 13,
+"sau": 14,
 "the": [
 [
 "Thạch Cơ Thần Tinh",
@@ -19561,9 +19000,9 @@
 },
 {
 "chuong": 4203,
-"vang": "Hư Thiên",
-"truoc": 13,
-"sau": 14,
+"vang": "Vô Nguyệt",
+"truoc": 11,
+"sau": 11,
 "the": [
 [
 "Thạch Cơ Thần Tinh",

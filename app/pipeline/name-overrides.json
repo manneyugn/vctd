@@ -7540,6 +7540,9 @@
       "sai": "Trương Uyên Cổ Kiếm",
       "dung": "Trầm Uyên Cổ Kiếm",
       "chuong": [
+        479,
+        555,
+        1439,
         3035
       ],
       "ghi_chu": "ten doi ho 2026-11-25"
@@ -8923,6 +8926,7 @@
       "chuong": [
         279,
         535,
+        1006,
         1137,
         1833,
         3797,
@@ -8945,12 +8949,17 @@
         297,
         388,
         404,
+        445,
         1166,
         1283,
+        1372,
         1854,
         2039,
         2058,
+        2078,
+        2105,
         2205,
+        2336,
         3404
       ],
       "ghi_chu": "2026-11-27: Trương Nhược Trần bị đổi tên cả chương (pipeline/do_ten_nghi.py, the_cho), duyệt tay theo ngữ cảnh."
@@ -8967,8 +8976,11 @@
       "sai": "Trương Tần",
       "dung": "Trương Nhược Trần",
       "chuong": [
+        338,
+        377,
         410,
         478,
+        1833,
         2006
       ],
       "ghi_chu": "2026-11-27: Trương Nhược Trần bị đổi tên cả chương (pipeline/do_ten_nghi.py, the_cho), duyệt tay theo ngữ cảnh."
@@ -8977,8 +8989,12 @@
       "sai": "Trương Hợp",
       "dung": "Trương Nhược Trần",
       "chuong": [
+        275,
         476,
-        976
+        976,
+        2039,
+        3118,
+        3132
       ],
       "ghi_chu": "2026-11-27: Trương Nhược Trần bị đổi tên cả chương (pipeline/do_ten_nghi.py, the_cho), duyệt tay theo ngữ cảnh."
     },
@@ -9003,6 +9019,7 @@
       "sai": "Trương Nguyệt",
       "dung": "Trương Nhược Trần",
       "chuong": [
+        300,
         533
       ],
       "ghi_chu": "2026-11-27: Trương Nhược Trần bị đổi tên cả chương (pipeline/do_ten_nghi.py, the_cho), duyệt tay theo ngữ cảnh."
@@ -9020,7 +9037,9 @@
       "dung": "Trương Nhược Trần",
       "chuong": [
         743,
-        933
+        933,
+        1049,
+        1923
       ],
       "ghi_chu": "2026-11-27: Trương Nhược Trần bị đổi tên cả chương (pipeline/do_ten_nghi.py, the_cho), duyệt tay theo ngữ cảnh."
     },
@@ -9045,8 +9064,11 @@
       "sai": "Trương Tấn",
       "dung": "Trương Nhược Trần",
       "chuong": [
+        439,
         947,
         996,
+        2066,
+        3401,
         3619,
         3725,
         4117
@@ -9066,6 +9088,7 @@
       "dung": "Trương Nhược Trần",
       "chuong": [
         984,
+        1380,
         2765
       ],
       "ghi_chu": "2026-11-27: Trương Nhược Trần bị đổi tên cả chương (pipeline/do_ten_nghi.py, the_cho), duyệt tay theo ngữ cảnh."
@@ -9074,7 +9097,10 @@
       "sai": "Trương Thượng",
       "dung": "Trương Nhược Trần",
       "chuong": [
-        1092
+        1092,
+        1355,
+        1768,
+        1937
       ],
       "ghi_chu": "2026-11-27: Trương Nhược Trần bị đổi tên cả chương (pipeline/do_ten_nghi.py, the_cho), duyệt tay theo ngữ cảnh."
     },
@@ -9092,8 +9118,13 @@
       "chuong": [
         1400,
         1765,
+        3085,
+        3120,
+        3417,
+        3424,
         3513,
-        3534
+        3534,
+        3721
       ],
       "ghi_chu": "2026-11-27: Trương Nhược Trần bị đổi tên cả chương (pipeline/do_ten_nghi.py, the_cho), duyệt tay theo ngữ cảnh."
     },
@@ -9125,6 +9156,7 @@
       "sai": "Trương Lân Phong",
       "dung": "Trương Nhược Trần",
       "chuong": [
+        981,
         2129
       ],
       "ghi_chu": "2026-11-27: Trương Nhược Trần bị đổi tên cả chương (pipeline/do_ten_nghi.py, the_cho), duyệt tay theo ngữ cảnh."
@@ -9150,6 +9182,7 @@
       "sai": "Trương Vực Sáng",
       "dung": "Trương Nhược Trần",
       "chuong": [
+        142,
         3009
       ],
       "ghi_chu": "2026-11-27: Trương Nhược Trần bị đổi tên cả chương (pipeline/do_ten_nghi.py, the_cho), duyệt tay theo ngữ cảnh."
@@ -9207,6 +9240,10 @@
       "sai": "Trương Hướng",
       "dung": "Trương Nhược Trần",
       "chuong": [
+        880,
+        1639,
+        2341,
+        2625,
         3809
       ],
       "ghi_chu": "2026-11-27: Trương Nhược Trần bị đổi tên cả chương (pipeline/do_ten_nghi.py, the_cho), duyệt tay theo ngữ cảnh."
@@ -9247,7 +9284,9 @@
       "sai": "Trương Tường",
       "dung": "Trương Nhược Trần",
       "chuong": [
-        3908
+        1050,
+        3908,
+        4079
       ],
       "ghi_chu": "2026-11-27: Trương Nhược Trần bị đổi tên cả chương (pipeline/do_ten_nghi.py, the_cho), duyệt tay theo ngữ cảnh."
     },
@@ -9418,6 +9457,615 @@
         3894
       ],
       "ghi_chu": "2026-11-27: tên dịch nghĩa theo chương (do_ten_nghi.py am_la)."
+    },
+    {
+      "sai": "Trương Hữu Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        3
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Vũ Lân",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        18
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Mật",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        24
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Mân",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        24
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Học Sư",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        69
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Tự Hô",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        118
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Hư Cần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        158
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Rất Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        292,
+        2185,
+        3662
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Lân",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        300,
+        623
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Thúc Cận",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        337
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Nhất Viễn",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        396
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Lộ Thần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        398
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Vas Chấn",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        423
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Ruột Đất",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        428
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Tác",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        473
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Hồng Phong",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        552
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Hữu Phong",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        585,
+        3645
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Huyết Thần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        586,
+        3883
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        646,
+        2636
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Hưng Phong",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        755
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Hồ Đảm",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        792
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Ngô Thơ",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        835
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Tự Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        878,
+        4027
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Lỗ Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        917
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Tự Lân",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        938,
+        1944
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Tấm",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        994,
+        1141,
+        3755
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Hầm",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1007
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Mặc Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1019
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Trụ",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1022
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Lễ Xuyên",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1123
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Ruochen",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1144
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Tố Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1173
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Hướng Thần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1258,
+        3227
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Vận Sô",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1283
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Tháp Cần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1334
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Thác",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1355
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Thiếu Phong",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1370
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Hướng Cần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1410
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Hạt Cần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1442
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Như Thần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1452
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Rần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1558,
+        3673
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Ngọc",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1593
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Tẫn Hận",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1605
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Phù",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1616
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Lược Cần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1767,
+        3598
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Ruốt Chén",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1807
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Vực",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1840,
+        2022,
+        3724
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Hay",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        1932
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Ruốt Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        2001
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Lần Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        2015
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Vân Phong",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        2032
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Vấn",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        2042
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Ru",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        2148
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Nhược Côn",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        2186
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Ruyết Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        2251
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Nhược Đại",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        2263
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Rục Chần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        2412
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Rươ̂c Châu",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        2513
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Ruốt",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        2580
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Tác Chấn",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        2718
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Ngọc Tần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        3083
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Hưng",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        3221
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Ân Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        3411
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Hợp Cần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        3413
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Vọng",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        3422
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Ngô Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        3551
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Đế Trần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        3774
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Tắc",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        3778
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Nhất",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        3953
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Vô Cần",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        3964
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Tinh Tấn",
+      "dung": "Trương Nhược Trần",
+      "chuong": [
+        4087
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Uyên cổ kiếm",
+      "dung": "Trầm Uyên Cổ Kiếm",
+      "chuong": [
+        479,
+        555,
+        1439
+      ],
+      "ghi_chu": "2026-11-27: Trương Nhược Trần bị viết sai thành 'Trương X' (rà toàn bộ cụm họ Trương, trừ người nhà họ Trương thật: Thiên Khuê, Thiếu Sơ, Hồng Trần, Lăng=Minh Đế, Thánh Minh=tên giả, Tế, Ảnh...)."
+    },
+    {
+      "sai": "Trương Thiếu Chu",
+      "dung": "Trương Thiếu Sơ",
+      "chuong": [
+        352
+      ],
+      "ghi_chu": "2026-11-27: Trương Thiếu Sơ bị viết sai."
+    },
+    {
+      "sai": "Trương Thiếu Ban",
+      "dung": "Trương Thiếu Sơ",
+      "chuong": [
+        183
+      ],
+      "ghi_chu": "2026-11-27: Trương Thiếu Sơ bị viết sai."
     }
   ]
 }
