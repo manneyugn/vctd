@@ -21,7 +21,8 @@
     "2026-11-25: tên bị đổi 1 âm tiết bất kỳ (kể cả đổi họ: Hách Hạo -> Cái Hạo) - pipeline/ten_doi_ho.py, duyệt 1.465 ứng viên, áp theo chương.",
     "2026-11-25: mọi biến thể của 韩湫 -> Hàn Thu (Thuế, Thuê, Cưu, Thiếu Trủng, Thiếu Hâm, Thấp Trũng Hồ Nước).",
     "2026-11-25 rà soát đợt ten doi ho: bỏ 'Vô Tự Kiếm Sơn' c774 (tên gọi khác của Vô Tự Kiếm Phổ, có trong văn bản), bỏ 'Nhưng Tu La' c3757 (liên từ 'Nhưng' + Tu La tộc), c2429 Hạ Vô Thần là Hạ Du (nữ, Hạ tộc) không phải Diêm Vô Thần.",
-    "2026-11-25 đợt 2: bỏ Thiên Tịch/Thiên Võng Thần Quốc -> Thiên La (c3481/3483): Thiên Tịch là nữ thần quân, Thiên Võng là Thiên Võng Đại Đế, đều là tên thật. Vạn Triệu Tỷ là dịch nghĩa của 億 -> Vạn Triệu Ức."
+    "2026-11-25 đợt 2: bỏ Thiên Tịch/Thiên Võng Thần Quốc -> Thiên La (c3481/3483): Thiên Tịch là nữ thần quân, Thiên Võng là Thiên Võng Đại Đế, đều là tên thật. Vạn Triệu Tỷ là dịch nghĩa của 億 -> Vạn Triệu Ức.",
+    "2026-11-27 (wiki): 蚩刑天 -> Xi Hình Thiên (蚩 = xi); 贝希 -> Bối Hi (tàn hồn nhập Khắc Luật Tát, c3780 nguyên văn '克律萨虽具有贝希的残魂')."
   ],
   "duyet": {
     "trương như trần": "trương nhược trần",
@@ -169,20 +170,20 @@
     "đại hí vương": "đại hi vương",
     "cếp tôn giả": "kiếp tôn giả",
     "ôn dương hoàn": "âu dương hoàn",
-    "ti hình thiên": "si hình thiên",
-    "sỉ hình thiên": "si hình thiên",
-    "sì hình thiên": "si hình thiên",
-    "hì hình thiên": "si hình thiên",
-    "tư hình thiên": "si hình thiên",
-    "hi hình thiên": "si hình thiên",
-    "sĩ hình thiên": "si hình thiên",
-    "tu hình thiên": "si hình thiên",
-    "cơ hình thiên": "si hình thiên",
-    "hí hình thiên": "si hình thiên",
-    "hy hình thiên": "si hình thiên",
-    "hề hình thiên": "si hình thiên",
-    "chi hình thiên": "si hình thiên",
-    "xi hình thiên": "si hình thiên",
+    "ti hình thiên": "xi hình thiên",
+    "sỉ hình thiên": "xi hình thiên",
+    "sì hình thiên": "xi hình thiên",
+    "hì hình thiên": "xi hình thiên",
+    "tư hình thiên": "xi hình thiên",
+    "hi hình thiên": "xi hình thiên",
+    "sĩ hình thiên": "xi hình thiên",
+    "tu hình thiên": "xi hình thiên",
+    "cơ hình thiên": "xi hình thiên",
+    "hí hình thiên": "xi hình thiên",
+    "hy hình thiên": "xi hình thiên",
+    "hề hình thiên": "xi hình thiên",
+    "chi hình thiên": "xi hình thiên",
+    "xi hình thiên": "xi hình thiên",
     "trì yao": "trì dao",
     "trì giao": "trì dao",
     "trì yo": "trì dao",
@@ -212,8 +213,8 @@
     "thương tử hưng": "thương tử hằng",
     "thương tử hưởng": "thương tử hằng",
     "thương tử hoằng": "thương tử hằng",
-    "trì hình thiên": "si hình thiên",
-    "xích hình thiên": "si hình thiên",
+    "trì hình thiên": "xi hình thiên",
+    "xích hình thiên": "xi hình thiên",
     "quôi lượng hoàng": "khôi lượng hoàng",
     "diêm lại tiên": "diêm chiết tiên",
     "diêm lộn tiên": "diêm chiết tiên",
@@ -865,7 +866,8 @@
     "hàn cưu": "hàn thu",
     "hàn thiếu trủng": "hàn thu",
     "hàn thiếu hâm": "hàn thu",
-    "cố lăng phong": "cố lâm phong"
+    "cố lăng phong": "cố lâm phong",
+    "si hình thiên": "xi hình thiên"
   },
   "theo_chuong": [
     {
@@ -5126,7 +5128,7 @@
     },
     {
       "sai": "Giới Hình Thiên",
-      "dung": "Si Hình Thiên",
+      "dung": "Xi Hình Thiên",
       "chuong": [
         3403
       ],
@@ -6770,7 +6772,7 @@
     },
     {
       "sai": "Hạng Hình Thiên",
-      "dung": "Si Hình Thiên",
+      "dung": "Xi Hình Thiên",
       "chuong": [
         3428
       ],
@@ -7202,7 +7204,7 @@
     },
     {
       "sai": "Sách Hình Thiên",
-      "dung": "Si Hình Thiên",
+      "dung": "Xi Hình Thiên",
       "chuong": [
         3437
       ],
@@ -7210,7 +7212,7 @@
     },
     {
       "sai": "Thôi Hình Thiên",
-      "dung": "Si Hình Thiên",
+      "dung": "Xi Hình Thiên",
       "chuong": [
         4160
       ],
@@ -7218,7 +7220,7 @@
     },
     {
       "sai": "Si Tiêu Thiên",
-      "dung": "Si Hình Thiên",
+      "dung": "Xi Hình Thiên",
       "chuong": [
         2996
       ],
@@ -7226,7 +7228,7 @@
     },
     {
       "sai": "Cố Hình Thiên",
-      "dung": "Si Hình Thiên",
+      "dung": "Xi Hình Thiên",
       "chuong": [
         3325
       ],
@@ -8699,7 +8701,7 @@
     },
     {
       "sai": "Sách Hình Thiên",
-      "dung": "Si Hình Thiên",
+      "dung": "Xi Hình Thiên",
       "chuong": [
         4207
       ],
@@ -9397,7 +9399,7 @@
     },
     {
       "sai": "Si Vưu Hình Thiên",
-      "dung": "Si Hình Thiên",
+      "dung": "Xi Hình Thiên",
       "chuong": [
         3413
       ],
