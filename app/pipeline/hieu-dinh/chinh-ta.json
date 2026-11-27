@@ -28,7 +28,8 @@
     "2026-11-27: piaotia: 弥连山, 胥燎, 真实神宫/世界, 张霓彩, 阴阳交替, 镇血符, 绛澜草, 穆托战神, 摩犁尸祖.",
     "2026-11-27: tên dịch nghĩa/lệch âm, đối chiếu tên chương & wiki: 阎罗 Diêm La (bị viết 'Âm Luo/Diêm Lưới'), 心停 Tâm Đình, 冥古照神莲, 黑暗大三角, 天南生死墟, 斯陀含黄金杵, 褚 Chử...",
     "2026-11-27: piaotia: 索命镰刀, 金炫火, 长庚星, 三纹圣血丹, 空间真域, 枯死绝, 魔祖子午钺, 星云大堂, 七杀拳套.",
-    "2026-11-27: piaotia: 水月圣杯, 源魔神子, 西奥伦哲, 碧海四秀, 七冤圣城, 莫非大神 (bị dịch nghĩa 'Chẳng Lẽ'), 魂停, 奇瓦达母神, 魇地, 头七剑皇, 真一族皇."
+    "2026-11-27: piaotia: 水月圣杯, 源魔神子, 西奥伦哲, 碧海四秀, 七冤圣城, 莫非大神 (bị dịch nghĩa 'Chẳng Lẽ'), 魂停, 奇瓦达母神, 魇地, 头七剑皇, 真一族皇.",
+    "2026-11-27: tên dịch nghĩa (崖 'Sườn Núi' -> Nhai, 'X Của Thần Y' -> 'X Thần Y', Kiếm Nhị Thập..., Thẩm Phán Cung, Mạc Ưu Cốc...)."
   ],
   "ten_dich_nghia": {
     "hoàng suối đại đế": "hoàng tuyền đại đế",
@@ -348,7 +349,39 @@
     "Diểm Địa": "Yểm Địa",
     "Đầu Bảy Kiếm Hoàng": "Đầu Thất Kiếm Hoàng",
     "Thật Nhất Tộc Hoàng": "Chân Nhất Tộc Hoàng",
-    "Thật Nhất Lão": "Chân Nhất Lão"
+    "Thật Nhất Lão": "Chân Nhất Lão",
+    "Lang Hoàn Kim Chuông": "Lang Hoàn Kim Chung",
+    "Hi Vân Ny": "Hi Vân Hề",
+    "Long Tượng Nhược Trơn Chưởng": "Long Tượng Bàn Nhược Chưởng",
+    "Vạn Không Sườn Núi": "Vạn Không Nhai",
+    "Tinh Thiên Sườn Núi": "Tinh Thiên Nhai",
+    "Tĩnh Tâm Thánh Chượng": "Tĩnh Tâm Thánh Trượng",
+    "Chớ Ưu Đáy Vực": "Mạc Ưu Cốc",
+    "Tịnh Mệt": "Tịnh Diệt",
+    "Vạn Tâm Giếng": "Vạn Tâm Tỉnh",
+    "Vương Bi Thệt": "Vương Bi Liệt",
+    "Luyện Hục Ma Công": "Luyện Ngục Ma Công",
+    "Cửu Quẻ Trận Kỳ": "Cửu Quái Trận Kỳ",
+    "Huyết Hoàng Ong": "Huyết Hoàng Phong",
+    "Vô Hỳnh Thiên Y": "Vô Hình Thiên Y",
+    "Trăm Biến Tiếu Tiếu Sinh": "Bách Biến Tiếu Tiếu Sinh",
+    "Đại Nhật Bỏ Thân Quyết": "Đại Nhật Xả Thân Quyết",
+    "Đại Tịch Mệt Yến": "Đại Tịch Diệt Yến",
+    "Tịch Mệt Yến": "Tịch Diệt Yến",
+    "Trăm Cung Cảnh": "Bách Gia Cảnh",
+    "Bách Thề Cảnh": "Bách Gia Cảnh",
+    "Dễn Đạo Thánh Quả": "Diễn Đạo Thánh Quả",
+    "Thú Thiên Chiến Tràng Của": "Thú Thiên Chiến Tràng",
+    "Thần Nữ Mười Hai Lầu": "Thần Nữ Thập Nhị Phường",
+    "Côn Lầu": "Côn Lâu",
+    "Vạn Chết Nhất Sinh Cảnh": "Vạn Tử Nhất Sinh Cảnh",
+    "Cửu Hủ Thi Mực": "Cửu Hủ Thi Mặc",
+    "Thẩm Ván Cung": "Thẩm Phán Cung",
+    "Kiếm Nhị Mươi Mốt": "Kiếm Nhị Thập Nhất",
+    "Kiếm Nhị Mươi Hai": "Kiếm Nhị Thập Nhị",
+    "Nhật Mguê": "Nhật Quỹ",
+    "Tu Mồ Thánh Tăng": "Tu Di Thánh Tăng",
+    "Tên Kiếm": "Danh Kiếm"
   },
   "ten_dich_nghia_moi_kieu": {
     "rừng phi": "lâm phi",
@@ -394,6 +427,8 @@
     "Ngô Đồng Thần X thụ": "Ngô Đồng Thần Thụ",
     "Tu MDi": "Tu Di",
     "Hồng A Vua \\(Hongya Wang\\)": "Hồng Nha Vương",
-    "Tinh Sử(?![a-zà-ỹ])": "Tinh Sứ"
+    "Tinh Sử(?![a-zà-ỹ])": "Tinh Sứ",
+    "Trì Yô \\(Trì Dao\\)": "Trì Dao",
+    "([A-ZĐ][a-zà-ỹđ]+) Của Thần ([A-ZĐ])": "\\1 Thần \\2"
   }
 }
