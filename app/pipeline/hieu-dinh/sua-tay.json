@@ -118,6 +118,10 @@
     [
      "chính là Trương Hắc Cầm, à không, Trương Rần Trầm... trân trọng sửa lại: Trương Tần Trần... không, Trương Nhược Trần với",
      "chính là Trương Nhược Trần với"
+    ],
+    [
+     "Địa Hỏa Giới, à không, Địa Ngục Giới,",
+     "Địa Ngục Giới,"
     ]
    ]
   },
@@ -249,6 +253,42 @@
   },
   "3541": {
    "xoa_n_doan_dau": 4
+  },
+  "744": {
+   "thay": [
+    [
+     "Trương Nhược Trần, à không, Trương Nhược Trần, vậy mà",
+     "Trương Nhược Trần vậy mà"
+    ]
+   ]
+  },
+  "1541": {
+   "thay": [
+    [
+     "Trương Tháp Chân... trích dẫn nhầm, Trương Tường... (không, Trương Nhược Trần) chắp",
+     "Trương Nhược Trần chắp"
+    ]
+   ]
+  },
+  "3758": {
+   "thay": [
+    [
+     "nhìn về phía Trương Nhược Trần đang đứng sau lưng Trương Nhược Trần, à không, đứng sau lưng Trương Nhược Trần là Trì Khổng Lạc,",
+     "nhìn về phía Trì Khổng Lạc đang đứng sau lưng Trương Nhược Trần,"
+    ],
+    [
+     "Ngươi là Đế Tự,",
+     "Ngươi là Đế Trần,"
+    ]
+   ]
+  },
+  "3764": {
+   "thay": [
+    [
+     "Trương Nhược Trần – ừm, Trương Nhược Trần bước",
+     "Trương Nhược Trần bước"
+    ]
+   ]
   }
  }
 }
